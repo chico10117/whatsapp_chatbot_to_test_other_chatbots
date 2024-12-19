@@ -10,10 +10,6 @@ const client = new OpenAI({
     apiKey: process.env['OPENAI_API_KEY'], // This is the default and can be omitted
 });
 
-// import pkg from 'node-wit';
-// const { Wit } = pkg;
-// const client = new Wit({accessToken: 'VXTPNUEFU7EL6ZE2CVJOMO6BNWN5N67E'});
-
 
 async function connectToWhatsApp() {
     const sock = makeWASocket.default({
@@ -83,23 +79,6 @@ Pregunta del usuario: ${msg}
         } catch (error) {
             console.error("Error al llamar a la API de OpenAI:", error.response?.data || error.message);
         }
-        // const wit = await client.message(msg, {})
-        // Extract the first intent and entities
-        // console.log('Yay, got Wit.ai response: ' + JSON.stringify(wit));
-        // const intent = wit.intents[0];
-        // const entities = wit.entities;
-        // if(intent?.name === 'travel' && intent.confidence > 0.9) {  
-        //     if (entities['wit$location:location'] && entities['wit$datetime:datetime'] ) { 
-        //     // parse date to local time
-        //      const date = new Date(entities['wit$datetime:datetime'][0].value);
-        //      const location = entities['wit$location:location'][0].value;
-        //         await sock.sendMessage(m.messages[0].key.remoteJid, { text: `Hola, ud quiere viajar a: ${location} en esta fecha: ${date.toLocaleDateString()}` })
-        //     } else {
-        //         await sock.sendMessage(m.messages[0].key.remoteJid, { text: `Se que quieres viajar pero me faltan datos` })
-        //     }
-        // } else {
-        //     await sock.sendMessage(m.messages[0].key.remoteJid, { text: `No entiendo tu pregunta` })
-        // }
 
     })
 }
