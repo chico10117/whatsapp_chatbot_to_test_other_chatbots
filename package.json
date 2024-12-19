@@ -1,0 +1,22 @@
+{
+  "name": "chatbotbios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "dotenv": "^16.4.7",
+    "lodash": "^4.17.21",
+    "lowdb": "^7.0.1",
+    "node-cron": "^3.0.3",
+    "node-wit": "^6.6.0",
+    "openai": "^4.77.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
