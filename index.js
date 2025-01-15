@@ -9,8 +9,8 @@ import YelmoFetcher from './yelmo-fetcher.js';
 const conversationHistory = new Map();
 
 const client = new OpenAI({
-    apiKey: process.env['OPENAI_API_KEY'], // This is the default and can be omitted
-    baseURL: "https://gateway.ai.cloudflare.com/v1/9536a9ec53cf05783eefb6f6d1c06292/reco-test/openai"
+    apiKey: process.env['DEEPSEEK_API_KEY'], // This is the default and can be omitted
+    baseURL: "https://gateway.ai.cloudflare.com/v1/9536a9ec53cf05783eefb6f6d1c06292/reco-test/deepseek"
 });
 
 // Función para actualizar el historial de conversación
@@ -112,10 +112,10 @@ async function connectToWhatsApp() {
 
             // Llamar a OpenAI con el historial completo
             const gptResponse = await client.chat.completions.create({
-                model: 'gpt-4o-mini',
+                model: 'deepseek-chat',
                 messages: [
                     { role: "system", content: "Eres un asistente que responde preguntas sobre la cartelera y el menú del cine." },
-                    { role: "developer", content: prompt},
+                    { role: "user", content: prompt},
                     ...messages.conversation.map((entry) => ({ role: entry.role, content: entry.content })),
                     { role: "user", content: msg },
                 ],
