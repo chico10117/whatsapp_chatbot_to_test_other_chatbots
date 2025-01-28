@@ -1,4 +1,6 @@
 import dotenv from 'dotenv';
+import PQueue from 'p-queue';
+import PromptBuilder from './prompt.js';
 dotenv.config();
 import makeWASocket, { DisconnectReason, BufferJSON, useMultiFileAuthState, delay } from '@whiskeysockets/baileys'
 import * as fs from 'fs'
@@ -7,11 +9,79 @@ import OpenAI from 'openai';
 import YelmoFetcher from './yelmo-fetcher.js';
 // Mapa para almacenar el historial de conversaciones por usuario
 const conversationHistory = new Map();
+let globalClient = null;
+let movies = [];
+let menu = [];
+const promptBuilder = new PromptBuilder();
+const yelmoFetcher = new YelmoFetcher('madrid');
+
+// *** 1) Creamos la cola con concurrencia = 1 ***
+const queue = new PQueue({
+    concurrency: 1,
+    autoStart: true // si prefieres que inicie de inmediato, pon true
+});
 
 const client = new OpenAI({
     apiKey: process.env['DEEPSEEK_API_KEY'], // This is the default and can be omitted
     baseURL: "https://gateway.ai.cloudflare.com/v1/9536a9ec53cf05783eefb6f6d1c06292/reco-test/deepseek"
 });
+
+
+
+// Este método procesa la lógica de cada mensaje.
+const proc = async m => {
+    if (m.messages[0].key.fromMe) return // ignore self messages
+    const msg = m.messages[0].message?.conversation
+    console.log(m.messages[0])
+    try {
+        const jid = m.messages[0].key.remoteJid
+        // Actualizar el historial del usuario
+        updateConversationHistory(jid, 'user', msg);
+        // Obtener el historial completo del usuario
+        const messages = getMessages(jid);
+
+        // TODO
+        // 1) Obtener la intencion en el mensaje del usuario con el prompt de intenciones
+        // 2) Si tengo la intención, responder con el prompt correspondiente y los datos asociados
+        // 3) Si no tengo la intención, responder con el prompt general y todos datos asociados
+
+
+
+        // Preparar el prompt para enviar a lA IA
+        movies = await yelmoFetcher.findMoviesByCinema("palafox-luxury");
+        menu = await yelmoFetcher.getCinemaMenu("palafox-luxury");
+        const prompt = promptBuilder.buildGeneralPrompt(movies, menu);
+
+        await globalClient.presenceSubscribe(jid)
+        await delay(500)
+        await globalClient.sendPresenceUpdate('composing', jid)
+
+        // Llamar a OpenAI con el historial completo
+        const gptResponse = await client.chat.completions.create({
+            model: 'deepseek-chat',
+            messages: [
+                { role: "assistant", content: prompt },
+                ...messages.conversation.map((entry) => ({ role: entry.role, content: entry.content })),
+                { role: "user", content: msg },
+            max_tokens: 2000,
+            temperature: 0.7,
+        });
+        const botResponse = gptResponse.choices[0].message.content;
+
+        // Agregar la respuesta del bot al historial
+        updateConversationHistory(jid, 'assistant', botResponse);
+
+        // Enviar la respuesta al usuario
+        await globalClient.sendMessage(jid, { text: botResponse });
+        await globalClient.sendPresenceUpdate('paused', jid);
+    } catch (error) {
+        console.error("Error al llamar a la API de OpenAI:", error.response?.data || error.message);
+    }
+
+};
+
+// *** 2) En el evento onMessage, encolamos la llamada a proc() ***
+const processMessage = message => queue.add(() => proc(message));
 
 // Función para actualizar el historial de conversación
 function updateConversationHistory(userId, role, content) {
@@ -38,24 +108,18 @@ function getMessages(userId) {
     return conversationHistory.get(userId) || [];
 }
 
+
 async function connectToWhatsApp() {
-    const sock = makeWASocket.default({
+    globalClient = makeWASocket.default({
         // can provide additional config here
         printQRInTerminal: true,
         generateHighQualityLinkPreview: true,
         auth: state
     })
-
-
-    const yelmoFetcher = new YelmoFetcher('madrid');
     await yelmoFetcher.setupDB();
-    const movies = await yelmoFetcher.findMoviesByCinema("palafox-luxury");
-    const menu = await yelmoFetcher.getCinemaMenu("palafox-luxury");
-    // yelmoFetcher.printData();
 
-
-    sock.ev.on('creds.update', saveCreds)
-    sock.ev.on('connection.update', async (update) => {
+    globalClient.ev.on('creds.update', saveCreds)
+    globalClient.ev.on('connection.update', async (update) => {
         const { connection, lastDisconnect } = update
 
         if (connection === 'close') {
@@ -68,72 +132,6 @@ async function connectToWhatsApp() {
             console.log('Connected :)')
         }
     })
-    sock.ev.on('messages.upsert', async m => {
-        if (m.messages[0].key.fromMe) return // ignore self messages
-        const msg = m.messages[0].message?.conversation
-        console.log(m.messages[0])
-        try {
-            const jid = m.messages[0].key.remoteJid
-                // Actualizar el historial del usuario
-        updateConversationHistory(jid, 'user', msg);
-        // Obtener el historial completo del usuario
-        const messages = getMessages(jid);
-
-
-        // Preparar el prompt para enviar a OpenAI usando el modelo gpt4o-mini
-
-        const prompt = `Eres un asistente virtual encargado de responder preguntas relacionadas con la cartelera y el menú del cine. Usa exclusivamente la información proporcionada en los JSON indicados para responder. Si una pregunta no puede ser respondida con la información disponible, debes indicarle al usuario que no dispones de esa información. No proporciones información fuera de estos datos, excepto saludos básicos.
-
-        Cartelera del cine (JSON): ${JSON.stringify(movies)}
-        Menú del cine (JSON): ${JSON.stringify(menu)}
-        
-        Debes tener en cuenta lo siguiente:
-        1. Responde preguntas sobre películas, horarios, géneros, funciones y menú del cine.
-        2. Reconoce y responde a palabras clave y expresiones comunes como: "cartelera", "películas de acción", "hoy a las 6", "funciones de [nombre de película]", "¿Qué hay de comer?", "menú del cine", etc.
-        3. Sé flexible al interpretar frases incompletas o ambiguas como: "Acción?", "Comida", "[nombre de una película]", etc.
-        4. Si no dispones de la información solicitada, responde con algo como: "Lo siento, no dispongo de esa información."
-        5. Mantén las respuestas claras, precisas y basadas exclusivamente en los datos proporcionados.
-        
-        Ejemplo de Respuestas:
-        • Pregunta: “películas de acción?”
-          Respuesta: “En cartelera hay las siguientes películas de acción: [Lista de películas de acción y sus horarios].”
-        • Pregunta: “[nombre de película]?”
-          Respuesta: “[Nombre de película] está disponible a las [horarios y salas disponibles].”
-        • Pregunta: “¿Qué hay de comer?”
-          Respuesta: “El menú del cine incluye: [detalle del menú].”
-        • Pregunta: “¿Funciones?”
-          Respuesta: “Estas son las funciones disponibles hoy: [funciones y horarios].”
-        • Pregunta: “Hola”
-          Respuesta: “¡Hola! ¿En qué puedo ayudarte hoy?”`;
-        
-            await sock.presenceSubscribe(jid)
-            await delay(500)
-            await sock.sendPresenceUpdate('composing', jid)
-
-            // Llamar a OpenAI con el historial completo
-            const gptResponse = await client.chat.completions.create({
-                model: 'deepseek-chat',
-                messages: [
-                    { role: "system", content: "Eres un asistente que responde preguntas sobre la cartelera y el menú del cine." },
-                    { role: "user", content: prompt},
-                    ...messages.conversation.map((entry) => ({ role: entry.role, content: entry.content })),
-                    { role: "user", content: msg },
-                ],
-                max_tokens: 2000,
-                temperature: 0.7,
-            });
-            const botResponse = gptResponse.choices[0].message.content;
-
-            // Agregar la respuesta del bot al historial
-            updateConversationHistory(jid, 'assistant', botResponse);
-
-            // Enviar la respuesta al usuario
-            await sock.sendMessage(jid, { text: botResponse });
-            await sock.sendPresenceUpdate('paused', jid);
-        } catch (error) {
-            console.error("Error al llamar a la API de OpenAI:", error.response?.data || error.message);
-        }
-
-    })
+    globalClient.ev.on('messages.upsert', processMessage)
 }
 connectToWhatsApp()

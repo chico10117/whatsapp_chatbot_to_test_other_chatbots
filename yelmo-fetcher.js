@@ -13,7 +13,7 @@ export default class YelmoFetcher {
     async setupDB() {
         this.db = await JSONFilePreset('db.json', { "madrid": {} });
         await this.fetchData();
-        this.scheduleDailyUpdate();
+        this.scheduleHourlyUpdate();
     }
 
 
@@ -66,19 +66,32 @@ export default class YelmoFetcher {
         return this.db.data[this.cityKey];
     }
 
-    scheduleDailyUpdate() {
-        cron.schedule('0 0 * * *', async () => {
-            console.log('Running daily update...');
+    scheduleHourlyUpdate() {
+        //Updte every hour
+        cron.schedule('0 * * * *', async () => {
+            console.log('Running  hourly update...');
             await this.fetchData();
             await this.saveData();
             console.log('Database updated.');
         });
     }
-
+    _convertToDate(dateString) {
+        const timestamp = parseInt(dateString.replace(/\/Date\((\d+)\)\//, '$1'), 10);
+        return new Date(timestamp);
+    }
     async findMoviesByCinema(cinemaKey) {
         const data = await this.getData();
         const cinema = data.Cinemas.find(c => c.Key === cinemaKey);
+        
+        // find date based on today on hour 0, minutes 0, seconds 0
+        const today = new Date();
+        today.setHours(7, 0, 0, 0);
 
+        const actualDate = cinema.Dates.find(d => {
+            const filterDate = this._convertToDate(d.FilterDate);
+            return filterDate.toDateString() === today.toDateString();
+        
+        });
         // Transformar el JSON
         const transformedJson = cinema.Dates[0].Movies.map(movie => {
             const title = movie.Title;

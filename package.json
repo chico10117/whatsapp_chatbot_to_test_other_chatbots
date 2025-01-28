@@ -18,6 +18,7 @@
     "node-cron": "^3.0.3",
     "node-wit": "^6.6.0",
     "openai": "^4.77.0",
+    "p-queue": "^8.1.0",
     "qrcode-terminal": "^0.12.0"
   }
 }
