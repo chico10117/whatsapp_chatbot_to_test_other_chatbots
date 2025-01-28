@@ -40,6 +40,7 @@ const proc = async m => {
         if (messageType === 'imageMessage') {
             await globalClient.sendMessage(jid, { text: "No puedo procesar imágenes, por favor envíame un mensaje de texto." });
             return;
+        }
         // Actualizar el historial del usuario
         updateConversationHistory(jid, 'user', msg);
         // Obtener el historial completo del usuario
