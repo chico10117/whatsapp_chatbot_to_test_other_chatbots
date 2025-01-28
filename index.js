@@ -62,7 +62,7 @@ const proc = async m => {
             messages: [
                 { role: "assistant", content: prompt },
                 ...messages.conversation.map((entry) => ({ role: entry.role, content: entry.content })),
-                { role: "user", content: msg },
+                { role: "user", content: msg }],
             max_tokens: 2000,
             temperature: 0.7,
         });
