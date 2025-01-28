@@ -2,7 +2,7 @@ import dotenv from 'dotenv';
 import PQueue from 'p-queue';
 import PromptBuilder from './prompt.js';
 dotenv.config();
-import makeWASocket, { DisconnectReason, BufferJSON, useMultiFileAuthState, delay } from '@whiskeysockets/baileys'
+import makeWASocket, { DisconnectReason, BufferJSON, useMultiFileAuthState, delay, getContentType } from '@whiskeysockets/baileys'
 import * as fs from 'fs'
 const { state, saveCreds } = await useMultiFileAuthState('store_wa-session')
 import OpenAI from 'openai';
