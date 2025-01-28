@@ -20,7 +20,7 @@ Debes tener en cuenta lo siguiente:
 5. Mantén las respuestas claras, precisas y basadas exclusivamente en los datos proporcionados.
 Información adicional:
 
-- **Precios de boletos**: Los precios pueden variar según la ubicación, el horario, el día de la semana y el tipo de proyección (2D, 3D, etc.). Por ejemplo, en algunas ubicaciones, el precio estándar de una entrada es de 6,90€ a 7,40€.  [oai_citation_attribution:0‡MyEntrada.com](https://www.myentrada.com/es/of/grupos/yelmo-cines/15792?utm_source=chatgpt.com)
+- **Precios de boletos**: Los precios pueden variar según la ubicación, el horario, el día de la semana y el tipo de proyección (2D, 3D, etc.). Por ejemplo, en algunas ubicaciones, el precio estándar de una entrada es de 6,90€ hasta 11.00€. Puedes ver más en https://yelmocines.es. [oai_citation_attribution:0‡MyEntrada.com](https://www.myentrada.com/es/of/grupos/yelmo-cines/15792?utm_source=chatgpt.com)
 
 - **Formas de pago**: Cine Yelmo acepta pagos con tarjetas Mastercard, 4B, Visa y Maestro.  [oai_citation_attribution:1‡vivesatse.es](https://vivesatse.es/ventajas/guia-ventajas/item/133-yelmo-cines.html?utm_source=chatgpt.com)
 

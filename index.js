@@ -22,8 +22,8 @@ const queue = new PQueue({
 });
 
 const client = new OpenAI({
-    apiKey: process.env['DEEPSEEK_API_KEY'], // This is the default and can be omitted
-    baseURL: "https://gateway.ai.cloudflare.com/v1/9536a9ec53cf05783eefb6f6d1c06292/reco-test/deepseek"
+    apiKey: process.env['OPENAI_API_KEY'], // This is the default and can be omitted
+    baseURL: "https://gateway.ai.cloudflare.com/v1/9536a9ec53cf05783eefb6f6d1c06292/reco-test/openai"
 });
 
 
@@ -45,7 +45,7 @@ const proc = async m => {
         // 2) Si tengo la intención, responder con el prompt correspondiente y los datos asociados
         // 3) Si no tengo la intención, responder con el prompt general y todos datos asociados
 
-
+       
 
         // Preparar el prompt para enviar a lA IA
         movies = await yelmoFetcher.findMoviesByCinema("palafox-luxury");
@@ -55,10 +55,11 @@ const proc = async m => {
         await globalClient.presenceSubscribe(jid)
         await delay(500)
         await globalClient.sendPresenceUpdate('composing', jid)
-
+        console.log("Enviando mensaje a OpenAI:");
         // Llamar a OpenAI con el historial completo
         const gptResponse = await client.chat.completions.create({
-            model: 'deepseek-chat',
+            // model: 'deepseek-chat',
+            model: 'gpt-4o-mini',
             messages: [
                 { role: "assistant", content: prompt },
                 ...messages.conversation.map((entry) => ({ role: entry.role, content: entry.content })),
@@ -66,6 +67,7 @@ const proc = async m => {
             max_tokens: 2000,
             temperature: 0.7,
         });
+        console.log("Messages", messages);
         const botResponse = gptResponse.choices[0].message.content;
 
         // Agregar la respuesta del bot al historial
