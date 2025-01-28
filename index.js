@@ -34,12 +34,10 @@ const proc = async m => {
     const msg = m.messages[0].message?.conversation
     console.log(m.messages[0])
     try {
-
-       
         const jid = m.messages[0].key.remoteJid
-
+        const messageType = getContentType(m)
          // si es una foto, no procesamos y respondemos con un mensaje
-        if (m.messages[0].message.imageMessage) {
+        if (messageType === 'imageMessage') {
             await globalClient.sendMessage(jid, { text: "No puedo procesar imágenes, por favor envíame un mensaje de texto." });
             return;
         // Actualizar el historial del usuario
