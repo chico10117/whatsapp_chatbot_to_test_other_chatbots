@@ -59,7 +59,7 @@ const proc = async m => {
         // Llamar a OpenAI con el historial completo
         const gptResponse = await client.chat.completions.create({
             // model: 'deepseek-chat',
-            model: 'gpt-4o-mini',
+            model: 'gpt-4o',
             messages: [
                 { role: "assistant", content: prompt },
                 ...messages.conversation.map((entry) => ({ role: entry.role, content: entry.content })),
