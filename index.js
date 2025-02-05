@@ -31,10 +31,18 @@ const client = new OpenAI({
 // Este método procesa la lógica de cada mensaje.
 const proc = async m => {
     if (m.messages[0].key.fromMe) return // ignore self messages
+    
+    // Get the message details
     const msg = m.messages[0].message?.conversation
-    console.log(m.messages[0])
+    const jid = m.messages[0].key.remoteJid
+    
+    // Get the user's push name (display name)
+    const pushName = m.messages[0].pushName
+    
+    // Log the user info
+    console.log('Message from:', pushName, '(', jid, '):', msg)
+
     try {
-        const jid = m.messages[0].key.remoteJid
         const messageType = getContentType(m)
          // si es una foto, no procesamos y respondemos con un mensaje
         if (messageType === 'imageMessage') {
@@ -51,12 +59,11 @@ const proc = async m => {
         // 2) Si tengo la intención, responder con el prompt correspondiente y los datos asociados
         // 3) Si no tengo la intención, responder con el prompt general y todos datos asociados
 
-       
-
         // Preparar el prompt para enviar a lA IA
         movies = await yelmoFetcher.findMoviesByCinema("palafox-luxury");
         menu = await yelmoFetcher.getCinemaMenu("palafox-luxury");
-        const prompt = promptBuilder.buildGeneralPrompt(movies, menu);
+        const prompt = `${promptBuilder.buildGeneralPrompt(movies, menu)}
+        El nombre del usuario con el que estás hablando es: ${pushName}`;
 
         await globalClient.presenceSubscribe(jid)
         await delay(500)

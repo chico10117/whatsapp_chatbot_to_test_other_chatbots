@@ -1,7 +1,7 @@
 {
   "name": "chatbotbios",
   "version": "1.0.0",
-  "description": "",
+  "description": "Este proyecto es un chatbot para WhatsApp que utiliza la API de WhatsApp Web para interactuar con los usuarios.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -12,13 +12,17 @@
   "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.9",
+    "cheerio": "^1.0.0",
     "dotenv": "^16.4.7",
     "lodash": "^4.17.21",
     "lowdb": "^7.0.1",
     "node-cron": "^3.0.3",
+    "node-fetch": "^3.3.2",
     "node-wit": "^6.6.0",
     "openai": "^4.77.0",
     "p-queue": "^8.1.0",
+    "puppeteer": "^24.2.0",
     "qrcode-terminal": "^0.12.0"
-  }
+  },
+  "keywords": []
 }
