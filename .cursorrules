@@ -1,0 +1,51 @@
+# Cursor Rules for Cinépolis WhatsApp Bot Project
+
+# Comments
+- Do not delete or modify existing comments
+- Keep documentation comments up to date with code changes
+- Use descriptive comments for complex logic
+- Add JSDoc comments for functions and classes
+
+# Code Style
+- Use consistent indentation (2 spaces)
+- Use meaningful variable names
+- Keep functions focused and single-purpose
+- Add proper error handling
+- Use async/await for asynchronous operations
+
+# Project Structure
+- Keep related files in appropriate directories
+- Maintain clear separation of concerns
+- Follow modular design principles
+
+# API Integration
+- Handle API errors gracefully
+- Include proper timeout handling
+- Validate API responses
+- Use environment variables for sensitive data
+
+# WhatsApp Bot Specific
+- Keep messages concise and clear
+- Include emojis for better readability 🎬 🎟️ 📱
+- Maintain purchase links and sharing options
+- Format output for mobile viewing
+- Include proper WhatsApp sharing links
+
+# Testing
+- Test edge cases
+- Validate markdown output
+- Ensure proper error messages
+- Test WhatsApp sharing functionality
+
+# Security
+- Never expose API keys in code
+- Validate user input
+- Use secure protocols for API calls
+- Handle sensitive data appropriately
+
+# Markdown Generation
+- Include upcoming releases with proper labeling
+- Maintain purchase and ticket booking links
+- Keep WhatsApp sharing functionality
+- Use consistent emoji placement
+- Format for optimal mobile viewing 
