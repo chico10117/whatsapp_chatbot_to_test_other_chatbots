@@ -11,25 +11,59 @@ export default class CinepolisFetcher {
     async fetchData() {
         try {
             console.log(`[${new Date().toISOString()}] Fetching data from Firecrawl...`);
+            
+            // Validate API key
+            if (!this.firecrawlApiKey) {
+                throw new Error('Firecrawl API key is not configured');
+            }
+
+            // Validate city key
+            if (!this.cityKey) {
+                throw new Error('City key is not configured');
+            }
+
+            const targetUrl = `https://cinepolis.com/cartelera/${this.cityKey}`;
+            console.log(`[${new Date().toISOString()}] Target URL: ${targetUrl}`);
+
+            const requestBody = {
+                url: targetUrl,
+                headers: {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+                }
+            };
+
             const response = await fetch("https://api.firecrawl.dev/v1/scrape", {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",
                     "Authorization": `Bearer ${this.firecrawlApiKey}`
                 },
-                body: JSON.stringify({
-                    url: `https://cinepolis.com/cartelera/${this.cityKey}`
-                })
+                body: JSON.stringify(requestBody)
             });
 
-            const responseData = await response.text();
-            console.log(`[${new Date().toISOString()}] Response received, saving to file...`);
-            
+            // Get the response text first
+            const responseText = await response.text();
+            console.log(`[${new Date().toISOString()}] Response status: ${response.status}`);
+
+            // If not ok, log the response for debugging
+            if (!response.ok) {
+                console.error(`[${new Date().toISOString()}] Error response:`, responseText);
+                throw new Error(`HTTP error! status: ${response.status}, response: ${responseText}`);
+            }
+
             // Save raw response to file
-            await fs.writeFile('firecrawl_output.json', responseData);
+            await fs.writeFile('firecrawl_output.json', responseText);
             console.log(`[${new Date().toISOString()}] Raw output saved to firecrawl_output.json`);
             
-            return responseData;
+            // Try to parse as JSON to validate
+            try {
+                JSON.parse(responseText);
+            } catch (e) {
+                console.error(`[${new Date().toISOString()}] Invalid JSON response:`, responseText);
+                throw new Error('Invalid JSON response from API');
+            }
+            
+            return responseText;
         } catch (error) {
             console.error(`[${new Date().toISOString()}] Error fetching data:`, error);
             throw error;
@@ -103,29 +137,35 @@ export default class CinepolisFetcher {
                             cleanMd += '**Formato:** ⭐ PLUUS\n\n';
                         }
                         
-                        // Extract purchase link
-                        const purchaseMatch = block.match(/\]\((https:\/\/cinepolis\.com[^)]+)\)/);
-                        if (purchaseMatch) {
-                            cleanMd += `🎟️ [Comprar Boletos](${purchaseMatch[1]})\n\n`;
-                        }
-                        
-                        // Extract showtimes
-                        cleanMd += '**Horarios Disponibles:**\n\n';
-                        const times = block.match(/\[\d{2}:\d{2}\]/g);
-                        if (times) {
-                            times.forEach(time => {
-                                cleanMd += `⏰ ${time.replace(/[\[\]]/g, '')}\n`;
-                            });
-                            cleanMd += '\n';
-                        }
-                        
-                        // Add WhatsApp sharing link
-                        if (purchaseMatch) {
-                            const whatsappText = encodeURIComponent(
-                                `¡Hola! 🎬 Te comparto los horarios de "${title}" en Cinépolis${cinemaName}.\n\n` +
-                                `🎟️ Compra tus boletos aquí: ${purchaseMatch[1]}`
-                            );
-                            cleanMd += `📱 [Compartir por WhatsApp](https://wa.me/?text=${whatsappText})\n\n`;
+                        // Extract movie ID from image URL
+                        const movieIdMatch = block.match(/\/img\/peliculas\/(\d+)\/1\/1/);
+                        if (movieIdMatch) {
+                            const movieId = movieIdMatch[1];
+                            
+                            // Extract showtimes and showtime IDs
+                            cleanMd += '**Horarios Disponibles:**\n\n';
+                            const timeMatches = block.match(/\[(\d{2}:\d{2})\].*?cinemaVistaId=(\d+)&showtimeVistaId=(\d+)/g);
+                            let purchaseUrl = null;
+                            let firstShowtime = null;
+
+                            if (timeMatches) {
+                                timeMatches.forEach(match => {
+                                    const [fullMatch, time, cinemaId, showtimeId] = match.match(/\[(\d{2}:\d{2})\].*?cinemaVistaId=(\d+)&showtimeVistaId=(\d+)/) || [];
+                                    if (time && cinemaId && showtimeId) {
+                                        cleanMd += `⏰ ${time}\n`;
+                                        if (!purchaseUrl) {
+                                            purchaseUrl = `@https://compra.cinepolis.com/?cinemaVistaId=${cinemaId}&showtimeVistaId=${showtimeId}`;
+                                            firstShowtime = time;
+                                        }
+                                    }
+                                });
+                                cleanMd += '\n';
+                            }
+
+                            // Add purchase link
+                            if (purchaseUrl) {
+                                cleanMd += `🎟️ Comprar Boletos: ${purchaseUrl.replace('@', '')}\n\n`;
+                            }
                         }
                         
                         cleanMd += '---\n\n';
@@ -134,7 +174,7 @@ export default class CinepolisFetcher {
                 
                 // Process upcoming movies
                 if (upcomingMovies.length > 0) {
-                    cleanMd += `### 🔜 Próximos Estrenos\n\n`;
+                    cleanMd += `### 🔜 PRÓXIMOS ESTRENOS\n\n`;
                     upcomingMovies.forEach(({ title, block }) => {
                         cleanMd += `#### ${title}\n\n`;
                         
@@ -144,17 +184,11 @@ export default class CinepolisFetcher {
                             cleanMd += `![${title}](${posterMatch[0]})\n\n`;
                         }
                         
-                        // Extract purchase link for pre-sale
-                        const purchaseMatch = block.match(/\]\((https:\/\/cinepolis\.com[^)]+)\)/);
+                        // Extract purchase link for pre-sale without markdown formatting
+                        const purchaseMatch = block.match(/href="([^"]+)"/);
                         if (purchaseMatch) {
-                            cleanMd += `🎟️ [Compra Anticipada](${purchaseMatch[1]})\n\n`;
-                            
-                            // Add WhatsApp sharing link for upcoming movies
-                            const whatsappText = encodeURIComponent(
-                                `¡Hola! 🔜 Te comparto información sobre el próximo estreno "${title}" en Cinépolis${cinemaName}.\n\n` +
-                                `🎟️ ¡Ya está disponible la preventa! Compra tus boletos aquí: ${purchaseMatch[1]}`
-                            );
-                            cleanMd += `📱 [Compartir por WhatsApp](https://wa.me/?text=${whatsappText})\n\n`;
+                            const purchaseUrl = purchaseMatch[1];
+                            cleanMd += `🎟️ Compra Anticipada: ${purchaseUrl}\n\n`;
                         }
                         
                         cleanMd += '---\n\n';
@@ -171,14 +205,35 @@ export default class CinepolisFetcher {
             const rawData = await this.fetchData();
             const data = JSON.parse(rawData);
             
-            if (data.success && data.data?.markdown) {
+            // Log the response structure for debugging
+            console.log(`[${new Date().toISOString()}] Response structure:`, JSON.stringify(data, null, 2));
+            
+            // Check if data exists and has the expected structure
+            if (!data) {
+                throw new Error('Empty response received from API');
+            }
+
+            if (!data.success) {
+                throw new Error(`API request failed: ${data.error || 'Unknown error'}`);
+            }
+
+            // Check for HTML content in data
+            if (data.data?.html) {
+                // If we have HTML, we can process it into markdown
+                const markdown = this.cleanMarkdown(data.data.html);
+                await fs.writeFile('cinepolis_cartelera.md', markdown);
+                this.lastUpdate = new Date();
+                console.log(`[${this.lastUpdate.toISOString()}] Markdown saved to cinepolis_cartelera.md`);
+                return markdown;
+            } else if (data.data?.markdown) {
+                // If we have markdown directly
                 const markdown = this.cleanMarkdown(data.data.markdown);
                 await fs.writeFile('cinepolis_cartelera.md', markdown);
                 this.lastUpdate = new Date();
                 console.log(`[${this.lastUpdate.toISOString()}] Markdown saved to cinepolis_cartelera.md`);
                 return markdown;
             } else {
-                throw new Error('No markdown data in response');
+                throw new Error('No HTML or markdown content found in response');
             }
         } catch (error) {
             console.error(`[${new Date().toISOString()}] Error generating markdown:`, error);
