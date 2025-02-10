@@ -1,880 +1,456 @@
-# 🎬 Cartelera Cinépolis CDMX Centro
-
-## 🏢 Cinépolis Plaza Tlatelolco
-
-### 🎬 En Cartelera
-
-#### Amenaza En El Aire
-
-![Amenaza En El Aire](https://static.cinepolis.com/img/peliculas/48475/1/1/48475.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 19:20
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39221
-
----
-
-#### Compañera Perfecta
-
-![Compañera Perfecta](https://static.cinepolis.com/img/peliculas/48835/1/1/48835.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 20:50
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39230
-
----
-
-#### Déjame Estar Contigo
-
-![Déjame Estar Contigo](https://static.cinepolis.com/img/peliculas/48505/1/1/48505.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 17:10
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39224
-
----
-
-#### Hombre Lobo
-
-![Hombre Lobo](https://static.cinepolis.com/img/peliculas/48500/1/1/48500.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 22:00
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39218
-
----
-
-#### Implacable
-
-![Implacable](https://static.cinepolis.com/img/peliculas/48504/1/1/48504.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 21:35
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39222
-
----
-
-#### Las Aventuras De Dog Man
-
-![Las Aventuras De Dog Man](https://static.cinepolis.com/img/peliculas/48503/1/1/48503.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 18:30
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39229
-
----
-
-#### La Tumba de las Luciérnagas
-
-![La Tumba de las Luciérnagas](https://static.cinepolis.com/img/peliculas/48832/1/1/48832.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 17:50
-⏰ 19:50
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39152
-
----
-
-#### Mesa De Regalos
-
-![Mesa De Regalos](https://static.cinepolis.com/img/peliculas/48628/1/1/48628.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 19:00
-⏰ 21:10
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39225
-
----
-
-#### Re Estreno Interestelar
-
-![Re Estreno Interestelar](https://static.cinepolis.com/img/peliculas/48727/1/1/48727.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 20:20
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39233
-
----
+# 🎬 Cinépolis CDMX Centro
 
 ## 🏢 Cinépolis Puerta Tlatelolco
 
-### 🎬 En Cartelera
-
-#### Amenaza En El Aire
-
-![Amenaza En El Aire](https://static.cinepolis.com/img/peliculas/48475/1/1/48475.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 19:40
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73678
-
+### Amenaza En El Aire
+🗣️ Español
+⏰ 17:00 | 22:10
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73724
 ---
 
-#### Compañera Perfecta
+### Compañera Perfecta
+🗣️ Español
+⏰ 14:50 | 20:30
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73738
+---
 
-![Compañera Perfecta](https://static.cinepolis.com/img/peliculas/48835/1/1/48835.jpg)
+### Cónclave
+🗣️ Español
+⏰ 14:05 | 19:25
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73723
+---
 
-**Idioma:** 🗣️ Español
+### Déjame Estar Contigo
+🗣️ Español
+⏰ 14:20 | 19:00
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73719
+---
 
-**Horarios Disponibles:**
-
+### Emilia Pérez
+🌍 SUB
 ⏰ 22:00
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73694
-
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73711
 ---
 
-#### Cónclave
-
-![Cónclave](https://static.cinepolis.com/img/peliculas/48539/1/1/48539.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 22:10
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73679
-
+### Flow
+🗣️ Español
+⏰ 13:10 | 15:20 | 17:50 | 20:10
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73704
 ---
 
-#### Emilia Pérez
-
-![Emilia Pérez](https://static.cinepolis.com/img/peliculas/48426/1/1/48426.jpg)
-
-**Idioma:** 🌍 Subtitulada
-
-**Horarios Disponibles:**
-
-⏰ 20:00
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73660
-
+### Implacable
+🗣️ Español
+⏰ 15:05 | 17:40 | 20:35
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73731
 ---
 
-#### Flow
-
-![Flow](https://static.cinepolis.com/img/peliculas/48465/1/1/48465.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 18:00
-⏰ 20:10
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73655
-
+### Las Aventuras De Dog Man
+🗣️ Español
+⏰ 12:50 | 15:30 | 18:25 | 21:05
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73745
 ---
 
-#### Implacable
-
-![Implacable](https://static.cinepolis.com/img/peliculas/48504/1/1/48504.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 18:50
-⏰ 21:20
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73686
-
+### La Sobreviviente: La Caída Del Vuelo 811
+🗣️ Español
+⏰ 16:45 | 21:15
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73720
 ---
 
-#### Las Aventuras De Dog Man
-
-![Las Aventuras De Dog Man](https://static.cinepolis.com/img/peliculas/48503/1/1/48503.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 17:30
-⏰ 20:30
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73700
-
+### La Tumba de las Luciérnagas
+🗣️ Español
+⏰ 13:50 | 16:00 | 18:15 | 20:45
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73741
 ---
 
-#### La Sobreviviente: La Caída Del Vuelo 811
-
-![La Sobreviviente: La Caída Del Vuelo 811](https://static.cinepolis.com/img/peliculas/48168/1/1/48168.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 18:30
-⏰ 20:50
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73673
-
+### Médium
+🗣️ Español
+⏰ 17:15 | 19:40 | 22:00
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73735
 ---
 
-#### La Tumba de las Luciérnagas
-
-![La Tumba de las Luciérnagas](https://static.cinepolis.com/img/peliculas/48832/1/1/48832.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 17:15
-⏰ 19:20
-⏰ 21:40
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73060
-
+### Mesa De Regalos
+🗣️ Español
+⏰ 13:30 | 15:45 | 18:00 | 20:20
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73715
 ---
 
-#### Médium
-
-![Médium](https://static.cinepolis.com/img/peliculas/48823/1/1/48823.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 18:10
-⏰ 20:40
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73690
-
+### Mufasa: El Rey León
+🗣️ Español
+⏰ 13:20 | 16:20 | 19:15
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73708
 ---
 
-#### Mesa De Regalos
-
-![Mesa De Regalos](https://static.cinepolis.com/img/peliculas/48628/1/1/48628.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 18:40
-⏰ 21:00
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73668
-
+### Nosferatu
+🗣️ Español
+⏰ 17:25
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73739
 ---
 
-#### Nosferatu
-
-![Nosferatu](https://static.cinepolis.com/img/peliculas/48477/1/1/48477.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 19:00
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73693
-
+### Paddington Aventura En La Selva
+🗣️ Español
+⏰ 14:35
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73734
 ---
 
-#### Re Estreno Interestelar
+### Re Estreno Interestelar
+🗣️ Español
+⏰ 13:00 | 16:30 | 20:00
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73712
+---
 
-![Re Estreno Interestelar](https://static.cinepolis.com/img/peliculas/48727/1/1/48727.jpg)
+### Sonic 3: La Película
+🗣️ Español
+⏰ 13:40 | 16:10 | 18:45
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73727
+---
 
-**Idioma:** 🌍 Subtitulada
+### Un Completo Desconocido
+🗣️ Español
+⏰ 21:30
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73730
+---
 
-**Horarios Disponibles:**
+## 🏢 Cinépolis Plaza Tlatelolco
 
-⏰ 18:20
+### Amenaza En El Aire
+🗣️ Español
+⏰ 14:30 | 19:20
+🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39237
+---
+
+### Compañera Perfecta
+🗣️ Español
+⏰ 15:50 | 20:50
+🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39246
+---
+
+### Déjame Estar Contigo
+🗣️ Español
+⏰ 17:10
+🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39242
+---
+
+### Hombre Lobo
+🗣️ Español
 ⏰ 22:00
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73663
-
+🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39236
 ---
 
-#### Sonic 3: La Película
-
-![Sonic 3: La Película](https://static.cinepolis.com/img/peliculas/48253/1/1/48253.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 17:45
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73682
-
+### Implacable
+🗣️ Español
+⏰ 16:40 | 21:35
+🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39238
 ---
 
-#### Un Completo Desconocido
+### Las Aventuras De Dog Man
+🗣️ Español
+⏰ 13:50 | 18:30
+🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39245
+---
 
-![Un Completo Desconocido](https://static.cinepolis.com/img/peliculas/48673/1/1/48673.jpg)
+### La Tumba de las Luciérnagas
+🗣️ Español
+⏰ 13:20 | 15:30 | 17:50 | 19:50
+🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39234
+---
 
-**Idioma:** 🗣️ Español
+### Mesa De Regalos
+🗣️ Español
+⏰ 15:00 | 19:00 | 21:10
+🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39241
+---
 
-**Horarios Disponibles:**
+### Re Estreno Interestelar
+🗣️ Español
+⏰ 16:10 | 20:20
+🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39250
+---
 
-⏰ 20:20
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73683
-
+### Sonic 3: La Película
+🗣️ Español
+⏰ 13:00
+🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39249
 ---
 
 ## 🏢 Cinépolis Fórum Buenavista
 
-### 🎬 En Cartelera
-
-#### Amenaza En El Aire
-
-![Amenaza En El Aire](https://static.cinepolis.com/img/peliculas/48475/1/1/48475.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 17:50
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109855
-
+### Amenaza En El Aire
+🗣️ Español
+⏰ 13:40 | 17:50
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109968
 ---
 
-#### Compañera Perfecta
-
-![Compañera Perfecta](https://static.cinepolis.com/img/peliculas/48835/1/1/48835.jpg)
-
-**Idioma:** 🌍 Subtitulada
-
-**Horarios Disponibles:**
-
-⏰ 21:00
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109811
-
+### Compañera Perfecta
+🗣️ Español
+⏰ 13:50 | 21:00
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109870
 ---
 
-#### Cónclave
-
-![Cónclave](https://static.cinepolis.com/img/peliculas/48539/1/1/48539.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
+### Cónclave
+🗣️ Español
 ⏰ 20:25
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109856
-
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109918
 ---
 
-#### Déjame Estar Contigo
-
-![Déjame Estar Contigo](https://static.cinepolis.com/img/peliculas/48505/1/1/48505.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 18:20
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109814
-
+### Déjame Estar Contigo
+🗣️ Español
+⏰ 16:10 | 18:20
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109874
 ---
 
-#### El Brutalista
-
-![El Brutalista](https://static.cinepolis.com/img/peliculas/48820/1/1/48820.jpg)
-
-**Idioma:** 🌍 Subtitulada
-
-**Horarios Disponibles:**
-
-⏰ 20:20
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109821
-
+### El Brutalista
+🌍 SUB
+⏰ 12:40 | 13:30 | 16:00 | 20:20
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109867
 ---
 
-#### Emilia Pérez
-
-![Emilia Pérez](https://static.cinepolis.com/img/peliculas/48426/1/1/48426.jpg)
-
-**Idioma:** 🌍 Subtitulada
-
-**Horarios Disponibles:**
-
+### Emilia Pérez
+🌍 SUB
 ⏰ 20:30
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109815
-
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109876
 ---
 
-#### Estación Fantasma
-
-![Estación Fantasma](https://static.cinepolis.com/img/peliculas/48501/1/1/48501.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 18:40
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109810
-
+### Estación Fantasma
+🗣️ Español
+⏰ 16:20 | 18:40
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109871
 ---
 
-#### Flow
-
-![Flow](https://static.cinepolis.com/img/peliculas/48465/1/1/48465.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 18:50
-⏰ 21:10
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109828
-
+### Flow
+🗣️ Español
+⏰ 14:10 | 16:30 | 18:50 | 21:10
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109887
 ---
 
-#### Hombre Lobo
-
-![Hombre Lobo](https://static.cinepolis.com/img/peliculas/48500/1/1/48500.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
+### Hombre Lobo
+🗣️ Español
 ⏰ 17:10
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109834
-
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109896
 ---
 
-#### Implacable
-
-![Implacable](https://static.cinepolis.com/img/peliculas/48504/1/1/48504.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 22:00
-⏰ 19:20
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109843
-
+### Implacable
+🗣️ Español
+⏰ 14:00 | 19:20 | 16:40 | 22:00
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109902
 ---
 
-#### Las Aventuras De Dog Man
-
-![Las Aventuras De Dog Man](https://static.cinepolis.com/img/peliculas/48503/1/1/48503.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 17:20
-⏰ 20:10
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109852
-
+### Las Aventuras De Dog Man
+🗣️ Español
+⏰ 14:30 | 17:20 | 20:10
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109913
 ---
 
-#### La Tumba de las Luciérnagas
-
-![La Tumba de las Luciérnagas](https://static.cinepolis.com/img/peliculas/48832/1/1/48832.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 20:00
-⏰ 17:40
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109066
-
+### La Tumba de las Luciérnagas
+🗣️ Español
+⏰ 13:00 | 17:40 | 15:20 | 20:00
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109067
 ---
 
-#### Lluvia
-
-![Lluvia](https://static.cinepolis.com/img/peliculas/48745/1/1/48745.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 19:40
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109835
-
+### Lluvia
+🗣️ Español
+⏰ 14:40 | 19:40
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109895
 ---
 
-#### Médium
-
-![Médium](https://static.cinepolis.com/img/peliculas/48823/1/1/48823.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 21:45
-⏰ 19:10
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109847
-
+### Médium
+🗣️ Español
+⏰ 16:35 | 21:45 | 19:10
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109907
 ---
 
-#### Mesa De Regalos
-
-![Mesa De Regalos](https://static.cinepolis.com/img/peliculas/48628/1/1/48628.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 17:30
-⏰ 19:50
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109824
-
+### Mesa De Regalos
+🗣️ Español
+⏰ 12:50 | 15:10 | 17:30 | 19:50
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109883
 ---
 
-#### Mufasa: El Rey León
-
-![Mufasa: El Rey León](https://static.cinepolis.com/img/peliculas/48461/1/1/48461.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Formato:** ⭐ 4DX
-
-**Horarios Disponibles:**
-
-⏰ 18:00
-⏰ 20:50
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109849
-
+### Mufasa: El Rey León
+🗣️ Español | ⭐ 4DX
+⏰ 15:00 | 18:00 | 20:50
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109910
 ---
 
-#### Nosferatu
-
-![Nosferatu](https://static.cinepolis.com/img/peliculas/48477/1/1/48477.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 21:30
-⏰ 18:30
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109832
-
+### Nosferatu
+🗣️ Español
+⏰ 12:30 | 18:30 | 15:30 | 21:30
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109891
 ---
 
-#### Re Estreno Interestelar
-
-![Re Estreno Interestelar](https://static.cinepolis.com/img/peliculas/48727/1/1/48727.jpg)
-
-**Idioma:** 🌍 Subtitulada
-
-**Formato:** ⭐ IMAX
-
-**Horarios Disponibles:**
-
-⏰ 20:40
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109807
-
+### Paddington Aventura En La Selva
+🗣️ Español
+⏰ 14:50
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109916
 ---
 
-#### Un Completo Desconocido
-
-![Un Completo Desconocido](https://static.cinepolis.com/img/peliculas/48673/1/1/48673.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Horarios Disponibles:**
-
-⏰ 18:10
-⏰ 21:20
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109817
-
+### Re Estreno Interestelar
+🗣️ Español | ⭐ IMAX
+⏰ 17:00 | 20:40
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109868
 ---
 
-#### Un Dolor Real
+### Sonic 3: La Película
+🗣️ Español
+⏰ 13:10
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109880
+---
 
-![Un Dolor Real](https://static.cinepolis.com/img/peliculas/48631/1/1/48631.jpg)
+### Una Pequeña Confusión
+🗣️ Español
+⏰ 13:45
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109906
+---
 
-**Idioma:** 🌍 Subtitulada
+### Un Completo Desconocido
+🗣️ Español
+⏰ 18:10 | 21:20
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109878
+---
 
-**Horarios Disponibles:**
-
-⏰ 19:30
-⏰ 21:50
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109838
-
+### Un Dolor Real
+🌍 SUB
+⏰ 14:20 | 16:50 | 19:30 | 21:50
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109898
 ---
 
 ## 🏢 Cinépolis Diana
 
-### 🎬 En Cartelera
-
-#### Acaba Con Ellos
-
-![Acaba Con Ellos](https://static.cinepolis.com/img/peliculas/48878/1/1/48878.jpg)
-
-**Idioma:** 🌍 Subtitulada
-
-**Horarios Disponibles:**
-
-⏰ 17:20
-⏰ 19:35
-⏰ 21:50
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53584
-
+### Acaba Con Ellos
+🌍 SUB
+⏰ 17:20 | 19:35 | 21:50
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53612
 ---
 
-#### Anora
-
-![Anora](https://static.cinepolis.com/img/peliculas/48691/1/1/48691.jpg)
-
-**Idioma:** 🌍 Subtitulada
-
-**Horarios Disponibles:**
-
+### Anora
+🌍 SUB
 ⏰ 17:45
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53567
-
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53595
 ---
 
-#### Aún Estoy Aquí
-
-![Aún Estoy Aquí](https://static.cinepolis.com/img/peliculas/48970/1/1/48970.jpg)
-
-**Idioma:** 🌍 Subtitulada
-
-**Horarios Disponibles:**
-
+### Aún Estoy Aquí
+🌍 SUB
 ⏰ 21:20
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53674
-
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53675
 ---
 
-#### Compañera Perfecta
-
-![Compañera Perfecta](https://static.cinepolis.com/img/peliculas/48835/1/1/48835.jpg)
-
-**Idioma:** 🌍 Subtitulada
-
-**Horarios Disponibles:**
-
-⏰ 21:10
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53572
-
+### Cómo Ser Millonario Antes Que Muera La Abuela
+🌍 SUB
+⏰ 13:50
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53680
 ---
 
-#### Cónclave
+### Compañera Perfecta
+🌍 SUB
+⏰ 13:30 | 21:10
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53597
+---
 
-![Cónclave](https://static.cinepolis.com/img/peliculas/48539/1/1/48539.jpg)
-
-**Idioma:** 🌍 Subtitulada
-
-**Horarios Disponibles:**
-
+### Cónclave
+🌍 SUB
 ⏰ 18:30
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53571
-
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53599
 ---
 
-#### Duna Parte Dos
+### Déjame Estar Contigo
+🗣️ Español
+⏰ 15:20
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53611
+---
 
-![Duna Parte Dos](https://static.cinepolis.com/img/peliculas/45351/1/1/45351.jpg)
-
-**Idioma:** 🌍 Subtitulada
-
-**Horarios Disponibles:**
-
+### Duna Parte Dos
+🌍 SUB
 ⏰ 20:05
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53561
-
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53589
 ---
 
-#### El Brutalista
-
-![El Brutalista](https://static.cinepolis.com/img/peliculas/48820/1/1/48820.jpg)
-
-**Idioma:** 🌍 Subtitulada
-
-**Horarios Disponibles:**
-
-⏰ 20:20
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53564
-
+### El Brutalista
+🌍 SUB
+⏰ 16:15 | 20:20
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53591
 ---
 
-#### La Tumba de las Luciérnagas
-
-![La Tumba de las Luciérnagas](https://static.cinepolis.com/img/peliculas/48832/1/1/48832.jpg)
-
-**Idioma:** 🌍 Subtitulada
-
-**Horarios Disponibles:**
-
-⏰ 19:00
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53177
-
+### Emilia Pérez
+🌍 SUB
+⏰ 15:45
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53598
 ---
 
-#### Nosferatu
+### Flow
+🗣️ Español
+⏰ 14:10 | 16:05
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53601
+---
 
-![Nosferatu](https://static.cinepolis.com/img/peliculas/48477/1/1/48477.jpg)
+### La Semilla Del Fruto Sagrado
+🌍 SUB
+⏰ 13:20
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53587
+---
 
-**Idioma:** 🌍 Subtitulada
+### La Tumba de las Luciérnagas
+🌍 SUB
+⏰ 16:40 | 19:00
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53178
+---
 
-**Horarios Disponibles:**
+### Mesa De Regalos
+🗣️ Español
+⏰ 15:35
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53594
+---
 
+### Nosferatu
+🌍 SUB
 ⏰ 18:05
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53575
-
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53603
 ---
 
-#### Re Estreno Interestelar
-
-![Re Estreno Interestelar](https://static.cinepolis.com/img/peliculas/48727/1/1/48727.jpg)
-
-**Idioma:** 🌍 Subtitulada
-
-**Horarios Disponibles:**
-
+### Re Estreno Interestelar
+🌍 SUB
 ⏰ 20:50
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53576
-
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53604
 ---
 
-#### Un Completo Desconocido
+### Sonic 3: La Película
+🗣️ Español
+⏰ 13:00
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53610
+---
 
-![Un Completo Desconocido](https://static.cinepolis.com/img/peliculas/48673/1/1/48673.jpg)
-
-**Idioma:** 🌍 Subtitulada
-
-**Horarios Disponibles:**
-
+### Un Completo Desconocido
+🌍 SUB
 ⏰ 20:40
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53568
-
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53596
 ---
 
-#### Un Dolor Real
-
-![Un Dolor Real](https://static.cinepolis.com/img/peliculas/48631/1/1/48631.jpg)
-
-**Idioma:** 🗣️ Español
-
-**Formato:** ⭐ 4DX
-
-**Horarios Disponibles:**
-
-⏰ 19:15
-⏰ 21:35
-
-🎟️ Comprar Boletos: https://compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53580
-
+### Un Dolor Real
+🌍 SUB
+⏰ 14:50 | 17:00 | 19:15 | 21:35
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53606
 ---
 
-#### El Maravilloso Mago De Oz
-
-![El Maravilloso Mago De Oz](https://static.cinepolis.com/img/peliculas/48629/1/1/48629.jpg)
-
-**Horarios Disponibles:**
-
+### Wicked
+🗣️ Español | ⭐ 4DX
+⏰ 16:50
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53588
 ---
 
-#### Hijos Del Diablo
-
-![Hijos Del Diablo](https://static.cinepolis.com/img/peliculas/48746/1/1/48746.jpg)
-
-**Horarios Disponibles:**
-
+### El Maravilloso Mago De Oz
 ---
 
-#### Las Vidas De Sing Sing
-
-![Las Vidas De Sing Sing](https://static.cinepolis.com/img/peliculas/48744/1/1/48744.jpg)
-
-**Horarios Disponibles:**
-
+### Hijos Del Diablo
 ---
 
-#### Bridget Jones: Loca Por Él
-
-![Bridget Jones: Loca Por Él](https://static.cinepolis.com/img/peliculas/48822/1/1/48822.jpg)
-
-**Horarios Disponibles:**
-
+### Las Vidas De Sing Sing
 ---
 
-#### Capitán América: Un Nuevo Mundo
-
-![Capitán América: Un Nuevo Mundo](https://static.cinepolis.com/img/peliculas/48630/1/1/48630.jpg)
-
-**Horarios Disponibles:**
-
+### Bridget Jones: Loca Por Él
 ---
 
-#### Trivia Night by Cinépolis y Capitán América: Un Nuevo Mundo
-
-![Trivia Night by Cinépolis y Capitán América: Un Nuevo Mundo](https://static.cinepolis.com/img/peliculas/48927/1/1/48927.jpg)
-
-**Horarios Disponibles:**
-
+### Capitán América: Un Nuevo Mundo
 ---
+
+### Trivia Night by Cinépolis y Capitán América: Un Nuevo Mundo
+---
+
+## 🔜 ESTRENOS
 

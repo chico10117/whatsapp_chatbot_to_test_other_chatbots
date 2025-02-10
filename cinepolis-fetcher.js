@@ -71,12 +71,11 @@ export default class CinepolisFetcher {
     }
 
     cleanMarkdown(markdown) {
-        // Split into sections by cinema
+        let cleanMd = '# 🎬 Cinépolis CDMX Centro\n\n';
+        
+        // Process current movies
         const sections = markdown.split('[**Cinépolis');
         
-        let cleanMd = '# 🎬 Cartelera Cinépolis CDMX Centro\n\n';
-        
-        // Process each cinema section
         sections.slice(1).forEach(section => {
             // Get cinema name
             const cinemaMatch = section.match(/^[^*]*\*\*/);
@@ -87,115 +86,90 @@ export default class CinepolisFetcher {
                 // Extract movie blocks
                 const movieBlocks = section.split('[![').slice(1);
                 
-                // Separate current and upcoming movies
-                const currentMovies = [];
-                const upcomingMovies = [];
-                
-                movieBlocks.forEach(block => {
-                    // Extract movie title
-                    const titleMatch = block.match(/^([^\]]+)/);
-                    if (titleMatch) {
-                        const title = titleMatch[1];
-                        
-                        // Skip if it's a promotional block
-                        if (title.toLowerCase().includes('promoción')) return;
-                        
-                        // Categorize movies
-                        if (block.includes('Compra anticipada')) {
-                            upcomingMovies.push({ title, block });
-                        } else {
-                            currentMovies.push({ title, block });
-                        }
-                    }
-                });
-                
                 // Process current movies
-                if (currentMovies.length > 0) {
-                    cleanMd += `### 🎬 En Cartelera\n\n`;
-                    currentMovies.forEach(({ title, block }) => {
-                        cleanMd += `#### ${title}\n\n`;
-                        
-                        // Extract poster URL
-                        const posterMatch = block.match(/https:\/\/static\.cinepolis\.com\/img\/peliculas\/[^)]+/);
-                        if (posterMatch) {
-                            cleanMd += `![${title}](${posterMatch[0]})\n\n`;
-                        }
-                        
-                        // Extract language
-                        if (block.includes('ESP')) {
-                            cleanMd += '**Idioma:** 🗣️ Español\n\n';
-                        } else if (block.includes('SUB')) {
-                            cleanMd += '**Idioma:** 🌍 Subtitulada\n\n';
-                        }
-                        
-                        // Extract format icons
-                        if (block.includes('4DX')) {
-                            cleanMd += '**Formato:** ⭐ 4DX\n\n';
-                        } else if (block.includes('IMAX')) {
-                            cleanMd += '**Formato:** ⭐ IMAX\n\n';
-                        } else if (block.includes('PLUUS')) {
-                            cleanMd += '**Formato:** ⭐ PLUUS\n\n';
-                        }
-                        
-                        // Extract movie ID from image URL
-                        const movieIdMatch = block.match(/\/img\/peliculas\/(\d+)\/1\/1/);
-                        if (movieIdMatch) {
-                            const movieId = movieIdMatch[1];
+                if (movieBlocks.length > 0) {
+                    movieBlocks.forEach(block => {
+                        // Extract movie title
+                        const titleMatch = block.match(/^([^\]]+)/);
+                        if (titleMatch) {
+                            const title = titleMatch[1];
                             
-                            // Extract showtimes and showtime IDs
-                            cleanMd += '**Horarios Disponibles:**\n\n';
-                            const timeMatches = block.match(/\[(\d{2}:\d{2})\].*?cinemaVistaId=(\d+)&showtimeVistaId=(\d+)/g);
-                            let purchaseUrl = null;
-                            let firstShowtime = null;
+                            // Skip if it's a promotional block
+                            if (title.toLowerCase().includes('promoción')) return;
+                            
+                            cleanMd += `### ${title}\n`;
+                            
+                            // Combine language and format info
+                            let info = [];
+                            if (block.includes('ESP')) {
+                                info.push('🗣️ Español');
+                            } else if (block.includes('SUB')) {
+                                info.push('🌍 SUB');
+                            }
+                            
+                            if (block.includes('4DX')) {
+                                info.push('⭐ 4DX');
+                            } else if (block.includes('IMAX')) {
+                                info.push('⭐ IMAX');
+                            } else if (block.includes('PLUUS')) {
+                                info.push('⭐ PLUUS');
+                            }
 
-                            if (timeMatches) {
-                                timeMatches.forEach(match => {
-                                    const [fullMatch, time, cinemaId, showtimeId] = match.match(/\[(\d{2}:\d{2})\].*?cinemaVistaId=(\d+)&showtimeVistaId=(\d+)/) || [];
-                                    if (time && cinemaId && showtimeId) {
-                                        cleanMd += `⏰ ${time}\n`;
-                                        if (!purchaseUrl) {
-                                            purchaseUrl = `@https://compra.cinepolis.com/?cinemaVistaId=${cinemaId}&showtimeVistaId=${showtimeId}`;
-                                            firstShowtime = time;
+                            if (info.length > 0) {
+                                cleanMd += `${info.join(' | ')}\n`;
+                            }
+                            
+                            // Extract movie ID from image URL
+                            const movieIdMatch = block.match(/\/img\/peliculas\/(\d+)\/1\/1/);
+                            if (movieIdMatch) {
+                                const movieId = movieIdMatch[1];
+                                
+                                // Extract showtimes and showtime IDs
+                                const timeMatches = block.match(/\[(\d{2}:\d{2})\].*?cinemaVistaId=(\d+)&showtimeVistaId=(\d+)/g);
+                                let purchaseUrl = null;
+
+                                if (timeMatches) {
+                                    let times = [];
+                                    timeMatches.forEach(match => {
+                                        const [fullMatch, time, cinemaId, showtimeId] = match.match(/\[(\d{2}:\d{2})\].*?cinemaVistaId=(\d+)&showtimeVistaId=(\d+)/) || [];
+                                        if (time) {
+                                            times.push(time);
+                                            if (!purchaseUrl) {
+                                                purchaseUrl = `compra.cinepolis.com/?cinemaVistaId=${cinemaId}&showtimeVistaId=${showtimeId}`;
+                                            }
                                         }
+                                    });
+                                    if (times.length > 0) {
+                                        cleanMd += `⏰ ${times.join(' | ')}\n`;
                                     }
-                                });
-                                cleanMd += '\n';
-                            }
+                                }
 
-                            // Add purchase link
-                            if (purchaseUrl) {
-                                cleanMd += `🎟️ Comprar Boletos: ${purchaseUrl.replace('@', '')}\n\n`;
+                                // Add purchase link if there are showtimes
+                                if (purchaseUrl) {
+                                    cleanMd += `🎟️ ${purchaseUrl}\n`;
+                                }
                             }
+                            
+                            cleanMd += '---\n\n';
                         }
-                        
-                        cleanMd += '---\n\n';
-                    });
-                }
-                
-                // Process upcoming movies
-                if (upcomingMovies.length > 0) {
-                    cleanMd += `### 🔜 PRÓXIMOS ESTRENOS\n\n`;
-                    upcomingMovies.forEach(({ title, block }) => {
-                        cleanMd += `#### ${title}\n\n`;
-                        
-                        // Extract poster URL
-                        const posterMatch = block.match(/https:\/\/static\.cinepolis\.com\/img\/peliculas\/[^)]+/);
-                        if (posterMatch) {
-                            cleanMd += `![${title}](${posterMatch[0]})\n\n`;
-                        }
-                        
-                        // Extract purchase link for pre-sale without markdown formatting
-                        const purchaseMatch = block.match(/href="([^"]+)"/);
-                        if (purchaseMatch) {
-                            const purchaseUrl = purchaseMatch[1];
-                            cleanMd += `🎟️ Compra Anticipada: ${purchaseUrl}\n\n`;
-                        }
-                        
-                        cleanMd += '---\n\n';
                     });
                 }
             }
         });
+
+        // Extract and process upcoming releases
+        const upcomingMatch = markdown.match(/\[\*\*PRÓXIMAMENTE\*\*\](.*?)(?=\[\*\*Cinépolis|$)/s);
+        if (upcomingMatch) {
+            cleanMd += `## 🔜 ESTRENOS\n\n`;
+            const upcomingSection = upcomingMatch[1];
+            const movieRegex = /\[!\[(.*?)\]\((.*?)\)\].*?\((.*?)\)/g;
+            let match;
+
+            while ((match = movieRegex.exec(upcomingSection)) !== null) {
+                const title = match[1];
+                cleanMd += `### ${title}\n---\n\n`;
+            }
+        }
         
         return cleanMd;
     }
