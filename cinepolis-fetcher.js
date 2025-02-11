@@ -160,15 +160,29 @@ export default class CinepolisFetcher {
         // Extract and process upcoming releases
         const upcomingMatch = markdown.match(/\[\*\*PRÓXIMAMENTE\*\*\](.*?)(?=\[\*\*Cinépolis|$)/s);
         if (upcomingMatch) {
-            cleanMd += `## 🔜 ESTRENOS\n\n`;
             const upcomingSection = upcomingMatch[1];
             const movieRegex = /\[!\[(.*?)\]\((.*?)\)\].*?\((.*?)\)/g;
+            let upcomingMovies = '';
             let match;
 
             while ((match = movieRegex.exec(upcomingSection)) !== null) {
                 const title = match[1];
-                cleanMd += `### ${title}\n---\n\n`;
+                upcomingMovies += `### ${title}\n---\n\n`;
             }
+
+            if (upcomingMovies) {
+                cleanMd += `## 🔜 ESTRENOS\n\n${upcomingMovies}`;
+            }
+        }
+
+        // Extract and add GOB codes section
+        const gobCodesMatch = markdown.match(/Lo sentimos.*?(?=\[\*\*PRÓXIMAMENTE\*\*\]|\[Regresar al inicio\]|$)/s);
+        if (gobCodesMatch) {
+            const gobCodes = gobCodesMatch[0]
+                .replace('Lo sentimos, la preventa que buscas **no está disponible**.\n\n', '')
+                .trim()
+                .replace(/\\\|/g, '|'); // Replace escaped pipes with regular pipes
+            cleanMd += `## 🎬 Clasificaciones\n\n${gobCodes}\n`;
         }
         
         return cleanMd;
