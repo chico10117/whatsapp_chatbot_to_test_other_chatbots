@@ -6,6 +6,7 @@ import makeWASocket, { DisconnectReason, BufferJSON, useMultiFileAuthState, dela
 import OpenAI from 'openai';
 import CinepolisFetcher from './cinepolis-fetcher.js';
 import cron from 'node-cron';
+import { QR_PROMOTIONS } from './promotions.js';
 
 dotenv.config();
 
@@ -30,19 +31,57 @@ const client = new OpenAI({
     baseURL: "https://gateway.ai.cloudflare.com/v1/9536a9ec53cf05783eefb6f6d1c06292/reco-test/openai"
 });
 
-// Schedule cartelera updates every 4 hours
+// Add this helper function
+async function sendPromoQR(jid, qrCode) {
+  try {
+    const promo = QR_PROMOTIONS[qrCode];
+    if (!promo) {
+      console.error(`QR code ${qrCode} not found`);
+      return;
+    }
+
+    await globalClient.sendMessage(jid, {
+      image: { url: promo.path },
+      caption: `🎁 ¡Aquí está tu promoción especial!\n\n${promo.description}`
+    });
+  } catch (error) {
+    console.error('Error sending QR promotion:', error);
+    await globalClient.sendMessage(jid, { 
+      text: "Lo siento, hubo un error al enviar el código QR de la promoción." 
+    });
+  }
+}
+
+// Add helper function to check file age
+async function shouldUpdateCartelera() {
+    try {
+        const stats = await fs.stat('cinepolis_cartelera.md');
+        const fileAge = Date.now() - stats.mtime.getTime();
+        const oneHourInMs = 60 * 60 * 1000;
+        return fileAge > oneHourInMs;
+    } catch (error) {
+        // If file doesn't exist or other error, we should update
+        return true;
+    }
+}
+
+// Schedule cartelera updates every hour
 async function updateCartelera() {
     try {
-        console.log('Updating cartelera...');
-        await cinepolisFetcher.generateMarkdown();
-        console.log('Cartelera updated successfully');
+        if (await shouldUpdateCartelera()) {
+            console.log('Updating cartelera...');
+            await cinepolisFetcher.generateMarkdown();
+            console.log('Cartelera updated successfully');
+        } else {
+            console.log('Cartelera is up to date, skipping update');
+        }
     } catch (error) {
         console.error('Error updating cartelera:', error);
     }
 }
 
-// Run update every 4 hours
-cron.schedule('0 */4 * * *', updateCartelera);
+// Run update every hour
+cron.schedule('0 * * * *', updateCartelera);
 
 // Process each message
 const proc = async m => {
@@ -66,8 +105,7 @@ const proc = async m => {
         updateConversationHistory(jid, 'user', msg);
         const messages = getMessages(jid);
 
-        // Get latest cartelera data
-        await cinepolisFetcher.generateMarkdown();
+        // Read the current cartelera data
         const cartelera = await fs.readFile('cinepolis_cartelera.md', 'utf-8');
 
         // Prepare prompt with cartelera data
@@ -87,7 +125,7 @@ const proc = async m => {
                 ...messages.conversation.map((entry) => ({ role: entry.role, content: entry.content })),
                 { role: "user", content: msg }
             ],
-            max_tokens: 2000,
+            max_tokens: 16000,
             temperature: 0.7,
         });
 
@@ -96,6 +134,14 @@ const proc = async m => {
         // Update history and send response
         updateConversationHistory(jid, 'assistant', botResponse);
         await globalClient.sendMessage(jid, { text: botResponse });
+
+        // Check if the response contains a QR code reference
+        if (botResponse.includes('QR1')) {
+          await sendPromoQR(jid, 'QR1');
+        } else if (botResponse.includes('QR2')) {
+          await sendPromoQR(jid, 'QR2');
+        }
+
         await globalClient.sendPresenceUpdate('paused', jid);
     } catch (error) {
         console.error("Error al procesar el mensaje:", error.response?.data || error.message);
@@ -138,8 +184,8 @@ async function connectToWhatsApp() {
         auth: state
     });
 
-    // Initial cartelera fetch
-    await cinepolisFetcher.generateMarkdown();
+    // Initial cartelera fetch only if needed
+    await updateCartelera();
 
     // Set up event handlers
     globalClient.ev.on('creds.update', saveCreds);
