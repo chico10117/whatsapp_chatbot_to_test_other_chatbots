@@ -68,7 +68,7 @@ export default class PromptBuilder {
         🗣️ Español
         - Promoción: "🎁 ¡Tengo algo *especial* para ti!"
 
-        Las promociones disponibles son (siempre escribe el QR y el nombre de la promoción):
+        Las promociones disponibles son (siempre escribe el QR y el nombre de la promoción, no inventes urls):
 
           1. "(QR1) Cupón válido por dos charolas de nachos (clásicos) tamaños chicas y una porción de queso tipo cheddar por $95"
           2. "(QR2) Vaso 3D del Capitán América"
