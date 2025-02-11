@@ -1,5 +1,67 @@
 # 🎬 Cinépolis CDMX Centro
 
+## 🏢 Cinépolis Plaza Tlatelolco
+
+### Amenaza En El Aire
+🗣️ Español
+⏰ 14:30 | 19:20
+🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39255
+---
+
+### Compañera Perfecta
+🗣️ Español
+⏰ 15:50 | 20:50
+🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39264
+---
+
+### Déjame Estar Contigo
+🗣️ Español
+⏰ 17:10
+🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39260
+---
+
+### Hombre Lobo
+🗣️ Español
+⏰ 22:00
+🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39254
+---
+
+### Implacable
+🗣️ Español
+⏰ 16:40 | 21:35
+🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39256
+---
+
+### Las Aventuras De Dog Man
+🗣️ Español
+⏰ 13:50 | 18:30
+🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39263
+---
+
+### La Tumba de las Luciérnagas
+🗣️ Español
+⏰ 13:20 | 15:30 | 17:50 | 19:50
+🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39252
+---
+
+### Mesa De Regalos
+🗣️ Español
+⏰ 15:00 | 19:00 | 21:10
+🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39259
+---
+
+### Re Estreno Interestelar
+🗣️ Español
+⏰ 16:10 | 20:20
+🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39268
+---
+
+### Sonic 3: La Película
+🗣️ Español
+⏰ 13:00
+🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39267
+---
+
 ## 🏢 Cinépolis Puerta Tlatelolco
 
 ### Amenaza En El Aire
@@ -108,68 +170,6 @@
 🗣️ Español
 ⏰ 21:30
 🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73775
----
-
-## 🏢 Cinépolis Plaza Tlatelolco
-
-### Amenaza En El Aire
-🗣️ Español
-⏰ 14:30 | 19:20
-🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39255
----
-
-### Compañera Perfecta
-🗣️ Español
-⏰ 15:50 | 20:50
-🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39264
----
-
-### Déjame Estar Contigo
-🗣️ Español
-⏰ 17:10
-🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39260
----
-
-### Hombre Lobo
-🗣️ Español
-⏰ 22:00
-🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39254
----
-
-### Implacable
-🗣️ Español
-⏰ 16:40 | 21:35
-🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39256
----
-
-### Las Aventuras De Dog Man
-🗣️ Español
-⏰ 13:50 | 18:30
-🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39263
----
-
-### La Tumba de las Luciérnagas
-🗣️ Español
-⏰ 13:20 | 15:30 | 17:50 | 19:50
-🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39252
----
-
-### Mesa De Regalos
-🗣️ Español
-⏰ 15:00 | 19:00 | 21:10
-🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39259
----
-
-### Re Estreno Interestelar
-🗣️ Español
-⏰ 16:10 | 20:20
-🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39268
----
-
-### Sonic 3: La Película
-🗣️ Español
-⏰ 13:00
-🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39267
 ---
 
 ## 🏢 Cinépolis Fórum Buenavista
@@ -442,4 +442,4 @@
 
 ## 🎬 Clasificaciones
 
-Amenaza En El Aire SP ESP GOB: 20817-B | Compañera Perfecta SP ESP GOB: 20884-B15 | Cónclave SP ESP GOB: 20705-B | Déjame Estar Contigo SP ESP GOB: 20814-B | Emilia Pérez SP SUB GOB: 20672-B15 | Flow SP ESP GOB: 20688-A | Implacable SP ESP GOB: 20877-B15 | Las Aventuras De Dog Man SJ ESP GOB: 20886-A | La Sobreviviente: La Caída Del Vuelo 811 ESP GOB: 20755-B | La Tumba de las Luciérnagas SP ESP GOB: 20918-B | Médium SP ESP GOB: 20760-B | Mesa De Regalos SP ESP GOB: 20856-B15 | Mufasa: El Rey León SP ESP GOB: 20823-A | Nosferatu SP ESP GOB: 20726-B15 | Paddington Aventura En La Selva SP ESP GOB: 20837-A | Re Estreno Interestelar SP ESP GOB: 15157-B | Re Estreno Interestelar SP SUB GOB: 15157-B | Sonic 3: La Película SP ESP GOB: 20829-A  | Un Completo Desconocido SP ESP GOB: 20906-B | Amenaza En El Aire ESP GOB: 20817-B | Compañera Perfecta ESP GOB: 20884-B15 | Déjame Estar Contigo ESP GOB: 20814-B | Hombre Lobo ESP GOB: 20871-B15 | Implacable ESP GOB: 20877-B15 | Las Aventuras De Dog Man ESP GOB: 20886-A | La Tumba de las Luciérnagas ESP GOB: 20918-B | Mesa De Regalos ESP GOB: 20856-B15 | Re Estreno Interestelar ESP GOB: 15157-B | Sonic 3: La Película ESP GOB: 20829-A  | Amenaza En El Aire SUB GOB: 20816-B | Compañera Perfecta SUB GOB: 20883-B15 | Cónclave ESP GOB: 20705-B | El Brutalista SUB GOB: 20698-C | Emilia Pérez SUB GOB: 20672-B15 | Estación Fantasma ESP GOB: 20846-B | Flow ESP GOB: 20688-A | Implacable SUB GOB: 20876-B15 | La Tumba de las Luciérnagas SUB GOB: 20918-B | Lluvia ESP GOB: 20243-B | Médium ESP GOB: 20760-B | Médium SUB GOB: 20759-B | Mufasa: El Rey León 4DX 2D ESP GOB: | Nosferatu ESP GOB: 20726-B15 | Nosferatu SUB GOB: 20725-B15 | Paddington Aventura En La Selva ESP GOB: 20837-A | Re Estreno Interestelar IMAX SUB GOB: 15157-B | Una Pequeña Confusión ESP GOB: 20815-B | Un Completo Desconocido SUB GOB: 20905-B | Un Completo Desconocido ESP GOB: 20906-B | Acaba Con Ellos SUB GOB: 20901-B15 | Anora SUB GOB: 20665-C | Aún Estoy Aquí SUB GOB: 20914-B | Cómo Ser Millonario Antes Que Muera La Abuela SUB GOB: 20818-A | Cónclave SUB GOB: 20704-B | Duna Parte Dos SUB GOB: 20284-B | La Semilla Del Fruto Sagrado SUB GOB: 20699-B | Re Estreno Interestelar SUB GOB: 15157-B | Un Dolor Real SUB GOB: 20800-B | Wicked SUB GOB: 20771-A |
+Amenaza En El Aire ESP GOB: 20817-B | Compañera Perfecta ESP GOB: 20884-B15 | Déjame Estar Contigo ESP GOB: 20814-B | Hombre Lobo ESP GOB: 20871-B15 | Implacable ESP GOB: 20877-B15 | Las Aventuras De Dog Man ESP GOB: 20886-A | La Tumba de las Luciérnagas ESP GOB: 20918-B | Mesa De Regalos ESP GOB: 20856-B15 | Re Estreno Interestelar ESP GOB: 15157-B | Sonic 3: La Película ESP GOB: 20829-A  | Amenaza En El Aire SP ESP GOB: 20817-B | Compañera Perfecta SP ESP GOB: 20884-B15 | Cónclave SP ESP GOB: 20705-B | Déjame Estar Contigo SP ESP GOB: 20814-B | Emilia Pérez SP SUB GOB: 20672-B15 | Flow SP ESP GOB: 20688-A | Implacable SP ESP GOB: 20877-B15 | Las Aventuras De Dog Man SJ ESP GOB: 20886-A | La Sobreviviente: La Caída Del Vuelo 811 ESP GOB: 20755-B | La Tumba de las Luciérnagas SP ESP GOB: 20918-B | Médium SP ESP GOB: 20760-B | Mesa De Regalos SP ESP GOB: 20856-B15 | Mufasa: El Rey León SP ESP GOB: 20823-A | Nosferatu SP ESP GOB: 20726-B15 | Paddington Aventura En La Selva SP ESP GOB: 20837-A | Re Estreno Interestelar SP ESP GOB: 15157-B | Re Estreno Interestelar SP SUB GOB: 15157-B | Sonic 3: La Película SP ESP GOB: 20829-A  | Un Completo Desconocido SP ESP GOB: 20906-B | Amenaza En El Aire SUB GOB: 20816-B | Compañera Perfecta SUB GOB: 20883-B15 | Cónclave ESP GOB: 20705-B | El Brutalista SUB GOB: 20698-C | Emilia Pérez SUB GOB: 20672-B15 | Estación Fantasma ESP GOB: 20846-B | Flow ESP GOB: 20688-A | Implacable SUB GOB: 20876-B15 | La Tumba de las Luciérnagas SUB GOB: 20918-B | Lluvia ESP GOB: 20243-B | Médium ESP GOB: 20760-B | Médium SUB GOB: 20759-B | Mufasa: El Rey León 4DX 2D ESP GOB: | Nosferatu ESP GOB: 20726-B15 | Nosferatu SUB GOB: 20725-B15 | Paddington Aventura En La Selva ESP GOB: 20837-A | Re Estreno Interestelar IMAX SUB GOB: 15157-B | Una Pequeña Confusión ESP GOB: 20815-B | Un Completo Desconocido SUB GOB: 20905-B | Un Completo Desconocido ESP GOB: 20906-B | Acaba Con Ellos SUB GOB: 20901-B15 | Anora SUB GOB: 20665-C | Aún Estoy Aquí SUB GOB: 20914-B | Cómo Ser Millonario Antes Que Muera La Abuela SUB GOB: 20818-A | Cónclave SUB GOB: 20704-B | Duna Parte Dos SUB GOB: 20284-B | La Semilla Del Fruto Sagrado SUB GOB: 20699-B | Re Estreno Interestelar SUB GOB: 15157-B | Un Dolor Real SUB GOB: 20800-B | Wicked SUB GOB: 20771-A |
