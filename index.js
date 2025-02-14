@@ -88,11 +88,34 @@ const proc = async m => {
     if (m.messages[0].key.fromMe) return; // ignore self messages
     
     // Get message details
-    const msg = m.messages[0].message?.conversation;
-    const jid = m.messages[0].key.remoteJid;
-    const pushName = m.messages[0].pushName;
+    const message = m.messages[0];
+    let msg = '';
+
+    // Handle different message types
+    if (message.message?.conversation) {
+        msg = message.message.conversation;
+    } else if (message.message?.extendedTextMessage?.text) {
+        msg = message.message.extendedTextMessage.text;
+    } else if (message.message?.buttonsResponseMessage?.selectedDisplayText) {
+        msg = message.message.buttonsResponseMessage.selectedDisplayText;
+    } else if (message.message?.listResponseMessage?.title) {
+        msg = message.message.listResponseMessage.title;
+    }
+
+    const jid = message.key.remoteJid;
+    const pushName = message.pushName;
     
-    console.log('Message from:', pushName, '(', jid, '):', msg);
+    console.log('\n=== Incoming Message ===');
+    console.log('From:', pushName, '(', jid, ')');
+    console.log('Message:', msg);
+    console.log('Raw Message Object:', JSON.stringify(message.message, null, 2));
+    console.log('========================\n');
+
+    // Don't process empty messages
+    if (!msg) {
+        console.log('Empty message received, skipping processing');
+        return;
+    }
 
     try {
         const messageType = getContentType(m);
@@ -117,7 +140,11 @@ const proc = async m => {
         await delay(500);
         await globalClient.sendPresenceUpdate('composing', jid);
 
-        console.log("Enviando mensaje a OpenAI:");
+        console.log('\n=== OpenAI Request ===');
+        console.log('User Message:', msg);
+        console.log('Conversation History Length:', messages.conversation.length);
+        console.log('=====================\n');
+
         const gptResponse = await client.chat.completions.create({
             model: 'gpt-4o',
             messages: [
@@ -130,6 +157,10 @@ const proc = async m => {
         });
 
         const botResponse = gptResponse.choices[0].message.content;
+
+        console.log('\n=== OpenAI Response ===');
+        console.log('Response:', botResponse);
+        console.log('======================\n');
 
         // Update history and send response
         updateConversationHistory(jid, 'assistant', botResponse);

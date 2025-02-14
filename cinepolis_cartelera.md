@@ -2,444 +2,318 @@
 
 ## 🏢 Cinépolis Plaza Tlatelolco
 
-### Amenaza En El Aire
+### Bridget Jones: Loca Por Él
 🗣️ Español
-⏰ 14:30 | 19:20
-🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39255
+⏰ 13:30 | 16:30 | 19:30
+🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39310
 ---
 
-### Compañera Perfecta
+### Capitán América: Un Nuevo Mundo
 🗣️ Español
-⏰ 15:50 | 20:50
-🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39264
----
-
-### Déjame Estar Contigo
-🗣️ Español
-⏰ 17:10
-🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39260
----
-
-### Hombre Lobo
-🗣️ Español
-⏰ 22:00
-🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39254
+⏰ 12:30 | 13:00 | 16:00 | 17:30 | 18:30 | 19:00 | 22:00 | 15:30 | 21:30
+🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39098
 ---
 
 ### Implacable
 🗣️ Español
-⏰ 16:40 | 21:35
-🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39256
+⏰ 22:10
+🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39303
 ---
 
 ### Las Aventuras De Dog Man
 🗣️ Español
-⏰ 13:50 | 18:30
-🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39263
+⏰ 12:50 | 15:00
+🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39309
 ---
 
 ### La Tumba de las Luciérnagas
 🗣️ Español
-⏰ 13:20 | 15:30 | 17:50 | 19:50
-🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39252
+⏰ 12:20 | 17:00 | 19:50
+🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39311
 ---
 
 ### Mesa De Regalos
 🗣️ Español
-⏰ 15:00 | 19:00 | 21:10
-🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39259
----
-
-### Re Estreno Interestelar
-🗣️ Español
-⏰ 16:10 | 20:20
-🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39268
----
-
-### Sonic 3: La Película
-🗣️ Español
-⏰ 13:00
-🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39267
+⏰ 14:40 | 20:30
+🎟️ compra.cinepolis.com/?cinemaVistaId=921&showtimeVistaId=39308
 ---
 
 ## 🏢 Cinépolis Puerta Tlatelolco
 
-### Amenaza En El Aire
+### Bridget Jones: Loca Por Él
 🗣️ Español
-⏰ 17:00 | 22:10
-🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73769
+⏰ 13:40 | 16:20 | 19:20 | 22:10
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73948
+---
+
+### Capitán América: Un Nuevo Mundo
+🗣️ Español
+⏰ 12:50 | 13:20 | 13:50 | 14:15 | 14:45 | 15:15 | 15:30 | 17:15 | 17:45 | 17:55 | 18:15 | 18:40 | 19:15 | 20:00 | 20:20 | 20:30 | 21:00 | 16:00 | 21:20 | 16:30 | 22:00
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73392
 ---
 
 ### Compañera Perfecta
 🗣️ Español
-⏰ 14:50 | 20:30
-🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73783
+⏰ 15:00
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73940
 ---
 
-### Cónclave
+### El Maravilloso Mago De Oz
 🗣️ Español
-⏰ 14:05 | 19:25
-🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73768
----
-
-### Déjame Estar Contigo
-🗣️ Español
-⏰ 14:20 | 19:00
-🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73764
----
-
-### Emilia Pérez
-🌍 SUB
-⏰ 22:00
-🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73756
+⏰ 14:00 | 16:40
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73926
 ---
 
 ### Flow
 🗣️ Español
-⏰ 13:10 | 15:20 | 17:50 | 20:10
-🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73749
+⏰ 13:00 | 17:30 | 19:40
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73939
+---
+
+### Hijos Del Diablo
+🗣️ Español
+⏰ 19:00 | 21:40
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73928
 ---
 
 ### Implacable
 🗣️ Español
-⏰ 15:05 | 17:40 | 20:35
-🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73776
+⏰ 15:45 | 20:40
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73953
 ---
 
 ### Las Aventuras De Dog Man
 🗣️ Español
-⏰ 12:50 | 15:30 | 18:25 | 21:05
-🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73789
----
-
-### La Sobreviviente: La Caída Del Vuelo 811
-🗣️ Español
-⏰ 16:45 | 21:15
-🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73765
+⏰ 16:10 | 22:00
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73957
 ---
 
 ### La Tumba de las Luciérnagas
 🗣️ Español
-⏰ 13:50 | 16:00 | 18:15 | 20:45
-🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73786
+⏰ 14:30 | 19:50
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73943
 ---
 
 ### Médium
 🗣️ Español
-⏰ 17:15 | 19:40 | 22:00
-🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73780
+⏰ 21:50
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73942
 ---
 
 ### Mesa De Regalos
 🗣️ Español
-⏰ 13:30 | 15:45 | 18:00 | 20:20
-🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73760
+⏰ 13:30 | 18:30
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73952
 ---
 
 ### Mufasa: El Rey León
 🗣️ Español
-⏰ 13:20 | 16:20 | 19:15
-🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73753
----
-
-### Nosferatu
-🗣️ Español
-⏰ 17:25
-🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73784
----
-
-### Paddington Aventura En La Selva
-🗣️ Español
-⏰ 14:35
-🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73779
----
-
-### Re Estreno Interestelar
-🗣️ Español
-⏰ 13:00 | 16:30 | 20:00
-🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73757
+⏰ 17:00 | 22:05
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73944
 ---
 
 ### Sonic 3: La Película
 🗣️ Español
-⏰ 13:40 | 16:10 | 18:45
-🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73772
----
-
-### Un Completo Desconocido
-🗣️ Español
-⏰ 21:30
-🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73775
+⏰ 13:10 | 18:50
+🎟️ compra.cinepolis.com/?cinemaVistaId=944&showtimeVistaId=73956
 ---
 
 ## 🏢 Cinépolis Fórum Buenavista
 
-### Amenaza En El Aire
+### Bridget Jones: Loca Por Él
 🗣️ Español
-⏰ 13:40 | 17:50
-🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109926
+⏰ 12:40 | 18:20 | 21:10 | 15:30
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=110066
 ---
 
-### Compañera Perfecta
-🗣️ Español
-⏰ 13:50 | 21:00
-🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109922
----
-
-### Cónclave
-🗣️ Español
-⏰ 20:25
-🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109967
+### Capitán América: Un Nuevo Mundo
+🗣️ Español | ⭐ 4DX
+⏰ 11:20 | 17:00 | 11:50 | 12:10 | 12:30 | 13:50 | 14:40 | 15:00 | 15:20 | 15:40 | 16:00 | 16:40 | 17:30 | 17:50 | 18:10 | 18:50 | 19:30 | 20:20 | 20:40 | 21:00 | 22:10 | 12:50 | 13:10 | 18:30 | 21:20 | 13:30 | 19:10 | 22:00 | 14:10 | 19:50 | 16:20
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109114
 ---
 
 ### Déjame Estar Contigo
 🗣️ Español
-⏰ 16:10 | 18:20
-🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109927
+⏰ 12:15 | 22:20
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=110106
 ---
 
 ### El Brutalista
 🌍 SUB
-⏰ 12:40 | 13:30 | 16:00 | 20:20
-🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109919
+⏰ 14:30 | 19:00
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=110070
 ---
 
-### Emilia Pérez
-🌍 SUB
-⏰ 20:30
-🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109929
+### El Maravilloso Mago De Oz
+🗣️ Español
+⏰ 12:20 | 16:50
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=110098
 ---
 
 ### Estación Fantasma
 🗣️ Español
-⏰ 16:20 | 18:40
-🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109923
+⏰ 17:40 | 22:30
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=110100
 ---
 
 ### Flow
 🗣️ Español
-⏰ 12:50 | 15:10 | 17:30
-🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109969
+⏰ 11:40 | 14:00 | 16:30 | 18:40
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=110093
 ---
 
-### Hombre Lobo
+### Hijos Del Diablo
 🗣️ Español
-⏰ 17:10
-🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109945
----
-
-### Implacable
-🗣️ Español
-⏰ 14:00 | 19:20 | 16:40 | 22:00
-🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109951
+⏰ 19:50 | 21:50
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=110109
 ---
 
 ### Las Aventuras De Dog Man
 🗣️ Español
-⏰ 14:30 | 17:20 | 20:10
-🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109962
+⏰ 12:00 | 14:50
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=110101
 ---
 
 ### La Tumba de las Luciérnagas
 🗣️ Español
-⏰ 13:00 | 17:40 | 15:20 | 20:00
-🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109071
----
-
-### Lluvia
-🗣️ Español
-⏰ 14:40 | 19:40
-🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109944
+⏰ 13:20 | 18:00 | 15:50 | 20:10
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=110071
 ---
 
 ### Médium
 🗣️ Español
-⏰ 16:35 | 21:45 | 19:10
-🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109956
+⏰ 20:50
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=110097
 ---
 
 ### Mesa De Regalos
 🗣️ Español
-⏰ 14:10 | 16:30 | 18:50 | 21:10
-🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109935
+⏰ 15:10 | 19:20
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=110099
+---
+
+### Mijares Sinfónico: Celebra el Amor
+🗣️ Español
+⏰ 20:00
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109079
 ---
 
 ### Mufasa: El Rey León
-🗣️ Español | ⭐ 4DX
-⏰ 15:00 | 18:00 | 20:50
-🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109959
+🗣️ Español
+⏰ 17:20 | 20:30
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=110103
 ---
 
 ### Nosferatu
 🗣️ Español
-⏰ 15:30 | 21:30 | 18:30
-🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109941
----
-
-### Paddington Aventura En La Selva
-🗣️ Español
-⏰ 14:50
-🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109965
+⏰ 11:30 | 21:40
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=110115
 ---
 
 ### Re Estreno Interestelar
-🗣️ Español | ⭐ IMAX
-⏰ 17:00 | 20:40
-🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109920
+🌍 SUB
+⏰ 13:00
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=110091
 ---
 
-### Una Pequeña Confusión
-🗣️ Español
-⏰ 13:45
-🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109955
----
-
-### Un Completo Desconocido
-🗣️ Español
-⏰ 18:10 | 21:20
-🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=109931
+### Un Dolor Real
+🌍 SUB
+⏰ 14:30 | 17:10
+🎟️ compra.cinepolis.com/?cinemaVistaId=297&showtimeVistaId=110105
 ---
 
 ## 🏢 Cinépolis Diana
 
 ### Acaba Con Ellos
 🌍 SUB
-⏰ 17:20 | 19:35 | 21:50
-🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53640
+⏰ 14:40
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53716
 ---
 
 ### Anora
 🌍 SUB
-⏰ 17:45
-🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53623
+⏰ 15:05 | 21:10
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53725
 ---
 
-### Aún Estoy Aquí
+### Bridget Jones: Loca Por Él
 🌍 SUB
-⏰ 21:20
-🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53676
+⏰ 12:50 | 15:30 | 18:20 | 21:00
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53854
 ---
 
-### Cómo Ser Millonario Antes Que Muera La Abuela
+### Capitán América: Un Nuevo Mundo
 🌍 SUB
-⏰ 13:50
-🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53681
----
-
-### Compañera Perfecta
-🌍 SUB
-⏰ 13:30 | 21:10
-🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53625
+⏰ 12:40 | 13:20 | 15:20 | 16:00 | 18:00 | 18:40 | 20:40 | 21:20
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53196
 ---
 
 ### Cónclave
 🌍 SUB
-⏰ 18:30
-🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53627
----
-
-### Déjame Estar Contigo
-🗣️ Español
-⏰ 15:20
-🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53639
----
-
-### Duna Parte Dos
-🌍 SUB
-⏰ 20:05
-🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53617
+⏰ 14:20 | 19:05
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53733
 ---
 
 ### El Brutalista
 🌍 SUB
-⏰ 16:15 | 20:20
-🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53619
----
-
-### Emilia Pérez
-🌍 SUB
-⏰ 15:45
-🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53626
+⏰ 16:20 | 20:25
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53713
 ---
 
 ### Flow
 🗣️ Español
-⏰ 14:10 | 16:05
-🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53629
+⏰ 15:40 | 17:40
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53720
 ---
 
-### La Semilla Del Fruto Sagrado
+### Las Vidas De Sing Sing
 🌍 SUB
-⏰ 13:20
-🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53615
+⏰ 17:20 | 20:00
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53717
 ---
 
 ### La Tumba de las Luciérnagas
 🌍 SUB
-⏰ 16:40 | 19:00
-🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53180
----
-
-### Mesa De Regalos
-🗣️ Español
-⏰ 15:35
-🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53622
+⏰ 17:00 | 21:40
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53734
 ---
 
 ### Nosferatu
 🌍 SUB
-⏰ 18:05
-🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53631
----
-
-### Re Estreno Interestelar
-🌍 SUB
-⏰ 20:50
-🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53632
----
-
-### Sonic 3: La Película
-🗣️ Español
-⏰ 13:00
-🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53638
+⏰ 13:10
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53712
 ---
 
 ### Un Completo Desconocido
 🌍 SUB
-⏰ 20:40
-🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53624
+⏰ 18:10
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53726
 ---
 
 ### Un Dolor Real
-🌍 SUB
-⏰ 14:50 | 17:00 | 19:15 | 21:35
-🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53634
----
-
-### Wicked
 🗣️ Español | ⭐ 4DX
-⏰ 16:50
-🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53616
+⏰ 13:40 | 19:40 | 21:50
+🎟️ compra.cinepolis.com/?cinemaVistaId=155&showtimeVistaId=53719
 ---
 
-### El Maravilloso Mago De Oz
+### Maria Callas
 ---
 
-### Hijos Del Diablo
+### El Mono
 ---
 
-### Las Vidas De Sing Sing
+### Memorias De Un Caracol
 ---
 
-### Bridget Jones: Loca Por Él
+### Aún Estoy Aquí
 ---
 
-### Capitán América: Un Nuevo Mundo
+### Bambi Una Aventura En El Bosque
 ---
 
-### Trivia Night by Cinépolis y Capitán América: Un Nuevo Mundo
+### September 5
 ---
 
 ## 🎬 Clasificaciones
 
-Amenaza En El Aire ESP GOB: 20817-B | Compañera Perfecta ESP GOB: 20884-B15 | Déjame Estar Contigo ESP GOB: 20814-B | Hombre Lobo ESP GOB: 20871-B15 | Implacable ESP GOB: 20877-B15 | Las Aventuras De Dog Man ESP GOB: 20886-A | La Tumba de las Luciérnagas ESP GOB: 20918-B | Mesa De Regalos ESP GOB: 20856-B15 | Re Estreno Interestelar ESP GOB: 15157-B | Sonic 3: La Película ESP GOB: 20829-A  | Amenaza En El Aire SP ESP GOB: 20817-B | Compañera Perfecta SP ESP GOB: 20884-B15 | Cónclave SP ESP GOB: 20705-B | Déjame Estar Contigo SP ESP GOB: 20814-B | Emilia Pérez SP SUB GOB: 20672-B15 | Flow SP ESP GOB: 20688-A | Implacable SP ESP GOB: 20877-B15 | Las Aventuras De Dog Man SJ ESP GOB: 20886-A | La Sobreviviente: La Caída Del Vuelo 811 ESP GOB: 20755-B | La Tumba de las Luciérnagas SP ESP GOB: 20918-B | Médium SP ESP GOB: 20760-B | Mesa De Regalos SP ESP GOB: 20856-B15 | Mufasa: El Rey León SP ESP GOB: 20823-A | Nosferatu SP ESP GOB: 20726-B15 | Paddington Aventura En La Selva SP ESP GOB: 20837-A | Re Estreno Interestelar SP ESP GOB: 15157-B | Re Estreno Interestelar SP SUB GOB: 15157-B | Sonic 3: La Película SP ESP GOB: 20829-A  | Un Completo Desconocido SP ESP GOB: 20906-B | Amenaza En El Aire SUB GOB: 20816-B | Compañera Perfecta SUB GOB: 20883-B15 | Cónclave ESP GOB: 20705-B | El Brutalista SUB GOB: 20698-C | Emilia Pérez SUB GOB: 20672-B15 | Estación Fantasma ESP GOB: 20846-B | Flow ESP GOB: 20688-A | Implacable SUB GOB: 20876-B15 | La Tumba de las Luciérnagas SUB GOB: 20918-B | Lluvia ESP GOB: 20243-B | Médium ESP GOB: 20760-B | Médium SUB GOB: 20759-B | Mufasa: El Rey León 4DX 2D ESP GOB: | Nosferatu ESP GOB: 20726-B15 | Nosferatu SUB GOB: 20725-B15 | Paddington Aventura En La Selva ESP GOB: 20837-A | Re Estreno Interestelar IMAX SUB GOB: 15157-B | Una Pequeña Confusión ESP GOB: 20815-B | Un Completo Desconocido SUB GOB: 20905-B | Un Completo Desconocido ESP GOB: 20906-B | Acaba Con Ellos SUB GOB: 20901-B15 | Anora SUB GOB: 20665-C | Aún Estoy Aquí SUB GOB: 20914-B | Cómo Ser Millonario Antes Que Muera La Abuela SUB GOB: 20818-A | Cónclave SUB GOB: 20704-B | Duna Parte Dos SUB GOB: 20284-B | La Semilla Del Fruto Sagrado SUB GOB: 20699-B | Re Estreno Interestelar SUB GOB: 15157-B | Un Dolor Real SUB GOB: 20800-B | Wicked SUB GOB: 20771-A |
+Bridget Jones: Loca Por Él ESP GOB: 20928-B | Capitán América: Un Nuevo Mundo ESP GOB: 20932-B | Capitán América: Un Nuevo Mundo 3D ESP GOB: 20933-B | Implacable ESP GOB: 20877-B15 | Las Aventuras De Dog Man ESP GOB: 20886-A | La Tumba de las Luciérnagas ESP GOB: 20918-B | Mesa De Regalos ESP GOB: 20856-B15 | Bridget Jones: Loca Por Él SP ESP GOB: 20928-B | Bridget Jones: Loca Por Él SP SUB GOB: 20927-B | Capitán América: Un Nuevo Mundo SP ESP GOB: 20932-B | Capitán América: Un Nuevo Mundo SP 3D ESP GOB: 20933-B | Capitán América: Un Nuevo Mundo SP SUB GOB: 20931-B | Compañera Perfecta SP ESP GOB: 20884-B15 | El Maravilloso Mago De Oz SP ESP GOB: 20910-A | Flow SP ESP GOB: 20688-A | Hijos Del Diablo SP ESP GOB: 20913-B | Implacable SP ESP GOB: 20877-B15 | Las Aventuras De Dog Man SJ ESP GOB: 20886-A | La Tumba de las Luciérnagas SP ESP GOB: 20918-B | Médium SP ESP GOB: 20760-B | Mesa De Regalos SP ESP GOB: 20856-B15 | Mufasa: El Rey León SP ESP GOB: 20823-A | Sonic 3: La Película SJ ESP GOB: 20829-A  | Bridget Jones: Loca Por Él SUB GOB: 20927-B | Capitán América: Un Nuevo Mundo IMAX 3D SUB GOB: 20935-B | Capitán América: Un Nuevo Mundo SUB GOB: 20931-B | Capitán América: Un Nuevo Mundo 4DX 3D ESP GOB: 20933-B | Capitán América: Un Nuevo Mundo IMAX SUB GOB: 20935-B | Capitán América: Un Nuevo Mundo 4DX 3D SUB GOB: 20933-B | Déjame Estar Contigo ESP GOB: 20814-B | El Brutalista SUB GOB: 20698-C | El Maravilloso Mago De Oz ESP GOB: 20910-A | Estación Fantasma ESP GOB: 20846-B | Flow ESP GOB: 20688-A | Hijos Del Diablo ESP GOB: 20913-B | La Tumba de las Luciérnagas SUB GOB: 20918-B | Médium ESP GOB: 20760-B | Mijares Sinfónico: Celebra el Amor ESP GOB: 20930-A | Mufasa: El Rey León SJ ESP GOB: 20823-A | Nosferatu ESP GOB: 20726-B15 | Re Estreno Interestelar SUB GOB: 15157-B | Un Dolor Real SUB GOB: 20800-B | Acaba Con Ellos SUB GOB: 20901-B15 | Anora SUB GOB: 20665-C | Cónclave SUB GOB: 20704-B | Las Vidas De Sing Sing SUB GOB: 20911-A | Nosferatu SUB GOB: 20725-B15 | Un Completo Desconocido SUB GOB: 20905-B |
