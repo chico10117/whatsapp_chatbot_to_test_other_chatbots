@@ -65,9 +65,9 @@ async function shouldUpdateCartelera() {
     }
 }
 function calculateTypingTime(text) {
-    const wordsPerMinute = 200; // Average typing speed
+    const wordsPerMinute = 200; // Increased typing speed
     const words = text.split(' ').length;
-    const typingTime = (words / wordsPerMinute) * 60 * 1000; // Convert to milliseconds
+    const typingTime = Math.max(500, (words / wordsPerMinute) * 60 * 1000); // Minimum 500ms delay
     return typingTime;
 }
 
@@ -155,14 +155,15 @@ const proc = async m => {
             model: 'gpt-4o',
             messages: [
                 { role: "developer", content: prompt },
+                { role: "system", content: `El nombre del usuario es ${pushName || 'unknown'}` },
                 ...messages.conversation.map((entry) => ({ role: entry.role, content: entry.content })),
                 { role: "user", content: msg }
             ],
             max_tokens: 16000,
-            temperature: 0.7,
+            temperature: 1,
             response_format: {
                 "type": "json_object"
-              }
+            }
         });
 
         let jsonResponse = gptResponse.choices[0].message.content;
