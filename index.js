@@ -42,7 +42,7 @@ async function sendPromoQR(jid, qrCode) {
 
     await globalClient.sendMessage(jid, {
       image: { url: promo.path },
-      caption: `🎁 ¡Aquí está tu promoción especial!\n\n${promo.description}`
+      caption: `🎁 ¡Presenta este QR para utilizar la promoción!`
     });
   } catch (error) {
     console.error('Error sending QR promotion:', error);
@@ -63,6 +63,12 @@ async function shouldUpdateCartelera() {
         // If file doesn't exist or other error, we should update
         return true;
     }
+}
+function calculateTypingTime(text) {
+    const wordsPerMinute = 200; // Average typing speed
+    const words = text.split(' ').length;
+    const typingTime = (words / wordsPerMinute) * 60 * 1000; // Convert to milliseconds
+    return typingTime;
 }
 
 // Schedule cartelera updates every hour
@@ -90,7 +96,7 @@ const proc = async m => {
     // Get message details
     const message = m.messages[0];
     let msg = '';
-
+    
     // Handle different message types
     if (message.message?.conversation) {
         msg = message.message.conversation;
@@ -132,8 +138,7 @@ const proc = async m => {
         const cartelera = await fs.readFile('cinepolis_cartelera.md', 'utf-8');
 
         // Prepare prompt with cartelera data
-        const prompt = `${promptBuilder.buildGeneralPrompt(cartelera)}
-        El nombre del usuario con el que estás hablando es: ${pushName}`;
+        const prompt = `${promptBuilder.buildGeneralPrompt(cartelera)}`;
 
         // Send typing indicator
         await globalClient.presenceSubscribe(jid);
@@ -144,34 +149,50 @@ const proc = async m => {
         console.log('User Message:', msg);
         console.log('Conversation History Length:', messages.conversation.length);
         console.log('=====================\n');
+        const startTime = Date.now();
 
         const gptResponse = await client.chat.completions.create({
             model: 'gpt-4o',
             messages: [
-                { role: "assistant", content: prompt },
+                { role: "developer", content: prompt },
                 ...messages.conversation.map((entry) => ({ role: entry.role, content: entry.content })),
                 { role: "user", content: msg }
             ],
             max_tokens: 16000,
             temperature: 0.7,
+            response_format: {
+                "type": "json_object"
+              }
         });
 
-        const botResponse = gptResponse.choices[0].message.content;
+        let jsonResponse = gptResponse.choices[0].message.content;
+console.log(jsonResponse);
+        // Process JSON responses from the bot
+        jsonResponse = JSON.parse(jsonResponse);
+        const botResponse = jsonResponse.messageToUser;
+        const userState = jsonResponse.userData;
+
 
         console.log('\n=== OpenAI Response ===');
         console.log('Response:', botResponse);
+        console.log('userState:', userState);
         console.log('======================\n');
 
-        // Update history and send response
-        updateConversationHistory(jid, 'assistant', botResponse);
-        await globalClient.sendMessage(jid, { text: botResponse });
 
-        // Check if the response contains a QR code reference
-        if (botResponse.includes('QR1')) {
-          await sendPromoQR(jid, 'QR1');
-        } else if (botResponse.includes('QR2')) {
-          await sendPromoQR(jid, 'QR2');
+        const elapsedTime = Date.now() - startTime;
+        const typingTime = calculateTypingTime(botResponse);
+        const remainingTime = typingTime - elapsedTime;
+        if (remainingTime > 0) {
+            await delay(remainingTime);
         }
+
+        updateConversationHistory(jid, 'assistant', botResponse, JSON.stringify(userState));
+
+        await globalClient.sendMessage(jid, { text: botResponse });
+        if(jsonResponse.readyToSendPromo){
+            // Check if the response contains a QR code reference
+                await sendPromoQR(jid, 'QR1');
+            }
 
         await globalClient.sendPresenceUpdate('paused', jid);
     } catch (error) {
@@ -186,13 +207,14 @@ const proc = async m => {
 const processMessage = message => queue.add(() => proc(message));
 
 // Conversation history management
-function updateConversationHistory(userId, role, content) {
+function updateConversationHistory(userId, role, content, state) {
     if (!conversationHistory.has(userId)) {
-        conversationHistory.set(userId, { conversation: [], lastInteraction: Date.now() });
+        conversationHistory.set(userId, { conversation: [], lastInteraction: Date.now(), state: {} });
     }
 
     conversationHistory.get(userId).conversation.push({ role, content });
     conversationHistory.get(userId).lastInteraction = Date.now();
+    if(state) conversationHistory.get(userId).state = { ...conversationHistory.get(userId).state, ...state };
 
     // Clean up old conversations (1 hour TTL)
     const oneHourAgo = Date.now() - 60 * 60 * 1000;
