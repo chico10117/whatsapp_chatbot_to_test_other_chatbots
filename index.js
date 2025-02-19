@@ -166,7 +166,7 @@ const proc = async m => {
         });
 
         let jsonResponse = gptResponse.choices[0].message.content;
-console.log(jsonResponse);
+        console.log(jsonResponse);
         // Process JSON responses from the bot
         jsonResponse = JSON.parse(jsonResponse);
         const botResponse = jsonResponse.messageToUser;
@@ -186,12 +186,15 @@ console.log(jsonResponse);
             await delay(remainingTime);
         }
 
-        updateConversationHistory(jid, 'assistant', botResponse, JSON.stringify(userState));
+        updateConversationHistory(jid, 'assistant', botResponse, userState);
 
         await globalClient.sendMessage(jid, { text: botResponse });
         if(jsonResponse.readyToSendPromo){
             // Check if the response contains a QR code reference
                 await sendPromoQR(jid, 'QR1');
+                // Reset the user state
+                const userStateUpdated = resetConversationState(jid);
+                updateConversationHistory(jid, 'developer', "A partir de ahora el estado del usuario se reinicia para seguir con otra conversacion.", userStateUpdated);
             }
 
         await globalClient.sendPresenceUpdate('paused', jid);
@@ -223,6 +226,12 @@ function updateConversationHistory(userId, role, content, state) {
             conversationHistory.delete(userId);
         }
     }
+}
+function resetConversationState(userId) {
+    const userState = conversationHistory.get(userId).state;
+    userState.readyToSendPromo = false;
+    userState.userData = {...userState.userData, tipoPromo: null, numPersonas: null, promocionSeleccionada: null};
+    return userState;
 }
 
 function getMessages(userId) {
