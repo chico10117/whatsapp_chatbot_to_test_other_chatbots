@@ -185,12 +185,10 @@ const proc = async m => {
         const botResponse = jsonResponse.messageToUser;
         const userState = jsonResponse.userData;
 
-
         console.log('\n=== OpenAI Response ===');
         console.log('Response:', botResponse);
         console.log('userState:', userState);
         console.log('======================\n');
-
 
         const elapsedTime = Date.now() - startTime;
         const typingTime = calculateTypingTime(botResponse);
@@ -203,12 +201,8 @@ const proc = async m => {
 
         await globalClient.sendMessage(jid, { text: botResponse });
         if(jsonResponse.readyToSendPromo){
-            // Check if the response contains a QR code reference
-                await sendPromoQR(jid, 'QR1');
-                // Reset the user state
-                const userStateUpdated = resetConversationState(jid);
-                updateConversationHistory(jid, 'developer', "A partir de ahora el estado del usuario se reinicia para seguir con otra conversacion.", userStateUpdated);
-            }
+            await sendPromoQR(jid, 'QR1');
+        }
 
         await globalClient.sendPresenceUpdate('paused', jid);
     } catch (error) {
@@ -240,14 +234,6 @@ function updateConversationHistory(userId, role, content, state) {
             qrSentStatus.delete(userId);
         }
     }
-}
-function resetConversationState(userId) {
-    const userState = conversationHistory.get(userId).state;
-    userState.readyToSendPromo = false;
-    userState.userData = {...userState.userData, tipoPromo: null, numPersonas: null, promocionSeleccionada: null};
-    // Reset QR sent status
-    qrSentStatus.delete(userId);
-    return userState;
 }
 
 function getMessages(userId) {
