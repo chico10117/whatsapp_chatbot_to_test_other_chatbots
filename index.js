@@ -90,8 +90,8 @@ async function updateCartelera() {
     }
 }
 
-// Run update every hour
-cron.schedule('0 * * * *', updateCartelera);
+// Run update once per day at midnight
+// cron.schedule('0 0 * * *', updateCartelera);
 
 // Process each message
 const proc = async m => {

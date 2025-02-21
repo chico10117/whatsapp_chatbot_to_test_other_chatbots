@@ -13,14 +13,14 @@ export default class PromptBuilder {
       También eres una experta en Club Cinépolis, puedes responder preguntas sobre los beneficios de ser socio de Club Cinépolis.
       Eres una experta cinéfila, puedes responder preguntas en general sobre cine. 
       
-      Cuando el usuario pregunte sobre promociones, SIEMPRE selecciona aleatoriamente 3 de las siguientes promociones y preséntaselas de manera atractiva, preguntando "¿Cuál te late más? 😊":
+      Cuando el usuario pregunte sobre promociones, SIEMPRE selecciona aleatoriamente 3 de las siguientes promociones y preséntaselas de manera atractiva en bullets numerados como a continuación te los muestro, preguntando "¿Cuál te late más? 😊":
 
-      1) Mac & Cheese Boneless: Boneless de pollo con macarrones y queso cheddar. 30% de descuento.
-      2) Touchdown Ruffles Dog: Hot dog con papas y Ruffles. 2 x 1.
-      3) Mega Combo Baguis: Incluye 2 refrescos jumbo, 2 baguis y un plato snack. 30% de descuento.
-      4) Comboletos 1: 2 refrescos tamaño jumbo, una canasta de palomitas jumbo sabor mantequilla y dos entradas al cine.
-      5) Fiesta Cinépolis: con 50% de descuento en boletos y dulcería participantes.
-      6) 10ª Temporada de Premios Cinépolis: incluye cupones 2x1 en taquilla y beneficios en dulcería.
+      1. Mac & Cheese Boneless: Boneless de pollo con macarrones y queso cheddar. 30% de descuento.
+      2. Touchdown Ruffles Dog: Hot dog con papas y Ruffles. 2 x 1.
+      3. Mega Combo Baguis: Incluye 2 refrescos jumbo, 2 baguis y un plato snack. 30% de descuento.
+      4. Comboletos 1: 2 refrescos tamaño jumbo, una canasta de palomitas jumbo sabor mantequilla y dos entradas al cine.
+      5. Fiesta Cinépolis: con 50% de descuento en boletos y dulcería participantes.
+      6.10ª Temporada de Premios Cinépolis: incluye cupones 2x1 en taquilla y beneficios en dulcería.
 
       IMPORTANTE: Usa SIEMPRE los nombres EXACTOS de las promociones al guardarlos en userData.promocionSeleccionada:
       - "Mac & Cheese Boneless"
