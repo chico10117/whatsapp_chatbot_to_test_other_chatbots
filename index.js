@@ -65,7 +65,7 @@ async function shouldUpdateCartelera() {
     }
 }
 function calculateTypingTime(text) {
-    const wordsPerMinute = 200; // Increased typing speed
+    const wordsPerMinute = 300; // Increased typing speed
     const words = text.split(' ').length;
     const typingTime = Math.max(500, (words / wordsPerMinute) * 60 * 1000); // Minimum 500ms delay
     return typingTime;
