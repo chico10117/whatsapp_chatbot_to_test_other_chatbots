@@ -37,12 +37,6 @@ const qrSentStatus = new Map();
 // Modify the sendPromoQR function to track sending status
 async function sendPromoQR(jid, qrCode) {
   try {
-    // Check if QR was already sent in this conversation
-    if (qrSentStatus.get(jid)) {
-      console.log(`QR already sent to ${jid}, skipping`);
-      return;
-    }
-
     const promo = QR_PROMOTIONS[qrCode];
     if (!promo) {
       console.error(`QR code ${qrCode} not found`);
@@ -54,8 +48,6 @@ async function sendPromoQR(jid, qrCode) {
       caption: `🎁 ¡Presenta este QR para utilizar la promoción!`
     });
     
-    // Mark QR as sent for this conversation
-    qrSentStatus.set(jid, true);
   } catch (error) {
     console.error('Error sending QR promotion:', error);
     await globalClient.sendMessage(jid, { 
@@ -231,7 +223,6 @@ function updateConversationHistory(userId, role, content, state) {
     for (const [userId, { lastInteraction }] of conversationHistory) {
         if (lastInteraction < oneHourAgo) {
             conversationHistory.delete(userId);
-            qrSentStatus.delete(userId);
         }
     }
 }
