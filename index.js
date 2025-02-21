@@ -69,7 +69,7 @@ async function shouldUpdateCartelera() {
     }
 }
 function calculateTypingTime(text) {
-    const wordsPerMinute = 300; // Increased typing speed
+    const wordsPerMinute = 400; // Increased typing speed
     const words = text.split(' ').length;
     const typingTime = Math.max(500, (words / wordsPerMinute) * 60 * 1000); // Minimum 500ms delay
     return typingTime;
@@ -211,12 +211,25 @@ const processMessage = message => queue.add(() => proc(message));
 // Conversation history management
 function updateConversationHistory(userId, role, content, state) {
     if (!conversationHistory.has(userId)) {
-        conversationHistory.set(userId, { conversation: [], lastInteraction: Date.now(), state: {} });
+        conversationHistory.set(userId, { 
+            conversation: [], 
+            lastInteraction: Date.now(), 
+            state: {},
+            sentPromotions: new Set() // Track sent promotions
+        });
     }
 
-    conversationHistory.get(userId).conversation.push({ role, content });
-    conversationHistory.get(userId).lastInteraction = Date.now();
-    if(state) conversationHistory.get(userId).state = { ...conversationHistory.get(userId).state, ...state };
+    const userHistory = conversationHistory.get(userId);
+    userHistory.conversation.push({ role, content });
+    userHistory.lastInteraction = Date.now();
+    
+    if(state) {
+        userHistory.state = { ...userHistory.state, ...state };
+        // If a promotion was selected, add it to sentPromotions
+        if(state.promocionSeleccionada) {
+            userHistory.sentPromotions.add(state.promocionSeleccionada);
+        }
+    }
 
     // Clean up old conversations (1 hour TTL)
     const oneHourAgo = Date.now() - 60 * 60 * 1000;
@@ -228,7 +241,11 @@ function updateConversationHistory(userId, role, content, state) {
 }
 
 function getMessages(userId) {
-    return conversationHistory.get(userId) || [];
+    return conversationHistory.get(userId) || { 
+        conversation: [], 
+        state: {}, 
+        sentPromotions: new Set() 
+    };
 }
 
 // WhatsApp connection setup
