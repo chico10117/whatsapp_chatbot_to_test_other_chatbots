@@ -134,15 +134,21 @@ const proc = async m => {
             return;
         }
 
-        // Update conversation history
+        // Get user history including sent promotions
+        const userHistory = getMessages(jid);
+        
+        // Update conversation history with user message
         updateConversationHistory(jid, 'user', msg);
-        const messages = getMessages(jid);
 
         // Read the current cartelera data
         const cartelera = await fs.readFile('cinepolis_cartelera.md', 'utf-8');
 
-        // Prepare prompt with cartelera data
-        const prompt = `${promptBuilder.buildGeneralPrompt(cartelera)}`;
+        // Prepare prompt with cartelera data and user state
+        const prompt = `${promptBuilder.buildGeneralPrompt(cartelera)}
+        
+        ESTADO ACTUAL DEL USUARIO:
+        Promociones ya enviadas: ${Array.from(userHistory.sentPromotions).join(', ')}
+        Última promoción seleccionada: ${userHistory.state.promocionSeleccionada || 'ninguna'}`;
 
         // Send typing indicator
         await globalClient.presenceSubscribe(jid);
@@ -151,7 +157,8 @@ const proc = async m => {
 
         console.log('\n=== OpenAI Request ===');
         console.log('User Message:', msg);
-        console.log('Conversation History Length:', messages.conversation.length);
+        console.log('Conversation History Length:', userHistory.conversation.length);
+        console.log('Sent Promotions:', Array.from(userHistory.sentPromotions));
         console.log('=====================\n');
         const startTime = Date.now();
 
@@ -160,7 +167,7 @@ const proc = async m => {
             messages: [
                 { role: "developer", content: prompt },
                 { role: "system", content: `El nombre del usuario es ${pushName || 'unknown'}` },
-                ...messages.conversation.map((entry) => ({ role: entry.role, content: entry.content })),
+                ...userHistory.conversation.map((entry) => ({ role: entry.role, content: entry.content })),
                 { role: "user", content: msg }
             ],
             max_tokens: 16000,
@@ -189,11 +196,54 @@ const proc = async m => {
             await delay(remainingTime);
         }
 
+        // Update conversation with bot response and new state
         updateConversationHistory(jid, 'assistant', botResponse, userState);
 
         await globalClient.sendMessage(jid, { text: botResponse });
-        if(jsonResponse.readyToSendPromo){
-            await sendPromoQR(jid, 'QR1');
+
+        // Debug logging for QR conditions
+        console.log('\n=== QR Send Conditions ===');
+        console.log('readyToSendPromo:', jsonResponse.readyToSendPromo);
+        console.log('promocionSeleccionada:', userState.promocionSeleccionada);
+        console.log('sentPromotions:', Array.from(userHistory.sentPromotions));
+        console.log('========================\n');
+
+        // Only send QR if:
+        // 1. readyToSendPromo is true
+        // 2. A promotion is selected
+        // 3. This specific promotion hasn't been sent before
+        if (jsonResponse.readyToSendPromo && 
+            userState.promocionSeleccionada && 
+            !userHistory.sentPromotions.has(userState.promocionSeleccionada)) {
+            
+            console.log('Sending QR for promotion:', userState.promocionSeleccionada);
+            
+            // Map promotion names to QR codes
+            const promoToQR = {
+                'Mac & Cheese Boneless': 'QR1',
+                'Touchdown Ruffles Dog': 'QR2',
+                'Mega Combo Baguis': 'QR3',
+                'Comboletos 1': 'QR4',
+                'Fiesta Cinépolis': 'QR5',
+                '10ª Temporada de Premios Cinépolis': 'QR6'
+            };
+
+            const qrCode = promoToQR[userState.promocionSeleccionada];
+            if (!qrCode) {
+                console.error('No QR code mapping found for promotion:', userState.promocionSeleccionada);
+                return;
+            }
+            
+            try {
+                await sendPromoQR(jid, qrCode);
+                // Only update sent promotions after successful QR sending
+                userHistory.sentPromotions.add(userState.promocionSeleccionada);
+                console.log('QR sent successfully for:', userState.promocionSeleccionada);
+            } catch (error) {
+                console.error('Failed to send QR:', error);
+            }
+        } else {
+            console.log('Skipping QR send due to conditions not met');
         }
 
         await globalClient.sendPresenceUpdate('paused', jid);
@@ -225,10 +275,7 @@ function updateConversationHistory(userId, role, content, state) {
     
     if(state) {
         userHistory.state = { ...userHistory.state, ...state };
-        // If a promotion was selected, add it to sentPromotions
-        if(state.promocionSeleccionada) {
-            userHistory.sentPromotions.add(state.promocionSeleccionada);
-        }
+        // Remove automatic promotion tracking here - we'll do it after successful QR sending
     }
 
     // Clean up old conversations (1 hour TTL)
