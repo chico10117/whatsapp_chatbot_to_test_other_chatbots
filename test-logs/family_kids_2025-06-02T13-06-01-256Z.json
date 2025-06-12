@@ -1,0 +1,163 @@
+{
+  "personaId": "family_kids",
+  "personaName": "Ana Familia",
+  "language": "es",
+  "description": "Madre de familia con dos niños pequeños",
+  "startTime": "2025-06-02T13:01:53.901Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola RECO, ¿conoces algún restaurante con zona de juegos para niños en la ciudad?",
+      "sentAt": "2025-06-02T13:01:55.613Z",
+      "response": "¡Hola! Sí, aquí tienes algunas opciones en Madrid de restaurantes con zona de juegos para niños:\n\n- **Restaulandia**: Diseñado para familias, con un área de juegos amplia y actividades para niños.\n- **La Familiar**: Ofrecen un espacio para que los niños jueguen mientras los adultos disfrutan de la comida.\n- **El Latigazo**: Tiene una zona de juegos al aire libre ideal para los más pequeños.\n\n¿Te gustaría más detalles sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T13:02:05.335Z",
+      "responseTime": 9722,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Oh, El Latigazo suena interesante. ¿Tienen menú infantil y tronas disponibles?",
+      "sentAt": "2025-06-02T13:02:07.657Z",
+      "response": "¡Sí! En El Latigazo, suelen ofrecer un menú infantil con opciones que gustan a los más pequeños. Además, disponen de tronas para mayor comodidad de las familias con niños. Es un lugar ideal para disfrutar de una comida en familia en un ambiente agradable. ¿Te gustaría saber algo más sobre El Latigazo?",
+      "receivedAt": "2025-06-02T13:02:20.297Z",
+      "responseTime": 12640,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "¿Podrías decirme qué tipo de actividades para niños ofrecen en El Latigazo?",
+      "sentAt": "2025-06-02T13:02:24.926Z",
+      "response": "En El Latigazo, además de su zona de juegos al aire libre, suelen organizar actividades para niños que pueden incluir:\n\n- **Talleres creativos**: Manualidades y actividades artísticas.\n- **Juegos al aire libre**: En su amplio espacio exterior.\n- **Animación**: A veces cuentan con animadores que entretienen a los más pequeños.\n\nEstas actividades hacen que sea un lugar ideal para que los niños se diviertan mientras los adultos disfrutan de su comida. ¿Te gustaría saber algo más?",
+      "receivedAt": "2025-06-02T13:02:39.359Z",
+      "responseTime": 14433,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "Suena bien. ¿Hacen reservas y tienen disponibilidad los fines de semana?",
+      "sentAt": "2025-06-02T13:02:45.144Z",
+      "response": "Sí, El Latigazo acepta reservas, lo cual es recomendable especialmente para los fines de semana, ya que suelen ser días más concurridos. Te sugiero contactar directamente con el restaurante para verificar la disponibilidad y asegurar tu mesa. ¿Hay algo más en lo que te pueda ayudar?",
+      "receivedAt": "2025-06-02T13:02:55.276Z",
+      "responseTime": 10132,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "¿Y tienen alguna restricción respecto a edades en la zona de juegos o pueden entrar niños de todas las edades?",
+      "sentAt": "2025-06-02T13:03:01.440Z",
+      "response": "En El Latigazo, la zona de juegos está diseñada para ser accesible a niños de diversas edades. Sin embargo, es posible que tengan ciertas recomendaciones o restricciones para garantizar la seguridad de los más pequeños. Te recomendaría consultar directamente con el restaurante para obtener detalles específicos sobre las edades permitidas y cualquier norma que puedan tener. ¿Hay algo más en lo que te pueda ayudar?",
+      "receivedAt": "2025-06-02T13:03:11.722Z",
+      "responseTime": 10282,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "¿Podrías recomendarme otro restaurante similar a El Latigazo pero que esté ubicado en el centro de la ciudad?",
+      "sentAt": "2025-06-02T13:03:17.019Z",
+      "response": "¡Claro! Si buscas un restaurante en el centro de Madrid con un enfoque familiar, te recomiendo **Restaulandia**. Está diseñado especialmente para familias, ofreciendo:\n\n- **Zona de juegos**: Espacio dedicado para que los niños se diviertan.\n- **Menú infantil**: Opciones adaptadas a los gustos de los más pequeños.\n- **Actividades para niños**: A menudo organizan eventos y talleres.\n\nEs una excelente opción para disfrutar de una comida en familia en el corazón de la ciudad. ¿Te gustaría más información sobre Restaulandia?",
+      "receivedAt": "2025-06-02T13:03:28.709Z",
+      "responseTime": 11690,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "Sí, por favor. ¿Restaulandia cuenta con tronas y algún espacio seguro para que los niños puedan moverse libremente?",
+      "sentAt": "2025-06-02T13:03:33.857Z",
+      "response": "¡Por supuesto! En Restaulandia, están bien equipados para recibir a familias con niños:\n\n- **Tronas**: Disponibles para mayor comodidad de los más pequeños.\n- **Espacio seguro**: Cuentan con un área de juegos donde los niños pueden moverse y jugar libremente en un entorno seguro.\n\nEs un lugar ideal para que los niños disfruten mientras los adultos se relajan y disfrutan de su comida. ¿Te gustaría saber algo más sobre Restaulandia?",
+      "receivedAt": "2025-06-02T13:03:47.111Z",
+      "responseTime": 13254,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "¿Qué tipo de menú infantil ofrecen en Restaulandia?",
+      "sentAt": "2025-06-02T13:03:51.865Z",
+      "response": "En Restaulandia, el menú infantil suele incluir platos que son populares entre los más pequeños, como:\n\n- **Pasta**: Con salsas suaves y adaptadas a los gustos infantiles.\n- **Mini hamburguesas**: Acompañadas de patatas fritas.\n- **Nuggets de pollo**: Una opción clásica que suele gustar a los niños.\n\nAdemás, suelen ofrecer postres sencillos y deliciosos para completar la comida. Es un menú diseñado para satisfacer los paladares de los más jóvenes. ¿Te gustaría saber algo más?",
+      "receivedAt": "2025-06-02T13:04:09.192Z",
+      "responseTime": 17327,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "¿Restaulandia tiene alguna opción vegetariana o sin gluten en su menú infantil?",
+      "sentAt": "2025-06-02T13:04:13.797Z",
+      "response": "En Restaulandia, suelen ser bastante flexibles y pueden ofrecer opciones vegetarianas o sin gluten en su menú infantil. Es recomendable preguntar al personal sobre las opciones disponibles al momento de tu visita, ya que pueden adaptar algunos platos para satisfacer necesidades dietéticas específicas. ¿Hay algo más en lo que te pueda ayudar?",
+      "receivedAt": "2025-06-02T13:04:23.078Z",
+      "responseTime": 9281,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "¿Podrías recomendarme un restaurante similar a Restaulandia pero que esté ubicado en un barrio más tranquilo de la ciudad?",
+      "sentAt": "2025-06-02T13:04:28.416Z",
+      "response": "¡Claro! Si buscas un restaurante en un barrio más tranquilo de Madrid, te recomiendo **La Familiar**. Está diseñado para familias y ofrece:\n\n- **Zona de juegos**: Espacio para que los niños se diviertan.\n- **Menú infantil**: Con opciones adaptadas a los gustos de los más pequeños.\n- **Ambiente acogedor**: Ideal para disfrutar de una comida relajada en familia.\n\nEstá ubicado en una zona más tranquila, lo que lo hace perfecto para una salida familiar sin el bullicio del centro. ¿Te gustaría más información sobre La Familiar?",
+      "receivedAt": "2025-06-02T13:04:40.006Z",
+      "responseTime": 11590,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "¿La Familiar cuenta con tronas y ofrecen actividades para niños los fines de semana?",
+      "sentAt": "2025-06-02T13:04:44.936Z",
+      "response": "Sí, en La Familiar están bien preparados para recibir a familias con niños:\n\n- **Tronas**: Disponibles para mayor comodidad de los más pequeños.\n- **Actividades para niños**: Suelen organizar actividades y juegos especialmente durante los fines de semana.\n\nEs un lugar ideal para disfrutar de una comida en familia mientras los niños se divierten. ¿Te gustaría saber algo más sobre La Familiar?",
+      "receivedAt": "2025-06-02T13:04:54.818Z",
+      "responseTime": 9882,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "¿Qué tipo de comida ofrecen en La Familiar y tienen opciones para niños con alergias alimentarias?",
+      "sentAt": "2025-06-02T13:04:59.671Z",
+      "response": "En La Familiar, ofrecen una variedad de platos que incluyen opciones tradicionales y modernas, ideales para toda la familia. Su menú suele incluir:\n\n- **Platos mediterráneos**: Como ensaladas, carnes y pescados.\n- **Opciones para niños**: Menú infantil con platos que suelen gustar a los más pequeños.\n\nEn cuanto a alergias alimentarias, son bastante atentos y pueden adaptar platos para satisfacer necesidades específicas. Te recomendaría informar al personal sobre cualquier alergia al hacer tu pedido para que puedan ofrecerte las opciones más seguras. ¿Hay algo más en lo que te pueda ayudar?",
+      "receivedAt": "2025-06-02T13:05:11.516Z",
+      "responseTime": 11845,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "¿La Familiar también cuenta con espacio al aire libre o es todo interior?",
+      "sentAt": "2025-06-02T13:05:16.221Z",
+      "response": "La Familiar cuenta con un espacio al aire libre, lo que es ideal para que las familias disfruten de una comida en un entorno más relajado y para que los niños tengan más libertad para moverse. También tienen áreas interiores acogedoras, por lo que puedes elegir según tus preferencias o las condiciones del tiempo. ¿Te gustaría saber algo más sobre La Familiar?",
+      "receivedAt": "2025-06-02T13:05:25.642Z",
+      "responseTime": 9421,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "¿Podrías decirme si en La Familiar es necesario hacer reserva para los fines de semana?",
+      "sentAt": "2025-06-02T13:05:30.753Z",
+      "response": "Sí, en La Familiar es recomendable hacer una reserva para los fines de semana, ya que suelen ser días más concurridos, especialmente si planeas ir con niños y quieres asegurarte de tener un espacio cómodo. Te sugiero contactar directamente con el restaurante para garantizar tu mesa. ¿Hay algo más en lo que te pueda ayudar?",
+      "receivedAt": "2025-06-02T13:05:45.189Z",
+      "responseTime": 14436,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "¿Y en La Familiar se necesita algún tipo de calzado especial para los niños en la zona de juegos o pueden entrar con cualquier tipo de zapatos?",
+      "sentAt": "2025-06-02T13:05:50.707Z",
+      "response": "En La Familiar, generalmente no se requiere un calzado especial para que los niños accedan a la zona de juegos. Sin embargo, es recomendable que los niños usen calzado cómodo y seguro para jugar. Siempre es una buena idea preguntar directamente en el restaurante si tienen alguna recomendación específica. ¿Hay algo más en lo que te pueda ayudar?",
+      "receivedAt": "2025-06-02T13:06:01.253Z",
+      "responseTime": 10546,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-06-02T13:06:01.254Z",
+  "duration": 247353
+}

@@ -1,0 +1,163 @@
+{
+  "personaId": "health_conscious",
+  "personaName": "María Fitness",
+  "language": "es",
+  "description": "Usuario consciente de la salud que busca opciones nutritivas",
+  "startTime": "2025-06-02T12:53:47.299Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola RECO, ¿me puedes recomendar algunos restaurantes veganos y orgánicos en la ciudad de Madrid?",
+      "sentAt": "2025-06-02T12:53:48.877Z",
+      "response": "¡Hola! Claro, aquí tienes algunas opciones de restaurantes veganos y orgánicos en Madrid:\n\n- **Crucina**: Ofrecen cocina crudivegana con ingredientes orgánicos.\n- **Rayen Vegano**: Conocido por su menú vegano y el uso de productos ecológicos.\n- **La Encomienda**: Un restaurante vegano que prioriza ingredientes orgánicos y de temporada.\n\n¿Te gustaría más información sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:54:01.582Z",
+      "responseTime": 12705,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Me interesa Crucina. ¿Podrías darme más detalles sobre su menú y si tienen opciones sin gluten?",
+      "sentAt": "2025-06-02T12:54:03.443Z",
+      "response": "¡Por supuesto! Crucina es un restaurante en Madrid especializado en cocina crudivegana, lo que significa que sus platos no se cocinan a más de 41°C para preservar los nutrientes. En su menú, puedes encontrar:\n\n- **Platos creativos**: Como lasañas de verduras y pizzas crudiveganas.\n- **Ensaladas**: Con ingredientes frescos y orgánicos.\n- **Postres**: Deliciosos y saludables, todos veganos.\n\nEn cuanto a opciones sin gluten, Crucina suele ofrecer varios platos que cumplen con esta necesidad dietética. Es recomendable preguntar al personal para confirmar las opciones disponibles. ¿Te gustaría saber algo más?",
+      "receivedAt": "2025-06-02T12:54:18.254Z",
+      "responseTime": 14811,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "Me encantan los postres, ¿tienen algún tipo de postre sin gluten y sin azúcar refinada?",
+      "sentAt": "2025-06-02T12:54:23.316Z",
+      "response": "¡Sí! En Crucina, se especializan en postres saludables que suelen ser sin gluten y sin azúcar refinada. Algunos ejemplos pueden incluir:\n\n- **Tartas crudiveganas**: Hechas con frutos secos y endulzadas con dátiles o sirope de agave.\n- **Mousse de chocolate**: Preparado con cacao puro y aguacate, endulzado naturalmente.\n\nEstos postres son deliciosos y están diseñados para ser una opción más saludable. Te recomendaría preguntar por las opciones disponibles el día de tu visita. ¿Hay algo más en lo que te pueda ayudar?",
+      "receivedAt": "2025-06-02T12:54:34.414Z",
+      "responseTime": 11098,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "Qué interesante. ¿Tienen también opciones de bebidas saludables como zumos naturales o smoothies?",
+      "sentAt": "2025-06-02T12:54:39.290Z",
+      "response": "¡Claro! En Crucina, además de su menú de comidas, suelen ofrecer una variedad de bebidas saludables, como:\n\n- **Zumos naturales**: Hechos con frutas y verduras frescas.\n- **Smoothies**: Preparados con ingredientes naturales y superalimentos.\n\nEstas bebidas son perfectas para complementar una comida saludable. ¿Te gustaría saber algo más sobre Crucina o algún otro lugar?",
+      "receivedAt": "2025-06-02T12:54:51.490Z",
+      "responseTime": 12200,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "¿Tienen en su menú smoothies con proteínas vegetales como la chía o la espirulina?",
+      "sentAt": "2025-06-02T12:54:56.464Z",
+      "response": "Sí, en Crucina suelen incluir en su menú smoothies que incorporan superalimentos como la chía y la espirulina. Estos ingredientes no solo aportan proteínas vegetales, sino también otros nutrientes beneficiosos. Es una excelente opción para quienes buscan una bebida saludable y nutritiva. Te recomendaría preguntar al personal sobre las opciones específicas disponibles durante tu visita. ¿Hay algo más en lo que te pueda ayudar?",
+      "receivedAt": "2025-06-02T12:55:06.177Z",
+      "responseTime": 9713,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "Eso suena genial. ¿Y qué tal el ambiente del restaurante? ¿Es un lugar tranquilo para cenar o más animado?",
+      "sentAt": "2025-06-02T12:55:11.211Z",
+      "response": "Crucina ofrece un ambiente acogedor y tranquilo, ideal para disfrutar de una cena relajada. El enfoque en la cocina saludable y el uso de ingredientes frescos se refleja en su decoración y atmósfera, que suele ser serena y propicia para una experiencia gastronómica placentera. Es un lugar perfecto para quienes buscan una cena tranquila y saludable. ¿Te gustaría saber algo más?",
+      "receivedAt": "2025-06-02T12:55:24.976Z",
+      "responseTime": 13765,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "Excelente. ¿Podrías recomendarme otro restaurante vegano con un ambiente más animado? Tal vez algo con eventos en vivo o música.",
+      "sentAt": "2025-06-02T12:55:30.316Z",
+      "response": "¡Claro! Si buscas un ambiente más animado, te recomiendo **VivaBurger** en Madrid. Este restaurante vegano es conocido por su ambiente vibrante y a veces organiza eventos especiales o noches temáticas con música en vivo. Además, ofrecen una variedad de hamburguesas veganas creativas y deliciosas. Es un lugar perfecto para disfrutar de buena comida en un entorno más dinámico. ¿Te gustaría más información sobre VivaBurger?",
+      "receivedAt": "2025-06-02T12:55:40.635Z",
+      "responseTime": 10319,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "Me gustan las hamburguesas. ¿Podrías decirme más sobre las opciones de hamburguesas veganas en VivaBurger?",
+      "sentAt": "2025-06-02T12:55:46.325Z",
+      "response": "¡Por supuesto! En VivaBurger, puedes encontrar una variedad de hamburguesas veganas deliciosas y creativas. Algunas de las opciones que suelen ofrecer incluyen:\n\n- **Hamburguesa Viva**: Hecha con ingredientes frescos y servida con guarniciones sabrosas.\n- **Hamburguesa de quinoa**: Una opción nutritiva y llena de sabor.\n- **Hamburguesa de lentejas**: Rica en proteínas vegetales y muy satisfactoria.\n\nCada hamburguesa viene acompañada de ingredientes frescos y salsas caseras. Es un lugar ideal para disfrutar de una buena hamburguesa vegana en un ambiente animado. ¿Te gustaría saber algo más?",
+      "receivedAt": "2025-06-02T12:56:00.811Z",
+      "responseTime": 14486,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "Suena delicioso. ¿Tienen opciones sin gluten para las hamburguesas?",
+      "sentAt": "2025-06-02T12:56:06.155Z",
+      "response": "Sí, en VivaBurger suelen ofrecer opciones sin gluten para sus hamburguesas. Puedes pedir que te sirvan la hamburguesa con pan sin gluten o incluso sin pan, acompañada de una ensalada o guarnición. Te recomendaría confirmar con el personal al hacer tu pedido para asegurarte de que cumpla con tus necesidades dietéticas. ¿Hay algo más en lo que te pueda ayudar?",
+      "receivedAt": "2025-06-02T12:56:15.652Z",
+      "responseTime": 9497,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "Está bien. Y en cuanto a las bebidas, ¿tienen zumos naturales o smoothies?",
+      "sentAt": "2025-06-02T12:56:20.258Z",
+      "response": "¡Sí! En VivaBurger, además de sus deliciosas hamburguesas, suelen ofrecer una selección de bebidas saludables, incluyendo zumos naturales y smoothies. Estas bebidas son perfectas para complementar tu comida y disfrutar de una experiencia refrescante y nutritiva. ¿Te gustaría saber algo más sobre VivaBurger o algún otro lugar?",
+      "receivedAt": "2025-06-02T12:56:31.811Z",
+      "responseTime": 11553,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "¿Tienen smoothies con proteínas vegetales como la espirulina o la chía en VivaBurger?",
+      "sentAt": "2025-06-02T12:56:36.435Z",
+      "response": "En VivaBurger, es posible que encuentres smoothies que incorporen superalimentos como la espirulina o la chía, ya que se enfocan en ofrecer opciones saludables y nutritivas. Sin embargo, te recomendaría preguntar al personal sobre las opciones específicas disponibles en el día de tu visita para asegurarte de que tengan estas proteínas vegetales. ¿Hay algo más en lo que te pueda ayudar?",
+      "receivedAt": "2025-06-02T12:56:45.085Z",
+      "responseTime": 8650,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "¿Podrías recomendarme un plato de VivaBurger que sea especialmente popular o único?",
+      "sentAt": "2025-06-02T12:56:49.687Z",
+      "response": "¡Claro! En VivaBurger, uno de los platos más populares y únicos es su **hamburguesa Viva**, que es una creación exclusiva del restaurante. Está hecha con ingredientes frescos y se sirve con una combinación de guarniciones y salsas caseras que realzan su sabor. Es una opción que muchos clientes disfrutan por su sabor y originalidad. ¿Te gustaría saber algo más sobre este plato o el restaurante?",
+      "receivedAt": "2025-06-02T12:56:59.175Z",
+      "responseTime": 9488,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "¿La hamburguesa Viva es picante o tiene alguna especia fuerte? Prefiero los sabores más suaves.",
+      "sentAt": "2025-06-02T12:57:03.896Z",
+      "response": "La hamburguesa Viva de VivaBurger generalmente no es picante y está diseñada para tener un sabor equilibrado que pueda gustar a una amplia variedad de paladares. Sin embargo, si prefieres sabores más suaves, te recomendaría mencionar tus preferencias al personal para que puedan ajustar cualquier ingrediente o salsa que pueda ser más fuerte. ¿Hay algo más en lo que te pueda ayudar?",
+      "receivedAt": "2025-06-02T12:57:17.485Z",
+      "responseTime": 13589,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "Eso suena perfecto. Finalmente, ¿qué tal es el ambiente en VivaBurger durante la cena? ¿Es un lugar ruidoso o más tranquilo?",
+      "sentAt": "2025-06-02T12:57:24.514Z",
+      "response": "VivaBurger ofrece un ambiente animado y acogedor, especialmente durante la cena. Es un lugar popular, por lo que puede haber bastante actividad y un ambiente vibrante, pero sigue siendo cómodo para disfrutar de una buena conversación. Ideal para quienes buscan una experiencia gastronómica más dinámica. ¿Hay algo más que te gustaría saber?",
+      "receivedAt": "2025-06-02T12:57:35.528Z",
+      "responseTime": 11014,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "Eso suena muy bien. ¿VivaBurger también ofrece opciones de postres veganos y sin gluten?",
+      "sentAt": "2025-06-02T12:57:40.515Z",
+      "response": "¡Sí! En VivaBurger, suelen ofrecer una variedad de postres veganos, y algunos de ellos pueden ser sin gluten. Estos postres están diseñados para ser deliciosos y satisfacer a quienes buscan opciones más saludables. Te recomendaría preguntar al personal sobre las opciones específicas de postres sin gluten disponibles en el día de tu visita. ¿Hay algo más en lo que te pueda ayudar?",
+      "receivedAt": "2025-06-02T12:57:49.837Z",
+      "responseTime": 9322,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-06-02T12:57:49.838Z",
+  "duration": 242539
+}

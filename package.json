@@ -1,13 +1,27 @@
 {
-  "name": "chatbotbios",
+  "name": "whatsapp-chatbot-reco-tester",
   "version": "1.0.0",
-  "description": "Este proyecto es un chatbot para WhatsApp que utiliza la API de WhatsApp Web para interactuar con los usuarios.",
+  "description": "BOTTY - WhatsApp Bot Tester for RECO chatbot with 5 personas and comprehensive analysis",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index.js",
+    "start-botty": "node botty.js",
+    "test-reco": "node botty.js",
+    "test-reco-dev": "NODE_ENV=development node botty.js",
+    "test-response-wait": "node test-response-wait.js",
+    "analyze-logs": "node scripts/analyze-logs.js"
   },
+  "keywords": [
+    "whatsapp",
+    "chatbot",
+    "testing",
+    "bot-testing",
+    "reco",
+    "automation",
+    "ai-analysis"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -24,6 +38,5 @@
     "p-queue": "^8.1.0",
     "puppeteer": "^24.2.0",
     "qrcode-terminal": "^0.12.0"
-  },
-  "keywords": []
+  }
 }

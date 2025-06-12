@@ -7,6 +7,7 @@ import OpenAI from 'openai';
 import CinepolisFetcher from './cinepolis-fetcher.js';
 import cron from 'node-cron';
 import { QR_PROMOTIONS } from './promotions.js';
+import qrcode from 'qrcode-terminal';
 
 dotenv.config();
 
@@ -298,7 +299,6 @@ function getMessages(userId) {
 // WhatsApp connection setup
 async function connectToWhatsApp() {
     globalClient = makeWASocket.default({
-        printQRInTerminal: true,
         generateHighQualityLinkPreview: true,
         auth: state
     });
@@ -310,7 +310,13 @@ async function connectToWhatsApp() {
     globalClient.ev.on('creds.update', saveCreds);
     
     globalClient.ev.on('connection.update', async (update) => {
-        const { connection, lastDisconnect } = update;
+        const { connection, lastDisconnect, qr } = update;
+
+        if (qr) {
+            console.log('\n📱 Scan this QR code with your WhatsApp mobile app:');
+            qrcode.generate(qr, { small: true });
+            console.log('\n');
+        }
 
         if (connection === 'close') {
             if (lastDisconnect?.error?.output?.statusCode !== 401) {

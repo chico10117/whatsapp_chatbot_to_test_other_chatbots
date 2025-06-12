@@ -1,0 +1,147 @@
+{
+  "personaId": "family_kids",
+  "personaName": "Ana Familia",
+  "language": "es",
+  "description": "Familia con niños",
+  "startTime": "2025-06-02T12:42:13.277Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Busco restaurantes con zona de juegos para niños",
+      "sentAt": "2025-06-02T12:42:13.277Z",
+      "response": "¡Por supuesto! Aquí tienes algunas opciones en Madrid de restaurantes con zona de juegos para niños:\n\n- **Restaulandia**: Un restaurante diseñado para familias, con un área de juegos amplia.\n- **La Familiar**: Ofrecen un espacio para que los niños jueguen mientras los adultos disfrutan de la comida.\n- **El Latigazo**: Tiene una zona de juegos al aire libre ideal para los más pequeños.\n\n¿Te gustaría más detalles sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:42:22.478Z",
+      "responseTime": 9201,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 2,
+      "question": "¿Qué sitios tienen menú infantil en Pozuelo?",
+      "sentAt": "2025-06-02T12:42:24.480Z",
+      "response": "En Pozuelo de Alarcón, puedes encontrar restaurantes que ofrecen menú infantil:\n\n- **Ginos**: Ofrecen un menú infantil con opciones italianas adaptadas para los más pequeños.\n- **Foster's Hollywood**: Tienen un menú infantil con platos que suelen gustar a los niños.\n- **VIPS**: Ofrecen un menú infantil variado y adaptado a los gustos de los niños.\n\n¿Te gustaría más información sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:42:38.898Z",
+      "responseTime": 14418,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 3,
+      "question": "Necesito restaurantes con tronas y cambiador",
+      "sentAt": "2025-06-02T12:42:40.899Z",
+      "response": "¡Por supuesto! Aquí tienes algunas opciones en Madrid que ofrecen tronas y cambiadores para mayor comodidad de las familias:\n\n- **VIPS**: Conocidos por ser family-friendly, ofrecen tronas y cambiadores.\n- **Ginos**: Además de su menú infantil, cuentan con tronas y cambiadores.\n- **La Vaca Argentina**: Ofrecen un ambiente cómodo para familias con niños pequeños.\n\n¿Te gustaría más detalles sobre alguno de estos restaurantes?",
+      "receivedAt": "2025-06-02T12:42:50.392Z",
+      "responseTime": 9493,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 4,
+      "question": "¿Dónde puedo celebrar un cumpleaños infantil?",
+      "sentAt": "2025-06-02T12:42:52.392Z",
+      "response": "¡Claro! Aquí tienes algunas opciones en Madrid para celebrar un cumpleaños infantil:\n\n- **Restaulandia**: Ofrecen paquetes para fiestas infantiles con actividades y menú para niños.\n- **Parque de Atracciones de Madrid**: Tienen opciones para celebrar cumpleaños con acceso a las atracciones.\n- **La Familiar**: Un restaurante con zona de juegos y opciones para fiestas infantiles.\n\n¿Te gustaría más información sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:43:01.310Z",
+      "responseTime": 8918,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 5,
+      "question": "Busco pizzerías familiares con actividades para niños",
+      "sentAt": "2025-06-02T12:43:03.311Z",
+      "response": "¡Por supuesto! Aquí tienes algunas pizzerías en Madrid que son familiares y ofrecen actividades para niños:\n\n- **Ginos**: Además de su menú infantil, algunos locales ofrecen actividades para los más pequeños.\n- **Pizza Jardín**: Conocidos por ser family-friendly, ofrecen un ambiente cómodo para familias.\n- **La Familiar**: Aunque no es exclusivamente pizzería, tienen opciones de pizza y una zona de juegos para niños.\n\n¿Te gustaría más detalles sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:43:13.062Z",
+      "responseTime": 9751,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 6,
+      "question": "¿Conoces restaurantes con animación los domingos?",
+      "sentAt": "2025-06-02T12:43:15.063Z",
+      "response": "¡Claro! Aquí tienes algunas opciones en Madrid donde puedes encontrar restaurantes con animación los domingos:\n\n- **Restaulandia**: Ofrecen animación infantil y actividades para los más pequeños durante los fines de semana.\n- **El Latigazo**: Tienen animación y actividades al aire libre para niños los domingos.\n- **La Familiar**: Ofrecen entretenimiento para niños en un ambiente familiar.\n\n¿Te gustaría más información sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:43:27.961Z",
+      "responseTime": 12898,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 7,
+      "question": "¿Qué lugares son buenos para ir con bebés?",
+      "sentAt": "2025-06-02T12:43:29.963Z",
+      "response": "En Madrid, hay varios lugares que son ideales para ir con bebés, ofreciendo comodidades como tronas y cambiadores:\n\n- **VIPS**: Conocidos por ser family-friendly, con tronas y cambiadores disponibles.\n- **Ginos**: Ofrecen un ambiente cómodo para familias con bebés, incluyendo tronas.\n- **La Vaca Argentina**: Espacio amplio y cómodo para familias con niños pequeños.\n\n¿Te gustaría más detalles sobre alguno de estos restaurantes?",
+      "receivedAt": "2025-06-02T12:43:41.942Z",
+      "responseTime": 11979,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 8,
+      "question": "Necesito sitios con terraza segura para niños",
+      "sentAt": "2025-06-02T12:43:43.944Z",
+      "response": "¡Por supuesto! Aquí tienes algunas opciones en Madrid con terrazas seguras para niños:\n\n- **El Latigazo**: Ofrecen una amplia terraza al aire libre con espacio para que los niños jueguen.\n- **La Familiar**: Tienen una terraza cerrada y zona de juegos, ideal para familias.\n- **El Jardín Secreto de Salvador Bachiller**: Aunque es más céntrico, ofrece un ambiente seguro y acogedor.\n\n¿Te gustaría más información sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:43:53.044Z",
+      "responseTime": 9100,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 9,
+      "question": "¿Dónde tienen opciones sin picante para niños?",
+      "sentAt": "2025-06-02T12:43:55.047Z",
+      "response": "¡Claro! Aquí tienes algunas opciones en Madrid donde puedes encontrar menús sin picante, adecuados para niños:\n\n- **VIPS**: Ofrecen un menú infantil con platos sencillos y sin picante.\n- **Ginos**: Tienen opciones italianas que suelen ser suaves y aptas para niños.\n- **Foster's Hollywood**: Menú infantil con platos adaptados a los gustos de los más pequeños, sin picante.\n\n¿Te gustaría más detalles sobre alguno de estos restaurantes?",
+      "receivedAt": "2025-06-02T12:44:05.108Z",
+      "responseTime": 10061,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 10,
+      "question": "Busco heladerías con opciones sin azúcar",
+      "sentAt": "2025-06-02T12:44:07.112Z",
+      "response": "¡Por supuesto! Aquí tienes algunas heladerías en Madrid que ofrecen opciones sin azúcar:\n\n- **Mistura**: Ofrecen helados artesanales con opciones sin azúcar.\n- **Sani Sapori**: Tienen helados italianos con opciones sin azúcar añadido.\n- **Amorino**: Ofrecen sorbetes y helados sin azúcar en su menú.\n\n¿Te gustaría más información sobre alguna de estas heladerías?",
+      "receivedAt": "2025-06-02T12:44:15.678Z",
+      "responseTime": 8566,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 11,
+      "question": "¿Qué restaurantes abren temprano para merendar?",
+      "sentAt": "2025-06-02T12:44:17.681Z",
+      "response": "En Madrid, algunos restaurantes y cafeterías abren temprano y son ideales para merendar:\n\n- **Chocolatería San Ginés**: Abren temprano y son famosos por sus churros con chocolate.\n- **La Rollerie**: Ofrecen desayunos y meriendas desde temprano con una variedad de opciones.\n- **Café Comercial**: Un clásico de Madrid, perfecto para una merienda temprana.\n\n¿Te gustaría más detalles sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:44:27.490Z",
+      "responseTime": 9809,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 12,
+      "question": "¿Conoces buffets donde los niños comen gratis?",
+      "sentAt": "2025-06-02T12:44:29.492Z",
+      "response": "En Madrid, algunos buffets ofrecen promociones donde los niños pueden comer gratis, aunque estas ofertas pueden variar. Aquí tienes algunas opciones:\n\n- **VIPS**: A veces tienen promociones especiales donde los niños comen gratis con la compra de un menú de adulto.\n- **Foster's Hollywood**: En ocasiones, ofrecen promociones similares, especialmente en días específicos.\n\nTe recomiendo verificar las promociones actuales en sus sitios web o redes sociales. ¿Te gustaría más información sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:44:38.905Z",
+      "responseTime": 9413,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 13,
+      "question": "Necesito lugares con parking para carritos",
+      "sentAt": "2025-06-02T12:44:40.909Z",
+      "response": "¡Claro! Aquí tienes algunas opciones en Madrid que ofrecen facilidades para aparcar carritos de bebé:\n\n- **La Familiar**: Ofrecen un espacio cómodo para familias, incluyendo parking para carritos.\n- **El Latigazo**: Tienen un amplio espacio al aire libre, ideal para carritos.\n- **Restaulandia**: Diseñado para familias, con espacio para carritos y actividades para niños.\n\n¿Te gustaría más detalles sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:44:49.554Z",
+      "responseTime": 8645,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 14,
+      "question": "¿Dónde hacen talleres de cocina para niños?",
+      "sentAt": "2025-06-02T12:44:51.557Z",
+      "response": "¡Qué divertido! Aquí tienes algunas opciones en Madrid donde se organizan talleres de cocina para niños:\n\n- **La Cocinita de Chamberí**: Ofrecen talleres de cocina para niños de diferentes edades.\n- **Kitchen Community**: Organizan talleres y actividades culinarias para los más pequeños.\n- **Alambique**: Además de sus cursos para adultos, tienen talleres especiales para niños.\n\n¿Te gustaría más información sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:44:59.860Z",
+      "responseTime": 8303,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 15,
+      "question": "Busco restaurantes temáticos para familias",
+      "sentAt": "2025-06-02T12:45:01.861Z",
+      "response": "¡Claro! Aquí tienes algunas opciones de restaurantes temáticos en Madrid que son ideales para familias:\n\n- **Restaulandia**: Un restaurante diseñado para familias, con decoración y actividades temáticas.\n- **El Bosque Encantado**: Ofrecen un ambiente mágico con decoración inspirada en cuentos de hadas.\n- **Piratas**: Un restaurante con temática de piratas, ideal para que los niños disfruten.\n\n¿Te gustaría más detalles sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:45:10.992Z",
+      "responseTime": 9131,
+      "analysis": {}
+    }
+  ],
+  "summary": {},
+  "endTime": "2025-06-02T12:45:10.993Z",
+  "duration": 177716
+}

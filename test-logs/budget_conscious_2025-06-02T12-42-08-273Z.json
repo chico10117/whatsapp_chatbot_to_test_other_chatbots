@@ -1,0 +1,147 @@
+{
+  "personaId": "budget_conscious",
+  "personaName": "Carlos Estudiante",
+  "language": "es",
+  "description": "Usuario consciente del presupuesto",
+  "startTime": "2025-06-02T12:39:11.278Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Busco menús del día por menos de 12 euros",
+      "sentAt": "2025-06-02T12:39:11.278Z",
+      "response": "¡Claro! Aquí tienes algunas opciones en Madrid donde puedes encontrar menús del día por menos de 12 euros:\n\n- **El Tigre**: Conocido por sus tapas generosas y económicas.\n- **100 Montaditos**: Ofrecen menús del día asequibles y variados.\n- **Museo del Jamón**: Menús del día económicos con platos tradicionales.\n\n¿Te gustaría más información sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:39:18.582Z",
+      "responseTime": 7304,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 2,
+      "question": "¿Dónde está el kebab más barato de Madrid?",
+      "sentAt": "2025-06-02T12:39:20.585Z",
+      "response": "El kebab más barato de Madrid lo puedes encontrar en **Döner Kebab Delicias**, ubicado en el barrio de Delicias, justo frente a la salida de la estación de tren de Cercanías. Ofrecen un kebab generoso por solo **2 euros**. Además, tienen durum por 2,90 € y menús completos desde 4 €. ¡Una opción económica y sabrosa!",
+      "receivedAt": "2025-06-02T12:39:31.859Z",
+      "responseTime": 11274,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 3,
+      "question": "Necesito sitios con descuentos para estudiantes",
+      "sentAt": "2025-06-02T12:39:33.863Z",
+      "response": "En Madrid, algunos lugares ofrecen descuentos para estudiantes:\n\n- **100 Montaditos**: A menudo tienen promociones especiales para estudiantes.\n- **VIPS**: Ofrecen descuentos en su menú presentando carnet de estudiante.\n- **Foster's Hollywood**: A veces tienen ofertas para estudiantes, especialmente entre semana.\n\nTe recomiendo llevar siempre tu carnet de estudiante para aprovechar estas ofertas. ¿Te gustaría más información sobre alguno de estos sitios?",
+      "receivedAt": "2025-06-02T12:39:45.253Z",
+      "responseTime": 11390,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 4,
+      "question": "¿Qué restaurantes tienen happy hour?",
+      "sentAt": "2025-06-02T12:39:47.255Z",
+      "response": "¡Claro! Aquí tienes algunos restaurantes en Madrid que ofrecen happy hour:\n\n- **Ojalá**: En Malasaña, conocido por su ambiente y cócteles durante la happy hour.\n- **Lateral**: Ofrecen descuentos en bebidas en ciertas horas del día.\n- **TGI Fridays**: Tienen happy hour con ofertas en bebidas y aperitivos.\n\n¿Te gustaría más información sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:39:55.657Z",
+      "responseTime": 8402,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 5,
+      "question": "Busco pizzerías con ofertas 2x1",
+      "sentAt": "2025-06-02T12:39:57.659Z",
+      "response": "¡Por supuesto! Aquí tienes algunas pizzerías en Madrid que suelen ofrecer ofertas 2x1:\n\n- **Telepizza**: Frecuentemente tienen promociones de 2x1 en pizzas, especialmente para llevar.\n- **Domino's Pizza**: Ofrecen 2x1 en pizzas los martes y a veces otras promociones.\n- **Papa John's**: También suelen tener ofertas 2x1 en ciertos días de la semana.\n\nTe recomiendo revisar sus páginas web o aplicaciones para ver las ofertas actuales. ¿Te gustaría más detalles sobre alguna de estas pizzerías?",
+      "receivedAt": "2025-06-02T12:40:06.498Z",
+      "responseTime": 8839,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 6,
+      "question": "¿Conoces buffets libres económicos?",
+      "sentAt": "2025-06-02T12:40:08.501Z",
+      "response": "¡Claro! Aquí tienes algunas opciones de buffets libres económicos en Madrid:\n\n- **Wok Garden**: Ofrecen un buffet variado de comida asiática a buen precio.\n- **Foster's Hollywood**: Algunos locales tienen buffet de ensaladas a precios accesibles.\n- **Restaurante La Vaca**: Buffet libre con opciones de carne y ensaladas.\n\n¿Te gustaría más información sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:40:17.876Z",
+      "responseTime": 9375,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 7,
+      "question": "¿Dónde puedo comer bien por 8 euros?",
+      "sentAt": "2025-06-02T12:40:19.879Z",
+      "response": "En Madrid, puedes disfrutar de una buena comida por 8 euros en estos lugares:\n\n- **100 Montaditos**: Ofrecen una variedad de montaditos y menús económicos.\n- **Museo del Jamón**: Menús del día a precios asequibles con platos tradicionales.\n- **El Tigre**: Conocido por sus tapas generosas y económicas.\n\n¿Te gustaría más detalles sobre alguno de estos sitios?",
+      "receivedAt": "2025-06-02T12:40:28.811Z",
+      "responseTime": 8932,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 8,
+      "question": "Necesito tapas baratas en La Latina",
+      "sentAt": "2025-06-02T12:40:30.814Z",
+      "response": "¡Claro! En La Latina, Madrid, puedes encontrar tapas económicas en estos lugares:\n\n- **El Viajero**: Ofrecen tapas a buen precio en un ambiente animado.\n- **Casa Revuelta**: Famoso por sus torreznos y tapas tradicionales.\n- **La Taberna Errante**: Tapas variadas a precios accesibles.\n\n¿Te gustaría más información sobre alguno de estos sitios?",
+      "receivedAt": "2025-06-02T12:40:39.367Z",
+      "responseTime": 8553,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 9,
+      "question": "¿Qué sitios tienen menú ejecutivo económico?",
+      "sentAt": "2025-06-02T12:40:41.370Z",
+      "response": "En Madrid, algunos lugares ofrecen menús ejecutivos económicos:\n\n- **La Gloria de Montera**: Ofrecen un menú del día a buen precio en un ambiente elegante.\n- **Restaurante Ginger**: Menú ejecutivo con platos variados y asequibles.\n- **El Mercado de la Reina**: Menú del día con opciones tradicionales y modernas.\n\n¿Te gustaría más detalles sobre alguno de estos restaurantes?",
+      "receivedAt": "2025-06-02T12:40:50.751Z",
+      "responseTime": 9381,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 10,
+      "question": "Busco bocadillos grandes y baratos",
+      "sentAt": "2025-06-02T12:40:52.752Z",
+      "response": "¡Por supuesto! Aquí tienes algunas opciones en Madrid donde puedes encontrar bocadillos grandes y económicos:\n\n- **La Campana**: Famosos por sus bocadillos de calamares a buen precio.\n- **El Brillante**: Otro clásico para disfrutar de bocadillos generosos de calamares.\n- **100 Montaditos**: Ofrecen una amplia variedad de montaditos y bocadillos económicos.\n\n¿Te gustaría más información sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:41:01.966Z",
+      "responseTime": 9214,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 11,
+      "question": "¿Hay restaurantes con primera consumición gratis?",
+      "sentAt": "2025-06-02T12:41:03.968Z",
+      "response": "En Madrid, algunos bares y restaurantes ofrecen promociones como la primera consumición gratis, aunque estas ofertas pueden variar. Aquí tienes algunos lugares donde podrías encontrar este tipo de promociones:\n\n- **Ojalá**: En ocasiones, tienen promociones especiales que incluyen consumiciones.\n- **El Tigre**: Conocido por ofrecer tapas generosas con la compra de una bebida.\n\nTe recomiendo verificar las promociones actuales en sus redes sociales o sitios web, ya que estas ofertas pueden cambiar. ¿Te gustaría más información sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:41:13.733Z",
+      "responseTime": 9765,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 12,
+      "question": "¿Dónde encuentro raciones para compartir baratas?",
+      "sentAt": "2025-06-02T12:41:15.736Z",
+      "response": "En Madrid, puedes encontrar raciones para compartir a buen precio en estos lugares:\n\n- **Casa Labra**: Famoso por sus croquetas y bacalao, ideal para compartir.\n- **El Tigre**: Conocido por sus generosas raciones de tapas con cada bebida.\n- **Taberna Alhambra**: Ofrecen raciones tradicionales a precios accesibles.\n\n¿Te gustaría más detalles sobre alguno de estos sitios?",
+      "receivedAt": "2025-06-02T12:41:27.640Z",
+      "responseTime": 11904,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 13,
+      "question": "Necesito desayunos completos por menos de 5 euros",
+      "sentAt": "2025-06-02T12:41:29.643Z",
+      "response": "¡Claro! Aquí tienes algunas opciones en Madrid donde puedes disfrutar de desayunos completos por menos de 5 euros:\n\n- **Café & Té**: Ofrecen desayunos con café, tostadas o bollería a buen precio.\n- **Rodilla**: Tienen menús de desayuno que incluyen bebida y bocadillo.\n- **La Rollerie**: Ofrecen opciones de desayuno económico con café y tostadas.\n\n¿Te gustaría más información sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:41:40.989Z",
+      "responseTime": 11346,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 14,
+      "question": "¿Conoces sitios con descuento al llevar?",
+      "sentAt": "2025-06-02T12:41:42.991Z",
+      "response": "¡Por supuesto! En Madrid, algunos lugares ofrecen descuentos si decides llevar tu comida:\n\n- **Telepizza**: Frecuentemente tienen promociones especiales para pedidos para llevar.\n- **Domino's Pizza**: Ofrecen descuentos en pizzas para llevar en ciertos días.\n- **Wok to Walk**: A veces tienen ofertas para llevar, especialmente en combos.\n\nTe recomiendo revisar sus páginas web o aplicaciones para ver las ofertas actuales. ¿Te gustaría más detalles sobre alguno de estos sitios?",
+      "receivedAt": "2025-06-02T12:41:52.674Z",
+      "responseTime": 9683,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 15,
+      "question": "Busco comida rápida económica cerca de la universidad",
+      "sentAt": "2025-06-02T12:41:54.678Z",
+      "response": "¡Claro! Cerca de las universidades en Madrid, puedes encontrar opciones de comida rápida económica como:\n\n- **100 Montaditos**: Ofrecen una amplia variedad de montaditos a precios muy accesibles.\n- **Pans & Company**: Bocadillos y menús económicos ideales para estudiantes.\n- **KFC**: Menús y ofertas especiales para llevar.\n\n¿Te gustaría más información sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:42:08.273Z",
+      "responseTime": 13595,
+      "analysis": {}
+    }
+  ],
+  "summary": {},
+  "endTime": "2025-06-02T12:42:08.273Z",
+  "duration": 176995
+}

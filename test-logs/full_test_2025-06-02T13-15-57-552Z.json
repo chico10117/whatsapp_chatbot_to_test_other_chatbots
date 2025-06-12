@@ -1,0 +1,823 @@
+{
+  "timestamp": "2025-06-02T13:15:57.552Z",
+  "totalPersonas": 5,
+  "totalQuestions": 75,
+  "totalResponses": 75,
+  "testResults": [
+    {
+      "personaId": "health_conscious",
+      "personaName": "María Fitness",
+      "language": "es",
+      "description": "Usuario consciente de la salud que busca opciones nutritivas",
+      "startTime": "2025-06-02T12:53:47.299Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, ¿me puedes recomendar algunos restaurantes veganos y orgánicos en la ciudad de Madrid?",
+          "sentAt": "2025-06-02T12:53:48.877Z",
+          "response": "¡Hola! Claro, aquí tienes algunas opciones de restaurantes veganos y orgánicos en Madrid:\n\n- **Crucina**: Ofrecen cocina crudivegana con ingredientes orgánicos.\n- **Rayen Vegano**: Conocido por su menú vegano y el uso de productos ecológicos.\n- **La Encomienda**: Un restaurante vegano que prioriza ingredientes orgánicos y de temporada.\n\n¿Te gustaría más información sobre alguno de estos lugares?",
+          "receivedAt": "2025-06-02T12:54:01.582Z",
+          "responseTime": 12705,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "Me interesa Crucina. ¿Podrías darme más detalles sobre su menú y si tienen opciones sin gluten?",
+          "sentAt": "2025-06-02T12:54:03.443Z",
+          "response": "¡Por supuesto! Crucina es un restaurante en Madrid especializado en cocina crudivegana, lo que significa que sus platos no se cocinan a más de 41°C para preservar los nutrientes. En su menú, puedes encontrar:\n\n- **Platos creativos**: Como lasañas de verduras y pizzas crudiveganas.\n- **Ensaladas**: Con ingredientes frescos y orgánicos.\n- **Postres**: Deliciosos y saludables, todos veganos.\n\nEn cuanto a opciones sin gluten, Crucina suele ofrecer varios platos que cumplen con esta necesidad dietética. Es recomendable preguntar al personal para confirmar las opciones disponibles. ¿Te gustaría saber algo más?",
+          "receivedAt": "2025-06-02T12:54:18.254Z",
+          "responseTime": 14811,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "Me encantan los postres, ¿tienen algún tipo de postre sin gluten y sin azúcar refinada?",
+          "sentAt": "2025-06-02T12:54:23.316Z",
+          "response": "¡Sí! En Crucina, se especializan en postres saludables que suelen ser sin gluten y sin azúcar refinada. Algunos ejemplos pueden incluir:\n\n- **Tartas crudiveganas**: Hechas con frutos secos y endulzadas con dátiles o sirope de agave.\n- **Mousse de chocolate**: Preparado con cacao puro y aguacate, endulzado naturalmente.\n\nEstos postres son deliciosos y están diseñados para ser una opción más saludable. Te recomendaría preguntar por las opciones disponibles el día de tu visita. ¿Hay algo más en lo que te pueda ayudar?",
+          "receivedAt": "2025-06-02T12:54:34.414Z",
+          "responseTime": 11098,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "Qué interesante. ¿Tienen también opciones de bebidas saludables como zumos naturales o smoothies?",
+          "sentAt": "2025-06-02T12:54:39.290Z",
+          "response": "¡Claro! En Crucina, además de su menú de comidas, suelen ofrecer una variedad de bebidas saludables, como:\n\n- **Zumos naturales**: Hechos con frutas y verduras frescas.\n- **Smoothies**: Preparados con ingredientes naturales y superalimentos.\n\nEstas bebidas son perfectas para complementar una comida saludable. ¿Te gustaría saber algo más sobre Crucina o algún otro lugar?",
+          "receivedAt": "2025-06-02T12:54:51.490Z",
+          "responseTime": 12200,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "¿Tienen en su menú smoothies con proteínas vegetales como la chía o la espirulina?",
+          "sentAt": "2025-06-02T12:54:56.464Z",
+          "response": "Sí, en Crucina suelen incluir en su menú smoothies que incorporan superalimentos como la chía y la espirulina. Estos ingredientes no solo aportan proteínas vegetales, sino también otros nutrientes beneficiosos. Es una excelente opción para quienes buscan una bebida saludable y nutritiva. Te recomendaría preguntar al personal sobre las opciones específicas disponibles durante tu visita. ¿Hay algo más en lo que te pueda ayudar?",
+          "receivedAt": "2025-06-02T12:55:06.177Z",
+          "responseTime": 9713,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "Eso suena genial. ¿Y qué tal el ambiente del restaurante? ¿Es un lugar tranquilo para cenar o más animado?",
+          "sentAt": "2025-06-02T12:55:11.211Z",
+          "response": "Crucina ofrece un ambiente acogedor y tranquilo, ideal para disfrutar de una cena relajada. El enfoque en la cocina saludable y el uso de ingredientes frescos se refleja en su decoración y atmósfera, que suele ser serena y propicia para una experiencia gastronómica placentera. Es un lugar perfecto para quienes buscan una cena tranquila y saludable. ¿Te gustaría saber algo más?",
+          "receivedAt": "2025-06-02T12:55:24.976Z",
+          "responseTime": 13765,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "Excelente. ¿Podrías recomendarme otro restaurante vegano con un ambiente más animado? Tal vez algo con eventos en vivo o música.",
+          "sentAt": "2025-06-02T12:55:30.316Z",
+          "response": "¡Claro! Si buscas un ambiente más animado, te recomiendo **VivaBurger** en Madrid. Este restaurante vegano es conocido por su ambiente vibrante y a veces organiza eventos especiales o noches temáticas con música en vivo. Además, ofrecen una variedad de hamburguesas veganas creativas y deliciosas. Es un lugar perfecto para disfrutar de buena comida en un entorno más dinámico. ¿Te gustaría más información sobre VivaBurger?",
+          "receivedAt": "2025-06-02T12:55:40.635Z",
+          "responseTime": 10319,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "Me gustan las hamburguesas. ¿Podrías decirme más sobre las opciones de hamburguesas veganas en VivaBurger?",
+          "sentAt": "2025-06-02T12:55:46.325Z",
+          "response": "¡Por supuesto! En VivaBurger, puedes encontrar una variedad de hamburguesas veganas deliciosas y creativas. Algunas de las opciones que suelen ofrecer incluyen:\n\n- **Hamburguesa Viva**: Hecha con ingredientes frescos y servida con guarniciones sabrosas.\n- **Hamburguesa de quinoa**: Una opción nutritiva y llena de sabor.\n- **Hamburguesa de lentejas**: Rica en proteínas vegetales y muy satisfactoria.\n\nCada hamburguesa viene acompañada de ingredientes frescos y salsas caseras. Es un lugar ideal para disfrutar de una buena hamburguesa vegana en un ambiente animado. ¿Te gustaría saber algo más?",
+          "receivedAt": "2025-06-02T12:56:00.811Z",
+          "responseTime": 14486,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "Suena delicioso. ¿Tienen opciones sin gluten para las hamburguesas?",
+          "sentAt": "2025-06-02T12:56:06.155Z",
+          "response": "Sí, en VivaBurger suelen ofrecer opciones sin gluten para sus hamburguesas. Puedes pedir que te sirvan la hamburguesa con pan sin gluten o incluso sin pan, acompañada de una ensalada o guarnición. Te recomendaría confirmar con el personal al hacer tu pedido para asegurarte de que cumpla con tus necesidades dietéticas. ¿Hay algo más en lo que te pueda ayudar?",
+          "receivedAt": "2025-06-02T12:56:15.652Z",
+          "responseTime": 9497,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "Está bien. Y en cuanto a las bebidas, ¿tienen zumos naturales o smoothies?",
+          "sentAt": "2025-06-02T12:56:20.258Z",
+          "response": "¡Sí! En VivaBurger, además de sus deliciosas hamburguesas, suelen ofrecer una selección de bebidas saludables, incluyendo zumos naturales y smoothies. Estas bebidas son perfectas para complementar tu comida y disfrutar de una experiencia refrescante y nutritiva. ¿Te gustaría saber algo más sobre VivaBurger o algún otro lugar?",
+          "receivedAt": "2025-06-02T12:56:31.811Z",
+          "responseTime": 11553,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "¿Tienen smoothies con proteínas vegetales como la espirulina o la chía en VivaBurger?",
+          "sentAt": "2025-06-02T12:56:36.435Z",
+          "response": "En VivaBurger, es posible que encuentres smoothies que incorporen superalimentos como la espirulina o la chía, ya que se enfocan en ofrecer opciones saludables y nutritivas. Sin embargo, te recomendaría preguntar al personal sobre las opciones específicas disponibles en el día de tu visita para asegurarte de que tengan estas proteínas vegetales. ¿Hay algo más en lo que te pueda ayudar?",
+          "receivedAt": "2025-06-02T12:56:45.085Z",
+          "responseTime": 8650,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "¿Podrías recomendarme un plato de VivaBurger que sea especialmente popular o único?",
+          "sentAt": "2025-06-02T12:56:49.687Z",
+          "response": "¡Claro! En VivaBurger, uno de los platos más populares y únicos es su **hamburguesa Viva**, que es una creación exclusiva del restaurante. Está hecha con ingredientes frescos y se sirve con una combinación de guarniciones y salsas caseras que realzan su sabor. Es una opción que muchos clientes disfrutan por su sabor y originalidad. ¿Te gustaría saber algo más sobre este plato o el restaurante?",
+          "receivedAt": "2025-06-02T12:56:59.175Z",
+          "responseTime": 9488,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "¿La hamburguesa Viva es picante o tiene alguna especia fuerte? Prefiero los sabores más suaves.",
+          "sentAt": "2025-06-02T12:57:03.896Z",
+          "response": "La hamburguesa Viva de VivaBurger generalmente no es picante y está diseñada para tener un sabor equilibrado que pueda gustar a una amplia variedad de paladares. Sin embargo, si prefieres sabores más suaves, te recomendaría mencionar tus preferencias al personal para que puedan ajustar cualquier ingrediente o salsa que pueda ser más fuerte. ¿Hay algo más en lo que te pueda ayudar?",
+          "receivedAt": "2025-06-02T12:57:17.485Z",
+          "responseTime": 13589,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "Eso suena perfecto. Finalmente, ¿qué tal es el ambiente en VivaBurger durante la cena? ¿Es un lugar ruidoso o más tranquilo?",
+          "sentAt": "2025-06-02T12:57:24.514Z",
+          "response": "VivaBurger ofrece un ambiente animado y acogedor, especialmente durante la cena. Es un lugar popular, por lo que puede haber bastante actividad y un ambiente vibrante, pero sigue siendo cómodo para disfrutar de una buena conversación. Ideal para quienes buscan una experiencia gastronómica más dinámica. ¿Hay algo más que te gustaría saber?",
+          "receivedAt": "2025-06-02T12:57:35.528Z",
+          "responseTime": 11014,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "Eso suena muy bien. ¿VivaBurger también ofrece opciones de postres veganos y sin gluten?",
+          "sentAt": "2025-06-02T12:57:40.515Z",
+          "response": "¡Sí! En VivaBurger, suelen ofrecer una variedad de postres veganos, y algunos de ellos pueden ser sin gluten. Estos postres están diseñados para ser deliciosos y satisfacer a quienes buscan opciones más saludables. Te recomendaría preguntar al personal sobre las opciones específicas de postres sin gluten disponibles en el día de tu visita. ¿Hay algo más en lo que te pueda ayudar?",
+          "receivedAt": "2025-06-02T12:57:49.837Z",
+          "responseTime": 9322,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-06-02T12:57:49.838Z",
+      "duration": 242539
+    },
+    {
+      "personaId": "budget_conscious",
+      "personaName": "Carlos Estudiante",
+      "language": "es",
+      "description": "Estudiante universitario con presupuesto limitado",
+      "startTime": "2025-06-02T12:57:54.842Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, ¿conoces algún restaurante en la ciudad que tenga menús del día baratos?",
+          "sentAt": "2025-06-02T12:57:56.699Z",
+          "response": "¡Hola! Claro, aquí tienes algunas opciones en Madrid donde puedes encontrar menús del día a buen precio:\n\n- **El Tigre**: Conocido por sus generosas tapas, también ofrece menús económicos.\n- **Museo del Jamón**: Ofrecen menús del día asequibles con platos tradicionales.\n- **100 Montaditos**: Aunque es más conocido por sus montaditos, a veces tienen ofertas de menú del día.\n\n¿Te gustaría más información sobre alguno de estos lugares?",
+          "receivedAt": "2025-06-02T12:58:06.821Z",
+          "responseTime": 10122,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "¿El Tigre ofrece algún tipo de descuento para estudiantes?",
+          "sentAt": "2025-06-02T12:58:08.069Z",
+          "response": "El Tigre es conocido por sus generosas tapas que acompañan las bebidas, lo que ya lo hace una opción económica para estudiantes. Sin embargo, no es común que ofrezcan descuentos específicos para estudiantes. Te recomendaría preguntar directamente en el local para confirmar si tienen alguna promoción especial. ¿Hay algo más en lo que te pueda ayudar?",
+          "receivedAt": "2025-06-02T12:58:17.281Z",
+          "responseTime": 9212,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "¿Y en el Museo del Jamón, hay alguna oferta especial para estudiantes?",
+          "sentAt": "2025-06-02T12:58:21.766Z",
+          "response": "En el Museo del Jamón, suelen tener precios bastante accesibles, lo que lo hace popular entre estudiantes. Aunque no es común que ofrezcan descuentos específicos para estudiantes, sus menús del día y bocadillos son económicos. Te recomendaría preguntar directamente en el local para ver si tienen alguna promoción especial en ese momento. ¿Te gustaría saber algo más?",
+          "receivedAt": "2025-06-02T12:58:32.034Z",
+          "responseTime": 10268,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "¿Qué menús del día económicos ofrece el 100 Montaditos?",
+          "sentAt": "2025-06-02T12:58:37.249Z",
+          "response": "En 100 Montaditos, aunque son más conocidos por sus montaditos a precios muy accesibles, a veces ofrecen promociones especiales que podrían incluir combinaciones de montaditos con bebida y patatas. Los miércoles y domingos suelen tener ofertas especiales donde todo en el menú cuesta 1 euro, lo que puede ser una opción económica similar a un menú del día. Te recomendaría visitar su página web o aplicación para ver las ofertas actuales. ¿Hay algo más en lo que te pueda ayudar?",
+          "receivedAt": "2025-06-02T12:58:48.435Z",
+          "responseTime": 11186,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "¿Sabes si hay algún otro restaurante que ofrezca este tipo de promociones todo a 1 euro?",
+          "sentAt": "2025-06-02T12:58:53.382Z",
+          "response": "En Madrid, además de 100 Montaditos, no es común encontrar restaurantes que ofrezcan todo a 1 euro de manera regular. Sin embargo, algunos bares y locales pueden tener días específicos con ofertas similares, especialmente en zonas universitarias o durante eventos especiales. Te recomendaría estar atento a las promociones locales o preguntar en bares cercanos para ver si tienen ofertas especiales. ¿Hay algo más en lo que te pueda ayudar?",
+          "receivedAt": "2025-06-02T12:59:05.383Z",
+          "responseTime": 12001,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "¿Conoces algún lugar que ofrezca buffet libre a buen precio?",
+          "sentAt": "2025-06-02T12:59:09.960Z",
+          "response": "¡Claro! Aquí tienes algunas opciones de buffet libre a buen precio en Madrid:\n\n- **Wok Garden**: Ofrecen un buffet variado de comida asiática a precios accesibles.\n- **Foster's Hollywood**: Algunos locales tienen buffet de ensaladas a precios razonables.\n- **Restaurante La Vaca**: Buffet libre con opciones de carne y ensaladas.\n\n¿Te gustaría más información sobre alguno de estos lugares?",
+          "receivedAt": "2025-06-02T12:59:20.747Z",
+          "responseTime": 10787,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "¿El Wok Garden ofrece algún tipo de descuento para estudiantes?",
+          "sentAt": "2025-06-02T12:59:25.361Z",
+          "response": "Wok Garden es conocido por sus precios accesibles, pero no es común que ofrezcan descuentos específicos para estudiantes. Sin embargo, siempre es una buena idea preguntar directamente en el local, ya que pueden tener promociones especiales o descuentos no anunciados. ¿Hay algo más en lo que te pueda ayudar?",
+          "receivedAt": "2025-06-02T12:59:35.266Z",
+          "responseTime": 9905,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "¿En el Foster's Hollywood, el buffet de ensaladas es por un precio fijo o va por peso?",
+          "sentAt": "2025-06-02T12:59:40.012Z",
+          "response": "En Foster's Hollywood, el buffet de ensaladas generalmente se ofrece por un precio fijo, lo que te permite disfrutar de una variedad de opciones sin preocuparte por el peso. Sin embargo, te recomendaría confirmar en el local específico que visites, ya que las ofertas pueden variar. ¿Te gustaría saber algo más?",
+          "receivedAt": "2025-06-02T12:59:50.070Z",
+          "responseTime": 10058,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "¿El Restaurante La Vaca, tiene algún tipo de promoción para estudiantes o días con descuentos especiales?",
+          "sentAt": "2025-06-02T12:59:54.973Z",
+          "response": "En Restaurante La Vaca, es posible que encuentres promociones especiales o descuentos en ciertos días, pero no es común que tengan descuentos específicos para estudiantes. Te recomendaría preguntar directamente en el restaurante o visitar su sitio web para conocer las ofertas actuales. ¿Hay algo más en lo que te pueda ayudar?",
+          "receivedAt": "2025-06-02T13:00:03.429Z",
+          "responseTime": 8456,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "¿Sabes si hay algún otro lugar que ofrezca buffets libres a buen precio en la ciudad?",
+          "sentAt": "2025-06-02T13:00:09.002Z",
+          "response": "¡Claro! Aquí tienes algunas otras opciones de buffets libres a buen precio en Madrid:\n\n- **Nippon 2**: Ofrecen un buffet libre de comida japonesa a precios razonables.\n- **El Gran Barril**: Conocido por su buffet de mariscos y pescados frescos.\n- **La Cañada**: Ofrecen un buffet variado con opciones mediterráneas.\n\n¿Te gustaría más información sobre alguno de estos lugares?",
+          "receivedAt": "2025-06-02T13:00:20.111Z",
+          "responseTime": 11109,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "¿El Nippon 2 tiene algún día de la semana con descuentos en su buffet?",
+          "sentAt": "2025-06-02T13:00:25.315Z",
+          "response": "Nippon 2, conocido por su buffet de comida japonesa, a veces ofrece promociones o descuentos en días específicos. Sin embargo, estas ofertas pueden variar, por lo que te recomendaría contactar directamente con el restaurante o visitar su sitio web para obtener información actualizada sobre descuentos o promociones actuales. ¿Hay algo más en lo que te pueda ayudar?",
+          "receivedAt": "2025-06-02T13:00:39.618Z",
+          "responseTime": 14303,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "¿Qué tipo de mariscos y pescados ofrece El Gran Barril en su buffet?",
+          "sentAt": "2025-06-02T13:00:44.305Z",
+          "response": "En El Gran Barril, el buffet suele incluir una variedad de mariscos y pescados frescos. Puedes encontrar opciones como:\n\n- **Gambas** y **langostinos**: Cocidos o a la plancha.\n- **Ostras**: Frescas y servidas al natural.\n- **Mejillones** y **almejas**: Preparados de diversas maneras.\n- **Pescados**: Como merluza o bacalao, a menudo cocinados al horno o a la plancha.\n\nEs un lugar ideal para disfrutar de una amplia selección de productos del mar. ¿Te gustaría saber algo más?",
+          "receivedAt": "2025-06-02T13:00:57.004Z",
+          "responseTime": 12699,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "¿El Gran Barril ofrece algún tipo de descuento para estudiantes o días con promociones especiales?",
+          "sentAt": "2025-06-02T13:01:01.780Z",
+          "response": "El Gran Barril es conocido por su calidad en mariscos y pescados, pero no es común que ofrezcan descuentos específicos para estudiantes. Sin embargo, pueden tener promociones especiales en ciertos días. Te recomendaría contactar directamente con el restaurante o visitar su sitio web para obtener información actualizada sobre posibles ofertas. ¿Hay algo más en lo que te pueda ayudar?",
+          "receivedAt": "2025-06-02T13:01:11.937Z",
+          "responseTime": 10157,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "¿Y en la Cañada, qué tipo de platos puedo encontrar en su buffet?",
+          "sentAt": "2025-06-02T13:01:16.914Z",
+          "response": "En La Cañada, el buffet ofrece una variedad de platos con un enfoque en la cocina mediterránea. Puedes encontrar:\n\n- **Ensaladas frescas**: Con ingredientes de temporada.\n- **Carnes a la parrilla**: Como pollo, ternera y cerdo.\n- **Pescados**: Preparados al horno o a la plancha.\n- **Paellas**: Y otros arroces típicos.\n- **Postres caseros**: Como flanes y tartas.\n\nEs un lugar ideal para disfrutar de una comida variada y sabrosa. ¿Te gustaría saber algo más?",
+          "receivedAt": "2025-06-02T13:01:33.569Z",
+          "responseTime": 16655,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "¿La Cañada ofrece algún tipo de descuento para estudiantes o días con promociones especiales?",
+          "sentAt": "2025-06-02T13:01:38.584Z",
+          "response": "En La Cañada, no es común que ofrezcan descuentos específicos para estudiantes, pero pueden tener promociones especiales en ciertos días. Te recomendaría contactar directamente con el restaurante o visitar su sitio web para obtener información actualizada sobre posibles ofertas o promociones. ¿Hay algo más en lo que te pueda ayudar?",
+          "receivedAt": "2025-06-02T13:01:48.892Z",
+          "responseTime": 10308,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-06-02T13:01:48.892Z",
+      "duration": 234050
+    },
+    {
+      "personaId": "family_kids",
+      "personaName": "Ana Familia",
+      "language": "es",
+      "description": "Madre de familia con dos niños pequeños",
+      "startTime": "2025-06-02T13:01:53.901Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, ¿conoces algún restaurante con zona de juegos para niños en la ciudad?",
+          "sentAt": "2025-06-02T13:01:55.613Z",
+          "response": "¡Hola! Sí, aquí tienes algunas opciones en Madrid de restaurantes con zona de juegos para niños:\n\n- **Restaulandia**: Diseñado para familias, con un área de juegos amplia y actividades para niños.\n- **La Familiar**: Ofrecen un espacio para que los niños jueguen mientras los adultos disfrutan de la comida.\n- **El Latigazo**: Tiene una zona de juegos al aire libre ideal para los más pequeños.\n\n¿Te gustaría más detalles sobre alguno de estos lugares?",
+          "receivedAt": "2025-06-02T13:02:05.335Z",
+          "responseTime": 9722,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "Oh, El Latigazo suena interesante. ¿Tienen menú infantil y tronas disponibles?",
+          "sentAt": "2025-06-02T13:02:07.657Z",
+          "response": "¡Sí! En El Latigazo, suelen ofrecer un menú infantil con opciones que gustan a los más pequeños. Además, disponen de tronas para mayor comodidad de las familias con niños. Es un lugar ideal para disfrutar de una comida en familia en un ambiente agradable. ¿Te gustaría saber algo más sobre El Latigazo?",
+          "receivedAt": "2025-06-02T13:02:20.297Z",
+          "responseTime": 12640,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "¿Podrías decirme qué tipo de actividades para niños ofrecen en El Latigazo?",
+          "sentAt": "2025-06-02T13:02:24.926Z",
+          "response": "En El Latigazo, además de su zona de juegos al aire libre, suelen organizar actividades para niños que pueden incluir:\n\n- **Talleres creativos**: Manualidades y actividades artísticas.\n- **Juegos al aire libre**: En su amplio espacio exterior.\n- **Animación**: A veces cuentan con animadores que entretienen a los más pequeños.\n\nEstas actividades hacen que sea un lugar ideal para que los niños se diviertan mientras los adultos disfrutan de su comida. ¿Te gustaría saber algo más?",
+          "receivedAt": "2025-06-02T13:02:39.359Z",
+          "responseTime": 14433,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "Suena bien. ¿Hacen reservas y tienen disponibilidad los fines de semana?",
+          "sentAt": "2025-06-02T13:02:45.144Z",
+          "response": "Sí, El Latigazo acepta reservas, lo cual es recomendable especialmente para los fines de semana, ya que suelen ser días más concurridos. Te sugiero contactar directamente con el restaurante para verificar la disponibilidad y asegurar tu mesa. ¿Hay algo más en lo que te pueda ayudar?",
+          "receivedAt": "2025-06-02T13:02:55.276Z",
+          "responseTime": 10132,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "¿Y tienen alguna restricción respecto a edades en la zona de juegos o pueden entrar niños de todas las edades?",
+          "sentAt": "2025-06-02T13:03:01.440Z",
+          "response": "En El Latigazo, la zona de juegos está diseñada para ser accesible a niños de diversas edades. Sin embargo, es posible que tengan ciertas recomendaciones o restricciones para garantizar la seguridad de los más pequeños. Te recomendaría consultar directamente con el restaurante para obtener detalles específicos sobre las edades permitidas y cualquier norma que puedan tener. ¿Hay algo más en lo que te pueda ayudar?",
+          "receivedAt": "2025-06-02T13:03:11.722Z",
+          "responseTime": 10282,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "¿Podrías recomendarme otro restaurante similar a El Latigazo pero que esté ubicado en el centro de la ciudad?",
+          "sentAt": "2025-06-02T13:03:17.019Z",
+          "response": "¡Claro! Si buscas un restaurante en el centro de Madrid con un enfoque familiar, te recomiendo **Restaulandia**. Está diseñado especialmente para familias, ofreciendo:\n\n- **Zona de juegos**: Espacio dedicado para que los niños se diviertan.\n- **Menú infantil**: Opciones adaptadas a los gustos de los más pequeños.\n- **Actividades para niños**: A menudo organizan eventos y talleres.\n\nEs una excelente opción para disfrutar de una comida en familia en el corazón de la ciudad. ¿Te gustaría más información sobre Restaulandia?",
+          "receivedAt": "2025-06-02T13:03:28.709Z",
+          "responseTime": 11690,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "Sí, por favor. ¿Restaulandia cuenta con tronas y algún espacio seguro para que los niños puedan moverse libremente?",
+          "sentAt": "2025-06-02T13:03:33.857Z",
+          "response": "¡Por supuesto! En Restaulandia, están bien equipados para recibir a familias con niños:\n\n- **Tronas**: Disponibles para mayor comodidad de los más pequeños.\n- **Espacio seguro**: Cuentan con un área de juegos donde los niños pueden moverse y jugar libremente en un entorno seguro.\n\nEs un lugar ideal para que los niños disfruten mientras los adultos se relajan y disfrutan de su comida. ¿Te gustaría saber algo más sobre Restaulandia?",
+          "receivedAt": "2025-06-02T13:03:47.111Z",
+          "responseTime": 13254,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "¿Qué tipo de menú infantil ofrecen en Restaulandia?",
+          "sentAt": "2025-06-02T13:03:51.865Z",
+          "response": "En Restaulandia, el menú infantil suele incluir platos que son populares entre los más pequeños, como:\n\n- **Pasta**: Con salsas suaves y adaptadas a los gustos infantiles.\n- **Mini hamburguesas**: Acompañadas de patatas fritas.\n- **Nuggets de pollo**: Una opción clásica que suele gustar a los niños.\n\nAdemás, suelen ofrecer postres sencillos y deliciosos para completar la comida. Es un menú diseñado para satisfacer los paladares de los más jóvenes. ¿Te gustaría saber algo más?",
+          "receivedAt": "2025-06-02T13:04:09.192Z",
+          "responseTime": 17327,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "¿Restaulandia tiene alguna opción vegetariana o sin gluten en su menú infantil?",
+          "sentAt": "2025-06-02T13:04:13.797Z",
+          "response": "En Restaulandia, suelen ser bastante flexibles y pueden ofrecer opciones vegetarianas o sin gluten en su menú infantil. Es recomendable preguntar al personal sobre las opciones disponibles al momento de tu visita, ya que pueden adaptar algunos platos para satisfacer necesidades dietéticas específicas. ¿Hay algo más en lo que te pueda ayudar?",
+          "receivedAt": "2025-06-02T13:04:23.078Z",
+          "responseTime": 9281,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "¿Podrías recomendarme un restaurante similar a Restaulandia pero que esté ubicado en un barrio más tranquilo de la ciudad?",
+          "sentAt": "2025-06-02T13:04:28.416Z",
+          "response": "¡Claro! Si buscas un restaurante en un barrio más tranquilo de Madrid, te recomiendo **La Familiar**. Está diseñado para familias y ofrece:\n\n- **Zona de juegos**: Espacio para que los niños se diviertan.\n- **Menú infantil**: Con opciones adaptadas a los gustos de los más pequeños.\n- **Ambiente acogedor**: Ideal para disfrutar de una comida relajada en familia.\n\nEstá ubicado en una zona más tranquila, lo que lo hace perfecto para una salida familiar sin el bullicio del centro. ¿Te gustaría más información sobre La Familiar?",
+          "receivedAt": "2025-06-02T13:04:40.006Z",
+          "responseTime": 11590,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "¿La Familiar cuenta con tronas y ofrecen actividades para niños los fines de semana?",
+          "sentAt": "2025-06-02T13:04:44.936Z",
+          "response": "Sí, en La Familiar están bien preparados para recibir a familias con niños:\n\n- **Tronas**: Disponibles para mayor comodidad de los más pequeños.\n- **Actividades para niños**: Suelen organizar actividades y juegos especialmente durante los fines de semana.\n\nEs un lugar ideal para disfrutar de una comida en familia mientras los niños se divierten. ¿Te gustaría saber algo más sobre La Familiar?",
+          "receivedAt": "2025-06-02T13:04:54.818Z",
+          "responseTime": 9882,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "¿Qué tipo de comida ofrecen en La Familiar y tienen opciones para niños con alergias alimentarias?",
+          "sentAt": "2025-06-02T13:04:59.671Z",
+          "response": "En La Familiar, ofrecen una variedad de platos que incluyen opciones tradicionales y modernas, ideales para toda la familia. Su menú suele incluir:\n\n- **Platos mediterráneos**: Como ensaladas, carnes y pescados.\n- **Opciones para niños**: Menú infantil con platos que suelen gustar a los más pequeños.\n\nEn cuanto a alergias alimentarias, son bastante atentos y pueden adaptar platos para satisfacer necesidades específicas. Te recomendaría informar al personal sobre cualquier alergia al hacer tu pedido para que puedan ofrecerte las opciones más seguras. ¿Hay algo más en lo que te pueda ayudar?",
+          "receivedAt": "2025-06-02T13:05:11.516Z",
+          "responseTime": 11845,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "¿La Familiar también cuenta con espacio al aire libre o es todo interior?",
+          "sentAt": "2025-06-02T13:05:16.221Z",
+          "response": "La Familiar cuenta con un espacio al aire libre, lo que es ideal para que las familias disfruten de una comida en un entorno más relajado y para que los niños tengan más libertad para moverse. También tienen áreas interiores acogedoras, por lo que puedes elegir según tus preferencias o las condiciones del tiempo. ¿Te gustaría saber algo más sobre La Familiar?",
+          "receivedAt": "2025-06-02T13:05:25.642Z",
+          "responseTime": 9421,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "¿Podrías decirme si en La Familiar es necesario hacer reserva para los fines de semana?",
+          "sentAt": "2025-06-02T13:05:30.753Z",
+          "response": "Sí, en La Familiar es recomendable hacer una reserva para los fines de semana, ya que suelen ser días más concurridos, especialmente si planeas ir con niños y quieres asegurarte de tener un espacio cómodo. Te sugiero contactar directamente con el restaurante para garantizar tu mesa. ¿Hay algo más en lo que te pueda ayudar?",
+          "receivedAt": "2025-06-02T13:05:45.189Z",
+          "responseTime": 14436,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "¿Y en La Familiar se necesita algún tipo de calzado especial para los niños en la zona de juegos o pueden entrar con cualquier tipo de zapatos?",
+          "sentAt": "2025-06-02T13:05:50.707Z",
+          "response": "En La Familiar, generalmente no se requiere un calzado especial para que los niños accedan a la zona de juegos. Sin embargo, es recomendable que los niños usen calzado cómodo y seguro para jugar. Siempre es una buena idea preguntar directamente en el restaurante si tienen alguna recomendación específica. ¿Hay algo más en lo que te pueda ayudar?",
+          "receivedAt": "2025-06-02T13:06:01.253Z",
+          "responseTime": 10546,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-06-02T13:06:01.254Z",
+      "duration": 247353
+    },
+    {
+      "personaId": "international_tourist",
+      "personaName": "James British",
+      "language": "en",
+      "description": "British tourist visiting Spain for the first time",
+      "startTime": "2025-06-02T13:06:06.263Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hello there, RECO! I'm visiting Madrid for the first time and I'm keen on trying some authentic Spanish food. Could you recommend a restaurant that serves traditional tapas?",
+          "sentAt": "2025-06-02T13:06:08.888Z",
+          "response": "Hello! Welcome to Madrid! For authentic Spanish tapas, I recommend:\n\n- **Casa Revuelta**: Famous for their delicious bacalao (cod) tapas.\n- **Taberna La Daniela**: Known for traditional Spanish dishes and a great variety of tapas.\n- **El Sur**: Offers a wide range of classic tapas in a cozy setting.\n\nWould you like more details about any of these places?",
+          "receivedAt": "2025-06-02T13:06:19.112Z",
+          "responseTime": 10224,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "Thanks for the recommendations, RECO! I'm intrigued by Casa Revuelta. Could you tell me more about their menu and atmosphere?",
+          "sentAt": "2025-06-02T13:06:21.189Z",
+          "response": "Certainly! Casa Revuelta is a traditional tapas bar located near Plaza Mayor in Madrid. It's renowned for its:\n\n- **Bacalao Frito**: Their signature fried cod tapa, crispy on the outside and tender inside.\n- **Classic Tapas**: Offers other traditional options like croquetas and callos a la madrileña.\n\nThe atmosphere is authentic and bustling, often filled with locals enjoying a quick bite and a drink. It's a standing-room-only spot, adding to its lively and genuine Spanish experience. Would you like to know anything else about Casa Revuelta?",
+          "receivedAt": "2025-06-02T13:06:35.494Z",
+          "responseTime": 14305,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "That sounds brilliant, thank you! I've never tried Bacalao Frito before. Could you recommend a local drink that pairs well with it?",
+          "sentAt": "2025-06-02T13:06:40.574Z",
+          "response": "Absolutely! Bacalao Frito pairs wonderfully with a glass of **tinto de verano**, which is a refreshing mix of red wine and soda, similar to sangria but lighter. Alternatively, a cold **caña** (small draft beer) is a classic choice that complements the flavors of the fried cod perfectly. Enjoy your culinary adventure in Madrid! If you have more questions, feel free to ask.",
+          "receivedAt": "2025-06-02T13:06:52.783Z",
+          "responseTime": 12209,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "That's great to hear, RECO. Could you also recommend a good restaurant for Paella, another Spanish dish I'm eager to try?",
+          "sentAt": "2025-06-02T13:06:57.881Z",
+          "response": "Of course! For a delicious paella in Madrid, consider these options:\n\n- **Casa de Valencia**: Known for its authentic Valencian paella in a traditional setting.\n- **La Barraca**: Offers a variety of paellas, including seafood and mixed options.\n- **St. James**: Renowned for its high-quality ingredients and flavorful paellas.\n\nEach of these places provides a genuine taste of this iconic Spanish dish. Would you like more information about any of these restaurants?",
+          "receivedAt": "2025-06-02T13:07:08.830Z",
+          "responseTime": 10949,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "Thank you, RECO. I'm interested in La Barraca. Could you tell me more about their variety of paellas and the atmosphere of the restaurant?",
+          "sentAt": "2025-06-02T13:07:13.972Z",
+          "response": "Certainly! La Barraca is a well-regarded restaurant in Madrid, known for its excellent paellas. Here's what you can expect:\n\n- **Variety of Paellas**: They offer several types, including traditional Valencian, seafood, and mixed paellas, all prepared with high-quality ingredients.\n- **Atmosphere**: The restaurant has a classic and elegant setting, providing a comfortable and inviting environment to enjoy a leisurely meal.\n\nIt's a great spot to savor authentic paella in a pleasant atmosphere. If you have any more questions or need further details, feel free to ask!",
+          "receivedAt": "2025-06-02T13:07:29.020Z",
+          "responseTime": 15048,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "That sounds delightful, RECO! I'm curious, do they offer any vegetarian options for paella at La Barraca?",
+          "sentAt": "2025-06-02T13:07:33.565Z",
+          "response": "Yes, La Barraca typically offers a vegetarian paella option. It's made with a variety of fresh vegetables and flavorful seasonings, providing a delicious alternative for those who prefer a meat-free dish. It's always a good idea to check with the restaurant directly for the most current menu offerings. If you need more information, feel free to ask!",
+          "receivedAt": "2025-06-02T13:07:43.129Z",
+          "responseTime": 9564,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "That's splendid to hear, RECO. Do they have an English menu available at La Barraca? It would make it easier for me to navigate their offerings.",
+          "sentAt": "2025-06-02T13:07:48.908Z",
+          "response": "Yes, La Barraca usually provides an English menu to accommodate international guests. This should make it easier for you to explore their delicious offerings and choose the perfect paella to enjoy. If you have any more questions or need further assistance, feel free to ask!",
+          "receivedAt": "2025-06-02T13:07:58.157Z",
+          "responseTime": 9249,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "That's quite reassuring, RECO. On another note, do you have any suggestions for places where I can enjoy a good dessert after my meal? Preferably something traditionally Spanish.",
+          "sentAt": "2025-06-02T13:08:04.096Z",
+          "response": "Certainly! For a traditional Spanish dessert experience in Madrid, consider these spots:\n\n- **Chocolatería San Ginés**: Famous for their churros con chocolate, a classic Spanish treat.\n- **Casa Mira**: Known for its turrón, a traditional Spanish nougat, especially popular during the holidays.\n- **La Mallorquina**: Offers a variety of pastries, including the popular napolitana de crema.\n\nEach of these places offers a delightful taste of Spanish dessert culture. Would you like more information about any of these spots?",
+          "receivedAt": "2025-06-02T13:08:17.275Z",
+          "responseTime": 13179,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "Those all sound mouth-watering, RECO! I've been meaning to try churros con chocolate. Could you tell me more about Chocolatería San Ginés and what else they offer?",
+          "sentAt": "2025-06-02T13:08:23.071Z",
+          "response": "Absolutely! Chocolatería San Ginés is an iconic spot in Madrid, renowned for its delicious churros con chocolate. Here's what you can expect:\n\n- **Churros con Chocolate**: Their signature dish, featuring crispy churros served with a rich, thick hot chocolate for dipping.\n- **Porras**: A thicker version of churros, also served with chocolate.\n- **Classic Ambiance**: The café has a charming, traditional setting with a history dating back to 1894.\n\nIt's a must-visit for anyone wanting to experience a quintessential Spanish dessert. If you have more questions or need further details, feel free to ask!",
+          "receivedAt": "2025-06-02T13:08:37.364Z",
+          "responseTime": 14293,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "That sounds delightful, RECO! Do they serve any other traditional Spanish drinks at Chocolatería San Ginés that would complement the churros?",
+          "sentAt": "2025-06-02T13:08:42.333Z",
+          "response": "Yes, at Chocolatería San Ginés, while the main attraction is the churros con chocolate, you can also enjoy a traditional **café con leche**, which is a popular Spanish coffee with milk. It's a great option if you're looking for a warm beverage to complement your churros. If you have any more questions or need further assistance, feel free to ask!",
+          "receivedAt": "2025-06-02T13:08:53.293Z",
+          "responseTime": 10960,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "That sounds like a great pairing, RECO. Speaking of coffee, could you recommend a local café in Madrid where I could sample some traditional Spanish coffee and perhaps a light snack?",
+          "sentAt": "2025-06-02T13:08:58.501Z",
+          "response": "Certainly! For a traditional Spanish coffee experience in Madrid, consider visiting:\n\n- **Café Comercial**: One of the oldest cafés in Madrid, offering a classic atmosphere and a variety of Spanish coffees.\n- **La Bicicleta Café**: Known for its cozy vibe and excellent coffee, along with light snacks and pastries.\n- **Café de Oriente**: Offers a beautiful setting with views of the Royal Palace, perfect for enjoying a café con leche and a light bite.\n\nEach of these cafés provides a unique experience to enjoy traditional Spanish coffee. Would you like more details about any of these places?",
+          "receivedAt": "2025-06-02T13:09:16.084Z",
+          "responseTime": 17583,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "Thank you for the suggestions, RECO! Café Comercial sounds interesting. Could you please provide more details about their coffee selection and any traditional Spanish snacks they offer?",
+          "sentAt": "2025-06-02T13:09:22.158Z",
+          "response": "Certainly! Café Comercial is a historic café in Madrid, known for its rich coffee culture and traditional offerings. Here's what you can expect:\n\n- **Coffee Selection**: They serve a variety of Spanish coffees, including café solo (espresso), café con leche (coffee with milk), and cortado (espresso with a dash of milk).\n- **Traditional Snacks**: You can enjoy classic Spanish snacks like tostadas (toasts with various toppings), churros, and a selection of pastries.\n\nThe café has a charming, vintage atmosphere, making it a great spot to relax and enjoy a taste of Madrid's coffee culture. If you have more questions or need further information, feel free to ask!",
+          "receivedAt": "2025-06-02T13:09:44.959Z",
+          "responseTime": 22801,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "That sounds marvellous, RECO! Do they offer any gluten-free options for snacks at Café Comercial? It will be helpful for someone I'm travelling with.",
+          "sentAt": "2025-06-02T13:09:50.212Z",
+          "response": "Yes, Café Comercial is attentive to dietary needs and often offers gluten-free options. While their menu may vary, they typically have gluten-free choices available, such as certain pastries or snacks. It's always a good idea to ask the staff for the most current gluten-free options when you visit. If you need more information or have other questions, feel free to ask!",
+          "receivedAt": "2025-06-02T13:10:00.425Z",
+          "responseTime": 10213,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "That's very considerate of them, RECO. Could you also tell me if Café Comercial has any outdoor seating available? It'd be lovely to enjoy the coffee outdoors on a nice day.",
+          "sentAt": "2025-06-02T13:10:06.939Z",
+          "response": "Yes, Café Comercial does offer outdoor seating. It's a great spot to enjoy your coffee while taking in the vibrant atmosphere of Madrid, especially on a pleasant day. The outdoor area provides a lovely setting to relax and watch the world go by. If you have any more questions or need further assistance, feel free to ask!",
+          "receivedAt": "2025-06-02T13:10:17.041Z",
+          "responseTime": 10102,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "That sounds splendid, RECO! Does Café Comercial also serve any traditional Spanish beverages other than coffee that I should try?",
+          "sentAt": "2025-06-02T13:10:22.515Z",
+          "response": "Absolutely! At Café Comercial, besides their excellent coffee, you might want to try:\n\n- **Horchata**: A refreshing drink made from tiger nuts, popular in Spain.\n- **Tinto de Verano**: A lighter alternative to sangria, made with red wine and soda.\n\nThese beverages offer a delightful taste of Spanish tradition. If you have more questions or need further information, feel free to ask!",
+          "receivedAt": "2025-06-02T13:10:33.562Z",
+          "responseTime": 11047,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-06-02T13:10:33.562Z",
+      "duration": 267299
+    },
+    {
+      "personaId": "foodie_adventurous",
+      "personaName": "Diego Gourmet",
+      "language": "es",
+      "description": "Foodie aventurero que busca experiencias gastronómicas únicas",
+      "startTime": "2025-06-02T13:10:38.566Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, estoy buscando un restaurante que ofrezca una experiencia culinaria única. ¿Podrías recomendarme algunos lugares donde pueda disfrutar de la cocina molecular?",
+          "sentAt": "2025-06-02T13:10:41.405Z",
+          "response": "¡Por supuesto! Aquí tienes algunas opciones en Madrid para disfrutar de una experiencia de cocina molecular:\n\n- **DiverXO**: Dirigido por el chef Dabiz Muñoz, ofrece una experiencia culinaria vanguardista y sorprendente.\n- **DSTAgE**: Con el chef Diego Guerrero, combina técnicas modernas con sabores innovadores.\n- **Punto MX**: Aunque es un restaurante mexicano, incorpora técnicas de cocina molecular en algunos de sus platos.\n\nCada uno de estos lugares ofrece una experiencia única y creativa. ¿Te gustaría más información sobre alguno de ellos?",
+          "receivedAt": "2025-06-02T13:10:57.126Z",
+          "responseTime": 15721,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "Sí, me interesa mucho DiverXO. ¿Podrías contarme un poco más sobre su menú degustación y la filosofía culinaria del chef Dabiz Muñoz?",
+          "sentAt": "2025-06-02T13:11:00.461Z",
+          "response": "¡Claro! DiverXO es un restaurante de tres estrellas Michelin, conocido por su enfoque innovador y vanguardista. El chef Dabiz Muñoz se caracteriza por su creatividad y su capacidad para fusionar sabores de todo el mundo.\n\n- **Menú Degustación**: Ofrecen un menú que cambia regularmente, lleno de platos sorprendentes que combinan técnicas de alta cocina con influencias globales. Cada plato es una obra de arte que desafía las expectativas tradicionales.\n\n- **Filosofía Culinaria**: Dabiz Muñoz busca romper barreras culinarias, ofreciendo una experiencia multisensorial. Su cocina es atrevida, con combinaciones inesperadas que buscan provocar y sorprender al comensal.\n\nEs una experiencia gastronómica única que va más allá de una simple comida. ¿Te gustaría saber algo más sobre DiverXO?",
+          "receivedAt": "2025-06-02T13:11:14.035Z",
+          "responseTime": 13574,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "Suena como una experiencia fascinante. ¿Puedes decirme más sobre los ingredientes que utiliza Dabiz Muñoz en sus platos? ¿Utiliza ingredientes exóticos o poco comunes?",
+          "sentAt": "2025-06-02T13:11:20.425Z",
+          "response": "¡Por supuesto! Dabiz Muñoz es conocido por su uso de ingredientes exóticos y poco comunes, lo que le permite crear combinaciones sorprendentes y únicas. En DiverXO, puedes esperar:\n\n- **Ingredientes Globales**: Utiliza productos de todo el mundo, desde especias asiáticas hasta ingredientes latinoamericanos.\n- **Fusión de Sabores**: Integra elementos de diferentes cocinas, como la japonesa, china y peruana, para crear platos innovadores.\n- **Productos de Alta Calidad**: Siempre busca ingredientes frescos y de la mejor calidad para asegurar una experiencia culinaria excepcional.\n\nEsta diversidad de ingredientes contribuye a la experiencia multisensorial que caracteriza a DiverXO. ¿Hay algo más que te gustaría saber?",
+          "receivedAt": "2025-06-02T13:11:33.994Z",
+          "responseTime": 13569,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "Esa fusión de sabores suena intrigante. ¿Podrías mencionar algún plato emblemático de DiverXO que refleje esta filosofía culinaria?",
+          "sentAt": "2025-06-02T13:11:39.508Z",
+          "response": "¡Claro! Uno de los platos emblemáticos de DiverXO que refleja la filosofía de Dabiz Muñoz es el **\"Lasaña XO\"**. Este plato es una reinterpretación de la lasaña tradicional, utilizando ingredientes y técnicas de diferentes culturas culinarias, como el uso de especias asiáticas y salsas innovadoras. Cada capa está diseñada para sorprender al paladar, ofreciendo una experiencia única y multisensorial. Es un ejemplo perfecto de cómo Dabiz Muñoz fusiona sabores globales para crear algo completamente nuevo. ¿Te gustaría saber algo más sobre DiverXO o algún otro restaurante?",
+          "receivedAt": "2025-06-02T13:11:53.832Z",
+          "responseTime": 14324,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "Como amante de los vinos, me gustaría saber si DiverXO ofrece maridajes con sus menús degustación. ¿Podrías proporcionarme esa información?",
+          "sentAt": "2025-06-02T13:11:59.960Z",
+          "response": "¡Por supuesto! En DiverXO, ofrecen la opción de maridar su menú degustación con una selección de vinos cuidadosamente elegidos. Estos maridajes están diseñados para complementar y realzar los sabores únicos de cada plato, proporcionando una experiencia culinaria completa. La carta de vinos incluye opciones de diferentes regiones y estilos, asegurando que haya algo para cada paladar. Si eres amante del vino, esta opción seguramente enriquecerá tu experiencia en DiverXO. ¿Te gustaría saber algo más?",
+          "receivedAt": "2025-06-02T13:12:14.174Z",
+          "responseTime": 14214,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "Esa opción de maridaje suena excelente. ¿Podrías darme un ejemplo de un vino o una región vitivinícola que típicamente incluyen en sus maridajes?",
+          "sentAt": "2025-06-02T13:12:20.463Z",
+          "response": "En DiverXO, los maridajes suelen incluir una selección diversa de vinos de alta calidad de diferentes regiones vitivinícolas. Aunque la selección puede variar, es común encontrar:\n\n- **Vinos de La Rioja**: Conocidos por su elegancia y complejidad, son una elección popular para acompañar platos ricos en sabor.\n- **Vinos de Jerez**: Estos vinos españoles fortificados pueden complementar bien los sabores intensos y exóticos de la cocina de Dabiz Muñoz.\n\nLa carta de vinos está diseñada para ofrecer una experiencia de maridaje que realce cada plato del menú degustación. ¿Te gustaría saber algo más sobre DiverXO o alguna otra experiencia culinaria en Madrid?",
+          "receivedAt": "2025-06-02T13:12:34.020Z",
+          "responseTime": 13557,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "Todo esto suena increíble, pero también me gusta probar cocinas de diferentes partes del mundo. ¿Podrías recomendarme un restaurante en Madrid que ofrezca una experiencia culinaria única diferente a la cocina molecular?",
+          "sentAt": "2025-06-02T13:12:40.067Z",
+          "response": "¡Por supuesto! Si buscas una experiencia culinaria única en Madrid, pero diferente a la cocina molecular, te recomiendo **StreetXO**. Este restaurante, también dirigido por Dabiz Muñoz, ofrece:\n\n- **Cocina Fusión**: Combina sabores asiáticos, europeos y latinoamericanos en un ambiente más informal y vibrante.\n- **Platos Creativos**: Como el \"Dumpling Pekinés\" o el \"Chili Crab\", que reflejan la creatividad y el enfoque innovador del chef.\n- **Ambiente Único**: Con una estética de street food de lujo, ofrece una experiencia dinámica y emocionante.\n\nStreetXO es perfecto para quienes buscan explorar sabores internacionales en un entorno único. ¿Te gustaría más información sobre StreetXO o alguna otra recomendación?",
+          "receivedAt": "2025-06-02T13:13:09.403Z",
+          "responseTime": 29336,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "Esa fusión de sabores en StreetXO suena emocionante. ¿Podrías decirme más sobre el \"Dumpling Pekinés\" y el \"Chili Crab\"? ¿Qué ingredientes y técnicas se utilizan en estos platos?",
+          "sentAt": "2025-06-02T13:13:16.259Z",
+          "response": "¡Claro! En StreetXO, los platos como el \"Dumpling Pekinés\" y el \"Chili Crab\" son ejemplos perfectos de la fusión creativa de Dabiz Muñoz:\n\n- **Dumpling Pekinés**: Este plato suele incluir dumplings rellenos de carne de cerdo con una salsa agridulce y un toque de hoisin. Se acompaña con fresas liofilizadas y alioli de kimchi, combinando técnicas asiáticas con un toque moderno.\n\n- **Chili Crab**: Inspirado en el famoso plato de Singapur, StreetXO lo reinterpreta con cangrejo desmenuzado en una salsa picante y sabrosa, servida con panecillos al vapor para mojar. La mezcla de especias y técnicas asiáticas le da un sabor único y vibrante.\n\nAmbos platos reflejan la habilidad de Dabiz Muñoz para mezclar ingredientes y técnicas de diferentes culturas, creando una experiencia culinaria emocionante. ¿Te gustaría saber algo más sobre StreetXO o algún otro lugar?",
+          "receivedAt": "2025-06-02T13:13:32.288Z",
+          "responseTime": 16029,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "Estos platos suenan deliciosos. ¿Podrías decirme más sobre la experiencia de maridaje de vinos en StreetXO? ¿Ofrecen opciones que complementan estos sabores vibrantes?",
+          "sentAt": "2025-06-02T13:13:38.520Z",
+          "response": "En StreetXO, aunque el enfoque principal está en la comida, también ofrecen una selección de vinos y cócteles que complementan los sabores vibrantes de sus platos. La carta de bebidas está diseñada para realzar la experiencia culinaria con opciones que incluyen:\n\n- **Vinos internacionales**: Seleccionados para complementar la fusión de sabores asiáticos, europeos y latinoamericanos.\n- **Cócteles creativos**: Diseñados para armonizar con los platos, a menudo incorporando ingredientes exóticos y técnicas innovadoras.\n\nEl personal suele estar bien informado y puede recomendar maridajes específicos para cada plato, asegurando una experiencia gastronómica completa. ¿Te gustaría saber algo más sobre StreetXO o alguna otra experiencia culinaria en Madrid?",
+          "receivedAt": "2025-06-02T13:13:51.799Z",
+          "responseTime": 13279,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "Esa opción de cócteles creativos suena intrigante. ¿Podrías darme un ejemplo de un cóctel que se sirve en StreetXO y que complemente bien sus platos?",
+          "sentAt": "2025-06-02T13:13:57.427Z",
+          "response": "¡Por supuesto! En StreetXO, los cócteles son tan innovadores como los platos. Un ejemplo de cóctel que complementa bien sus sabores vibrantes es el **\"Smokey Margarita\"**. Este cóctel suele incluir:\n\n- **Tequila**: Como base, aportando un sabor fuerte y característico.\n- **Toques ahumados**: Que añaden profundidad y complementan los sabores intensos de los platos.\n- **Cítricos frescos**: Para equilibrar y realzar los sabores.\n\nEste tipo de cóctel está diseñado para acompañar la experiencia culinaria única de StreetXO, ofreciendo un maridaje que resalta los sabores de los platos. ¿Te gustaría saber algo más sobre StreetXO o algún otro lugar?",
+          "receivedAt": "2025-06-02T13:14:10.876Z",
+          "responseTime": 13449,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "El Smokey Margarita suena fascinante. ¿Podría decirme cómo el toque ahumado en este cóctel complementa los sabores de los platos en StreetXO?",
+          "sentAt": "2025-06-02T13:14:16.854Z",
+          "response": "¡Claro! El toque ahumado en el **Smokey Margarita** complementa los platos de StreetXO de varias maneras:\n\n- **Profundidad de Sabor**: El ahumado añade una capa de complejidad que resalta los sabores intensos y especiados de platos como el \"Chili Crab\".\n- **Equilibrio**: Contrasta con los elementos ácidos y picantes de los platos, creando un equilibrio armonioso en el paladar.\n- **Experiencia Sensorial**: El aroma ahumado enriquece la experiencia multisensorial, alineándose con la creatividad y audacia de la cocina de Dabiz Muñoz.\n\nEste cóctel es un excelente ejemplo de cómo las bebidas pueden elevar una experiencia culinaria. ¿Te gustaría saber algo más sobre StreetXO o alguna otra recomendación?",
+          "receivedAt": "2025-06-02T13:14:30.042Z",
+          "responseTime": 13188,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "Este Smokey Margarita suena perfecto para la experiencia en StreetXO. ¿Podrías recomendarme otro cóctel que sea popular en este restaurante?",
+          "sentAt": "2025-06-02T13:14:35.863Z",
+          "response": "¡Por supuesto! Otro cóctel popular en StreetXO es el **\"Asian Daiquiri\"**. Este cóctel es una reinterpretación del clásico daiquiri con un toque asiático, y suele incluir:\n\n- **Ron**: Como base, aportando un sabor suave y dulce.\n- **Lima fresca**: Para añadir acidez y frescura.\n- **Infusión de jengibre**: Que aporta un toque picante y aromático, complementando los sabores asiáticos de los platos.\n\nEl \"Asian Daiquiri\" es refrescante y equilibrado, ideal para acompañar la fusión de sabores que caracteriza a StreetXO. ¿Te gustaría saber algo más sobre StreetXO o algún otro lugar en Madrid?",
+          "receivedAt": "2025-06-02T13:14:50.391Z",
+          "responseTime": 14528,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "Esa infusión de jengibre en el Asian Daiquiri suena intrigante. ¿Podrías decirme cómo este cóctel en particular complementa los platos en StreetXO?",
+          "sentAt": "2025-06-02T13:14:56.608Z",
+          "response": "¡Claro! El **Asian Daiquiri** complementa los platos de StreetXO de manera excelente gracias a sus características:\n\n- **Frescura y Acidez**: La lima fresca aporta una acidez que equilibra los sabores intensos y especiados de los platos, limpiando el paladar entre bocados.\n- **Toque Picante del Jengibre**: La infusión de jengibre añade un ligero picante que resalta y complementa los ingredientes asiáticos presentes en muchos platos de StreetXO.\n- **Aromas Exóticos**: El jengibre y el ron crean un perfil aromático que se alinea con la creatividad y la fusión de sabores del menú.\n\nEste cóctel es una opción refrescante y armoniosa para acompañar la experiencia culinaria única de StreetXO. ¿Te gustaría saber algo más?",
+          "receivedAt": "2025-06-02T13:15:10.123Z",
+          "responseTime": 13515,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "Aprecio mucho tus explicaciones detalladas, RECO. Volviendo a los platos, ¿podrías decirme cuál es el postre más popular en StreetXO? ¿Hay algún postre que refleje la filosofía culinaria de Dabiz Muñoz?",
+          "sentAt": "2025-06-02T13:15:16.917Z",
+          "response": "¡Por supuesto! En StreetXO, uno de los postres más populares que refleja la filosofía innovadora de Dabiz Muñoz es el **\"Flan de Huevo con Miso y Fruta de la Pasión\"**. Este postre combina:\n\n- **Flan de Huevo**: Un clásico español, reinterpretado con un toque moderno.\n- **Miso**: Añade un sabor umami inesperado que equilibra la dulzura.\n- **Fruta de la Pasión**: Aporta acidez y frescura, creando un contraste vibrante.\n\nEste postre es un excelente ejemplo de cómo Dabiz Muñoz fusiona técnicas y sabores de diferentes culturas para crear algo único y sorprendente. ¿Te gustaría saber algo más sobre StreetXO o algún otro lugar?",
+          "receivedAt": "2025-06-02T13:15:33.403Z",
+          "responseTime": 16486,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "Ese Flan de Huevo con Miso y Fruta de la Pasión suena excepcional. ¿Podrías mencionar otro postre que sea igualmente innovador en StreetXO?",
+          "sentAt": "2025-06-02T13:15:39.633Z",
+          "response": "¡Claro! Otro postre innovador en StreetXO es el **\"Coulant de Chocolate con Curry Rojo y Helado de Coco\"**. Este postre destaca por:\n\n- **Coulant de Chocolate**: Un clásico con un centro líquido, combinado con un toque de curry rojo que añade un sabor especiado y exótico.\n- **Helado de Coco**: Aporta frescura y suavidad, equilibrando el picante del curry.\n\nEste postre es un ejemplo perfecto de la creatividad de Dabiz Muñoz, combinando sabores inesperados para ofrecer una experiencia única. ¿Te gustaría saber algo más sobre StreetXO o algún otro lugar en Madrid?",
+          "receivedAt": "2025-06-02T13:15:52.544Z",
+          "responseTime": 12911,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-06-02T13:15:52.544Z",
+      "duration": 313978
+    }
+  ]
+}

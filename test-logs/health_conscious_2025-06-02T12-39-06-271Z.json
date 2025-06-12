@@ -1,0 +1,147 @@
+{
+  "personaId": "health_conscious",
+  "personaName": "María Fitness",
+  "language": "es",
+  "description": "Usuario consciente de la salud",
+  "startTime": "2025-06-02T12:36:00.848Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola, busco restaurantes con opciones veganas en el centro de Madrid",
+      "sentAt": "2025-06-02T12:36:00.849Z",
+      "response": "¡Claro! Aquí tienes algunas opciones en el centro de Madrid:\n\n- **Bloved Veggie Corner**: En el Hotel Catalonia Gran Vía, ofrece platos como ceviche de Portobello.\n- **La Biotika**: Cocina vegetariana y vegana tradicional.\n- **Vega**: Menús del día y platos ecológicos.\n- **Mudrá Plant Based Food**: Opciones veganas innovadoras.\n- **Brunchit**: Popular por sus opciones veganas durante el brunch.\n\n¿Te gustaría saber más sobre alguno de ellos?",
+      "receivedAt": "2025-06-02T12:36:13.029Z",
+      "responseTime": 12180,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 2,
+      "question": "¿Qué lugares tienen ensaladas frescas cerca de Sol?",
+      "sentAt": "2025-06-02T12:36:15.032Z",
+      "response": "¡Por supuesto! Aquí tienes algunas opciones cerca de Sol en Madrid para disfrutar de ensaladas frescas:\n\n- **Honest Greens**: Conocido por sus ensaladas grandes y opciones veganas.\n- **Bresca - Sol Madrid**: Ofrece ensaladas frescas en un ambiente moderno.\n- **Montes de Galicia**: Ensaladas mediterráneas y españolas creativas.\n\n¿Te gustaría más información sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:36:32.874Z",
+      "responseTime": 17842,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 3,
+      "question": "Necesito un restaurante con menú bajo en calorías",
+      "sentAt": "2025-06-02T12:36:34.876Z",
+      "response": "¡Entiendo! Aquí tienes algunas opciones en Madrid que ofrecen menús bajos en calorías:\n\n- **Fit Food**: Ofrecen platos saludables y bajos en calorías, con opciones para llevar.\n- **Crucina**: Cocina cruda y vegana, ideal para mantener las calorías bajo control.\n- **Alfredo's Barbacoa**: Aunque es conocido por sus carnes, también tienen opciones más ligeras.\n\n¿Te gustaría saber más sobre alguno de estos restaurantes?",
+      "receivedAt": "2025-06-02T12:36:47.153Z",
+      "responseTime": 12277,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 4,
+      "question": "¿Conoces sitios con jugos naturales y smoothies?",
+      "sentAt": "2025-06-02T12:36:49.157Z",
+      "response": "¡Claro! Aquí tienes algunas opciones en Madrid donde puedes disfrutar de jugos naturales y smoothies:\n\n- **Juicy Avenue**: Ofrecen una amplia variedad de smoothies y jugos frescos.\n- **Zumo de Luna**: Especializados en jugos naturales y batidos saludables.\n- **Fit Food**: Además de su comida saludable, tienen una buena selección de smoothies.\n\n¿Te gustaría más información sobre alguno de estos sitios?",
+      "receivedAt": "2025-06-02T12:36:57.470Z",
+      "responseTime": 8313,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 5,
+      "question": "Busco opciones sin gluten en Malasaña",
+      "sentAt": "2025-06-02T12:36:59.471Z",
+      "response": "¡Por supuesto! Aquí tienes algunas opciones sin gluten en Malasaña, Madrid:\n\n- **Celicioso**: Especializado en productos sin gluten, desde pasteles hasta platos principales.\n- **La Tía Carlota**: Ofrecen un menú variado con opciones sin gluten.\n- **Punto Vegano**: Aunque es vegano, también tienen opciones sin gluten.\n\n¿Te gustaría más detalles sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:37:10.704Z",
+      "responseTime": 11233,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 6,
+      "question": "¿Qué restaurante tiene las mejores opciones proteicas?",
+      "sentAt": "2025-06-02T12:37:12.705Z",
+      "response": "En Madrid, si buscas opciones proteicas destacadas, te recomiendo:\n\n- **Honest Greens**: Ofrecen pollo orgánico, pescado sostenible y opciones veganas.\n- **Asador Donostiarra**: Especializado en carnes rojas de alta calidad.\n- **Barganzo**: Opciones vegetarianas y veganas con base de garbanzos.\n\n¿Te gustaría saber más sobre alguno de ellos?",
+      "receivedAt": "2025-06-02T12:37:31.554Z",
+      "responseTime": 18849,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 7,
+      "question": "¿Dónde puedo encontrar bowls de açaí?",
+      "sentAt": "2025-06-02T12:37:33.555Z",
+      "response": "¡Claro! Aquí tienes algunos lugares en Madrid donde puedes disfrutar de deliciosos bowls de açaí:\n\n- **Juicy Avenue**: Conocidos por sus bowls de açaí frescos y personalizables.\n- **Fit Food**: Ofrecen bowls de açaí como parte de su menú saludable.\n- **Rawcoco Green Bar**: Especializados en comida saludable, incluyendo bowls de açaí.\n\n¿Te gustaría más información sobre alguno de estos sitios?",
+      "receivedAt": "2025-06-02T12:37:41.987Z",
+      "responseTime": 8432,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 8,
+      "question": "Necesito un lugar con opciones keto-friendly",
+      "sentAt": "2025-06-02T12:37:43.989Z",
+      "response": "¡Por supuesto! Aquí tienes algunas opciones en Madrid que ofrecen platos keto-friendly:\n\n- **Bump Green**: Ofrecen platos bajos en carbohidratos y ricos en grasas saludables.\n- **Fit Food**: Tienen opciones adaptadas a la dieta keto.\n- **Honest Greens**: Puedes personalizar tus platos para que sean keto-friendly.\n\n¿Te gustaría saber más sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:37:52.837Z",
+      "responseTime": 8848,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 9,
+      "question": "¿Hay restaurantes con información nutricional en el menú?",
+      "sentAt": "2025-06-02T12:37:54.839Z",
+      "response": "Sí, en Madrid hay restaurantes que ofrecen información nutricional en sus menús:\n\n- **Fit Food**: Proporcionan detalles nutricionales de sus platos.\n- **Honest Greens**: Ofrecen información sobre los ingredientes y valores nutricionales.\n- **VIPS**: Muchos de sus menús incluyen información calórica y nutricional.\n\n¿Te gustaría más detalles sobre alguno de estos restaurantes?",
+      "receivedAt": "2025-06-02T12:38:02.699Z",
+      "responseTime": 7860,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 10,
+      "question": "Busco brunch saludable para el domingo",
+      "sentAt": "2025-06-02T12:38:04.701Z",
+      "response": "¡Qué buena idea! Aquí tienes algunas opciones en Madrid para disfrutar de un brunch saludable el domingo:\n\n- **Federal Café**: Ofrecen opciones saludables como tostadas de aguacate y bowls de frutas.\n- **Café Run Run Run**: Con un enfoque en la comida saludable y opciones vegetarianas.\n- **Zenith Brunch & Cocktails**: Tienen opciones de brunch saludables y deliciosas.\n\n¿Te gustaría más información sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:38:12.745Z",
+      "responseTime": 8044,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 11,
+      "question": "¿Conoces lugares con opciones crudiveganas?",
+      "sentAt": "2025-06-02T12:38:14.746Z",
+      "response": "¡Por supuesto! Aquí tienes algunas opciones en Madrid que ofrecen comida crudivegana:\n\n- **Crucina**: Especializado en cocina crudivegana, con platos creativos y sabrosos.\n- **Rayen Vegano**: Ofrecen opciones crudiveganas dentro de su menú vegano.\n- **Levél Veggie Bistro**: Aunque es principalmente vegano, tienen opciones crudiveganas.\n\n¿Te gustaría saber más sobre alguno de estos sitios?",
+      "receivedAt": "2025-06-02T12:38:23.279Z",
+      "responseTime": 8533,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 12,
+      "question": "¿Qué sitio recomiendas para comer después del gym?",
+      "sentAt": "2025-06-02T12:38:25.280Z",
+      "response": "Después de un buen entrenamiento, es ideal optar por un lugar que ofrezca opciones ricas en proteínas y nutrientes. Aquí tienes algunas recomendaciones en Madrid:\n\n- **Fit Food**: Ofrecen platos saludables y equilibrados, perfectos para reponer energías.\n- **Honest Greens**: Con opciones frescas y personalizables, ideales para después del gimnasio.\n- **Bump Green**: Platos nutritivos que combinan proteínas y vegetales.\n\n¿Te gustaría más información sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:38:34.438Z",
+      "responseTime": 9158,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 13,
+      "question": "Necesito opciones sin azúcar añadida",
+      "sentAt": "2025-06-02T12:38:36.442Z",
+      "response": "¡Claro! Aquí tienes algunas opciones en Madrid donde puedes encontrar platos sin azúcar añadida:\n\n- **Celicioso**: Ofrecen postres y productos sin azúcar añadida, además de ser sin gluten.\n- **Fit Food**: Tienen opciones saludables y sin azúcar en su menú.\n- **Rawcoco Green Bar**: Especializados en comida saludable, con opciones sin azúcar.\n\n¿Te gustaría más detalles sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:38:44.024Z",
+      "responseTime": 7582,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 14,
+      "question": "¿Dónde sirven quinoa y superalimentos?",
+      "sentAt": "2025-06-02T12:38:46.027Z",
+      "response": "¡Por supuesto! Aquí tienes algunas opciones en Madrid donde puedes disfrutar de quinoa y superalimentos:\n\n- **Honest Greens**: Ofrecen platos que incluyen quinoa y otros superalimentos.\n- **Bump Green**: Tienen un menú variado con ingredientes como quinoa, kale y más.\n- **Café Run Run Run**: Con un enfoque en la comida saludable, incluyendo superalimentos.\n\n¿Te gustaría más información sobre alguno de estos sitios?",
+      "receivedAt": "2025-06-02T12:38:53.756Z",
+      "responseTime": 7729,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 15,
+      "question": "Busco restaurantes con certificación orgánica",
+      "sentAt": "2025-06-02T12:38:55.757Z",
+      "response": "En Madrid, algunos restaurantes que destacan por su enfoque en ingredientes orgánicos son:\n\n- **Kimpira**: Ofrecen cocina macrobiótica y utilizan productos orgánicos.\n- **El Huerto de Lucas**: Un mercado y restaurante que prioriza ingredientes orgánicos y sostenibles.\n- **Bump Green**: Con un enfoque en la sostenibilidad y productos orgánicos.\n\n¿Te gustaría más detalles sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:39:06.269Z",
+      "responseTime": 10512,
+      "analysis": {}
+    }
+  ],
+  "summary": {},
+  "endTime": "2025-06-02T12:39:06.270Z",
+  "duration": 185422
+}

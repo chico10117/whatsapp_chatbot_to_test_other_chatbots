@@ -1,0 +1,163 @@
+{
+  "personaId": "budget_conscious",
+  "personaName": "Carlos Estudiante",
+  "language": "es",
+  "description": "Estudiante universitario con presupuesto limitado",
+  "startTime": "2025-06-02T12:57:54.842Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola RECO, ¿conoces algún restaurante en la ciudad que tenga menús del día baratos?",
+      "sentAt": "2025-06-02T12:57:56.699Z",
+      "response": "¡Hola! Claro, aquí tienes algunas opciones en Madrid donde puedes encontrar menús del día a buen precio:\n\n- **El Tigre**: Conocido por sus generosas tapas, también ofrece menús económicos.\n- **Museo del Jamón**: Ofrecen menús del día asequibles con platos tradicionales.\n- **100 Montaditos**: Aunque es más conocido por sus montaditos, a veces tienen ofertas de menú del día.\n\n¿Te gustaría más información sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:58:06.821Z",
+      "responseTime": 10122,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "¿El Tigre ofrece algún tipo de descuento para estudiantes?",
+      "sentAt": "2025-06-02T12:58:08.069Z",
+      "response": "El Tigre es conocido por sus generosas tapas que acompañan las bebidas, lo que ya lo hace una opción económica para estudiantes. Sin embargo, no es común que ofrezcan descuentos específicos para estudiantes. Te recomendaría preguntar directamente en el local para confirmar si tienen alguna promoción especial. ¿Hay algo más en lo que te pueda ayudar?",
+      "receivedAt": "2025-06-02T12:58:17.281Z",
+      "responseTime": 9212,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "¿Y en el Museo del Jamón, hay alguna oferta especial para estudiantes?",
+      "sentAt": "2025-06-02T12:58:21.766Z",
+      "response": "En el Museo del Jamón, suelen tener precios bastante accesibles, lo que lo hace popular entre estudiantes. Aunque no es común que ofrezcan descuentos específicos para estudiantes, sus menús del día y bocadillos son económicos. Te recomendaría preguntar directamente en el local para ver si tienen alguna promoción especial en ese momento. ¿Te gustaría saber algo más?",
+      "receivedAt": "2025-06-02T12:58:32.034Z",
+      "responseTime": 10268,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "¿Qué menús del día económicos ofrece el 100 Montaditos?",
+      "sentAt": "2025-06-02T12:58:37.249Z",
+      "response": "En 100 Montaditos, aunque son más conocidos por sus montaditos a precios muy accesibles, a veces ofrecen promociones especiales que podrían incluir combinaciones de montaditos con bebida y patatas. Los miércoles y domingos suelen tener ofertas especiales donde todo en el menú cuesta 1 euro, lo que puede ser una opción económica similar a un menú del día. Te recomendaría visitar su página web o aplicación para ver las ofertas actuales. ¿Hay algo más en lo que te pueda ayudar?",
+      "receivedAt": "2025-06-02T12:58:48.435Z",
+      "responseTime": 11186,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "¿Sabes si hay algún otro restaurante que ofrezca este tipo de promociones todo a 1 euro?",
+      "sentAt": "2025-06-02T12:58:53.382Z",
+      "response": "En Madrid, además de 100 Montaditos, no es común encontrar restaurantes que ofrezcan todo a 1 euro de manera regular. Sin embargo, algunos bares y locales pueden tener días específicos con ofertas similares, especialmente en zonas universitarias o durante eventos especiales. Te recomendaría estar atento a las promociones locales o preguntar en bares cercanos para ver si tienen ofertas especiales. ¿Hay algo más en lo que te pueda ayudar?",
+      "receivedAt": "2025-06-02T12:59:05.383Z",
+      "responseTime": 12001,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "¿Conoces algún lugar que ofrezca buffet libre a buen precio?",
+      "sentAt": "2025-06-02T12:59:09.960Z",
+      "response": "¡Claro! Aquí tienes algunas opciones de buffet libre a buen precio en Madrid:\n\n- **Wok Garden**: Ofrecen un buffet variado de comida asiática a precios accesibles.\n- **Foster's Hollywood**: Algunos locales tienen buffet de ensaladas a precios razonables.\n- **Restaurante La Vaca**: Buffet libre con opciones de carne y ensaladas.\n\n¿Te gustaría más información sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T12:59:20.747Z",
+      "responseTime": 10787,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "¿El Wok Garden ofrece algún tipo de descuento para estudiantes?",
+      "sentAt": "2025-06-02T12:59:25.361Z",
+      "response": "Wok Garden es conocido por sus precios accesibles, pero no es común que ofrezcan descuentos específicos para estudiantes. Sin embargo, siempre es una buena idea preguntar directamente en el local, ya que pueden tener promociones especiales o descuentos no anunciados. ¿Hay algo más en lo que te pueda ayudar?",
+      "receivedAt": "2025-06-02T12:59:35.266Z",
+      "responseTime": 9905,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "¿En el Foster's Hollywood, el buffet de ensaladas es por un precio fijo o va por peso?",
+      "sentAt": "2025-06-02T12:59:40.012Z",
+      "response": "En Foster's Hollywood, el buffet de ensaladas generalmente se ofrece por un precio fijo, lo que te permite disfrutar de una variedad de opciones sin preocuparte por el peso. Sin embargo, te recomendaría confirmar en el local específico que visites, ya que las ofertas pueden variar. ¿Te gustaría saber algo más?",
+      "receivedAt": "2025-06-02T12:59:50.070Z",
+      "responseTime": 10058,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "¿El Restaurante La Vaca, tiene algún tipo de promoción para estudiantes o días con descuentos especiales?",
+      "sentAt": "2025-06-02T12:59:54.973Z",
+      "response": "En Restaurante La Vaca, es posible que encuentres promociones especiales o descuentos en ciertos días, pero no es común que tengan descuentos específicos para estudiantes. Te recomendaría preguntar directamente en el restaurante o visitar su sitio web para conocer las ofertas actuales. ¿Hay algo más en lo que te pueda ayudar?",
+      "receivedAt": "2025-06-02T13:00:03.429Z",
+      "responseTime": 8456,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "¿Sabes si hay algún otro lugar que ofrezca buffets libres a buen precio en la ciudad?",
+      "sentAt": "2025-06-02T13:00:09.002Z",
+      "response": "¡Claro! Aquí tienes algunas otras opciones de buffets libres a buen precio en Madrid:\n\n- **Nippon 2**: Ofrecen un buffet libre de comida japonesa a precios razonables.\n- **El Gran Barril**: Conocido por su buffet de mariscos y pescados frescos.\n- **La Cañada**: Ofrecen un buffet variado con opciones mediterráneas.\n\n¿Te gustaría más información sobre alguno de estos lugares?",
+      "receivedAt": "2025-06-02T13:00:20.111Z",
+      "responseTime": 11109,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "¿El Nippon 2 tiene algún día de la semana con descuentos en su buffet?",
+      "sentAt": "2025-06-02T13:00:25.315Z",
+      "response": "Nippon 2, conocido por su buffet de comida japonesa, a veces ofrece promociones o descuentos en días específicos. Sin embargo, estas ofertas pueden variar, por lo que te recomendaría contactar directamente con el restaurante o visitar su sitio web para obtener información actualizada sobre descuentos o promociones actuales. ¿Hay algo más en lo que te pueda ayudar?",
+      "receivedAt": "2025-06-02T13:00:39.618Z",
+      "responseTime": 14303,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "¿Qué tipo de mariscos y pescados ofrece El Gran Barril en su buffet?",
+      "sentAt": "2025-06-02T13:00:44.305Z",
+      "response": "En El Gran Barril, el buffet suele incluir una variedad de mariscos y pescados frescos. Puedes encontrar opciones como:\n\n- **Gambas** y **langostinos**: Cocidos o a la plancha.\n- **Ostras**: Frescas y servidas al natural.\n- **Mejillones** y **almejas**: Preparados de diversas maneras.\n- **Pescados**: Como merluza o bacalao, a menudo cocinados al horno o a la plancha.\n\nEs un lugar ideal para disfrutar de una amplia selección de productos del mar. ¿Te gustaría saber algo más?",
+      "receivedAt": "2025-06-02T13:00:57.004Z",
+      "responseTime": 12699,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "¿El Gran Barril ofrece algún tipo de descuento para estudiantes o días con promociones especiales?",
+      "sentAt": "2025-06-02T13:01:01.780Z",
+      "response": "El Gran Barril es conocido por su calidad en mariscos y pescados, pero no es común que ofrezcan descuentos específicos para estudiantes. Sin embargo, pueden tener promociones especiales en ciertos días. Te recomendaría contactar directamente con el restaurante o visitar su sitio web para obtener información actualizada sobre posibles ofertas. ¿Hay algo más en lo que te pueda ayudar?",
+      "receivedAt": "2025-06-02T13:01:11.937Z",
+      "responseTime": 10157,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "¿Y en la Cañada, qué tipo de platos puedo encontrar en su buffet?",
+      "sentAt": "2025-06-02T13:01:16.914Z",
+      "response": "En La Cañada, el buffet ofrece una variedad de platos con un enfoque en la cocina mediterránea. Puedes encontrar:\n\n- **Ensaladas frescas**: Con ingredientes de temporada.\n- **Carnes a la parrilla**: Como pollo, ternera y cerdo.\n- **Pescados**: Preparados al horno o a la plancha.\n- **Paellas**: Y otros arroces típicos.\n- **Postres caseros**: Como flanes y tartas.\n\nEs un lugar ideal para disfrutar de una comida variada y sabrosa. ¿Te gustaría saber algo más?",
+      "receivedAt": "2025-06-02T13:01:33.569Z",
+      "responseTime": 16655,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "¿La Cañada ofrece algún tipo de descuento para estudiantes o días con promociones especiales?",
+      "sentAt": "2025-06-02T13:01:38.584Z",
+      "response": "En La Cañada, no es común que ofrezcan descuentos específicos para estudiantes, pero pueden tener promociones especiales en ciertos días. Te recomendaría contactar directamente con el restaurante o visitar su sitio web para obtener información actualizada sobre posibles ofertas o promociones. ¿Hay algo más en lo que te pueda ayudar?",
+      "receivedAt": "2025-06-02T13:01:48.892Z",
+      "responseTime": 10308,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-06-02T13:01:48.892Z",
+  "duration": 234050
+}

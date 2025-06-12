@@ -1,0 +1,147 @@
+{
+  "personaId": "uk_tourist",
+  "personaName": "James Tourist",
+  "language": "en",
+  "description": "Tourist from UK",
+  "startTime": "2025-06-02T12:45:15.998Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hi, where can I find authentic Spanish tapas near Plaza Mayor?",
+      "sentAt": "2025-06-02T12:45:15.998Z",
+      "response": "Certainly! Near Plaza Mayor in Madrid, you can find authentic Spanish tapas at these places:\n\n- **Casa Revuelta**: Famous for their delicious bacalao (cod) tapas.\n- **Taberna Malaspina**: Offers a variety of traditional Spanish tapas in a cozy setting.\n- **La Campana**: Known for their classic bocadillo de calamares and other tapas.\n\nWould you like more details about any of these places?",
+      "receivedAt": "2025-06-02T12:45:25.663Z",
+      "responseTime": 9665,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 2,
+      "question": "What's the best paella restaurant in Madrid?",
+      "sentAt": "2025-06-02T12:45:27.665Z",
+      "response": "For a great paella experience in Madrid, consider these options:\n\n- **Casa de Valencia**: Known for its authentic Valencian paella.\n- **La Barraca**: Offers a variety of traditional paellas in a charming setting.\n- **St. James**: Renowned for its high-quality ingredients and flavorful paellas.\n\nWould you like more information about any of these restaurants?",
+      "receivedAt": "2025-06-02T12:45:36.518Z",
+      "responseTime": 8853,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 3,
+      "question": "I need restaurants with English menus",
+      "sentAt": "2025-06-02T12:45:38.519Z",
+      "response": "Certainly! Here are some restaurants in Madrid that typically offer English menus:\n\n- **Casa Mono**: Known for its modern Spanish cuisine and English-friendly service.\n- **Lateral**: Offers a variety of tapas and often provides menus in English.\n- **Ramses**: A stylish spot with international dishes and English menus available.\n\nWould you like more details about any of these places?",
+      "receivedAt": "2025-06-02T12:45:47.143Z",
+      "responseTime": 8624,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 4,
+      "question": "Where can I find a good Full English Breakfast?",
+      "sentAt": "2025-06-02T12:45:49.145Z",
+      "response": "For a good Full English Breakfast in Madrid, consider these spots:\n\n- **The Toast Café**: Offers a hearty English breakfast with all the traditional components.\n- **Carmencita Bar**: Known for its brunch, including a classic Full English Breakfast.\n- **Roll Madrid**: Serves a delicious English breakfast in a cozy setting.\n\nWould you like more information about any of these places?",
+      "receivedAt": "2025-06-02T12:45:58.768Z",
+      "responseTime": 9623,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 5,
+      "question": "Looking for michelin star restaurants",
+      "sentAt": "2025-06-02T12:46:00.771Z",
+      "response": "Certainly! Here are some Michelin-starred restaurants in Madrid:\n\n- **DiverXO**: Led by chef Dabiz Muñoz, known for its innovative and avant-garde cuisine.\n- **Santceloni**: Offers a refined dining experience with a focus on high-quality ingredients.\n- **Coque**: Known for its creative dishes and exceptional service.\n\nWould you like more details about any of these restaurants?",
+      "receivedAt": "2025-06-02T12:46:11.437Z",
+      "responseTime": 10666,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 6,
+      "question": "What restaurants are open late night?",
+      "sentAt": "2025-06-02T12:46:13.439Z",
+      "response": "In Madrid, several restaurants are open late at night:\n\n- **El Tigre**: Known for its tapas and lively atmosphere, open until late.\n- **Casa Lucio**: Famous for its huevos rotos, stays open late for dinner.\n- **Sala de Despiece**: Offers a unique dining experience with late-night hours.\n\nWould you like more information about any of these places?",
+      "receivedAt": "2025-06-02T12:46:21.992Z",
+      "responseTime": 8553,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 7,
+      "question": "Where's the best sangria in the city?",
+      "sentAt": "2025-06-02T12:46:23.995Z",
+      "response": "For some of the best sangria in Madrid, consider these spots:\n\n- **Las Cuevas de Sésamo**: A classic tavern known for its traditional sangria.\n- **La Venencia**: Offers a charming atmosphere and delicious sangria.\n- **Casa Alberto**: Known for its authentic Spanish experience and great sangria.\n\nWould you like more details about any of these places?",
+      "receivedAt": "2025-06-02T12:46:34.051Z",
+      "responseTime": 10056,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 8,
+      "question": "Need vegetarian-friendly Spanish restaurants",
+      "sentAt": "2025-06-02T12:46:36.054Z",
+      "response": "Certainly! Here are some vegetarian-friendly Spanish restaurants in Madrid:\n\n- **El Estragón Vegetariano**: Located in La Latina, offering a variety of vegetarian Spanish dishes.\n- **Yerba Buena**: Known for its creative vegetarian and vegan options with a Spanish twist.\n- **La Biotika**: Offers vegetarian and vegan dishes, focusing on healthy and organic ingredients.\n\nWould you like more information about any of these places?",
+      "receivedAt": "2025-06-02T12:46:46.321Z",
+      "responseTime": 10267,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 9,
+      "question": "What's good near the Prado Museum?",
+      "sentAt": "2025-06-02T12:46:48.324Z",
+      "response": "Near the Prado Museum, you can find some great dining options:\n\n- **Café Murillo**: Offers a cozy atmosphere with Spanish and Mediterranean dishes.\n- **La Platería**: Known for its tapas and traditional Spanish cuisine.\n- **Estado Puro**: A modern take on tapas, offering creative and delicious options.\n\nWould you like more details about any of these places?",
+      "receivedAt": "2025-06-02T12:46:56.988Z",
+      "responseTime": 8664,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 10,
+      "question": "Where do locals eat, not tourist traps?",
+      "sentAt": "2025-06-02T12:46:58.990Z",
+      "response": "For a more local dining experience in Madrid, consider these spots:\n\n- **Casa Toni**: A traditional tapas bar known for its authentic Spanish dishes.\n- **Bodega de la Ardosa**: Popular among locals for its vermouth and classic tapas.\n- **Taberna El Sur**: Offers a genuine taste of Spanish cuisine in a friendly setting.\n\nWould you like more information about any of these places?",
+      "receivedAt": "2025-06-02T12:47:09.479Z",
+      "responseTime": 10489,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 11,
+      "question": "Best rooftop restaurants with views?",
+      "sentAt": "2025-06-02T12:47:11.480Z",
+      "response": "Certainly! Here are some of the best rooftop restaurants in Madrid with stunning views:\n\n- **Azotea del Círculo**: Offers panoramic views of the city along with a varied menu.\n- **Picalagartos Sky Bar & Restaurant**: Located on Gran Vía, known for its beautiful skyline views.\n- **Ginkgo Restaurante & Sky Bar**: Offers a mix of Spanish and Asian cuisine with breathtaking views.\n\nWould you like more details about any of these places?",
+      "receivedAt": "2025-06-02T12:47:21.806Z",
+      "responseTime": 10326,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 12,
+      "question": "Where can I try authentic jamón ibérico?",
+      "sentAt": "2025-06-02T12:47:23.807Z",
+      "response": "For an authentic jamón ibérico experience in Madrid, consider these places:\n\n- **Museo del Jamón**: Famous for its wide selection of jamón ibérico and other Spanish delicacies.\n- **Casa González**: Offers high-quality jamón ibérico in a traditional setting.\n- **Viandas de Salamanca**: Known for its excellent jamón and other cured meats.\n\nWould you like more information about any of these places?",
+      "receivedAt": "2025-06-02T12:47:35.413Z",
+      "responseTime": 11606,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 13,
+      "question": "Need gluten-free options near my hotel in Gran Vía",
+      "sentAt": "2025-06-02T12:47:37.417Z",
+      "response": "Certainly! Near Gran Vía in Madrid, you have several gluten-free options:\n\n- **Restaurante Vegetariano Artemisa**: 100% gluten-free and vegetarian, with delicious dishes like Zucchini Queen of Africa.\n- **Okashi Sanda**: A Japanese restaurant offering a completely gluten-free menu.\n- **Da Nicola**: Known for its gluten-free Italian menu, including pizza and pasta.\n\nWould you like more details about any of these places?",
+      "receivedAt": "2025-06-02T12:47:53.461Z",
+      "responseTime": 16044,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 14,
+      "question": "What's open on Sundays?",
+      "sentAt": "2025-06-02T12:47:55.463Z",
+      "response": "In Madrid, many restaurants remain open on Sundays. Here are a few options:\n\n- **Mercado de San Miguel**: A lively market with various food stalls offering a wide range of options.\n- **Casa Lucio**: Famous for its huevos rotos, open for Sunday dining.\n- **Lateral**: Offers a variety of tapas and is open on Sundays.\n\nWould you like more information about any of these places?",
+      "receivedAt": "2025-06-02T12:48:05.611Z",
+      "responseTime": 10148,
+      "analysis": {}
+    },
+    {
+      "questionNumber": 15,
+      "question": "Where can I book a flamenco dinner show?",
+      "sentAt": "2025-06-02T12:48:07.615Z",
+      "response": "For a flamenco dinner show in Madrid, consider these venues:\n\n- **Corral de la Morería**: One of the most famous flamenco tablaos, offering an authentic experience with dinner.\n- **Tablao Flamenco Cardamomo**: Known for its vibrant performances and dinner options.\n- **Torres Bermejas**: Offers a unique setting with traditional flamenco shows and a full dinner menu.\n\nWould you like more details about any of these places?",
+      "receivedAt": "2025-06-02T12:48:16.026Z",
+      "responseTime": 8411,
+      "analysis": {}
+    }
+  ],
+  "summary": {},
+  "endTime": "2025-06-02T12:48:16.027Z",
+  "duration": 180029
+}
