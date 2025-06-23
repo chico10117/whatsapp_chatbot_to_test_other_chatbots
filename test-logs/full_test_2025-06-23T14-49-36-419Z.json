@@ -1,0 +1,1063 @@
+{
+  "timestamp": "2025-06-23T14:49:36.419Z",
+  "totalPersonas": 5,
+  "totalQuestions": 75,
+  "totalResponses": 75,
+  "testResults": [
+    {
+      "personaId": "estudiante_joven",
+      "personaName": "Luis Estudiante",
+      "language": "es",
+      "description": "Estudiante universitario de CDMX con presupuesto limitado",
+      "cinemaPreferences": {
+        "groupSize": "2 personas",
+        "budget": "bajo",
+        "preferredTimes": [
+          "tarde",
+          "noche"
+        ],
+        "interests": [
+          "acción",
+          "comedia",
+          "superhéroes"
+        ],
+        "focuses": [
+          "taquilla",
+          "dulcería",
+          "combos"
+        ]
+      },
+      "startTime": "2025-06-23T14:32:32.899Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Acepto términos y condiciones.",
+          "sentAt": "2025-06-23T14:32:34.265Z",
+          "response": "¡Ya vi que sí eres team legalidad, GPI! 😎 Ahora sí, dime: ¿cuántos van al cine (1, 2 o 3+)? Y, súper importante, ¿a cuál Cinépolis te lanzas? Así te armo la promo que neta sí te va a dar FOMO si no la aprovechas. 🎬🍿",
+          "receivedAt": "2025-06-23T14:32:39.803Z",
+          "responseTime": 5538,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "Órale Paloma, somos dos al cine, mi novia y yo. Nos lanzamos al Cinépolis de Parque Delta. ¿Qué promos me puedes armar?",
+          "sentAt": "2025-06-23T14:32:43.056Z",
+          "response": "¡Plan de parejita, me encanta el vibe! 💙 Dime, ¿qué te late más para tu promo: algo para dulcería (palomas, refresco, nachos y todo el snack aesthetic) o taquilla (boletos con descuento pa’ que no te quedes sin ver tu peli fav)? Tú eliges, amix. 😉",
+          "receivedAt": "2025-06-23T14:32:48.798Z",
+          "responseTime": 5742,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "Chido, mi novia siempre trae antojo de palomitas. ¿Qué promos tienen para dulcería? ¿Aplican para dos personas?",
+          "sentAt": "2025-06-23T14:32:55.855Z",
+          "response": "¡Jalo con esa energía, amix! 🍿✨ Las promos de dulcería sí aplican para dos, obvio, aquí nadie se queda sin snacks. Solo dime si quieres algo clásico (palomitas y refresco) o te animas a algo más top (nachos, hot dog, combo grande). ¿Qué mood traen hoy tú y tu novia? Así te armo la promo que neta sí es fav. 😏",
+          "receivedAt": "2025-06-23T14:33:00.951Z",
+          "responseTime": 5096,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "Pues mi novia y yo traemos un mood de clásicos, ¿qué trae el combo de palomitas y refresco? ¿Cuánto está?",
+          "sentAt": "2025-06-23T14:33:08.535Z",
+          "response": "¡Mood clásico, siempre es un win! 🎬🍿 El combo de palomitas y refresco incluye palomas tamaño cinema y dos refrescos medianos, perfectos para compartir con tu crush. Sobre el precio, yo solo te armo la promo y te la mando directo, pero el costo lo ves en taquilla o app. ¿Te late que te mande esta promo para Cinépolis Parque Delta? Solo dime y va el QR directo, sin FOMO. 😎",
+          "receivedAt": "2025-06-23T14:33:14.700Z",
+          "responseTime": 6165,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "Órale Paloma, suena bien. Pero dime una cosa, ¿cómo le hago con eso del QR? ¿Lo enseño en la taquilla o cómo está el rollo?",
+          "sentAt": "2025-06-23T14:33:22.065Z",
+          "response": "¡Súper fácil, amix! Una vez que te mande el QR, solo lo enseñas en dulcería (o taquilla si fuera promo de boletos) y listo, te hacen válida la promo. Es el pase secreto para que tú y tu novia tengan snacks nivel pro. ¿Listo para recibir tu QR y ser la pareja más aesthetic del cine? 😏🍿",
+          "receivedAt": "2025-06-23T14:33:26.385Z",
+          "responseTime": 4320,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "Sí, está chido eso del QR. Pero una duda, ¿ese combo de palomitas y refrescos tiene alguna promo de 2x1 o algo así?",
+          "sentAt": "2025-06-23T14:33:32.619Z",
+          "response": "¡Buena pregunta, crack! El combo clásico de palomitas y refrescos para dos ya viene en promo especial, así que sale más barato que si compras todo por separado. No es 2x1 literal, pero sí te ahorras una lanita y tu novia va a amar el plan. ¿Te lo mando? Solo dime y te llega el QR para Cinépolis Parque Delta. 🚀🍿",
+          "receivedAt": "2025-06-23T14:33:36.395Z",
+          "responseTime": 3776,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "Órale, te tomo la palabra. Mándame el QR de ese combo para dos personas. Y, ¿hay alguna promo para las funciones más tarde? Como que el presupuesto anda medio apretado, ¿sabes?",
+          "sentAt": "2025-06-23T14:33:43.698Z",
+          "response": "*¡Jalo a consentir a tu crush en Cinépolis Parque Delta!* Con esta promo de *2x1 en Refrescos Jumbo* por solo *$92*, tú y tu amix pueden armar el plan aesthetic de palomitas y refresco gigante para dos. Solo muestra tu QR en dulcería (no aplica en VIP, pero aquí sí aplica) y listo, cero FOMO de promos. ¡Que empiece el hype de la movie night! 🍿🥤",
+          "receivedAt": "2025-06-23T14:33:55.970Z",
+          "responseTime": 12272,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "Qué chido, Paloma. Entonces, con ese QR me dan dos refrescos jumbo por $92, ¿verdad? ¿Y sabes si hay algún descuento para las funciones de noche? Ya sabes, para sacarle más jugo a la lana.",
+          "sentAt": "2025-06-23T14:34:04.057Z",
+          "response": "¡Así es, amix! Con ese QR te dan dos refrescos jumbo por $92, directo en dulcería. Sobre promos de funciones nocturnas o boletos, ayúdame diciéndome:\n- ¿Cuántas personas van?\n- ¿A qué Cinépolis te lanzas?\n- ¿Quieres promo de taquilla o dulcería?\n\nAsí te armo la opción más budget friendly y sin FOMO. 🎬💸",
+          "receivedAt": "2025-06-23T14:34:08.336Z",
+          "responseTime": 4279,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "Órale, pues quiero saber si tienen alguna promo para funciones de noche. Seríamos dos personas en el Cinépolis de Parque Delta. ¿Qué promos manejan para la taquilla?",
+          "sentAt": "2025-06-23T14:34:15.137Z",
+          "response": "*¡Jalo a que armes plan nocturno con tu crush o tu amix!* Con este Comboleto 2 te llevas 2 boletos de taquilla y un combo Nachos en pareja (palomitas, 2 refrescos jumbo y nachos) por solo $327. Solo muestra tu QR en taquilla de Cinépolis Parque Delta o cualquiera de los cines de la lista y listo, ya tienes plan aesthetic y sin FOMO. Aplica para funciones nocturnas y no necesitas nada más, solo tu mejor outfit y buena vibra. ¡Nos vemos en el cine! 🍿🎬✨",
+          "receivedAt": "2025-06-23T14:34:22.830Z",
+          "responseTime": 7693,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "¡Qué chido, Paloma! Entonces con ese comboleto nos llevamos dos boletos y un combo de nachos por $327, ¿no? Oye, ¿y ese precio es igual para todas las películas o varía dependiendo de la peli?",
+          "sentAt": "2025-06-23T14:34:31.031Z",
+          "response": "¡Así es, amix! Por $327 te llevas los 2 boletos y el combo nachos en pareja, todo junto. El precio aplica para cualquier peli en Cinépolis Parque Delta, solo varía si la sala es VIP o algún formato especial (IMAX, 4DX, etc.), ahí sí puede cambiar. Pero para sala tradicional, ese es el precio chido. ¿Te animas o quieres ver otras promos?",
+          "receivedAt": "2025-06-23T14:34:35.313Z",
+          "responseTime": 4282,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "Órale Paloma, nos vamos a lanzar por el comboleto. ¿Y sabes si hay alguna promo especial para estudiantes? Como que el presupuesto de universitario a veces aprieta, ¿me entiendes?",
+          "sentAt": "2025-06-23T14:34:42.571Z",
+          "response": "¡Bien bajado ese balón, amix universitario! La neta, las promos especiales para estudiantes aplican solo algunos días y dependen del cine y la función. Pero para armarte una promo específica de estudiante, dime:\n- ¿Cuántas personas van?\n- ¿A qué Cinépolis se lanzan?\n- ¿Buscas promo de taquilla o dulcería?\nAsí te ayudo a exprimir el presupuesto y que no te quedes con FOMO. 🎬💸",
+          "receivedAt": "2025-06-23T14:34:46.668Z",
+          "responseTime": 4097,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "Órale Paloma, pues seríamos dos personas, mi novia y yo. Nos lanzamos al Cinépolis de Parque Delta. Dame la opción de promo de taquilla para estudiantes, ¿cómo se ve esa promo?",
+          "sentAt": "2025-06-23T14:34:54.381Z",
+          "response": "*¡Jalo a que armes plan con tu amix en Cinépolis Parque Delta!* Con el Comboleto 2 tienes 2 boletos de taquilla y un combo nachos en pareja (palomitas, 2 refrescos jumbo y nachos) por solo $327. Solo muestra el QR que te mandamos en taquilla (no aplica en VIP, pero aquí sí entra). Aplica para dos personas, así que ya tienes pretexto para invitar a tu crush o a tu BFF. ¡No dejes que el FOMO te gane y lánzate al cine con todo el flow! 🎬🍿",
+          "receivedAt": "2025-06-23T14:35:07.310Z",
+          "responseTime": 12929,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "Órale Paloma, suena bien eso del comboleto. Pero óyeme, ¿ese descuento de estudiante aplica también en fin de semana o solo entre semana? ¿Cómo está ese rollo?",
+          "sentAt": "2025-06-23T14:35:14.862Z",
+          "response": "¡Qué buena pregunta, amix! El comboleto aplica todos los días en sala tradicional, así que sí lo puedes usar en fin de semana. Si fuera un descuento exclusivo para estudiantes, a veces sí trae restricciones de días, pero este promo es libre de FOMO: aplica diario. Solo recuerda, no aplica en salas VIP o formatos especiales. ¿Listo para el plan cinéfilo? 🎬✨",
+          "receivedAt": "2025-06-23T14:35:18.957Z",
+          "responseTime": 4095,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "Suena chido, Paloma. Pero dime, ¿sabes si hay alguna promoción para estrenos? ¿O el comboleto aplica también para películas nuevas? ¿Cómo está ese rollo?",
+          "sentAt": "2025-06-23T14:35:26.642Z",
+          "response": "¡Súper pregunta, cinéfilo de corazón! El comboleto sí aplica para estrenos, siempre y cuando la función sea en sala tradicional (no VIP ni formatos especiales). Así que puedes lanzarte a la premier de tu peli fav y aprovechar la promo. Si tienes otra duda o quieres ver más opciones, dime y lo armamos. 🎬🚀",
+          "receivedAt": "2025-06-23T14:35:30.067Z",
+          "responseTime": 3425,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "Órale, eso suena bien, Paloma. ¿Pero me podrías decir si hay alguna promo o descuento para estudiantes en la dulcería? Como que a veces uno se antoja de un snack, ¿sabes?",
+          "sentAt": "2025-06-23T14:35:38.604Z",
+          "response": "¡Te entiendo perfecto, amix! Un snack nunca falla. Para armarte una promo de dulcería para estudiantes, dime:\n- ¿Cuántas personas van al plan?\n- ¿A qué Cinépolis te lanzas?\nAsí te busco la promo más top para que no te quedes sin tu antojo y tu cartera sobreviva. 🍿😏",
+          "receivedAt": "2025-06-23T14:35:43.212Z",
+          "responseTime": 4608,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED_CINEMA",
+      "endTime": "2025-06-23T14:35:43.213Z",
+      "duration": 190314
+    },
+    {
+      "personaId": "familia_tradicional",
+      "personaName": "María Familia",
+      "language": "es",
+      "description": "Madre de familia del Estado de México con hijos",
+      "cinemaPreferences": {
+        "groupSize": "4-5 personas",
+        "budget": "medio",
+        "preferredTimes": [
+          "matinée",
+          "tarde"
+        ],
+        "interests": [
+          "familiar",
+          "animación",
+          "aventura"
+        ],
+        "focuses": [
+          "taquilla",
+          "dulcería",
+          "combos familiares"
+        ]
+      },
+      "startTime": "2025-06-23T14:35:53.222Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Acepto términos y condiciones.",
+          "sentAt": "2025-06-23T14:35:54.208Z",
+          "response": "¡Eso es todo, amigo cinéfilo! 😎 Gracias por aceptar los términos y condiciones. Ahora dime:\n- ¿Cuántos van por el snack (1, 2 o 3+)?\n- ¿A qué Cinépolis te lanzas?\nAsí te armo la promo de dulcería más pro para estudiantes. ¡Que no te gane el FOMO! 🍿✨",
+          "receivedAt": "2025-06-23T14:35:57.883Z",
+          "responseTime": 3675,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "Hola Paloma, gracias por la oferta, pero somos un grupo familiar de 4. ¿Puedes recomendarme una promoción que incluya dulcería para nosotros por favor?",
+          "sentAt": "2025-06-23T14:36:00.405Z",
+          "response": "¡Qué buen plan familiar, amix! Solo para dejarlo top:\n- ¿Van todos al mismo Cinépolis? ¿Cuál es?\n- ¿Buscan solo promo de dulcería o también quieren boletos?\nAsí te armo la promo ideal para el squad y nadie se queda sin snacks. 🍿👨‍👩‍👧‍👦",
+          "receivedAt": "2025-06-23T14:36:03.816Z",
+          "responseTime": 3411,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "Sí, todos iremos al Cinépolis de Metepec. Estamos buscando una oferta que incluya tanto boletos como dulcería. ¿Cuáles son nuestras opciones?",
+          "sentAt": "2025-06-23T14:36:10.966Z",
+          "response": "¡Plan familiar en Metepec, me encanta! Para armarte la mejor promo, dime:\n- ¿Prefieren snacks clásicos (palomitas y refresco) o quieren agregar nachos/hot dog?\n- ¿Hay peques en el grupo o todos son adultos?\nAsí personalizo la promo y que todos salgan con smile nivel película feliz. 🎬🍿👨‍👩‍👧‍👦",
+          "receivedAt": "2025-06-23T14:36:22.325Z",
+          "responseTime": 11359,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "Hola Paloma, en mi familia somos dos adultos y dos niños. Nos gustan los snacks clásicos, pero a los niños les encantan los nachos. ¿Hay alguna promoción que nos convenga?",
+          "sentAt": "2025-06-23T14:36:29.520Z",
+          "response": "¡Plan familiar nivel pro! Solo dime si quieren la promo para sala tradicional o buscan algo especial (como IMAX o 4DX). Así te armo la opción con boletos, palomitas clásicas y nachos para los peques. ¿Qué sala prefieren? 🎬🍿🧀",
+          "receivedAt": "2025-06-23T14:36:35.336Z",
+          "responseTime": 5816,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "Hola Paloma, preferimos la sala tradicional por favor. Me podrías decir ¿cuánto costará esta promoción para los cuatro y qué incluye exactamente?",
+          "sentAt": "2025-06-23T14:36:42.161Z",
+          "response": "¡Buenísima elección! Con sala tradicional, la promo familiar puede incluir:\n- 4 boletos\n- 1 palomitas grandes\n- 2 nachos\n- 4 refrescos\nEl precio exacto lo ves en taquilla o app porque puede variar según el cine y día, pero te armo el QR para que tengan descuento especial. ¿Te la mando para Cinépolis Metepec? 😏🍿",
+          "receivedAt": "2025-06-23T14:36:55.382Z",
+          "responseTime": 13221,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "Sí, por favor, Paloma, genera el QR para Cinépolis Metepec. ¿Este código lo puedo utilizar directamente en taquilla o solo aplica para compras en la aplicación?",
+          "sentAt": "2025-06-23T14:37:02.819Z",
+          "response": "*¡Ya la armaste, amix!* Esta promo está de otro nivel para tu plan familiar: incluye 3 boletos de taquilla y un Maxicombo (2 palomitas jumbo y 3 refrescos jumbo) por solo $435. Perfecto para que nadie se quede con FOMO de snacks 🍿🥤. Solo tienes que mostrar el QR que te mandamos en la dulcería y listo, directo al hype. Aplica en Cinépolis Galerías Metepec (no VIP), así que tú y tu crew ya pueden ir planeando el outfit aesthetic para la función. ¡Nos vemos en el cine!",
+          "receivedAt": "2025-06-23T14:37:15.021Z",
+          "responseTime": 12202,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "Gracias, Paloma. Esta promoción suena muy bien. Solo para confirmar, ¿este código QR también aplica para los boletos de entrada o solo para el Maxicombo en la dulcería?",
+          "sentAt": "2025-06-23T14:37:22.354Z",
+          "response": "¡Sí aplica para ambos, amix! Con este QR puedes canjear los 3 boletos de entrada y el Maxicombo (palomitas + refrescos) directo en taquilla. Presenta el código en Cinépolis Galerías Metepec (no VIP) y te arman el combo completo. Así todos entran y salen con snacks, sin complicaciones. 🎟️🍿",
+          "receivedAt": "2025-06-23T14:37:26.978Z",
+          "responseTime": 4624,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "Muchas gracias, Paloma. El combo que mencionaste es para tres personas, pero somos un grupo de cuatro. ¿Hay alguna promoción similar que aplique para nosotros?",
+          "sentAt": "2025-06-23T14:37:33.601Z",
+          "response": "¡Buen ojo, amix! Para un grupo de 4, dime:\n- ¿Todos quieren combo completo (paloma, refresco, snack) o pueden compartir?\n- ¿Buscan solo boletos, solo dulcería, o ambos?\nAsí te armo la opción más pro y nadie se queda fuera del plan. ¡Tú dime y te paso el QR más familiar! 👨‍👩‍👧‍👦🍿",
+          "receivedAt": "2025-06-23T14:37:37.315Z",
+          "responseTime": 3714,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "Hola Paloma, todos queremos boletos y en cuanto a la dulcería, podemos compartir. ¿Hay una promoción que incluya boletos y un combo familiar de dulcería para nosotros?",
+          "sentAt": "2025-06-23T14:37:44.285Z",
+          "response": "*¡Planazo familiar desbloqueado, amix!* Con esta promo te llevas 3 boletos de taquilla para Cinépolis Metepec y un Maxicombo para compartir (2 palomitas jumbo y 3 refrescos jumbo) por solo $435. Solo muestra tu QR en taquilla y dulcería, y ya estás listo para el cine con tu squad. Aplica en sala tradicional, así que no hay FOMO: ¡armas el plan y te ahorras una buena lana! 🎬🍿✨",
+          "receivedAt": "2025-06-23T14:37:51.126Z",
+          "responseTime": 6841,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "Hola Paloma, agradezco mucho tu ayuda. Solo para confirmar, ¿este precio de $435 ya incluye el cuarto boleto o deberíamos comprarlo por separado?",
+          "sentAt": "2025-06-23T14:37:58.285Z",
+          "response": "¡Buena pregunta, amix! El precio de $435 incluye solo 3 boletos y el Maxicombo. Si son 4 personas, el cuarto boleto lo tendrían que comprar por separado. Si quieres, te ayudo a buscar una promo que incluya 4 boletos, ¿te late que lo busquemos juntos? 🎟️🍿",
+          "receivedAt": "2025-06-23T14:38:01.518Z",
+          "responseTime": 3233,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "Sí, Paloma, me gustaría buscar una promoción que incluya 4 boletos y un combo en la dulcería. ¿Me podrías ayudar con eso por favor?",
+          "sentAt": "2025-06-23T14:38:08.392Z",
+          "response": "*¡Plan familiar desbloqueado, amix!* Con esta promo te armas 3 boletos de taquilla + un Maxicombo (palomitas jumbo y 3 refrescos jumbo) por solo $435. Aplica en Cinépolis Metepec (no VIP), así que ya sabes, solo muestra tu QR en taquilla y a disfrutar el cine con tu crew. ¡No dejes que el FOMO te gane, lánzate y hazlo épico! 🍿🎬",
+          "receivedAt": "2025-06-23T14:38:14.999Z",
+          "responseTime": 6607,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "Hola Paloma, gracias por tu amabilidad. Veo que la promoción sigue siendo para tres personas. ¿Existe alguna promoción que incluya 4 boletos y un combo de dulcería?",
+          "sentAt": "2025-06-23T14:38:22.044Z",
+          "response": "¡GPI por tu buena vibra, amix! Por ahora la promo más top que tengo es para 3 boletos + Maxicombo. No hay una armada para 4 boletos y combo familiar, pero puedes combinar esa promo y comprar un boleto extra. Si sale una opción para 4, ¡te aviso! ¿Quieres el QR de la de 3 y agregas el boleto por separado, o prefieres esperar otra opción?",
+          "receivedAt": "2025-06-23T14:38:25.912Z",
+          "responseTime": 3868,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "Muchas gracias, Paloma. Entonces, si acepto la promoción para tres que me ofreciste, ¿podré utilizar el mismo código QR para conseguir un descuento en el boleto adicional que necesito?",
+          "sentAt": "2025-06-23T14:38:33.675Z",
+          "response": "¡Gracias a ti por ser tan buena onda, amix! El QR solo aplica para la promo de 3 boletos + Maxicombo. El boleto adicional sí lo puedes comprar, pero ese sí va a precio regular, no incluye descuento extra con el mismo QR. Si necesitas el QR de la promo de 3, dime y te lo mando otra vez. 🎬🍿",
+          "receivedAt": "2025-06-23T14:38:37.775Z",
+          "responseTime": 4100,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "Entiendo. Entonces, ¿existe alguna promoción o descuento aplicable para comprar un boleto adicional o debemos comprarlo al precio regular?",
+          "sentAt": "2025-06-23T14:38:44.634Z",
+          "response": "Por ahora, el boleto adicional sí tendría que ser a precio regular, amix. Las promos que tengo solo cubren combos o boletos en grupo (de 2 o 3). Si sale una promo para 4 boletos juntos, te aviso de volada. ¿Te mando el QR de la promo de 3 para que no te quedes sin plan? 🎟️🍿",
+          "receivedAt": "2025-06-23T14:38:48.020Z",
+          "responseTime": 3386,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "Sí, Paloma, por favor mándame el QR para la promoción de los tres boletos y el Maxicombo. Muchas gracias por tu ayuda. ¿Este código lo puedo usar cualquier día de la semana o tiene alguna restricción?",
+          "sentAt": "2025-06-23T14:38:55.733Z",
+          "response": "¡Listo, amix! Aquí va tu QR para la promo de 3 boletos y Maxicombo. Puedes usarlo cualquier día de la semana en Cinépolis Metepec (no VIP), sin restricción de días. Solo muéstralo en taquilla y dulcería y listo. ¡Que disfruten mucho la función en familia! 🍿🎬",
+          "receivedAt": "2025-06-23T14:38:59.234Z",
+          "responseTime": 3501,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED_CINEMA",
+      "endTime": "2025-06-23T14:38:59.234Z",
+      "duration": 186012
+    },
+    {
+      "personaId": "pareja_romantica",
+      "personaName": "Andrea Romántica",
+      "language": "es",
+      "description": "Mujer joven profesionista de Guadalajara en una cita",
+      "cinemaPreferences": {
+        "groupSize": "2 personas",
+        "budget": "medio-alto",
+        "preferredTimes": [
+          "noche",
+          "fin de semana"
+        ],
+        "interests": [
+          "romance",
+          "drama",
+          "thriller"
+        ],
+        "focuses": [
+          "experiencia VIP",
+          "dulcería especial",
+          "ambiente"
+        ]
+      },
+      "startTime": "2025-06-23T14:39:09.239Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Acepto términos y condiciones.",
+          "sentAt": "2025-06-23T14:39:10.573Z",
+          "response": "¡Esooo, amix cinéfilo! 😎 Gracias por aceptar los términos y condiciones. Ahora dime:\n- ¿Cuántas personas van al plan (1, 2 o más)?\n- ¿A qué Cinépolis te lanzas?\nAsí te armo la promo que neta te va a dar hype. 🍿✨",
+          "receivedAt": "2025-06-23T14:39:16.351Z",
+          "responseTime": 5778,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "Perfecto, Paloma. Seríamos dos personas para el Cinépolis de Plaza Andares en Guadalajara. ¿Qué promociones me puedes ofrecer para una noche especial?",
+          "sentAt": "2025-06-23T14:39:18.859Z",
+          "response": "¡Plan de parejita, me encanta el mood! 💙 Solo dime, ¿te late más promo de dulcería (palomitas, nachos, snacks) o prefieres taquilla (descuentos en boletos)? Así te armo la opción que neta sí va a ser tu fav para esa noche especial. Tú dime y va directo el hype. 🎬🍿✨",
+          "receivedAt": "2025-06-23T14:39:24.851Z",
+          "responseTime": 5992,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "Me encantaría una promoción de dulcería, Paloma. ¿Tienes algo especial para dos que incluya palomitas y algo de beber?",
+          "sentAt": "2025-06-23T14:39:32.735Z",
+          "response": "*No hay promos de dulcería disponibles para Cinépolis VIP Andares, amix 😔. Pero si te lanzas a otro Cinépolis normal cerca, como La Gran Plaza o Pabellón Guadalajara, sí jalo con promos de palomitas y bebidas para dos. ¿Te animas a cambiar de cine o de tipo de promo? Así no te quedas con el FOMO de las promos chidas 🍿✨*",
+          "receivedAt": "2025-06-23T14:39:40.465Z",
+          "responseTime": 7730,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "Entiendo, Paloma. ¿Qué tal si buscamos promociones de taquilla para Cinépolis VIP Andares? Quiero que mi noche sea especial. ¿Qué me puedes ofrecer?",
+          "sentAt": "2025-06-23T14:39:47.061Z",
+          "response": "*No hay promos de taquilla disponibles para Cinépolis VIP Andares Guadalajara, amix. Ya sé, FOMO total, pero en los VIP no aplican las promos chidas de boletos ni de dulcería. Si te animas a cambiar de cine, avísame y te armo el plan con las mejores promos para que no te quedes fuera del hype del cine. Pero en VIP, por ahora, no jalo ninguna promo. 😔*",
+          "receivedAt": "2025-06-23T14:39:52.837Z",
+          "responseTime": 5776,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "¡Qué pena! ¿Y tienes algunas promociones para Cinépolis Pabellón Guadalajara? Estoy buscando algo especial para dos personas.",
+          "sentAt": "2025-06-23T14:39:59.454Z",
+          "response": "*No hay promos de taquilla disponibles para Cinépolis VIP Andares Guadalajara, ni para otros VIPs de tu zona, amix. Ya sé, está medio FOMO, pero si te animas a cambiar de cine a uno que no sea VIP, puedo lanzarte unas promos chidas de taquilla o dulcería para que no te quedes sin plan. ¿Jalas cambiar el mood o prefieres esperar a que salga algo VIP?*",
+          "receivedAt": "2025-06-23T14:40:07.627Z",
+          "responseTime": 8173,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "Entiendo, Paloma. ¿Pero qué tal si nos vamos a Cinépolis La Gran Plaza? ¿Hay alguna promoción de taquilla para dos personas que me puedas ofrecer?",
+          "sentAt": "2025-06-23T14:40:14.441Z",
+          "response": "*¡Plan de pareja desbloqueado, amix!* Por solo *$327* te llevas *2 boletos de taquilla* y un combo nachos en pareja (palomitas, 2 refrescos jumbo y nachos). Solo tienes que mostrar el QR que te mandamos en la dulcería o taquilla de *Cinépolis La Gran Plaza Guadalajara* (no aplica en VIP, pero aquí sí jala). Aplica del *1 al 30 de noviembre 2025*. ¡Arma la noche aesthetic y disfruta tu date sin FOMO! 🎬🍿✨",
+          "receivedAt": "2025-06-23T14:40:31.162Z",
+          "responseTime": 16721,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "Genial, Paloma. Entonces, ¿solo tendría que presentar el código QR en taquilla para obtener la promoción, cierto?",
+          "sentAt": "2025-06-23T14:40:38.277Z",
+          "response": "¡Así es, amix! Solo presentas el QR en taquilla y te arman el combo de 2 boletos + nachos en pareja sin broncas. También puedes mostrarlo en dulcería si vas directo por los snacks. Todo el plan aesthetic listo con un solo código. ¡Disfruta tu noche especial en Cinépolis La Gran Plaza Guadalajara! 🎬🍿✨",
+          "receivedAt": "2025-06-23T14:40:43.801Z",
+          "responseTime": 5524,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "Perfecto, me encanta la idea. ¿Y si quiero agregar algo dulce a la promoción, como chocolates o algún postre, también podría aplicar el código QR en la dulcería para obtener algún descuento?",
+          "sentAt": "2025-06-23T14:40:51.071Z",
+          "response": "¡Qué buen toque, amix! El QR solo aplica para el combo de la promo (boletos + nachos en pareja), así que cualquier extra como chocolates o postre va por separado al precio regular. Pero puedes aprovechar el QR para lo principal y darte el gustito dulce aparte. ¿Listo para el plan? 🍫🍿✨",
+          "receivedAt": "2025-06-23T14:41:00.069Z",
+          "responseTime": 8998,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "Claro, Paloma. Entonces, ¿el código QR lo recibiré por email o cómo me llegará?",
+          "sentAt": "2025-06-23T14:41:06.497Z",
+          "response": "¡El QR te lo paso directo aquí, amix! Solo guárdalo en tu cel o hazle screenshot y lo presentas en taquilla o dulcería de Cinépolis La Gran Plaza Guadalajara. Así de fácil y rápido, sin esperar email ni nada. ¿Listo para el cine? 🎬📱",
+          "receivedAt": "2025-06-23T14:41:13.712Z",
+          "responseTime": 7215,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "Perfecto, Paloma. Solo para confirmar, ¿esta promoción aplicará también para las funciones nocturnas de fin de semana? Me gustaría programar mi cita para un sábado por la noche.",
+          "sentAt": "2025-06-23T14:41:21.126Z",
+          "response": "¡Sí aplica, amix! Puedes usar la promo en funciones nocturnas de fin de semana sin problema, siempre y cuando sea en sala tradicional (no VIP). Así que tu cita de sábado por la noche ya va con todo el hype y sin FOMO. Solo presenta el QR y listo. 🎬✨",
+          "receivedAt": "2025-06-23T14:41:25.268Z",
+          "responseTime": 4142,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "Eso suena genial, Paloma. ¿Y si quiero hacer la reserva de los asientos desde antes, también puedo usar el código QR para hacerlo o debo comprar los boletos directamente en taquilla?",
+          "sentAt": "2025-06-23T14:41:32.799Z",
+          "response": "¡Buenísima pregunta! El QR de la promo se usa directo en taquilla, amix. Así te entregan los boletos y el combo ahí mismo. Para reservar asientos antes, sería solo por la app o web pero ahí no aplica el QR. Si quieres asegurar lugar, te recomiendo llegar con tiempo y usar el QR en taquilla. 🎟️🍿",
+          "receivedAt": "2025-06-23T14:41:36.451Z",
+          "responseTime": 3652,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "Perfecto, Paloma. Y una última pregunta, ¿hay alguna fecha límite para usar el código QR o es válido mientras la promoción esté vigente, hasta el 30 de noviembre?",
+          "sentAt": "2025-06-23T14:41:43.267Z",
+          "response": "¡Exacto, amix! Tu QR es válido hasta el 30 de noviembre de 2025, mientras la promo esté vigente. Así puedes planear tu cita sin estrés. Solo recuerda usarlo antes de esa fecha y listo, a disfrutar la movie night sin FOMO. 🎬🍿✨",
+          "receivedAt": "2025-06-23T14:41:46.480Z",
+          "responseTime": 3213,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "Entendido, Paloma. ¿Puedes recordarme qué incluye exactamente el combo de nachos en pareja? ¿Los refrescos son de cualquier sabor?",
+          "sentAt": "2025-06-23T14:41:54.266Z",
+          "response": "¡Claro, amix! El combo nachos en pareja incluye:\n- 1 palomitas tamaño cinema\n- 2 refrescos jumbo (puedes elegir el sabor que más te guste)\n- 1 nachos clásicos\nTodo para compartir nivel pareja aesthetic. Así nadie se queda con antojo y tu date va a estar top. 😏🍿🥤🧀",
+          "receivedAt": "2025-06-23T14:41:58.231Z",
+          "responseTime": 3965,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "Perfecto, Paloma. ¿Y puedo cambiar las palomitas del combo nachos en pareja por nachos extra o algún otro snack?",
+          "sentAt": "2025-06-23T14:42:05.706Z",
+          "response": "¡Qué buena idea, amix! Pero el combo viene armado tal cual: 1 palomitas, 2 refrescos jumbo y 1 nachos. No se pueden hacer cambios por otros snacks, así que no se puede cambiar palomitas por nachos extra ni por otro producto. Si quieres más nachos, puedes agregarlos aparte. ¡Así no hay pierde y el snack mood sigue top! 🍿🧀😎",
+          "receivedAt": "2025-06-23T14:42:09.934Z",
+          "responseTime": 4228,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "Entiendo, Paloma. ¿Y podrías decirme hasta qué horario puedo hacer uso de la promoción? ¿Aplica para las funciones de medianoche?",
+          "sentAt": "2025-06-23T14:42:17.567Z",
+          "response": "¡Súper pregunta, amix! Puedes usar la promo en cualquier horario mientras haya funciones disponibles en Cinépolis La Gran Plaza Guadalajara (excepto salas VIP). Así que sí, aplica para funciones de medianoche si el cine tiene cartelera a esa hora. Solo checa horarios y lánzate con tu QR. ¡El plan nocturno está seguro! 🎬🌙🍿",
+          "receivedAt": "2025-06-23T14:42:21.855Z",
+          "responseTime": 4288,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED_CINEMA",
+      "endTime": "2025-06-23T14:42:21.856Z",
+      "duration": 192617
+    },
+    {
+      "personaId": "adulto_mayor",
+      "personaName": "Roberto Clásico",
+      "language": "es",
+      "description": "Adulto mayor jubilado de Puebla",
+      "cinemaPreferences": {
+        "groupSize": "2 personas",
+        "budget": "medio",
+        "preferredTimes": [
+          "matinée",
+          "tarde temprano"
+        ],
+        "interests": [
+          "drama",
+          "clásicos",
+          "biografías"
+        ],
+        "focuses": [
+          "taquilla con descuento",
+          "comodidades",
+          "facilidades"
+        ]
+      },
+      "startTime": "2025-06-23T14:42:31.862Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Acepto términos y condiciones.",
+          "sentAt": "2025-06-23T14:42:33.635Z",
+          "response": "¡Eso es todo, amix cinéfilo! 😎 Ahora dime:\n- ¿Cuántas personas van al cine?\n- ¿A qué Cinépolis van?\nAsí te armo la promo más hypeada para tu plan. 🚀🍿",
+          "receivedAt": "2025-06-23T14:42:37.575Z",
+          "responseTime": 3940,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "Buenos días, Paloma. Mi esposa y yo, dos personas, acostumbramos asistir al Cinépolis de Puebla Centro. ¿Podría usted informarme sobre alguna promoción que aplique para nosotros? Le agradecería mucho.",
+          "sentAt": "2025-06-23T14:42:42.097Z",
+          "response": "¡Qué gusto ayudarles, amix! Para armarles la promo perfecta, ¿les late más algo de dulcería (palomitas, refrescos, snacks) o prefieren promo en taquilla (boletos con descuento)? Ustedes eligen y yo les mando la opción más pro para su plan cinéfilo en Puebla Centro. 💙🍿🎬",
+          "receivedAt": "2025-06-23T14:42:47.846Z",
+          "responseTime": 5749,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "Muy amable, Paloma. Nos interesa más una promoción en taquilla. ¿Existe algún descuento para adultos de la tercera edad en el Cinépolis de Puebla Centro?",
+          "sentAt": "2025-06-23T14:42:55.190Z",
+          "response": "*No hay promos de taquilla disponibles para Cinépolis Puebla Centro, amix. Pero si te late, puedo armarte unas promos chidas de dulcería para que no te quedes con el antojo. ¿Te animas a cambiarle y ver qué hay de snacks? 🍿✨*",
+          "receivedAt": "2025-06-23T14:43:00.580Z",
+          "responseTime": 5390,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "Muy amable, Paloma. Entonces, ¿podría informarme sobre las promociones disponibles en dulcería para dos personas? Agradezco su atención.",
+          "sentAt": "2025-06-23T14:43:07.677Z",
+          "response": "*No hay promos de taquilla disponibles en Cinépolis Puebla Centro ahorita, amix 😢. Pero si te animas a cambiar el mood y te lanzas por algo de dulcería, tengo combos chidos para dos, como 2x1 en refrescos jumbo o 2 baguis x $150. ¿Jalas cambiar el plan y aprovechar el snack?*",
+          "receivedAt": "2025-06-23T14:43:14.140Z",
+          "responseTime": 6463,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "Muy amable, Paloma. ¿Podría darme más detalles sobre la promoción de los dos baguis por $150? ¿Qué incluye cada bagui? Le agradezco de antemano.",
+          "sentAt": "2025-06-23T14:43:21.139Z",
+          "response": "*No hay promos de taquilla para adultos mayores en Cinépolis Puebla Centro ahorita, amix. Pero si te late, puedo armarte unas promos chidas de dulcería para dos personas en ese cine, como 2x1 en refrescos jumbo o 2 baguis por $150. Si te animas a cambiar el tipo de promo, jalo a buscarte la mejor opción para que no te quedes con el FOMO del cine y las botanas.*",
+          "receivedAt": "2025-06-23T14:43:28.677Z",
+          "responseTime": 7538,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "Entonces, Paloma, ¿la promoción de 2x1 en refrescos jumbo también aplica para nosotros? ¿Necesito presentar algún código QR para hacerla válida? Muchas gracias por su ayuda.",
+          "sentAt": "2025-06-23T14:43:36.445Z",
+          "response": "*¡Jalo a que tu date sea nivel aesthetic con esta promo!* Por solo $150 te llevas 2 baguis para ti y tu crush en Cinépolis Puebla Centro (o cualquiera de los cines que te laten, menos VIP). Solo muestra tu QR en dulcería y listo, cero FOMO. Aplica del 1 de octubre al 30 de noviembre de 2025. ¡No dejes que te lo cuenten, lánzate y disfruta el hype del cine con tu fav! 🥖🎬✨",
+          "receivedAt": "2025-06-23T14:43:45.051Z",
+          "responseTime": 8606,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "Muy amable, Paloma. ¿Dentro de los baguis, se puede elegir el contenido o ya vienen predefinidos? ¿Cuentan con opciones para dietas especiales o alergias alimentarias? Le agradezco su atención a nuestra consulta.",
+          "sentAt": "2025-06-23T14:43:53.660Z",
+          "response": "¡Gracias por tu confianza, amix! Los baguis normalmente puedes elegir el sabor (pepperoni, jamón, hawaiano), pero la disponibilidad depende del cine. Sobre dietas especiales o alergias, te recomiendo preguntar directo en dulcería porque el menú puede variar y ahí te informan si hay opciones aptas para tu caso. ¿Listos para disfrutar el cine con todo el mood? 🥖✨",
+          "receivedAt": "2025-06-23T14:43:58.824Z",
+          "responseTime": 5164,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "Muy amable, Paloma. ¿Podría informarme si existe algún descuento para funciones matinée en el Cinépolis de Puebla Centro? Mi esposa y yo preferimos asistir a las funciones temprano. Muchas gracias por su atención.",
+          "sentAt": "2025-06-23T14:44:06.782Z",
+          "response": "¡Gracias por tu buena vibra, amix! Por ahora no tengo promos activas de taquilla para matinée en Cinépolis Puebla Centro. Pero si sale alguna, te aviso de volada. Mientras tanto, puedes aprovechar la promo de dulcería para que la función tempranera tenga su snack aesthetic. ¿Jalas armar el plan con los baguis o refrescos jumbo? 🍿🥤",
+          "receivedAt": "2025-06-23T14:44:12.311Z",
+          "responseTime": 5529,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "Muchas gracias, Paloma. En cuanto a los refrescos jumbo, ¿es posible elegir distintos sabores en la promoción de 2x1? ¿Necesito presentar algún código QR para hacerla válida? Le agradezco su atención.",
+          "sentAt": "2025-06-23T14:44:21.413Z",
+          "response": "¡Con gusto, amix! En la promo 2x1 de refrescos jumbo sí puedes elegir sabores diferentes, así cada quien pide su fav. Solo necesitas presentar el QR que te mandé antes en dulcería de Cinépolis Puebla Centro y listo, te hacen válida la promo. Si lo quieres otra vez, dime y te lo mando de nuevo. 🥤✨",
+          "receivedAt": "2025-06-23T14:44:25.056Z",
+          "responseTime": 3643,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "Agradezco su ayuda, Paloma. ¿Podría informarme si existen promociones o descuentos especiales en dulcería para personas de la tercera edad en el Cinépolis de Puebla Centro? Muchas gracias por su atención.",
+          "sentAt": "2025-06-23T14:44:33.992Z",
+          "response": "¡Gracias por tu confianza, amix! Por ahora no hay promos exclusivas de dulcería para personas de la tercera edad en Cinépolis Puebla Centro. Pero puedes aprovechar las promos generales como el 2x1 en refrescos jumbo o los 2 baguis por $150, que aplican para todos. Si sale algo especial para adultos mayores, te aviso de volada. 🍿✨",
+          "receivedAt": "2025-06-23T14:44:38.047Z",
+          "responseTime": 4055,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "Agradezco su amabilidad, Paloma. ¿Podría confirmarme si necesitamos presentar algún tipo de identificación para hacer válida la promoción de los refrescos jumbo? Gracias por la atención prestada.",
+          "sentAt": "2025-06-23T14:44:45.629Z",
+          "response": "¡Gracias por preguntar, amix! Para la promo de 2x1 en refrescos jumbo solo necesitas presentar el QR en dulcería, no te piden identificación especial. Así de fácil, llegas, enseñas tu código y listo. ¡Que disfruten mucho su función y sus refrescos! 🥤🍿",
+          "receivedAt": "2025-06-23T14:44:50.717Z",
+          "responseTime": 5088,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "Agradezco su ayuda, Paloma. Por último, ¿existe algún descuento en boletos de taquilla para matrimonios en el Cinépolis de Puebla Centro? Su atención ha sido muy valiosa para nosotros.",
+          "sentAt": "2025-06-23T14:44:57.958Z",
+          "response": "¡Gracias por tu buena vibra, amix! Por ahora no hay descuentos exclusivos en taquilla para matrimonios en Cinépolis Puebla Centro. Las promos de boletos aplican igual para todos, sin importar el estado civil. Si sale alguna promo especial para parejas, te aviso de volada. ¿Te ayudo con alguna otra promo de snacks? 🍿🎬",
+          "receivedAt": "2025-06-23T14:45:01.517Z",
+          "responseTime": 3559,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "Muy amable, Paloma. Entiendo que las promociones varían, pero, ¿podría informarme si existe algún descuento para grupos de taquilla en el Cinépolis de Puebla Centro? Agradezco su atención.",
+          "sentAt": "2025-06-23T14:45:09.910Z",
+          "response": "¡Gracias por tu confianza, amix! Por ahora no hay promos de taquilla activas para grupos en Cinépolis Puebla Centro. Las promos de boletos están pausadas ahí, pero para dulcería sí hay opciones para compartir. Si sale alguna promo grupal de boletos, te aviso al instante. ¿Te armo algo de snacks para todo el squad? 🍿👫👬",
+          "receivedAt": "2025-06-23T14:45:14.115Z",
+          "responseTime": 4205,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "Muchas gracias, Paloma. ¿Podría informarme si existe algún descuento especial en dulces de la dulcería para personas de la tercera edad en el Cinépolis de Puebla Centro? Agradecemos su atención.",
+          "sentAt": "2025-06-23T14:45:22.576Z",
+          "response": "¡Gracias por tu buena onda, amix! Por ahora no hay descuentos especiales en dulces de la dulcería para personas de la tercera edad en Cinépolis Puebla Centro. Pero pueden aprovechar las promos generales como 2x1 en refrescos jumbo o 2 baguis por $150, que aplican para todos. Si sale algo especial para adultos mayores, te aviso de volada. 🍬🍿",
+          "receivedAt": "2025-06-23T14:45:26.358Z",
+          "responseTime": 3782,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "Agradezco su amabilidad, Paloma. ¿Podría confirmar si la promoción de 2x1 en refrescos jumbo aplica todos los días de la semana? Gracias por su atención prestada.",
+          "sentAt": "2025-06-23T14:45:34.806Z",
+          "response": "¡Con mucho gusto, amix! Sí, la promo de 2x1 en refrescos jumbo aplica todos los días de la semana en Cinépolis Puebla Centro, así que puedes aprovecharla cuando quieras. Solo muestra tu QR en dulcería y listo, sin importar el día. ¡Que disfrutes mucho tu visita! 🥤🍿",
+          "receivedAt": "2025-06-23T14:45:40.386Z",
+          "responseTime": 5580,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED_CINEMA",
+      "endTime": "2025-06-23T14:45:40.386Z",
+      "duration": 188524
+    },
+    {
+      "personaId": "cinefilo_gourmet",
+      "personaName": "David Cinéfilo",
+      "language": "es",
+      "description": "Profesionista amante del cine de Monterrey",
+      "cinemaPreferences": {
+        "groupSize": "1-3 personas",
+        "budget": "alto",
+        "preferredTimes": [
+          "flexible"
+        ],
+        "interests": [
+          "acción",
+          "ciencia ficción",
+          "thriller",
+          "independiente"
+        ],
+        "focuses": [
+          "experiencia premium",
+          "tecnología",
+          "exclusividad"
+        ]
+      },
+      "startTime": "2025-06-23T14:45:50.391Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Acepto términos y condiciones.",
+          "sentAt": "2025-06-23T14:45:51.605Z",
+          "response": "¡Eso es todo, amix! 😎 Gracias por aceptar los términos y condiciones. Ahora dime:\n- ¿Cuántas personas van al cine?\n- ¿A qué Cinépolis se lanzan?\nAsí te armo la promo más pro para tu plan. 🚀🍿",
+          "receivedAt": "2025-06-23T14:45:55.605Z",
+          "responseTime": 4000,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "Excelente, Paloma. Estamos buscando promociones para 3 personas, para el Cinépolis de Galerías Monterrey. ¿Qué promociones premium tienen disponibles?",
+          "sentAt": "2025-06-23T14:46:00.214Z",
+          "response": "¡Plan premium en Galerías Monterrey, me encanta el hype! Para afinar la promo, dime:\n- ¿Buscan algo de dulcería (snacks top) o taquilla (boletos premium)?\n- ¿Van a sala tradicional o algún formato especial?\nAsí les armo la opción más pro para su squad. 🍿🎬✨",
+          "receivedAt": "2025-06-23T14:46:10.277Z",
+          "responseTime": 10063,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "Impresionante, Paloma. Estamos buscando boletos premium, preferentemente en formato IMAX o 4DX si es posible. Y en cuanto a la dulcería... ¿Tienen algún combo especial de palomitas y refresco que complemente la experiencia?",
+          "sentAt": "2025-06-23T14:46:18.142Z",
+          "response": "¡Eso es todo, squad cinéfilo! Para boletos premium en IMAX o 4DX, las promos suelen estar limitadas, pero dime:\n- ¿Cuántas personas van exacto?\n- ¿Quieren solo boletos o también dulcería?\nAsí veo si hay algún combo especial disponible y te armo el plan más top para Galerías Monterrey. 🍿🎟️🚀",
+          "receivedAt": "2025-06-23T14:46:22.814Z",
+          "responseTime": 4672,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "Sí, son 3 personas exactamente, Paloma. Y sí, también estamos interesados en las promociones de dulcería. ¿Existen combos que incluyan boletos premium y snacks? Eso sería excelente.",
+          "sentAt": "2025-06-23T14:46:30.472Z",
+          "response": "*¡Jalo con la promo más top para tu plan de 3+ en Cinépolis Galerías Monterrey!* Con el *Comboleto 3* te llevas 3 boletos de taquilla y un Maxicombo (2 palomitas jumbo y 3 refrescos jumbo) por solo $435. Aplica en salas tradicionales (no VIP), así que puedes armar el plan con tu squad y lanzarte a ver la peli que más hype traiga. Solo muestra tu QR en taquilla y dulcería, y listo, cero FOMO. ¡Nos vemos en el cine, amix! 🍿🎬✨",
+          "receivedAt": "2025-06-23T14:46:37.700Z",
+          "responseTime": 7228,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "¡Ah, excelente propuesta, Paloma! Pero, ¿este Comboleto 3 aplica para las salas IMAX o 4DX? Es que estamos buscando la mejor experiencia posible.",
+          "sentAt": "2025-06-23T14:46:44.613Z",
+          "response": "¡Buenísima pregunta, amix! El Comboleto 3 aplica solo para salas tradicionales, no incluye IMAX ni 4DX ni VIP. Si quieren la experiencia premium, los boletos para IMAX o 4DX sí van a precio regular, pero sí pueden aprovechar el Maxicombo de dulcería aparte. ¿Quieres que te ayude a armar el combo de snacks para complementar tu experiencia pro? 🍿🚀",
+          "receivedAt": "2025-06-23T14:47:02.671Z",
+          "responseTime": 18058,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "Perfecto, Paloma. Entonces, ¿cuál sería el precio por el Maxicombo de dulcería si adquirimos los boletos para IMAX o 4DX a precio regular? ¿Tienen algún código QR para obtener descuento en la dulcería? Eso sería impresionante.",
+          "sentAt": "2025-06-23T14:47:12.102Z",
+          "response": "*¡Jalo a ese plan de cine con tu crew!* Arma el combo más aesthetic para 3 o más personas en Cinépolis Galerías Monterrey: pide tu Maxicombo Micha Mix por solo $340 (antes $486, o sea, sí es un descuentazo). Solo muestra el QR que te mandamos en dulcería y listo, ya tienes palomitas, refrescos y snacks para todos. Aplica en salas tradicionales, no VIP. *No te quedes con el FOMO y lánzate a disfrutar con tu amixx* 🍿✨",
+          "receivedAt": "2025-06-23T14:47:21.492Z",
+          "responseTime": 9390,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "Paloma, ¿Y si quisiera añadir nachos con extra queso al Maxicombo Micha Mix, se podría? ¿Cuánto agregaría al costo total? Eso sí sería un combo de snacks perfecto.",
+          "sentAt": "2025-06-23T14:47:29.178Z",
+          "response": "¡Combo nivel dioses del snack, amix! El Maxicombo Micha Mix ya viene armado, pero puedes pedir nachos con extra queso aparte en dulcería. El costo extra depende del precio regular de los nachos y el extra queso en el cine (aprox. $90-$120), pero el descuento solo aplica al Maxicombo. Así armas tu combo pro y nadie se queda con antojo. 🍿🧀😋",
+          "receivedAt": "2025-06-23T14:47:35.766Z",
+          "responseTime": 6588,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "Muy bien, Paloma. Entonces, ¿este código QR para el Maxicombo Micha Mix y los nachos con extra queso también aplicaría para las funciones en las salas IMAX o 4DX? Quiero asegurarme de que la experiencia sea completamente premium.",
+          "sentAt": "2025-06-23T14:47:43.904Z",
+          "response": "¡Súper pregunta, amix! El QR del Maxicombo Micha Mix sí aplica en dulcería para cualquier sala: IMAX, 4DX o tradicional, siempre y cuando no sea VIP. Así que puedes armar tu snack premium aunque veas la peli en IMAX o 4DX. Solo los boletos son a precio regular, pero los snacks sí van con promo. ¡A disfrutar la movie night como pro! 🍿🚀",
+          "receivedAt": "2025-06-23T14:47:48.265Z",
+          "responseTime": 4361,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "Está perfecto, Paloma. Entonces, si quiero redondear mi experiencia, ¿existe alguna promoción en la que pueda adquirir boletos para sala IMAX o 4DX, el Maxicombo Micha Mix y los nachos con extra queso en un solo paquete? Eso sería lo ideal.",
+          "sentAt": "2025-06-23T14:47:57.521Z",
+          "response": "¡Estaría épico ese combo, amix! Pero la neta, no hay un paquete que incluya boletos para IMAX o 4DX + Maxicombo Micha Mix + nachos extra queso todo junto en una sola promo. Los boletos premium son a precio regular y los snacks sí puedes armarlos con el QR del Maxicombo y pedir los nachos aparte. Si algún día sale ese mega combo, te aviso de volada. Mientras, arma tu experiencia premium combinando las promos. 🎟️🍿🧀🚀",
+          "receivedAt": "2025-06-23T14:48:04.200Z",
+          "responseTime": 6679,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "Entiendo, Paloma. ¿Y qué tal si busco boletos para la sala VIP en lugar de IMAX o 4DX? ¿Existe alguna promoción para esa sala que incluya algún combo de dulcería? Eso también sería una experiencia totalmente premium.",
+          "sentAt": "2025-06-23T14:48:12.863Z",
+          "response": "¡Buenísima idea, amix! Pero en Cinépolis las promos de boletos y combos no aplican para salas VIP. Todo lo de VIP va a precio regular, tanto boletos como snacks. Si buscas la experiencia premium, sí te recomiendo aprovechar los combos de dulcería en salas tradicionales, IMAX o 4DX (menos VIP). Si sale algo para VIP, te aviso en corto. ¿Te ayudo con otra opción o tienes otra idea en mente? 🍿✨",
+          "receivedAt": "2025-06-23T14:48:17.975Z",
+          "responseTime": 5112,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "Sí, Paloma, me interesa conocer más sobre las promociones para salas tradicionales, IMAX y 4DX. ¿Existen promociones especiales para días entre semana o fines de semana? Eso también sería grandioso para planear la ida al cine.",
+          "sentAt": "2025-06-23T14:48:25.852Z",
+          "response": "¡Eso, amix! Las promos como el Maxicombo Micha Mix y Comboleto 3 aplican cualquier día de la semana en salas tradicionales. Para IMAX y 4DX, los boletos son a precio regular pero puedes usar las promos de dulcería igual. No hay promos exclusivas por día, así que puedes armar tu plan cuando quieras. ¿Te paso el QR de algún combo o necesitas opciones específicas?",
+          "receivedAt": "2025-06-23T14:48:30.737Z",
+          "responseTime": 4885,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "Sí, Paloma. ¿Podrías proporcionarme el código QR para el Maxicombo Micha Mix? Eso sería grandioso. Y, por otro lado, ¿tienen algún tipo de membresía o programa de lealtad que ofrezca beneficios o descuentos adicionales? Eso también sería una ventaja impresionante.",
+          "sentAt": "2025-06-23T14:48:40.004Z",
+          "response": "¡Aquí va tu QR para el Maxicombo Micha Mix, amix! Solo muéstralo en dulcería y disfruta el snack más pro con tu squad. Sobre membresías, Cinépolis tiene el Club Cinépolis, donde acumulas puntos y puedes canjearlos por boletos o snacks, pero los descuentos extra dependen del tipo de membresía. ¿Listo para el plan aesthetic? 🍿✨",
+          "receivedAt": "2025-06-23T14:48:45.314Z",
+          "responseTime": 5310,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "Genial, Paloma. ¿Y qué beneficios adicionales obtendría si me uniera al Club Cinépolis? ¿Existen diferentes niveles de membresía? Eso podría ser interesante para mis futuros planes de cine.",
+          "sentAt": "2025-06-23T14:48:53.530Z",
+          "response": "¡Estás en mood cinéfilo pro, amix! En el Club Cinépolis acumulas puntos por cada compra (boletos y dulcería), que puedes cambiar por boletos gratis o snacks. Hay niveles: Clásico, Fan y VIP Fan. Entre más subes, más beneficios tienes, como promos exclusivas, preventas y sorpresas. Si quieres más info, chécalo en cinepolis.com. 🎬🍿✨",
+          "receivedAt": "2025-06-23T14:48:58.033Z",
+          "responseTime": 4503,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "Excelente, Paloma. ¿Y cuántos puntos necesitaría acumular en el Club Cinépolis para canjearlos por unos boletos para IMAX o 4DX? Eso sí que sería un beneficio grandioso.",
+          "sentAt": "2025-06-23T14:49:05.761Z",
+          "response": "¡Pregunta de nivel cinéfilo, amix! El número de puntos para canjear boletos IMAX o 4DX depende del precio del boleto, porque cada punto equivale a $1 peso. Por ejemplo, si el boleto cuesta $200, necesitas 200 puntos. Puedes ver el saldo y canjear en taquilla, app o web. ¡Así te armas la experiencia premium sin gastar de más! 🎬🚀",
+          "receivedAt": "2025-06-23T14:49:11.035Z",
+          "responseTime": 5274,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "Impresionante, Paloma. ¿Y en cuánto tiempo se acumulan los puntos en la membresía del Club Cinépolis? ¿Existen algunas compras que otorguen más puntos que otras? Eso sería importante para planificar mis visitas al cine.",
+          "sentAt": "2025-06-23T14:49:22.025Z",
+          "response": "¡Súper buena esa, amix! Los puntos del Club Cinépolis se acumulan al instante después de cada compra registrada (boletos o dulcería). Todas las compras suman igual: $1 peso = 1 punto. No hay compras que den más puntos, pero hay promos donde puedes ganar puntos extra, así que ojo con esas. ¡Planea tu maratón cinéfilo y ve juntando para la experiencia premium! 🎬🍿",
+          "receivedAt": "2025-06-23T14:49:26.408Z",
+          "responseTime": 4383,
+          "receivedQR": false,
+          "qrType": null,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED_CINEMA",
+      "endTime": "2025-06-23T14:49:26.408Z",
+      "duration": 216017
+    }
+  ]
+}

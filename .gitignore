@@ -4,6 +4,10 @@ npm-debug.log
 yarn-debug.log
 yarn-error.log
 
+store_wa-session/
+store_wa-session-paloma-tester/
+store_wa-session-simple-paloma/
+
 # Logs
 logs/
 *.log

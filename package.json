@@ -1,7 +1,7 @@
 {
   "name": "whatsapp-chatbot-reco-tester",
   "version": "1.0.0",
-  "description": "BOTTY - WhatsApp Bot Tester for RECO chatbot with 5 personas and comprehensive analysis",
+  "description": "BOTTY & PALOMA TESTER - WhatsApp Bot Testing System for RECO and Cinépolis chatbots",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,6 +10,8 @@
     "start-botty": "node botty.js",
     "test-reco": "node botty.js",
     "test-reco-dev": "NODE_ENV=development node botty.js",
+    "test-paloma": "node paloma-tester.js",
+    "test-paloma-dev": "NODE_ENV=development node paloma-tester.js",
     "test-response-wait": "node test-response-wait.js",
     "analyze-logs": "node scripts/analyze-logs.js"
   },
@@ -19,6 +21,8 @@
     "testing",
     "bot-testing",
     "reco",
+    "cinepolis",
+    "paloma",
     "automation",
     "ai-analysis"
   ],

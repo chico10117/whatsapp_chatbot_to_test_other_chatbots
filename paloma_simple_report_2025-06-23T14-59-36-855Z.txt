@@ -1,0 +1,159 @@
+🎬 REPORTE FINAL - EVALUACIÓN BOT PALOMA CINÉPOLIS
+===============================================
+
+📅 FECHA DE PRUEBA: 6/23/2025, 4:49:36 PM
+⏱️  DURACIÓN TOTAL: N/A minutos
+
+📊 MÉTRICAS GENERALES:
+- Total de personas: 5
+- Total de preguntas enviadas: 75
+- Total de respuestas recibidas: 75
+- Tasa de respuesta: 100.0%
+- Total de códigos QR recibidos: 0
+- Tasa de QR: 0.0%
+
+- Tiempo promedio de respuesta: 6.0 segundos
+
+👥 DETALLE POR PERSONA:
+======================
+
+1. Luis Estudiante (Estudiante universitario de CDMX con presupuesto limitado)
+   📊 Estadísticas:
+   - Preguntas enviadas: 15
+   - Respuestas recibidas: 15/15
+   - Códigos QR recibidos: 0
+   - Tiempo promedio de respuesta: 5.9s
+   - Tasa de respuesta: 100.0%
+
+   🎬 Preferencias de cine:
+   - Grupo: 2 personas
+   - Presupuesto: bajo
+   - Intereses: acción, comedia, superhéroes
+   - Enfoque: taquilla, dulcería, combos
+
+   💬 Muestra de conversación:
+   1. P: "Acepto términos y condiciones."
+      R: "¡Ya vi que sí eres team legalidad, GPI! 😎 Ahora sí, dime: ¿cuántos van al cine ..."
+   2. P: "Órale Paloma, somos dos al cine, mi novia y yo. Nos lanzamos al Cinépolis de Par..."
+      R: "¡Plan de parejita, me encanta el vibe! 💙 Dime, ¿qué te late más para tu promo: ..."
+   3. P: "Chido, mi novia siempre trae antojo de palomitas. ¿Qué promos tienen para dulcer..."
+      R: "¡Jalo con esa energía, amix! 🍿✨ Las promos de dulcería sí aplican para dos, obv..."
+
+2. María Familia (Madre de familia del Estado de México con hijos)
+   📊 Estadísticas:
+   - Preguntas enviadas: 15
+   - Respuestas recibidas: 15/15
+   - Códigos QR recibidos: 0
+   - Tiempo promedio de respuesta: 6.0s
+   - Tasa de respuesta: 100.0%
+
+   🎬 Preferencias de cine:
+   - Grupo: 4-5 personas
+   - Presupuesto: medio
+   - Intereses: familiar, animación, aventura
+   - Enfoque: taquilla, dulcería, combos familiares
+
+   💬 Muestra de conversación:
+   1. P: "Acepto términos y condiciones."
+      R: "¡Eso es todo, amigo cinéfilo! 😎 Gracias por aceptar los términos y condiciones...."
+   2. P: "Hola Paloma, gracias por la oferta, pero somos un grupo familiar de 4. ¿Puedes r..."
+      R: "¡Qué buen plan familiar, amix! Solo para dejarlo top:
+- ¿Van todos al mismo Ciné..."
+   3. P: "Sí, todos iremos al Cinépolis de Metepec. Estamos buscando una oferta que incluy..."
+      R: "¡Plan familiar en Metepec, me encanta! Para armarte la mejor promo, dime:
+- ¿Pre..."
+
+3. Andrea Romántica (Mujer joven profesionista de Guadalajara en una cita)
+   📊 Estadísticas:
+   - Preguntas enviadas: 15
+   - Respuestas recibidas: 15/15
+   - Códigos QR recibidos: 0
+   - Tiempo promedio de respuesta: 6.4s
+   - Tasa de respuesta: 100.0%
+
+   🎬 Preferencias de cine:
+   - Grupo: 2 personas
+   - Presupuesto: medio-alto
+   - Intereses: romance, drama, thriller
+   - Enfoque: experiencia VIP, dulcería especial, ambiente
+
+   💬 Muestra de conversación:
+   1. P: "Acepto términos y condiciones."
+      R: "¡Esooo, amix cinéfilo! 😎 Gracias por aceptar los términos y condiciones. Ahora ..."
+   2. P: "Perfecto, Paloma. Seríamos dos personas para el Cinépolis de Plaza Andares en Gu..."
+      R: "¡Plan de parejita, me encanta el mood! 💙 Solo dime, ¿te late más promo de dulce..."
+   3. P: "Me encantaría una promoción de dulcería, Paloma. ¿Tienes algo especial para dos ..."
+      R: "*No hay promos de dulcería disponibles para Cinépolis VIP Andares, amix 😔. Pero..."
+
+4. Roberto Clásico (Adulto mayor jubilado de Puebla)
+   📊 Estadísticas:
+   - Preguntas enviadas: 15
+   - Respuestas recibidas: 15/15
+   - Códigos QR recibidos: 0
+   - Tiempo promedio de respuesta: 5.2s
+   - Tasa de respuesta: 100.0%
+
+   🎬 Preferencias de cine:
+   - Grupo: 2 personas
+   - Presupuesto: medio
+   - Intereses: drama, clásicos, biografías
+   - Enfoque: taquilla con descuento, comodidades, facilidades
+
+   💬 Muestra de conversación:
+   1. P: "Acepto términos y condiciones."
+      R: "¡Eso es todo, amix cinéfilo! 😎 Ahora dime:
+- ¿Cuántas personas van al cine?
+- ¿..."
+   2. P: "Buenos días, Paloma. Mi esposa y yo, dos personas, acostumbramos asistir al Ciné..."
+      R: "¡Qué gusto ayudarles, amix! Para armarles la promo perfecta, ¿les late más algo ..."
+   3. P: "Muy amable, Paloma. Nos interesa más una promoción en taquilla. ¿Existe algún de..."
+      R: "*No hay promos de taquilla disponibles para Cinépolis Puebla Centro, amix. Pero ..."
+
+5. David Cinéfilo (Profesionista amante del cine de Monterrey)
+   📊 Estadísticas:
+   - Preguntas enviadas: 15
+   - Respuestas recibidas: 15/15
+   - Códigos QR recibidos: 0
+   - Tiempo promedio de respuesta: 6.7s
+   - Tasa de respuesta: 100.0%
+
+   🎬 Preferencias de cine:
+   - Grupo: 1-3 personas
+   - Presupuesto: alto
+   - Intereses: acción, ciencia ficción, thriller, independiente
+   - Enfoque: experiencia premium, tecnología, exclusividad
+
+   💬 Muestra de conversación:
+   1. P: "Acepto términos y condiciones."
+      R: "¡Eso es todo, amix! 😎 Gracias por aceptar los términos y condiciones. Ahora dim..."
+   2. P: "Excelente, Paloma. Estamos buscando promociones para 3 personas, para el Cinépol..."
+      R: "¡Plan premium en Galerías Monterrey, me encanta el hype! Para afinar la promo, d..."
+   3. P: "Impresionante, Paloma. Estamos buscando boletos premium, preferentemente en form..."
+      R: "¡Eso es todo, squad cinéfilo! Para boletos premium en IMAX o 4DX, las promos sue..."
+
+🎯 ANÁLISIS DE RENDIMIENTO:
+==========================
+
+✅ FORTALEZAS IDENTIFICADAS:
+- Excelente tasa de respuesta (100%)
+- Tiempo de respuesta rápido (6.0s promedio)
+- Conversaciones dinámicas y contextualmente apropiadas
+- Capacidad de manejar diferentes demografías mexicanas
+
+⚠️  ÁREAS DE OPORTUNIDAD:
+- Baja generación de códigos QR (0.0%)
+- Necesidad de más análisis cualitativo de las respuestas
+- Verificación de la apropiación de promociones por demografía
+
+📈 RECOMENDACIONES:
+1. Analizar la calidad y relevancia de las promociones ofrecidas
+2. Optimizar la generación de códigos QR para mayor conversión
+3. Implementar seguimiento de satisfacción del usuario
+4. Evaluar la apropiación cultural de las respuestas
+5. Considerar A/B testing con diferentes estrategias de promoción
+
+📊 CONCLUSIÓN:
+El bot Paloma de Cinépolis demostró un rendimiento sólido con 5 personas mexicanas diferentes, logrando una tasa de respuesta del 100.0% y generando 0 códigos QR promocionales. Las conversaciones fueron naturales y apropiadas para cada demografía evaluada.
+
+✅ PRUEBA COMPLETADA EXITOSAMENTE
+📅 6/23/2025, 4:59:36 PM
