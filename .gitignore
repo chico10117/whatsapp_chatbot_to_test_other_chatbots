@@ -94,4 +94,6 @@ public/
 # MacOS files
 .DS_Store
 
+# WhatsApp session files
+store_wa-session/
 store_wa-session*
