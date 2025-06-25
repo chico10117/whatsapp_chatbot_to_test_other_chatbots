@@ -1,0 +1,211 @@
+{
+  "personaId": "familia_tradicional",
+  "personaName": "María Familia",
+  "language": "es",
+  "description": "Madre de familia del Estado de México con hijos",
+  "cinemaPreferences": {
+    "groupSize": "4-5 personas",
+    "budget": "medio",
+    "preferredTimes": [
+      "matinée",
+      "tarde"
+    ],
+    "interests": [
+      "familiar",
+      "animación",
+      "aventura"
+    ],
+    "focuses": [
+      "taquilla",
+      "dulcería",
+      "combos familiares"
+    ]
+  },
+  "startTime": "2025-06-23T14:35:53.222Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Acepto términos y condiciones.",
+      "sentAt": "2025-06-23T14:35:54.208Z",
+      "response": "¡Eso es todo, amigo cinéfilo! 😎 Gracias por aceptar los términos y condiciones. Ahora dime:\n- ¿Cuántos van por el snack (1, 2 o 3+)?\n- ¿A qué Cinépolis te lanzas?\nAsí te armo la promo de dulcería más pro para estudiantes. ¡Que no te gane el FOMO! 🍿✨",
+      "receivedAt": "2025-06-23T14:35:57.883Z",
+      "responseTime": 3675,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Hola Paloma, gracias por la oferta, pero somos un grupo familiar de 4. ¿Puedes recomendarme una promoción que incluya dulcería para nosotros por favor?",
+      "sentAt": "2025-06-23T14:36:00.405Z",
+      "response": "¡Qué buen plan familiar, amix! Solo para dejarlo top:\n- ¿Van todos al mismo Cinépolis? ¿Cuál es?\n- ¿Buscan solo promo de dulcería o también quieren boletos?\nAsí te armo la promo ideal para el squad y nadie se queda sin snacks. 🍿👨‍👩‍👧‍👦",
+      "receivedAt": "2025-06-23T14:36:03.816Z",
+      "responseTime": 3411,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "Sí, todos iremos al Cinépolis de Metepec. Estamos buscando una oferta que incluya tanto boletos como dulcería. ¿Cuáles son nuestras opciones?",
+      "sentAt": "2025-06-23T14:36:10.966Z",
+      "response": "¡Plan familiar en Metepec, me encanta! Para armarte la mejor promo, dime:\n- ¿Prefieren snacks clásicos (palomitas y refresco) o quieren agregar nachos/hot dog?\n- ¿Hay peques en el grupo o todos son adultos?\nAsí personalizo la promo y que todos salgan con smile nivel película feliz. 🎬🍿👨‍👩‍👧‍👦",
+      "receivedAt": "2025-06-23T14:36:22.325Z",
+      "responseTime": 11359,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "Hola Paloma, en mi familia somos dos adultos y dos niños. Nos gustan los snacks clásicos, pero a los niños les encantan los nachos. ¿Hay alguna promoción que nos convenga?",
+      "sentAt": "2025-06-23T14:36:29.520Z",
+      "response": "¡Plan familiar nivel pro! Solo dime si quieren la promo para sala tradicional o buscan algo especial (como IMAX o 4DX). Así te armo la opción con boletos, palomitas clásicas y nachos para los peques. ¿Qué sala prefieren? 🎬🍿🧀",
+      "receivedAt": "2025-06-23T14:36:35.336Z",
+      "responseTime": 5816,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "Hola Paloma, preferimos la sala tradicional por favor. Me podrías decir ¿cuánto costará esta promoción para los cuatro y qué incluye exactamente?",
+      "sentAt": "2025-06-23T14:36:42.161Z",
+      "response": "¡Buenísima elección! Con sala tradicional, la promo familiar puede incluir:\n- 4 boletos\n- 1 palomitas grandes\n- 2 nachos\n- 4 refrescos\nEl precio exacto lo ves en taquilla o app porque puede variar según el cine y día, pero te armo el QR para que tengan descuento especial. ¿Te la mando para Cinépolis Metepec? 😏🍿",
+      "receivedAt": "2025-06-23T14:36:55.382Z",
+      "responseTime": 13221,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "Sí, por favor, Paloma, genera el QR para Cinépolis Metepec. ¿Este código lo puedo utilizar directamente en taquilla o solo aplica para compras en la aplicación?",
+      "sentAt": "2025-06-23T14:37:02.819Z",
+      "response": "*¡Ya la armaste, amix!* Esta promo está de otro nivel para tu plan familiar: incluye 3 boletos de taquilla y un Maxicombo (2 palomitas jumbo y 3 refrescos jumbo) por solo $435. Perfecto para que nadie se quede con FOMO de snacks 🍿🥤. Solo tienes que mostrar el QR que te mandamos en la dulcería y listo, directo al hype. Aplica en Cinépolis Galerías Metepec (no VIP), así que tú y tu crew ya pueden ir planeando el outfit aesthetic para la función. ¡Nos vemos en el cine!",
+      "receivedAt": "2025-06-23T14:37:15.021Z",
+      "responseTime": 12202,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "Gracias, Paloma. Esta promoción suena muy bien. Solo para confirmar, ¿este código QR también aplica para los boletos de entrada o solo para el Maxicombo en la dulcería?",
+      "sentAt": "2025-06-23T14:37:22.354Z",
+      "response": "¡Sí aplica para ambos, amix! Con este QR puedes canjear los 3 boletos de entrada y el Maxicombo (palomitas + refrescos) directo en taquilla. Presenta el código en Cinépolis Galerías Metepec (no VIP) y te arman el combo completo. Así todos entran y salen con snacks, sin complicaciones. 🎟️🍿",
+      "receivedAt": "2025-06-23T14:37:26.978Z",
+      "responseTime": 4624,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "Muchas gracias, Paloma. El combo que mencionaste es para tres personas, pero somos un grupo de cuatro. ¿Hay alguna promoción similar que aplique para nosotros?",
+      "sentAt": "2025-06-23T14:37:33.601Z",
+      "response": "¡Buen ojo, amix! Para un grupo de 4, dime:\n- ¿Todos quieren combo completo (paloma, refresco, snack) o pueden compartir?\n- ¿Buscan solo boletos, solo dulcería, o ambos?\nAsí te armo la opción más pro y nadie se queda fuera del plan. ¡Tú dime y te paso el QR más familiar! 👨‍👩‍👧‍👦🍿",
+      "receivedAt": "2025-06-23T14:37:37.315Z",
+      "responseTime": 3714,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "Hola Paloma, todos queremos boletos y en cuanto a la dulcería, podemos compartir. ¿Hay una promoción que incluya boletos y un combo familiar de dulcería para nosotros?",
+      "sentAt": "2025-06-23T14:37:44.285Z",
+      "response": "*¡Planazo familiar desbloqueado, amix!* Con esta promo te llevas 3 boletos de taquilla para Cinépolis Metepec y un Maxicombo para compartir (2 palomitas jumbo y 3 refrescos jumbo) por solo $435. Solo muestra tu QR en taquilla y dulcería, y ya estás listo para el cine con tu squad. Aplica en sala tradicional, así que no hay FOMO: ¡armas el plan y te ahorras una buena lana! 🎬🍿✨",
+      "receivedAt": "2025-06-23T14:37:51.126Z",
+      "responseTime": 6841,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "Hola Paloma, agradezco mucho tu ayuda. Solo para confirmar, ¿este precio de $435 ya incluye el cuarto boleto o deberíamos comprarlo por separado?",
+      "sentAt": "2025-06-23T14:37:58.285Z",
+      "response": "¡Buena pregunta, amix! El precio de $435 incluye solo 3 boletos y el Maxicombo. Si son 4 personas, el cuarto boleto lo tendrían que comprar por separado. Si quieres, te ayudo a buscar una promo que incluya 4 boletos, ¿te late que lo busquemos juntos? 🎟️🍿",
+      "receivedAt": "2025-06-23T14:38:01.518Z",
+      "responseTime": 3233,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "Sí, Paloma, me gustaría buscar una promoción que incluya 4 boletos y un combo en la dulcería. ¿Me podrías ayudar con eso por favor?",
+      "sentAt": "2025-06-23T14:38:08.392Z",
+      "response": "*¡Plan familiar desbloqueado, amix!* Con esta promo te armas 3 boletos de taquilla + un Maxicombo (palomitas jumbo y 3 refrescos jumbo) por solo $435. Aplica en Cinépolis Metepec (no VIP), así que ya sabes, solo muestra tu QR en taquilla y a disfrutar el cine con tu crew. ¡No dejes que el FOMO te gane, lánzate y hazlo épico! 🍿🎬",
+      "receivedAt": "2025-06-23T14:38:14.999Z",
+      "responseTime": 6607,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "Hola Paloma, gracias por tu amabilidad. Veo que la promoción sigue siendo para tres personas. ¿Existe alguna promoción que incluya 4 boletos y un combo de dulcería?",
+      "sentAt": "2025-06-23T14:38:22.044Z",
+      "response": "¡GPI por tu buena vibra, amix! Por ahora la promo más top que tengo es para 3 boletos + Maxicombo. No hay una armada para 4 boletos y combo familiar, pero puedes combinar esa promo y comprar un boleto extra. Si sale una opción para 4, ¡te aviso! ¿Quieres el QR de la de 3 y agregas el boleto por separado, o prefieres esperar otra opción?",
+      "receivedAt": "2025-06-23T14:38:25.912Z",
+      "responseTime": 3868,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "Muchas gracias, Paloma. Entonces, si acepto la promoción para tres que me ofreciste, ¿podré utilizar el mismo código QR para conseguir un descuento en el boleto adicional que necesito?",
+      "sentAt": "2025-06-23T14:38:33.675Z",
+      "response": "¡Gracias a ti por ser tan buena onda, amix! El QR solo aplica para la promo de 3 boletos + Maxicombo. El boleto adicional sí lo puedes comprar, pero ese sí va a precio regular, no incluye descuento extra con el mismo QR. Si necesitas el QR de la promo de 3, dime y te lo mando otra vez. 🎬🍿",
+      "receivedAt": "2025-06-23T14:38:37.775Z",
+      "responseTime": 4100,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "Entiendo. Entonces, ¿existe alguna promoción o descuento aplicable para comprar un boleto adicional o debemos comprarlo al precio regular?",
+      "sentAt": "2025-06-23T14:38:44.634Z",
+      "response": "Por ahora, el boleto adicional sí tendría que ser a precio regular, amix. Las promos que tengo solo cubren combos o boletos en grupo (de 2 o 3). Si sale una promo para 4 boletos juntos, te aviso de volada. ¿Te mando el QR de la promo de 3 para que no te quedes sin plan? 🎟️🍿",
+      "receivedAt": "2025-06-23T14:38:48.020Z",
+      "responseTime": 3386,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "Sí, Paloma, por favor mándame el QR para la promoción de los tres boletos y el Maxicombo. Muchas gracias por tu ayuda. ¿Este código lo puedo usar cualquier día de la semana o tiene alguna restricción?",
+      "sentAt": "2025-06-23T14:38:55.733Z",
+      "response": "¡Listo, amix! Aquí va tu QR para la promo de 3 boletos y Maxicombo. Puedes usarlo cualquier día de la semana en Cinépolis Metepec (no VIP), sin restricción de días. Solo muéstralo en taquilla y dulcería y listo. ¡Que disfruten mucho la función en familia! 🍿🎬",
+      "receivedAt": "2025-06-23T14:38:59.234Z",
+      "responseTime": 3501,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED_CINEMA",
+  "endTime": "2025-06-23T14:38:59.234Z",
+  "duration": 186012
+}

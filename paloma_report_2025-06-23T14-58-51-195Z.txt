@@ -1,0 +1,105 @@
+🎬 REPORTE FINAL - EVALUACIÓN BOT PALOMA CINÉPOLIS
+===============================================
+
+📊 MÉTRICAS GENERALES:
+- Total de preguntas: 75
+- Respuestas recibidas: 75/0[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object][object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object][object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object][object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object][object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+- Tasa de respuesta: 100.0%
+- Códigos QR enviados: 0
+- Tasa de conversión QR: 0.0%
+- Tiempo promedio de respuesta: 6027.56s
+- Duración total del test: NaN minutos
+
+🎯 CALIFICACIÓN GENERAL: C
+
+📈 PUNTUACIONES PROMEDIO:
+
+
+👥 RENDIMIENTO POR PERSONA:
+
+Luis Estudiante (Estudiante universitario de CDMX con presupuesto limitado):
+• Respuestas: 15/15
+• QRs recibidos: 0
+• Tiempo promedio: 5887.8s
+• Satisfacción: N/A/5
+• Calificación: N/A
+• Fortalezas: 
+• Áreas de mejora: 
+
+
+María Familia (Madre de familia del Estado de México con hijos):
+• Respuestas: 15/15
+• QRs recibidos: 0
+• Tiempo promedio: 5970.5s
+• Satisfacción: N/A/5
+• Calificación: N/A
+• Fortalezas: 
+• Áreas de mejora: 
+
+
+Andrea Romántica (Mujer joven profesionista de Guadalajara en una cita):
+• Respuestas: 15/15
+• QRs recibidos: 0
+• Tiempo promedio: 6359.7s
+• Satisfacción: N/A/5
+• Calificación: N/A
+• Fortalezas: 
+• Áreas de mejora: 
+
+
+Roberto Clásico (Adulto mayor jubilado de Puebla):
+• Respuestas: 15/15
+• QRs recibidos: 0
+• Tiempo promedio: 5219.4s
+• Satisfacción: N/A/5
+• Calificación: N/A
+• Fortalezas: 
+• Áreas de mejora: 
+
+
+David Cinéfilo (Profesionista amante del cine de Monterrey):
+• Respuestas: 15/15
+• QRs recibidos: 0
+• Tiempo promedio: 6700.4s
+• Satisfacción: N/A/5
+• Calificación: N/A
+• Fortalezas: 
+• Áreas de mejora: 
+
+
+📋 RESUMEN EJECUTIVO:
+Análisis ejecutivo no disponible debido a error técnico.
+
+🏆 PRINCIPALES LOGROS:
+• Completó testing básico
+
+⚠️ ÁREAS DE PREOCUPACIÓN:
+• Error en generación de análisis
+
+💼 IMPACTO EN EL NEGOCIO:
+Impacto no determinado
+
+🔧 RECOMENDACIONES INMEDIATAS:
+• [HIGH] Revisar configuración del sistema de análisis
+    Impacto: Permitir análisis futuro
+
+👤 MEJORAS POR TIPO DE USUARIO:
+
+
+🎁 OPTIMIZACIÓN DE PROMOCIONES:
+
+
+⚙️ MEJORAS TÉCNICAS:
+
+
+🇲🇽 AJUSTES CULTURALES:
+
+
+🚀 PRÓXIMOS PASOS:
+• Revisar configuración del sistema
+
+📅 Reporte generado: 23/6/2025, 4:58:51 p.m.
+🤖 Sistema: PALOMA TESTER v1.0
+
+===============================================
+¡Gracias por usar el sistema de evaluación automatizada de Cinépolis! 🎬🍿

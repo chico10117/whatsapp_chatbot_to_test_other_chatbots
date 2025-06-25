@@ -1,0 +1,211 @@
+{
+  "personaId": "adulto_mayor",
+  "personaName": "Roberto Clásico",
+  "language": "es",
+  "description": "Adulto mayor jubilado de Puebla",
+  "cinemaPreferences": {
+    "groupSize": "2 personas",
+    "budget": "medio",
+    "preferredTimes": [
+      "matinée",
+      "tarde temprano"
+    ],
+    "interests": [
+      "drama",
+      "clásicos",
+      "biografías"
+    ],
+    "focuses": [
+      "taquilla con descuento",
+      "comodidades",
+      "facilidades"
+    ]
+  },
+  "startTime": "2025-06-23T14:42:31.862Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Acepto términos y condiciones.",
+      "sentAt": "2025-06-23T14:42:33.635Z",
+      "response": "¡Eso es todo, amix cinéfilo! 😎 Ahora dime:\n- ¿Cuántas personas van al cine?\n- ¿A qué Cinépolis van?\nAsí te armo la promo más hypeada para tu plan. 🚀🍿",
+      "receivedAt": "2025-06-23T14:42:37.575Z",
+      "responseTime": 3940,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Buenos días, Paloma. Mi esposa y yo, dos personas, acostumbramos asistir al Cinépolis de Puebla Centro. ¿Podría usted informarme sobre alguna promoción que aplique para nosotros? Le agradecería mucho.",
+      "sentAt": "2025-06-23T14:42:42.097Z",
+      "response": "¡Qué gusto ayudarles, amix! Para armarles la promo perfecta, ¿les late más algo de dulcería (palomitas, refrescos, snacks) o prefieren promo en taquilla (boletos con descuento)? Ustedes eligen y yo les mando la opción más pro para su plan cinéfilo en Puebla Centro. 💙🍿🎬",
+      "receivedAt": "2025-06-23T14:42:47.846Z",
+      "responseTime": 5749,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "Muy amable, Paloma. Nos interesa más una promoción en taquilla. ¿Existe algún descuento para adultos de la tercera edad en el Cinépolis de Puebla Centro?",
+      "sentAt": "2025-06-23T14:42:55.190Z",
+      "response": "*No hay promos de taquilla disponibles para Cinépolis Puebla Centro, amix. Pero si te late, puedo armarte unas promos chidas de dulcería para que no te quedes con el antojo. ¿Te animas a cambiarle y ver qué hay de snacks? 🍿✨*",
+      "receivedAt": "2025-06-23T14:43:00.580Z",
+      "responseTime": 5390,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "Muy amable, Paloma. Entonces, ¿podría informarme sobre las promociones disponibles en dulcería para dos personas? Agradezco su atención.",
+      "sentAt": "2025-06-23T14:43:07.677Z",
+      "response": "*No hay promos de taquilla disponibles en Cinépolis Puebla Centro ahorita, amix 😢. Pero si te animas a cambiar el mood y te lanzas por algo de dulcería, tengo combos chidos para dos, como 2x1 en refrescos jumbo o 2 baguis x $150. ¿Jalas cambiar el plan y aprovechar el snack?*",
+      "receivedAt": "2025-06-23T14:43:14.140Z",
+      "responseTime": 6463,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "Muy amable, Paloma. ¿Podría darme más detalles sobre la promoción de los dos baguis por $150? ¿Qué incluye cada bagui? Le agradezco de antemano.",
+      "sentAt": "2025-06-23T14:43:21.139Z",
+      "response": "*No hay promos de taquilla para adultos mayores en Cinépolis Puebla Centro ahorita, amix. Pero si te late, puedo armarte unas promos chidas de dulcería para dos personas en ese cine, como 2x1 en refrescos jumbo o 2 baguis por $150. Si te animas a cambiar el tipo de promo, jalo a buscarte la mejor opción para que no te quedes con el FOMO del cine y las botanas.*",
+      "receivedAt": "2025-06-23T14:43:28.677Z",
+      "responseTime": 7538,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "Entonces, Paloma, ¿la promoción de 2x1 en refrescos jumbo también aplica para nosotros? ¿Necesito presentar algún código QR para hacerla válida? Muchas gracias por su ayuda.",
+      "sentAt": "2025-06-23T14:43:36.445Z",
+      "response": "*¡Jalo a que tu date sea nivel aesthetic con esta promo!* Por solo $150 te llevas 2 baguis para ti y tu crush en Cinépolis Puebla Centro (o cualquiera de los cines que te laten, menos VIP). Solo muestra tu QR en dulcería y listo, cero FOMO. Aplica del 1 de octubre al 30 de noviembre de 2025. ¡No dejes que te lo cuenten, lánzate y disfruta el hype del cine con tu fav! 🥖🎬✨",
+      "receivedAt": "2025-06-23T14:43:45.051Z",
+      "responseTime": 8606,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "Muy amable, Paloma. ¿Dentro de los baguis, se puede elegir el contenido o ya vienen predefinidos? ¿Cuentan con opciones para dietas especiales o alergias alimentarias? Le agradezco su atención a nuestra consulta.",
+      "sentAt": "2025-06-23T14:43:53.660Z",
+      "response": "¡Gracias por tu confianza, amix! Los baguis normalmente puedes elegir el sabor (pepperoni, jamón, hawaiano), pero la disponibilidad depende del cine. Sobre dietas especiales o alergias, te recomiendo preguntar directo en dulcería porque el menú puede variar y ahí te informan si hay opciones aptas para tu caso. ¿Listos para disfrutar el cine con todo el mood? 🥖✨",
+      "receivedAt": "2025-06-23T14:43:58.824Z",
+      "responseTime": 5164,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "Muy amable, Paloma. ¿Podría informarme si existe algún descuento para funciones matinée en el Cinépolis de Puebla Centro? Mi esposa y yo preferimos asistir a las funciones temprano. Muchas gracias por su atención.",
+      "sentAt": "2025-06-23T14:44:06.782Z",
+      "response": "¡Gracias por tu buena vibra, amix! Por ahora no tengo promos activas de taquilla para matinée en Cinépolis Puebla Centro. Pero si sale alguna, te aviso de volada. Mientras tanto, puedes aprovechar la promo de dulcería para que la función tempranera tenga su snack aesthetic. ¿Jalas armar el plan con los baguis o refrescos jumbo? 🍿🥤",
+      "receivedAt": "2025-06-23T14:44:12.311Z",
+      "responseTime": 5529,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "Muchas gracias, Paloma. En cuanto a los refrescos jumbo, ¿es posible elegir distintos sabores en la promoción de 2x1? ¿Necesito presentar algún código QR para hacerla válida? Le agradezco su atención.",
+      "sentAt": "2025-06-23T14:44:21.413Z",
+      "response": "¡Con gusto, amix! En la promo 2x1 de refrescos jumbo sí puedes elegir sabores diferentes, así cada quien pide su fav. Solo necesitas presentar el QR que te mandé antes en dulcería de Cinépolis Puebla Centro y listo, te hacen válida la promo. Si lo quieres otra vez, dime y te lo mando de nuevo. 🥤✨",
+      "receivedAt": "2025-06-23T14:44:25.056Z",
+      "responseTime": 3643,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "Agradezco su ayuda, Paloma. ¿Podría informarme si existen promociones o descuentos especiales en dulcería para personas de la tercera edad en el Cinépolis de Puebla Centro? Muchas gracias por su atención.",
+      "sentAt": "2025-06-23T14:44:33.992Z",
+      "response": "¡Gracias por tu confianza, amix! Por ahora no hay promos exclusivas de dulcería para personas de la tercera edad en Cinépolis Puebla Centro. Pero puedes aprovechar las promos generales como el 2x1 en refrescos jumbo o los 2 baguis por $150, que aplican para todos. Si sale algo especial para adultos mayores, te aviso de volada. 🍿✨",
+      "receivedAt": "2025-06-23T14:44:38.047Z",
+      "responseTime": 4055,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "Agradezco su amabilidad, Paloma. ¿Podría confirmarme si necesitamos presentar algún tipo de identificación para hacer válida la promoción de los refrescos jumbo? Gracias por la atención prestada.",
+      "sentAt": "2025-06-23T14:44:45.629Z",
+      "response": "¡Gracias por preguntar, amix! Para la promo de 2x1 en refrescos jumbo solo necesitas presentar el QR en dulcería, no te piden identificación especial. Así de fácil, llegas, enseñas tu código y listo. ¡Que disfruten mucho su función y sus refrescos! 🥤🍿",
+      "receivedAt": "2025-06-23T14:44:50.717Z",
+      "responseTime": 5088,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "Agradezco su ayuda, Paloma. Por último, ¿existe algún descuento en boletos de taquilla para matrimonios en el Cinépolis de Puebla Centro? Su atención ha sido muy valiosa para nosotros.",
+      "sentAt": "2025-06-23T14:44:57.958Z",
+      "response": "¡Gracias por tu buena vibra, amix! Por ahora no hay descuentos exclusivos en taquilla para matrimonios en Cinépolis Puebla Centro. Las promos de boletos aplican igual para todos, sin importar el estado civil. Si sale alguna promo especial para parejas, te aviso de volada. ¿Te ayudo con alguna otra promo de snacks? 🍿🎬",
+      "receivedAt": "2025-06-23T14:45:01.517Z",
+      "responseTime": 3559,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "Muy amable, Paloma. Entiendo que las promociones varían, pero, ¿podría informarme si existe algún descuento para grupos de taquilla en el Cinépolis de Puebla Centro? Agradezco su atención.",
+      "sentAt": "2025-06-23T14:45:09.910Z",
+      "response": "¡Gracias por tu confianza, amix! Por ahora no hay promos de taquilla activas para grupos en Cinépolis Puebla Centro. Las promos de boletos están pausadas ahí, pero para dulcería sí hay opciones para compartir. Si sale alguna promo grupal de boletos, te aviso al instante. ¿Te armo algo de snacks para todo el squad? 🍿👫👬",
+      "receivedAt": "2025-06-23T14:45:14.115Z",
+      "responseTime": 4205,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "Muchas gracias, Paloma. ¿Podría informarme si existe algún descuento especial en dulces de la dulcería para personas de la tercera edad en el Cinépolis de Puebla Centro? Agradecemos su atención.",
+      "sentAt": "2025-06-23T14:45:22.576Z",
+      "response": "¡Gracias por tu buena onda, amix! Por ahora no hay descuentos especiales en dulces de la dulcería para personas de la tercera edad en Cinépolis Puebla Centro. Pero pueden aprovechar las promos generales como 2x1 en refrescos jumbo o 2 baguis por $150, que aplican para todos. Si sale algo especial para adultos mayores, te aviso de volada. 🍬🍿",
+      "receivedAt": "2025-06-23T14:45:26.358Z",
+      "responseTime": 3782,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "Agradezco su amabilidad, Paloma. ¿Podría confirmar si la promoción de 2x1 en refrescos jumbo aplica todos los días de la semana? Gracias por su atención prestada.",
+      "sentAt": "2025-06-23T14:45:34.806Z",
+      "response": "¡Con mucho gusto, amix! Sí, la promo de 2x1 en refrescos jumbo aplica todos los días de la semana en Cinépolis Puebla Centro, así que puedes aprovecharla cuando quieras. Solo muestra tu QR en dulcería y listo, sin importar el día. ¡Que disfrutes mucho tu visita! 🥤🍿",
+      "receivedAt": "2025-06-23T14:45:40.386Z",
+      "responseTime": 5580,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED_CINEMA",
+  "endTime": "2025-06-23T14:45:40.386Z",
+  "duration": 188524
+}

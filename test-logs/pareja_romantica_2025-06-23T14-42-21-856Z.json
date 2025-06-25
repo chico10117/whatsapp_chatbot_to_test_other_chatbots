@@ -1,0 +1,211 @@
+{
+  "personaId": "pareja_romantica",
+  "personaName": "Andrea Romántica",
+  "language": "es",
+  "description": "Mujer joven profesionista de Guadalajara en una cita",
+  "cinemaPreferences": {
+    "groupSize": "2 personas",
+    "budget": "medio-alto",
+    "preferredTimes": [
+      "noche",
+      "fin de semana"
+    ],
+    "interests": [
+      "romance",
+      "drama",
+      "thriller"
+    ],
+    "focuses": [
+      "experiencia VIP",
+      "dulcería especial",
+      "ambiente"
+    ]
+  },
+  "startTime": "2025-06-23T14:39:09.239Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Acepto términos y condiciones.",
+      "sentAt": "2025-06-23T14:39:10.573Z",
+      "response": "¡Esooo, amix cinéfilo! 😎 Gracias por aceptar los términos y condiciones. Ahora dime:\n- ¿Cuántas personas van al plan (1, 2 o más)?\n- ¿A qué Cinépolis te lanzas?\nAsí te armo la promo que neta te va a dar hype. 🍿✨",
+      "receivedAt": "2025-06-23T14:39:16.351Z",
+      "responseTime": 5778,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Perfecto, Paloma. Seríamos dos personas para el Cinépolis de Plaza Andares en Guadalajara. ¿Qué promociones me puedes ofrecer para una noche especial?",
+      "sentAt": "2025-06-23T14:39:18.859Z",
+      "response": "¡Plan de parejita, me encanta el mood! 💙 Solo dime, ¿te late más promo de dulcería (palomitas, nachos, snacks) o prefieres taquilla (descuentos en boletos)? Así te armo la opción que neta sí va a ser tu fav para esa noche especial. Tú dime y va directo el hype. 🎬🍿✨",
+      "receivedAt": "2025-06-23T14:39:24.851Z",
+      "responseTime": 5992,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "Me encantaría una promoción de dulcería, Paloma. ¿Tienes algo especial para dos que incluya palomitas y algo de beber?",
+      "sentAt": "2025-06-23T14:39:32.735Z",
+      "response": "*No hay promos de dulcería disponibles para Cinépolis VIP Andares, amix 😔. Pero si te lanzas a otro Cinépolis normal cerca, como La Gran Plaza o Pabellón Guadalajara, sí jalo con promos de palomitas y bebidas para dos. ¿Te animas a cambiar de cine o de tipo de promo? Así no te quedas con el FOMO de las promos chidas 🍿✨*",
+      "receivedAt": "2025-06-23T14:39:40.465Z",
+      "responseTime": 7730,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "Entiendo, Paloma. ¿Qué tal si buscamos promociones de taquilla para Cinépolis VIP Andares? Quiero que mi noche sea especial. ¿Qué me puedes ofrecer?",
+      "sentAt": "2025-06-23T14:39:47.061Z",
+      "response": "*No hay promos de taquilla disponibles para Cinépolis VIP Andares Guadalajara, amix. Ya sé, FOMO total, pero en los VIP no aplican las promos chidas de boletos ni de dulcería. Si te animas a cambiar de cine, avísame y te armo el plan con las mejores promos para que no te quedes fuera del hype del cine. Pero en VIP, por ahora, no jalo ninguna promo. 😔*",
+      "receivedAt": "2025-06-23T14:39:52.837Z",
+      "responseTime": 5776,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "¡Qué pena! ¿Y tienes algunas promociones para Cinépolis Pabellón Guadalajara? Estoy buscando algo especial para dos personas.",
+      "sentAt": "2025-06-23T14:39:59.454Z",
+      "response": "*No hay promos de taquilla disponibles para Cinépolis VIP Andares Guadalajara, ni para otros VIPs de tu zona, amix. Ya sé, está medio FOMO, pero si te animas a cambiar de cine a uno que no sea VIP, puedo lanzarte unas promos chidas de taquilla o dulcería para que no te quedes sin plan. ¿Jalas cambiar el mood o prefieres esperar a que salga algo VIP?*",
+      "receivedAt": "2025-06-23T14:40:07.627Z",
+      "responseTime": 8173,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "Entiendo, Paloma. ¿Pero qué tal si nos vamos a Cinépolis La Gran Plaza? ¿Hay alguna promoción de taquilla para dos personas que me puedas ofrecer?",
+      "sentAt": "2025-06-23T14:40:14.441Z",
+      "response": "*¡Plan de pareja desbloqueado, amix!* Por solo *$327* te llevas *2 boletos de taquilla* y un combo nachos en pareja (palomitas, 2 refrescos jumbo y nachos). Solo tienes que mostrar el QR que te mandamos en la dulcería o taquilla de *Cinépolis La Gran Plaza Guadalajara* (no aplica en VIP, pero aquí sí jala). Aplica del *1 al 30 de noviembre 2025*. ¡Arma la noche aesthetic y disfruta tu date sin FOMO! 🎬🍿✨",
+      "receivedAt": "2025-06-23T14:40:31.162Z",
+      "responseTime": 16721,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "Genial, Paloma. Entonces, ¿solo tendría que presentar el código QR en taquilla para obtener la promoción, cierto?",
+      "sentAt": "2025-06-23T14:40:38.277Z",
+      "response": "¡Así es, amix! Solo presentas el QR en taquilla y te arman el combo de 2 boletos + nachos en pareja sin broncas. También puedes mostrarlo en dulcería si vas directo por los snacks. Todo el plan aesthetic listo con un solo código. ¡Disfruta tu noche especial en Cinépolis La Gran Plaza Guadalajara! 🎬🍿✨",
+      "receivedAt": "2025-06-23T14:40:43.801Z",
+      "responseTime": 5524,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "Perfecto, me encanta la idea. ¿Y si quiero agregar algo dulce a la promoción, como chocolates o algún postre, también podría aplicar el código QR en la dulcería para obtener algún descuento?",
+      "sentAt": "2025-06-23T14:40:51.071Z",
+      "response": "¡Qué buen toque, amix! El QR solo aplica para el combo de la promo (boletos + nachos en pareja), así que cualquier extra como chocolates o postre va por separado al precio regular. Pero puedes aprovechar el QR para lo principal y darte el gustito dulce aparte. ¿Listo para el plan? 🍫🍿✨",
+      "receivedAt": "2025-06-23T14:41:00.069Z",
+      "responseTime": 8998,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "Claro, Paloma. Entonces, ¿el código QR lo recibiré por email o cómo me llegará?",
+      "sentAt": "2025-06-23T14:41:06.497Z",
+      "response": "¡El QR te lo paso directo aquí, amix! Solo guárdalo en tu cel o hazle screenshot y lo presentas en taquilla o dulcería de Cinépolis La Gran Plaza Guadalajara. Así de fácil y rápido, sin esperar email ni nada. ¿Listo para el cine? 🎬📱",
+      "receivedAt": "2025-06-23T14:41:13.712Z",
+      "responseTime": 7215,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "Perfecto, Paloma. Solo para confirmar, ¿esta promoción aplicará también para las funciones nocturnas de fin de semana? Me gustaría programar mi cita para un sábado por la noche.",
+      "sentAt": "2025-06-23T14:41:21.126Z",
+      "response": "¡Sí aplica, amix! Puedes usar la promo en funciones nocturnas de fin de semana sin problema, siempre y cuando sea en sala tradicional (no VIP). Así que tu cita de sábado por la noche ya va con todo el hype y sin FOMO. Solo presenta el QR y listo. 🎬✨",
+      "receivedAt": "2025-06-23T14:41:25.268Z",
+      "responseTime": 4142,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "Eso suena genial, Paloma. ¿Y si quiero hacer la reserva de los asientos desde antes, también puedo usar el código QR para hacerlo o debo comprar los boletos directamente en taquilla?",
+      "sentAt": "2025-06-23T14:41:32.799Z",
+      "response": "¡Buenísima pregunta! El QR de la promo se usa directo en taquilla, amix. Así te entregan los boletos y el combo ahí mismo. Para reservar asientos antes, sería solo por la app o web pero ahí no aplica el QR. Si quieres asegurar lugar, te recomiendo llegar con tiempo y usar el QR en taquilla. 🎟️🍿",
+      "receivedAt": "2025-06-23T14:41:36.451Z",
+      "responseTime": 3652,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "Perfecto, Paloma. Y una última pregunta, ¿hay alguna fecha límite para usar el código QR o es válido mientras la promoción esté vigente, hasta el 30 de noviembre?",
+      "sentAt": "2025-06-23T14:41:43.267Z",
+      "response": "¡Exacto, amix! Tu QR es válido hasta el 30 de noviembre de 2025, mientras la promo esté vigente. Así puedes planear tu cita sin estrés. Solo recuerda usarlo antes de esa fecha y listo, a disfrutar la movie night sin FOMO. 🎬🍿✨",
+      "receivedAt": "2025-06-23T14:41:46.480Z",
+      "responseTime": 3213,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "Entendido, Paloma. ¿Puedes recordarme qué incluye exactamente el combo de nachos en pareja? ¿Los refrescos son de cualquier sabor?",
+      "sentAt": "2025-06-23T14:41:54.266Z",
+      "response": "¡Claro, amix! El combo nachos en pareja incluye:\n- 1 palomitas tamaño cinema\n- 2 refrescos jumbo (puedes elegir el sabor que más te guste)\n- 1 nachos clásicos\nTodo para compartir nivel pareja aesthetic. Así nadie se queda con antojo y tu date va a estar top. 😏🍿🥤🧀",
+      "receivedAt": "2025-06-23T14:41:58.231Z",
+      "responseTime": 3965,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "Perfecto, Paloma. ¿Y puedo cambiar las palomitas del combo nachos en pareja por nachos extra o algún otro snack?",
+      "sentAt": "2025-06-23T14:42:05.706Z",
+      "response": "¡Qué buena idea, amix! Pero el combo viene armado tal cual: 1 palomitas, 2 refrescos jumbo y 1 nachos. No se pueden hacer cambios por otros snacks, así que no se puede cambiar palomitas por nachos extra ni por otro producto. Si quieres más nachos, puedes agregarlos aparte. ¡Así no hay pierde y el snack mood sigue top! 🍿🧀😎",
+      "receivedAt": "2025-06-23T14:42:09.934Z",
+      "responseTime": 4228,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "Entiendo, Paloma. ¿Y podrías decirme hasta qué horario puedo hacer uso de la promoción? ¿Aplica para las funciones de medianoche?",
+      "sentAt": "2025-06-23T14:42:17.567Z",
+      "response": "¡Súper pregunta, amix! Puedes usar la promo en cualquier horario mientras haya funciones disponibles en Cinépolis La Gran Plaza Guadalajara (excepto salas VIP). Así que sí, aplica para funciones de medianoche si el cine tiene cartelera a esa hora. Solo checa horarios y lánzate con tu QR. ¡El plan nocturno está seguro! 🎬🌙🍿",
+      "receivedAt": "2025-06-23T14:42:21.855Z",
+      "responseTime": 4288,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED_CINEMA",
+  "endTime": "2025-06-23T14:42:21.856Z",
+  "duration": 192617
+}

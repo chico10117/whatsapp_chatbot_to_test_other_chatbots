@@ -1,0 +1,43 @@
+{
+  "personaId": "familia_tradicional",
+  "personaName": "María Familia",
+  "language": "es",
+  "description": "Madre de familia del Estado de México con hijos",
+  "cinemaPreferences": {
+    "groupSize": "4-5 personas",
+    "budget": "medio",
+    "preferredTimes": [
+      "matinée",
+      "tarde"
+    ],
+    "interests": [
+      "familiar",
+      "animación",
+      "aventura"
+    ],
+    "focuses": [
+      "taquilla",
+      "dulcería",
+      "combos familiares"
+    ]
+  },
+  "startTime": "2025-06-23T14:28:00.525Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Acepto términos y condiciones.",
+      "sentAt": "2025-06-23T14:28:02.479Z",
+      "response": null,
+      "receivedAt": null,
+      "responseTime": null,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED_CINEMA",
+  "endTime": "2025-06-23T14:28:32.499Z",
+  "duration": 31974
+}

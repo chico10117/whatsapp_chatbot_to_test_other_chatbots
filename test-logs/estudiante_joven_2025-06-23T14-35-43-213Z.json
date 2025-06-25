@@ -1,0 +1,211 @@
+{
+  "personaId": "estudiante_joven",
+  "personaName": "Luis Estudiante",
+  "language": "es",
+  "description": "Estudiante universitario de CDMX con presupuesto limitado",
+  "cinemaPreferences": {
+    "groupSize": "2 personas",
+    "budget": "bajo",
+    "preferredTimes": [
+      "tarde",
+      "noche"
+    ],
+    "interests": [
+      "acción",
+      "comedia",
+      "superhéroes"
+    ],
+    "focuses": [
+      "taquilla",
+      "dulcería",
+      "combos"
+    ]
+  },
+  "startTime": "2025-06-23T14:32:32.899Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Acepto términos y condiciones.",
+      "sentAt": "2025-06-23T14:32:34.265Z",
+      "response": "¡Ya vi que sí eres team legalidad, GPI! 😎 Ahora sí, dime: ¿cuántos van al cine (1, 2 o 3+)? Y, súper importante, ¿a cuál Cinépolis te lanzas? Así te armo la promo que neta sí te va a dar FOMO si no la aprovechas. 🎬🍿",
+      "receivedAt": "2025-06-23T14:32:39.803Z",
+      "responseTime": 5538,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Órale Paloma, somos dos al cine, mi novia y yo. Nos lanzamos al Cinépolis de Parque Delta. ¿Qué promos me puedes armar?",
+      "sentAt": "2025-06-23T14:32:43.056Z",
+      "response": "¡Plan de parejita, me encanta el vibe! 💙 Dime, ¿qué te late más para tu promo: algo para dulcería (palomas, refresco, nachos y todo el snack aesthetic) o taquilla (boletos con descuento pa’ que no te quedes sin ver tu peli fav)? Tú eliges, amix. 😉",
+      "receivedAt": "2025-06-23T14:32:48.798Z",
+      "responseTime": 5742,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "Chido, mi novia siempre trae antojo de palomitas. ¿Qué promos tienen para dulcería? ¿Aplican para dos personas?",
+      "sentAt": "2025-06-23T14:32:55.855Z",
+      "response": "¡Jalo con esa energía, amix! 🍿✨ Las promos de dulcería sí aplican para dos, obvio, aquí nadie se queda sin snacks. Solo dime si quieres algo clásico (palomitas y refresco) o te animas a algo más top (nachos, hot dog, combo grande). ¿Qué mood traen hoy tú y tu novia? Así te armo la promo que neta sí es fav. 😏",
+      "receivedAt": "2025-06-23T14:33:00.951Z",
+      "responseTime": 5096,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "Pues mi novia y yo traemos un mood de clásicos, ¿qué trae el combo de palomitas y refresco? ¿Cuánto está?",
+      "sentAt": "2025-06-23T14:33:08.535Z",
+      "response": "¡Mood clásico, siempre es un win! 🎬🍿 El combo de palomitas y refresco incluye palomas tamaño cinema y dos refrescos medianos, perfectos para compartir con tu crush. Sobre el precio, yo solo te armo la promo y te la mando directo, pero el costo lo ves en taquilla o app. ¿Te late que te mande esta promo para Cinépolis Parque Delta? Solo dime y va el QR directo, sin FOMO. 😎",
+      "receivedAt": "2025-06-23T14:33:14.700Z",
+      "responseTime": 6165,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "Órale Paloma, suena bien. Pero dime una cosa, ¿cómo le hago con eso del QR? ¿Lo enseño en la taquilla o cómo está el rollo?",
+      "sentAt": "2025-06-23T14:33:22.065Z",
+      "response": "¡Súper fácil, amix! Una vez que te mande el QR, solo lo enseñas en dulcería (o taquilla si fuera promo de boletos) y listo, te hacen válida la promo. Es el pase secreto para que tú y tu novia tengan snacks nivel pro. ¿Listo para recibir tu QR y ser la pareja más aesthetic del cine? 😏🍿",
+      "receivedAt": "2025-06-23T14:33:26.385Z",
+      "responseTime": 4320,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "Sí, está chido eso del QR. Pero una duda, ¿ese combo de palomitas y refrescos tiene alguna promo de 2x1 o algo así?",
+      "sentAt": "2025-06-23T14:33:32.619Z",
+      "response": "¡Buena pregunta, crack! El combo clásico de palomitas y refrescos para dos ya viene en promo especial, así que sale más barato que si compras todo por separado. No es 2x1 literal, pero sí te ahorras una lanita y tu novia va a amar el plan. ¿Te lo mando? Solo dime y te llega el QR para Cinépolis Parque Delta. 🚀🍿",
+      "receivedAt": "2025-06-23T14:33:36.395Z",
+      "responseTime": 3776,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "Órale, te tomo la palabra. Mándame el QR de ese combo para dos personas. Y, ¿hay alguna promo para las funciones más tarde? Como que el presupuesto anda medio apretado, ¿sabes?",
+      "sentAt": "2025-06-23T14:33:43.698Z",
+      "response": "*¡Jalo a consentir a tu crush en Cinépolis Parque Delta!* Con esta promo de *2x1 en Refrescos Jumbo* por solo *$92*, tú y tu amix pueden armar el plan aesthetic de palomitas y refresco gigante para dos. Solo muestra tu QR en dulcería (no aplica en VIP, pero aquí sí aplica) y listo, cero FOMO de promos. ¡Que empiece el hype de la movie night! 🍿🥤",
+      "receivedAt": "2025-06-23T14:33:55.970Z",
+      "responseTime": 12272,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "Qué chido, Paloma. Entonces, con ese QR me dan dos refrescos jumbo por $92, ¿verdad? ¿Y sabes si hay algún descuento para las funciones de noche? Ya sabes, para sacarle más jugo a la lana.",
+      "sentAt": "2025-06-23T14:34:04.057Z",
+      "response": "¡Así es, amix! Con ese QR te dan dos refrescos jumbo por $92, directo en dulcería. Sobre promos de funciones nocturnas o boletos, ayúdame diciéndome:\n- ¿Cuántas personas van?\n- ¿A qué Cinépolis te lanzas?\n- ¿Quieres promo de taquilla o dulcería?\n\nAsí te armo la opción más budget friendly y sin FOMO. 🎬💸",
+      "receivedAt": "2025-06-23T14:34:08.336Z",
+      "responseTime": 4279,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "Órale, pues quiero saber si tienen alguna promo para funciones de noche. Seríamos dos personas en el Cinépolis de Parque Delta. ¿Qué promos manejan para la taquilla?",
+      "sentAt": "2025-06-23T14:34:15.137Z",
+      "response": "*¡Jalo a que armes plan nocturno con tu crush o tu amix!* Con este Comboleto 2 te llevas 2 boletos de taquilla y un combo Nachos en pareja (palomitas, 2 refrescos jumbo y nachos) por solo $327. Solo muestra tu QR en taquilla de Cinépolis Parque Delta o cualquiera de los cines de la lista y listo, ya tienes plan aesthetic y sin FOMO. Aplica para funciones nocturnas y no necesitas nada más, solo tu mejor outfit y buena vibra. ¡Nos vemos en el cine! 🍿🎬✨",
+      "receivedAt": "2025-06-23T14:34:22.830Z",
+      "responseTime": 7693,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "¡Qué chido, Paloma! Entonces con ese comboleto nos llevamos dos boletos y un combo de nachos por $327, ¿no? Oye, ¿y ese precio es igual para todas las películas o varía dependiendo de la peli?",
+      "sentAt": "2025-06-23T14:34:31.031Z",
+      "response": "¡Así es, amix! Por $327 te llevas los 2 boletos y el combo nachos en pareja, todo junto. El precio aplica para cualquier peli en Cinépolis Parque Delta, solo varía si la sala es VIP o algún formato especial (IMAX, 4DX, etc.), ahí sí puede cambiar. Pero para sala tradicional, ese es el precio chido. ¿Te animas o quieres ver otras promos?",
+      "receivedAt": "2025-06-23T14:34:35.313Z",
+      "responseTime": 4282,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "Órale Paloma, nos vamos a lanzar por el comboleto. ¿Y sabes si hay alguna promo especial para estudiantes? Como que el presupuesto de universitario a veces aprieta, ¿me entiendes?",
+      "sentAt": "2025-06-23T14:34:42.571Z",
+      "response": "¡Bien bajado ese balón, amix universitario! La neta, las promos especiales para estudiantes aplican solo algunos días y dependen del cine y la función. Pero para armarte una promo específica de estudiante, dime:\n- ¿Cuántas personas van?\n- ¿A qué Cinépolis se lanzan?\n- ¿Buscas promo de taquilla o dulcería?\nAsí te ayudo a exprimir el presupuesto y que no te quedes con FOMO. 🎬💸",
+      "receivedAt": "2025-06-23T14:34:46.668Z",
+      "responseTime": 4097,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "Órale Paloma, pues seríamos dos personas, mi novia y yo. Nos lanzamos al Cinépolis de Parque Delta. Dame la opción de promo de taquilla para estudiantes, ¿cómo se ve esa promo?",
+      "sentAt": "2025-06-23T14:34:54.381Z",
+      "response": "*¡Jalo a que armes plan con tu amix en Cinépolis Parque Delta!* Con el Comboleto 2 tienes 2 boletos de taquilla y un combo nachos en pareja (palomitas, 2 refrescos jumbo y nachos) por solo $327. Solo muestra el QR que te mandamos en taquilla (no aplica en VIP, pero aquí sí entra). Aplica para dos personas, así que ya tienes pretexto para invitar a tu crush o a tu BFF. ¡No dejes que el FOMO te gane y lánzate al cine con todo el flow! 🎬🍿",
+      "receivedAt": "2025-06-23T14:35:07.310Z",
+      "responseTime": 12929,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "Órale Paloma, suena bien eso del comboleto. Pero óyeme, ¿ese descuento de estudiante aplica también en fin de semana o solo entre semana? ¿Cómo está ese rollo?",
+      "sentAt": "2025-06-23T14:35:14.862Z",
+      "response": "¡Qué buena pregunta, amix! El comboleto aplica todos los días en sala tradicional, así que sí lo puedes usar en fin de semana. Si fuera un descuento exclusivo para estudiantes, a veces sí trae restricciones de días, pero este promo es libre de FOMO: aplica diario. Solo recuerda, no aplica en salas VIP o formatos especiales. ¿Listo para el plan cinéfilo? 🎬✨",
+      "receivedAt": "2025-06-23T14:35:18.957Z",
+      "responseTime": 4095,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "Suena chido, Paloma. Pero dime, ¿sabes si hay alguna promoción para estrenos? ¿O el comboleto aplica también para películas nuevas? ¿Cómo está ese rollo?",
+      "sentAt": "2025-06-23T14:35:26.642Z",
+      "response": "¡Súper pregunta, cinéfilo de corazón! El comboleto sí aplica para estrenos, siempre y cuando la función sea en sala tradicional (no VIP ni formatos especiales). Así que puedes lanzarte a la premier de tu peli fav y aprovechar la promo. Si tienes otra duda o quieres ver más opciones, dime y lo armamos. 🎬🚀",
+      "receivedAt": "2025-06-23T14:35:30.067Z",
+      "responseTime": 3425,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "Órale, eso suena bien, Paloma. ¿Pero me podrías decir si hay alguna promo o descuento para estudiantes en la dulcería? Como que a veces uno se antoja de un snack, ¿sabes?",
+      "sentAt": "2025-06-23T14:35:38.604Z",
+      "response": "¡Te entiendo perfecto, amix! Un snack nunca falla. Para armarte una promo de dulcería para estudiantes, dime:\n- ¿Cuántas personas van al plan?\n- ¿A qué Cinépolis te lanzas?\nAsí te busco la promo más top para que no te quedes sin tu antojo y tu cartera sobreviva. 🍿😏",
+      "receivedAt": "2025-06-23T14:35:43.212Z",
+      "responseTime": 4608,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED_CINEMA",
+  "endTime": "2025-06-23T14:35:43.213Z",
+  "duration": 190314
+}

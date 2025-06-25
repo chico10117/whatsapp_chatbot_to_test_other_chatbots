@@ -13,7 +13,7 @@ export default class CinepolisAIConversationGenerator {
     
     try {
       const response = await this.openai.chat.completions.create({
-        model: "gpt-4",
+        model: "gpt-4.1",
         messages: [
           {
             role: "system",
@@ -60,7 +60,7 @@ export default class CinepolisAIConversationGenerator {
     if (questionNumber === 1 && palomaResponse.toLowerCase().includes('paloma')) {
       try {
         const response = await this.openai.chat.completions.create({
-          model: "gpt-4",
+          model: "gpt-4.1",
           messages: [
             { role: "system", content: systemPrompt },
             { 
@@ -108,7 +108,7 @@ Sé natural y conversacional como ${persona.name}.`
       ];
 
       const response = await this.openai.chat.completions.create({
-        model: "gpt-4",
+        model: "gpt-4.1",
         messages: messages,
         max_tokens: 150,
         temperature: 0.8

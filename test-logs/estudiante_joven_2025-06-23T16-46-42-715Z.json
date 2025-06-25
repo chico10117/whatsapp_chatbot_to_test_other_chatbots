@@ -1,0 +1,211 @@
+{
+  "personaId": "estudiante_joven",
+  "personaName": "Luis Estudiante",
+  "language": "es",
+  "description": "Estudiante universitario de CDMX con presupuesto limitado",
+  "cinemaPreferences": {
+    "groupSize": "2 personas",
+    "budget": "bajo",
+    "preferredTimes": [
+      "tarde",
+      "noche"
+    ],
+    "interests": [
+      "acción",
+      "comedia",
+      "superhéroes"
+    ],
+    "focuses": [
+      "taquilla",
+      "dulcería",
+      "combos"
+    ]
+  },
+  "startTime": "2025-06-23T16:44:23.874Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Acepto términos y condiciones.",
+      "sentAt": "2025-06-23T16:44:25.983Z",
+      "response": "¡Esooo, amix! Ya eres parte del club de los que leen (o al menos aceptan) los términos y condiciones 😎. Ahora dime, ¿cuántos van a armar el plan? ¿Vas solx, en parejita o con todo el squad?",
+      "receivedAt": "2025-06-23T16:44:33.263Z",
+      "responseTime": 7280,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "¡Qué onda Paloma! Voy con mi novia, somos dos. Queremos ir al cine a ver una peli de acción o comedia. ¿Tienen algún descuento chido para parejas?",
+      "sentAt": "2025-06-23T16:44:36.885Z",
+      "response": "¡Esooo, plan de parejita! 🥰 Ya me vi: risas, palomitas y el crush a tu lado. Solo dime, ¿a qué Cinépolis van a lanzarse para ver esa peli? Y cuéntame, ¿quieren promo en dulcería (snacks, combos, etc.) o en taquilla (boletos)? Así te armo el combo más aesthetic para ustedes.",
+      "receivedAt": "2025-06-23T16:44:40.683Z",
+      "responseTime": 3798,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "Vamos a ir al Cinépolis de Coapa. Y sí, estamos buscando algún descuento en taquilla, pero también me gustaría saber si tienes algo chido en dulcería. ¿Qué tienes por ahí?",
+      "sentAt": "2025-06-23T16:44:45.535Z",
+      "response": "¡Jalo! Ya casi te tengo la promo perfecta, pero primero lo primero: ¿quieres primero la promo de taquilla o la de dulcería? Así no te dejo con FOMO y te armo el plan nivel dioses del cine. Confírmame por cuál te vas y te cuento todo el chisme. 😉",
+      "receivedAt": "2025-06-23T16:44:49.419Z",
+      "responseTime": 3884,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "Órale, pues dale con la promo de taquilla primero, ¿cuánto está el 2x1 para estudiantes? ¿Y es en cualquier horario o qué, carnala?",
+      "sentAt": "2025-06-23T16:44:53.598Z",
+      "response": "*¡Jalo a que armes plan con tu crush o tu amix!* Con el Comboleto 2 te llevas 2 boletos de taquilla y un combo nachos en pareja (palomitas, 2 refrescos jumbo y nachos) por solo $327. Solo aplica en Cinépolis Gran Terraza Coapa (no VIP), así que lánzate con tu mejor outfit y canjea tu promo mostrando el QR en taquilla. ¡No te quedes con el FOMO, esta promo es solo para dos y está buenaza! 🎬🍿",
+      "receivedAt": "2025-06-23T16:45:01.372Z",
+      "responseTime": 7774,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "Órale, está chida la promo. Pero dime, ¿ese combo de nachos tiene queso extra o hay que pagar extra? ¿Y cómo le hago para escanear el QR, me lo enseñas?",
+      "sentAt": "2025-06-23T16:45:06.081Z",
+      "response": "¡Qué buena pregunta, amix! El combo nachos incluye queso normal, pero si te late ponerle más, sí hay que pagar extra por el upgrade de queso. Sobre el QR, solo abre la app o cámara de tu cel y apúntalo al código que te mandé aquí. Lo muestras en taquilla y listo, promo desbloqueada. Si necesitas el QR otra vez, dime y te lo mando de nuevo.",
+      "receivedAt": "2025-06-23T16:45:10.228Z",
+      "responseTime": 4147,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "Neta, ¿y cuánto cuesta el queso extra? Y ya que estamos con los extras, ¿tienen algún descuento en dulces o chocolates? Anda, dime, ¿qué más tienes guardado por ahí?",
+      "sentAt": "2025-06-23T16:45:13.960Z",
+      "response": "Amix, el precio del queso extra depende del cine, pero normalmente ronda los $10-$15, así que no está tan grave para subirle el level a tus nachos 😏. Ahora sí, ¿quieres que te arme una promo de dulcería para dos? Dime a cuál Cinépolis planeas ir y si buscas algo específico (palomitas, chocolates, etc.), ¡y te paso el chisme completo!",
+      "receivedAt": "2025-06-23T16:45:18.486Z",
+      "responseTime": 4526,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "¡A huevo! Arma esa promo de dulcería. Nos gustan los chocolates y las palomitas, pero si tienes algo más exótico, también me gustaría saber. ¿Qué tienes por ahí, Paloma?",
+      "sentAt": "2025-06-23T16:45:23.166Z",
+      "response": "¡Esooo, team dulcería! Pero pa' lanzarte la promo más top necesito saber:\n\n- ¿Cuántas personas son para los snacks? (¿Siguen siendo dos?)\n- ¿Van al mismo Cinépolis Coapa?\n\nAsí te paso las promos más hype, ya sea de choco, palomitas o algo bien aesthetic. ¡Tú dime y te armo el combo!",
+      "receivedAt": "2025-06-23T16:45:27.243Z",
+      "responseTime": 4077,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "Sí, Paloma, seguimos siendo dos y sí, vamos al Cinépolis de Coapa. A ver, ¿qué promos tienen de dulcería para dos personas? ¿Y cómo saco esos descuentos con el QR?",
+      "sentAt": "2025-06-23T16:45:31.469Z",
+      "response": "*¡Jalo a que armes el plan con tu crush o tu amix! Por solo $150 te llevas 2 baguis para que le des ese toque exótico a tu movie night en Cinépolis Gran Terraza Coapa (no aplica en VIP, GPI). Solo muestra tu QR en dulcería y listo, ya tienes snack aesthetic para dos. No dejes que el FOMO te gane, la promo está buenaza y dura hasta el 30 de noviembre. ¡Nos vemos en el cine, POV: tú y tu fav compartiendo bagui!*",
+      "receivedAt": "2025-06-23T16:45:38.097Z",
+      "responseTime": 6628,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "Órale, está buena la promo. ¿Y qué onda con los baguis, son dulces o salados? ¿Y cómo le hago para pagar, puedo usar mi tarjeta o nomás efectivo?",
+      "sentAt": "2025-06-23T16:45:42.413Z",
+      "response": "¡Buenísima pregunta, amix! Los baguis son como baguettes mini rellenos, hay opciones dulces y saladas, así que puedes elegir tu vibe. Para pagar, en Cinépolis puedes usar tarjeta, efectivo o hasta la app. Solo muestra tu QR en dulcería y listo, ¡combo desbloqueado! ¿Quieres el QR otra vez? 😉",
+      "receivedAt": "2025-06-23T16:45:46.760Z",
+      "responseTime": 4347,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "Qué chido, Paloma. Y dime, ¿esa promo de baguis también aplica para los horarios de la tarde o noche? ¿O es solo en ciertos horarios? Y sí, porfa mándame de nuevo el QR.",
+      "sentAt": "2025-06-23T16:45:50.519Z",
+      "response": "¡Sí aplica en todos los horarios, amix! Ya sea tarde, noche o cuando el antojo ataque, puedes canjear tu promo de baguis. Solo recuerda que no aplica en salas VIP. Aquí va tu QR otra vez para que no haya FOMO:",
+      "receivedAt": "2025-06-23T16:45:54.966Z",
+      "responseTime": 4447,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "Gracias, Paloma. Y oye, ¿estos descuentos también aplican para las funciones de estreno o solo para las que ya llevan tiempo? ¿Hay algún límite de combos que puedo comprar por función?",
+      "sentAt": "2025-06-23T16:45:58.611Z",
+      "response": "¡De nada, amix! Estas promos aplican para cualquier función, incluso los estrenos hypeados, así que lánzate cuando quieras. Solo considera que el combo es por promo, o sea, uno por QR. Si quieres más, se arma con otra promo (máximo 100 por usuario). ¿Te animas a otro combo? 😉",
+      "receivedAt": "2025-06-23T16:46:03.747Z",
+      "responseTime": 5136,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "Órale, está chido. Ahora ya sabemos que podemos ir a ver algún estreno sin problemas. Pero dime, ¿tienen algún combo que incluya palomitas y refresco para dos? Y si sí, ¿cómo le hago para sacar ese descuento con el QR?",
+      "sentAt": "2025-06-23T16:46:08.010Z",
+      "response": "¡Planazo, amix! Para buscarte ese combo chido de palomitas y refresco para dos, solo dime:\n\n- ¿Siguen siendo dos personas?\n- ¿Van al mismo Cinépolis Coapa?\n\nAsí te armo el combo ideal y te explico cómo usar el QR. ¡Tú dime y lo hacemos posible, girl power cinéfilo!",
+      "receivedAt": "2025-06-23T16:46:14.324Z",
+      "responseTime": 6314,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "Sí, Paloma, seguimos siendo dos y sí, vamos al Cinépolis de Coapa. A ver, ¿qué promos tienen de palomitas y refresco para dos personas? ¿Y cómo saco esos descuentos con el QR?",
+      "sentAt": "2025-06-23T16:46:18.723Z",
+      "response": "*¡Jalo con esta promo, amix!* Si vas a Cinépolis Coapa, tienes un 2x1 en refrescos jumbo por solo $92. Así tú y tu +1 se arman el combo de bebidas para acompañar sus palomitas y no les dé FOMO de tener el vaso más grande del cine 🍿🥤. Solo muestra tu QR en dulcería (no aplica en VIP) y listo, ¡a disfrutar la movie con todo el hype! 🚀",
+      "receivedAt": "2025-06-23T16:46:26.449Z",
+      "responseTime": 7726,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "Órale, está chido. Pero oye, ¿ese 2x1 en refrescos jumbo también aplica para las funciones de la tarde o noche? ¿O es solo en ciertos horarios? Y sí, porfa mándame de nuevo el QR.",
+      "sentAt": "2025-06-23T16:46:30.886Z",
+      "response": "¡Súper sí, amix! El 2x1 en refrescos jumbo aplica en cualquier horario: tarde, noche o cuando el antojo de refresco esté a full. Solo no aplica en salas VIP. Aquí va tu QR otra vez para que no haya FOMO:",
+      "receivedAt": "2025-06-23T16:46:34.496Z",
+      "responseTime": 3610,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "Chido, Paloma. Y oye, ¿ese 2x1 en refrescos jumbo también aplica para las funciones de estreno o solo para las que ya llevan tiempo? ¿Hay algún límite de refrescos que puedo comprar por función?",
+      "sentAt": "2025-06-23T16:46:38.802Z",
+      "response": "¡Sí aplica para funciones de estreno y para las que ya llevan rato, amix! No hay restricción de peli, solo muestra tu QR en dulcería. El límite es uno por promo, pero puedes tener hasta 100 promos en tu cuenta. Si quieres más refrescos, solo pide otra promo. ¿Te animas a otro descuento? 😉",
+      "receivedAt": "2025-06-23T16:46:42.714Z",
+      "responseTime": 3912,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED_CINEMA",
+  "endTime": "2025-06-23T16:46:42.714Z",
+  "duration": 138840
+}

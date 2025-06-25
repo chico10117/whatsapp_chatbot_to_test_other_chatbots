@@ -1,0 +1,211 @@
+{
+  "personaId": "cinefilo_gourmet",
+  "personaName": "David Cinéfilo",
+  "language": "es",
+  "description": "Profesionista amante del cine de Monterrey",
+  "cinemaPreferences": {
+    "groupSize": "1-3 personas",
+    "budget": "alto",
+    "preferredTimes": [
+      "flexible"
+    ],
+    "interests": [
+      "acción",
+      "ciencia ficción",
+      "thriller",
+      "independiente"
+    ],
+    "focuses": [
+      "experiencia premium",
+      "tecnología",
+      "exclusividad"
+    ]
+  },
+  "startTime": "2025-06-23T14:45:50.391Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Acepto términos y condiciones.",
+      "sentAt": "2025-06-23T14:45:51.605Z",
+      "response": "¡Eso es todo, amix! 😎 Gracias por aceptar los términos y condiciones. Ahora dime:\n- ¿Cuántas personas van al cine?\n- ¿A qué Cinépolis se lanzan?\nAsí te armo la promo más pro para tu plan. 🚀🍿",
+      "receivedAt": "2025-06-23T14:45:55.605Z",
+      "responseTime": 4000,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Excelente, Paloma. Estamos buscando promociones para 3 personas, para el Cinépolis de Galerías Monterrey. ¿Qué promociones premium tienen disponibles?",
+      "sentAt": "2025-06-23T14:46:00.214Z",
+      "response": "¡Plan premium en Galerías Monterrey, me encanta el hype! Para afinar la promo, dime:\n- ¿Buscan algo de dulcería (snacks top) o taquilla (boletos premium)?\n- ¿Van a sala tradicional o algún formato especial?\nAsí les armo la opción más pro para su squad. 🍿🎬✨",
+      "receivedAt": "2025-06-23T14:46:10.277Z",
+      "responseTime": 10063,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "Impresionante, Paloma. Estamos buscando boletos premium, preferentemente en formato IMAX o 4DX si es posible. Y en cuanto a la dulcería... ¿Tienen algún combo especial de palomitas y refresco que complemente la experiencia?",
+      "sentAt": "2025-06-23T14:46:18.142Z",
+      "response": "¡Eso es todo, squad cinéfilo! Para boletos premium en IMAX o 4DX, las promos suelen estar limitadas, pero dime:\n- ¿Cuántas personas van exacto?\n- ¿Quieren solo boletos o también dulcería?\nAsí veo si hay algún combo especial disponible y te armo el plan más top para Galerías Monterrey. 🍿🎟️🚀",
+      "receivedAt": "2025-06-23T14:46:22.814Z",
+      "responseTime": 4672,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "Sí, son 3 personas exactamente, Paloma. Y sí, también estamos interesados en las promociones de dulcería. ¿Existen combos que incluyan boletos premium y snacks? Eso sería excelente.",
+      "sentAt": "2025-06-23T14:46:30.472Z",
+      "response": "*¡Jalo con la promo más top para tu plan de 3+ en Cinépolis Galerías Monterrey!* Con el *Comboleto 3* te llevas 3 boletos de taquilla y un Maxicombo (2 palomitas jumbo y 3 refrescos jumbo) por solo $435. Aplica en salas tradicionales (no VIP), así que puedes armar el plan con tu squad y lanzarte a ver la peli que más hype traiga. Solo muestra tu QR en taquilla y dulcería, y listo, cero FOMO. ¡Nos vemos en el cine, amix! 🍿🎬✨",
+      "receivedAt": "2025-06-23T14:46:37.700Z",
+      "responseTime": 7228,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "¡Ah, excelente propuesta, Paloma! Pero, ¿este Comboleto 3 aplica para las salas IMAX o 4DX? Es que estamos buscando la mejor experiencia posible.",
+      "sentAt": "2025-06-23T14:46:44.613Z",
+      "response": "¡Buenísima pregunta, amix! El Comboleto 3 aplica solo para salas tradicionales, no incluye IMAX ni 4DX ni VIP. Si quieren la experiencia premium, los boletos para IMAX o 4DX sí van a precio regular, pero sí pueden aprovechar el Maxicombo de dulcería aparte. ¿Quieres que te ayude a armar el combo de snacks para complementar tu experiencia pro? 🍿🚀",
+      "receivedAt": "2025-06-23T14:47:02.671Z",
+      "responseTime": 18058,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "Perfecto, Paloma. Entonces, ¿cuál sería el precio por el Maxicombo de dulcería si adquirimos los boletos para IMAX o 4DX a precio regular? ¿Tienen algún código QR para obtener descuento en la dulcería? Eso sería impresionante.",
+      "sentAt": "2025-06-23T14:47:12.102Z",
+      "response": "*¡Jalo a ese plan de cine con tu crew!* Arma el combo más aesthetic para 3 o más personas en Cinépolis Galerías Monterrey: pide tu Maxicombo Micha Mix por solo $340 (antes $486, o sea, sí es un descuentazo). Solo muestra el QR que te mandamos en dulcería y listo, ya tienes palomitas, refrescos y snacks para todos. Aplica en salas tradicionales, no VIP. *No te quedes con el FOMO y lánzate a disfrutar con tu amixx* 🍿✨",
+      "receivedAt": "2025-06-23T14:47:21.492Z",
+      "responseTime": 9390,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "Paloma, ¿Y si quisiera añadir nachos con extra queso al Maxicombo Micha Mix, se podría? ¿Cuánto agregaría al costo total? Eso sí sería un combo de snacks perfecto.",
+      "sentAt": "2025-06-23T14:47:29.178Z",
+      "response": "¡Combo nivel dioses del snack, amix! El Maxicombo Micha Mix ya viene armado, pero puedes pedir nachos con extra queso aparte en dulcería. El costo extra depende del precio regular de los nachos y el extra queso en el cine (aprox. $90-$120), pero el descuento solo aplica al Maxicombo. Así armas tu combo pro y nadie se queda con antojo. 🍿🧀😋",
+      "receivedAt": "2025-06-23T14:47:35.766Z",
+      "responseTime": 6588,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "Muy bien, Paloma. Entonces, ¿este código QR para el Maxicombo Micha Mix y los nachos con extra queso también aplicaría para las funciones en las salas IMAX o 4DX? Quiero asegurarme de que la experiencia sea completamente premium.",
+      "sentAt": "2025-06-23T14:47:43.904Z",
+      "response": "¡Súper pregunta, amix! El QR del Maxicombo Micha Mix sí aplica en dulcería para cualquier sala: IMAX, 4DX o tradicional, siempre y cuando no sea VIP. Así que puedes armar tu snack premium aunque veas la peli en IMAX o 4DX. Solo los boletos son a precio regular, pero los snacks sí van con promo. ¡A disfrutar la movie night como pro! 🍿🚀",
+      "receivedAt": "2025-06-23T14:47:48.265Z",
+      "responseTime": 4361,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "Está perfecto, Paloma. Entonces, si quiero redondear mi experiencia, ¿existe alguna promoción en la que pueda adquirir boletos para sala IMAX o 4DX, el Maxicombo Micha Mix y los nachos con extra queso en un solo paquete? Eso sería lo ideal.",
+      "sentAt": "2025-06-23T14:47:57.521Z",
+      "response": "¡Estaría épico ese combo, amix! Pero la neta, no hay un paquete que incluya boletos para IMAX o 4DX + Maxicombo Micha Mix + nachos extra queso todo junto en una sola promo. Los boletos premium son a precio regular y los snacks sí puedes armarlos con el QR del Maxicombo y pedir los nachos aparte. Si algún día sale ese mega combo, te aviso de volada. Mientras, arma tu experiencia premium combinando las promos. 🎟️🍿🧀🚀",
+      "receivedAt": "2025-06-23T14:48:04.200Z",
+      "responseTime": 6679,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "Entiendo, Paloma. ¿Y qué tal si busco boletos para la sala VIP en lugar de IMAX o 4DX? ¿Existe alguna promoción para esa sala que incluya algún combo de dulcería? Eso también sería una experiencia totalmente premium.",
+      "sentAt": "2025-06-23T14:48:12.863Z",
+      "response": "¡Buenísima idea, amix! Pero en Cinépolis las promos de boletos y combos no aplican para salas VIP. Todo lo de VIP va a precio regular, tanto boletos como snacks. Si buscas la experiencia premium, sí te recomiendo aprovechar los combos de dulcería en salas tradicionales, IMAX o 4DX (menos VIP). Si sale algo para VIP, te aviso en corto. ¿Te ayudo con otra opción o tienes otra idea en mente? 🍿✨",
+      "receivedAt": "2025-06-23T14:48:17.975Z",
+      "responseTime": 5112,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "Sí, Paloma, me interesa conocer más sobre las promociones para salas tradicionales, IMAX y 4DX. ¿Existen promociones especiales para días entre semana o fines de semana? Eso también sería grandioso para planear la ida al cine.",
+      "sentAt": "2025-06-23T14:48:25.852Z",
+      "response": "¡Eso, amix! Las promos como el Maxicombo Micha Mix y Comboleto 3 aplican cualquier día de la semana en salas tradicionales. Para IMAX y 4DX, los boletos son a precio regular pero puedes usar las promos de dulcería igual. No hay promos exclusivas por día, así que puedes armar tu plan cuando quieras. ¿Te paso el QR de algún combo o necesitas opciones específicas?",
+      "receivedAt": "2025-06-23T14:48:30.737Z",
+      "responseTime": 4885,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "Sí, Paloma. ¿Podrías proporcionarme el código QR para el Maxicombo Micha Mix? Eso sería grandioso. Y, por otro lado, ¿tienen algún tipo de membresía o programa de lealtad que ofrezca beneficios o descuentos adicionales? Eso también sería una ventaja impresionante.",
+      "sentAt": "2025-06-23T14:48:40.004Z",
+      "response": "¡Aquí va tu QR para el Maxicombo Micha Mix, amix! Solo muéstralo en dulcería y disfruta el snack más pro con tu squad. Sobre membresías, Cinépolis tiene el Club Cinépolis, donde acumulas puntos y puedes canjearlos por boletos o snacks, pero los descuentos extra dependen del tipo de membresía. ¿Listo para el plan aesthetic? 🍿✨",
+      "receivedAt": "2025-06-23T14:48:45.314Z",
+      "responseTime": 5310,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "Genial, Paloma. ¿Y qué beneficios adicionales obtendría si me uniera al Club Cinépolis? ¿Existen diferentes niveles de membresía? Eso podría ser interesante para mis futuros planes de cine.",
+      "sentAt": "2025-06-23T14:48:53.530Z",
+      "response": "¡Estás en mood cinéfilo pro, amix! En el Club Cinépolis acumulas puntos por cada compra (boletos y dulcería), que puedes cambiar por boletos gratis o snacks. Hay niveles: Clásico, Fan y VIP Fan. Entre más subes, más beneficios tienes, como promos exclusivas, preventas y sorpresas. Si quieres más info, chécalo en cinepolis.com. 🎬🍿✨",
+      "receivedAt": "2025-06-23T14:48:58.033Z",
+      "responseTime": 4503,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "Excelente, Paloma. ¿Y cuántos puntos necesitaría acumular en el Club Cinépolis para canjearlos por unos boletos para IMAX o 4DX? Eso sí que sería un beneficio grandioso.",
+      "sentAt": "2025-06-23T14:49:05.761Z",
+      "response": "¡Pregunta de nivel cinéfilo, amix! El número de puntos para canjear boletos IMAX o 4DX depende del precio del boleto, porque cada punto equivale a $1 peso. Por ejemplo, si el boleto cuesta $200, necesitas 200 puntos. Puedes ver el saldo y canjear en taquilla, app o web. ¡Así te armas la experiencia premium sin gastar de más! 🎬🚀",
+      "receivedAt": "2025-06-23T14:49:11.035Z",
+      "responseTime": 5274,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "Impresionante, Paloma. ¿Y en cuánto tiempo se acumulan los puntos en la membresía del Club Cinépolis? ¿Existen algunas compras que otorguen más puntos que otras? Eso sería importante para planificar mis visitas al cine.",
+      "sentAt": "2025-06-23T14:49:22.025Z",
+      "response": "¡Súper buena esa, amix! Los puntos del Club Cinépolis se acumulan al instante después de cada compra registrada (boletos o dulcería). Todas las compras suman igual: $1 peso = 1 punto. No hay compras que den más puntos, pero hay promos donde puedes ganar puntos extra, así que ojo con esas. ¡Planea tu maratón cinéfilo y ve juntando para la experiencia premium! 🎬🍿",
+      "receivedAt": "2025-06-23T14:49:26.408Z",
+      "responseTime": 4383,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED_CINEMA",
+  "endTime": "2025-06-23T14:49:26.408Z",
+  "duration": 216017
+}

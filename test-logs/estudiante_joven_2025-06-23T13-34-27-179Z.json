@@ -1,0 +1,211 @@
+{
+  "personaId": "estudiante_joven",
+  "personaName": "Luis Estudiante",
+  "language": "es",
+  "description": "Estudiante universitario de CDMX con presupuesto limitado",
+  "cinemaPreferences": {
+    "groupSize": "2 personas",
+    "budget": "bajo",
+    "preferredTimes": [
+      "tarde",
+      "noche"
+    ],
+    "interests": [
+      "acción",
+      "comedia",
+      "superhéroes"
+    ],
+    "focuses": [
+      "taquilla",
+      "dulcería",
+      "combos"
+    ]
+  },
+  "startTime": "2025-06-23T13:31:53.594Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Acepto términos y condiciones.",
+      "sentAt": "2025-06-23T13:31:55.452Z",
+      "response": "¡Gracias, amix! Pero ojo: ya tienes 2 promos activas, así que por ahora no puedo darte nuevas hasta que termine su vigencia. Si tienes dudas sobre tus QRs o cómo usarlos, dime y te ayudo sin FOMO 😉",
+      "receivedAt": "2025-06-23T13:31:59.324Z",
+      "responseTime": 3872,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Órale, y ¿cómo le hago para checar los detalles de las promos que ya tengo activas?",
+      "sentAt": "2025-06-23T13:32:01.952Z",
+      "response": "¡Sin problema, amix! Aquí te va de nuevo el QR de tu última promo para que lo tengas a la mano. Recuerda que ahí mismo en el cine te dicen los detalles al escanearlo. Si necesitas el otro QR, dime y te lo paso 😉",
+      "receivedAt": "2025-06-23T13:32:07.988Z",
+      "responseTime": 6036,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "Chido, gracias. Y bueno, ¿no tendrás alguna promo para ir con mi novia a ver una peli de acción en la tarde, así como de esas que son 2x1?",
+      "sentAt": "2025-06-23T13:32:15.524Z",
+      "response": "Amix, ya tienes el máximo de 2 promociones activas, así que por ahora no puedo darte más promos. Si necesitas info de tus QRs o detalles de las que ya tienes, aquí sigo para ayudarte con todo el mood cinéfilo 😎🎬",
+      "receivedAt": "2025-06-23T13:32:19.150Z",
+      "responseTime": 3626,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "Entonces, ¿qué onda con los combos de la dulcería? ¿Tienes alguno barato que no cueste un riñón?",
+      "sentAt": "2025-06-23T13:32:26.186Z",
+      "response": "Amix, ya alcanzaste el límite de 2 promociones activas. Por ahora no puedo ofrecerte más promos nuevas. Si quieres detalles de las que ya tienes o ayuda con tus QRs, dime y aquí sigo para ti, full cinéfilo 🍿😉",
+      "receivedAt": "2025-06-23T13:32:30.906Z",
+      "responseTime": 4720,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "Órale, entonces, ¿me puedes decir de qué tratan las promos que ya tengo activas? ¿Me van a aplicar para ir con mi morra?",
+      "sentAt": "2025-06-23T13:32:37.524Z",
+      "response": "¡Claro que sí, amix! Las promos que tienes activas son para 2 personas, así que te aplican perfecto para ir con tu morra. Una es un combo de taquilla con nachos y la otra es para 2 hot dogs (baguis) en dulcería. Solo muestra tu QR en Cinépolis y listo, a disfrutar el plan cinéfilo en pareja 😎🍿",
+      "receivedAt": "2025-06-23T13:32:42.967Z",
+      "responseTime": 5443,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "¿Qué pelis de acción me recomiendas para ir a ver con el combo de taquilla que ya tengo? Está chido si son en la tarde, así no gastamos tanto.",
+      "sentAt": "2025-06-23T13:32:50.338Z",
+      "response": "Amix, solo te puedo ayudar con promos de Cinépolis, no con recomendaciones de películas o cartelera 😅\n\nPero si tienes dudas sobre tus combos o cómo usar tu QR, aquí estoy para ayudarte a full mood cinéfilo 🍿😉",
+      "receivedAt": "2025-06-23T13:32:53.533Z",
+      "responseTime": 3195,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "Órale, y ¿cuánto tiempo tengo para usar los combos que tengo activos? No vaya a ser que se me pase la fecha.",
+      "sentAt": "2025-06-23T13:32:59.693Z",
+      "response": "¡Súper importante, amix! Tus promos tienen estas fechas de vigencia:\n\n- Combo nachos (taquilla): hasta el 30 de noviembre de 2025\n- Combo hot dogs (dulcería): hasta el 31 de mayo de 2026\n\nLánzate antes de que se acabe el hype y no te quedes sin plan 🍿✨",
+      "receivedAt": "2025-06-23T13:33:03.065Z",
+      "responseTime": 3372,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "Chido, gracias por la info. ¿Y para usar los combos solo presento los QRs en taquilla y dulcería, o hay que hacer algo más?",
+      "sentAt": "2025-06-23T13:33:10.098Z",
+      "response": "¡Así de fácil, amix! Solo presentas el QR en taquilla o dulcería según la promo y listo, te dan tu combo sin más vueltas. No necesitas hacer nada extra, todo digital y sin complicaciones 😎🍿\n\n¡Disfruta el cine con tu morra y lánzate por tus promos sin FOMO!",
+      "receivedAt": "2025-06-23T13:33:13.777Z",
+      "responseTime": 3679,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "Órale, y ¿no hay algún límite de horario para usar los combos o los puedo usar a cualquier hora del día?",
+      "sentAt": "2025-06-23T13:33:20.660Z",
+      "response": "Buenísima pregunta, amix. Tus promos las puedes usar a cualquier hora mientras el cine y la dulcería estén abiertos, no hay límite de horario especial. Así que lánzate cuando quieras, el combo siempre te espera 🍿😏",
+      "receivedAt": "2025-06-23T13:33:24.100Z",
+      "responseTime": 3440,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "Está chido. Y una duda más, ¿cómo es eso de que solo se pueden tener dos promos activas a la vez? ¿No puedo tener más aunque sea para diferentes cosas?",
+      "sentAt": "2025-06-23T13:33:30.882Z",
+      "response": "Así es, amix: solo puedes tener 2 promos activas a la vez, aunque sean para cosas distintas (taquilla, dulcería, etc). Es la regla para que todos tengan chance y cero FOMO. Cuando alguna promo expire o la uses, ya puedes pedir otra nueva 😎🎬",
+      "receivedAt": "2025-06-23T13:33:34.595Z",
+      "responseTime": 3713,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "Entonces, ¿qué onda si quiero usar una promo para taquilla y otra para dulcería el mismo día? ¿No hay bronca con eso?",
+      "sentAt": "2025-06-23T13:33:41.386Z",
+      "response": "¡Cero bronca, amix! Puedes usar tus 2 promos el mismo día, una en taquilla y otra en dulcería, sin problema. Solo muestra tu QR en cada área y listo, planazo cinéfilo con todo el hype 🍿🎟️",
+      "receivedAt": "2025-06-23T13:33:45.396Z",
+      "responseTime": 4010,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "Y si quiero usar las promos en días diferentes, ¿también se puede o tienen que ser el mismo día?",
+      "sentAt": "2025-06-23T13:33:51.326Z",
+      "response": "¡Sin problema, amix! Puedes usar cada promo en días diferentes, no tienen que ser el mismo día. Solo cuida que no se te pase la fecha de vigencia y lánzate cuando más te lata. Así tu plan cinéfilo tiene doble hype 😉🍿",
+      "receivedAt": "2025-06-23T13:33:55.232Z",
+      "responseTime": 3906,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "Órale, está chido eso. ¿Y cómo me avisan de nuevas promos o tengo que preguntar siempre?",
+      "sentAt": "2025-06-23T13:34:02.349Z",
+      "response": "¡Qué buena onda que andes al tiro, amix! Por aquí tienes que preguntar cada que quieras saber de nuevas promos. Yo siempre jalo a buscarte la mejor opción cuando ya puedas recibir otra. Así cero FOMO y puro plan cinéfilo top 😎🍿",
+      "receivedAt": "2025-06-23T13:34:05.433Z",
+      "responseTime": 3084,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "Entonces, ¿puedo usar un combo en taquilla para una peli y el otro en dulcería para otra peli diferente en días distintos? ¿No hay lata con eso?",
+      "sentAt": "2025-06-23T13:34:12.211Z",
+      "response": "¡Sin ningún problema, amix! Puedes usar tu promo de taquilla para una peli y la de dulcería para otra, en días diferentes si quieres. Sólo checa que no se te pase la vigencia y disfruta el cine a tu ritmo. Cero lata, puro hype cinéfilo 🍿🎬",
+      "receivedAt": "2025-06-23T13:34:15.822Z",
+      "responseTime": 3611,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "Chido, gracias por la info. Ahora, ¿cómo le hago para ver las promos que están disponibles cuando ya pueda recibir otras? ¿Aquí mismo pregunto o hay una página web donde las pueda checar?",
+      "sentAt": "2025-06-23T13:34:24.045Z",
+      "response": "¡Aquí mismo, amix! Cuando ya puedas recibir nuevas promos, solo pregúntame y te paso las opciones más fresh. No hay una página para verlas, pero yo te las armo directo por chat, sin FOMO y al puro estilo Cinépolis 😎🍿",
+      "receivedAt": "2025-06-23T13:34:27.178Z",
+      "responseTime": 3133,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED_CINEMA",
+  "endTime": "2025-06-23T13:34:27.178Z",
+  "duration": 153584
+}

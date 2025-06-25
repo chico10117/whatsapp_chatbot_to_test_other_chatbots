@@ -1,0 +1,43 @@
+{
+  "personaId": "estudiante_joven",
+  "personaName": "Luis Estudiante",
+  "language": "es",
+  "description": "Estudiante universitario de CDMX con presupuesto limitado",
+  "cinemaPreferences": {
+    "groupSize": "2 personas",
+    "budget": "bajo",
+    "preferredTimes": [
+      "tarde",
+      "noche"
+    ],
+    "interests": [
+      "acción",
+      "comedia",
+      "superhéroes"
+    ],
+    "focuses": [
+      "taquilla",
+      "dulcería",
+      "combos"
+    ]
+  },
+  "startTime": "2025-06-23T14:27:18.833Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Acepto términos y condiciones.",
+      "sentAt": "2025-06-23T14:27:20.397Z",
+      "response": null,
+      "receivedAt": null,
+      "responseTime": null,
+      "receivedQR": false,
+      "qrType": null,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED_CINEMA",
+  "endTime": "2025-06-23T14:27:50.513Z",
+  "duration": 31680
+}
