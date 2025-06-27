@@ -1,0 +1,24 @@
+{
+  "personaId": "family_kids",
+  "personaName": "Ana Familia",
+  "language": "es",
+  "description": "Madre de familia con dos niños pequeños",
+  "startTime": "2025-06-25T12:55:27.522Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "¡Hola! ¿Me puedes recomendar algún restaurante cerca que tenga zona de juegos para niños y menú infantil?",
+      "sentAt": "2025-06-25T12:55:29.152Z",
+      "response": null,
+      "receivedAt": null,
+      "responseTime": null,
+      "analysis": {},
+      "error": "Cannot read properties of undefined (reading 'substring')",
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-06-25T12:55:38.663Z",
+  "duration": 11141
+}

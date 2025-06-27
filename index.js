@@ -164,7 +164,7 @@ const proc = async m => {
         const startTime = Date.now();
 
         const gptResponse = await client.chat.completions.create({
-            model: 'gpt-4o',
+            model: process.env.ANALYSIS_MODEL || 'gpt-4.1',
             messages: [
                 { role: "developer", content: prompt },
                 { role: "system", content: `El nombre del usuario es ${pushName || 'unknown'}` },

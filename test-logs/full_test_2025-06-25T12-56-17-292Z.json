@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-06-25T12:56:17.292Z",
+  "totalPersonas": 5,
+  "totalQuestions": 5,
+  "totalResponses": 0,
+  "testResults": [
+    {
+      "personaId": "health_conscious",
+      "personaName": "María Fitness",
+      "language": "es",
+      "description": "Usuario consciente de la salud que busca opciones nutritivas",
+      "startTime": "2025-06-25T12:54:37.367Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "¡Hola RECO! ¿Conoces algún restaurante vegano cerca del centro que use ingredientes orgánicos?",
+          "sentAt": "2025-06-25T12:54:38.373Z",
+          "response": null,
+          "receivedAt": null,
+          "responseTime": null,
+          "analysis": {},
+          "error": "Cannot read properties of undefined (reading 'substring')",
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-06-25T12:55:05.290Z",
+      "duration": 27923
+    },
+    {
+      "personaId": "budget_conscious",
+      "personaName": "Carlos Estudiante",
+      "language": "es",
+      "description": "Estudiante universitario con presupuesto limitado",
+      "startTime": "2025-06-25T12:55:10.296Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, ¿me puedes decir dónde hay menús del día baratos cerca de la universidad?",
+          "sentAt": "2025-06-25T12:55:12.501Z",
+          "response": null,
+          "receivedAt": null,
+          "responseTime": null,
+          "analysis": {},
+          "error": "Cannot read properties of undefined (reading 'substring')",
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-06-25T12:55:22.518Z",
+      "duration": 12222
+    },
+    {
+      "personaId": "family_kids",
+      "personaName": "Ana Familia",
+      "language": "es",
+      "description": "Madre de familia con dos niños pequeños",
+      "startTime": "2025-06-25T12:55:27.522Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "¡Hola! ¿Me puedes recomendar algún restaurante cerca que tenga zona de juegos para niños y menú infantil?",
+          "sentAt": "2025-06-25T12:55:29.152Z",
+          "response": null,
+          "receivedAt": null,
+          "responseTime": null,
+          "analysis": {},
+          "error": "Cannot read properties of undefined (reading 'substring')",
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-06-25T12:55:38.663Z",
+      "duration": 11141
+    },
+    {
+      "personaId": "international_tourist",
+      "personaName": "James British",
+      "language": "en",
+      "description": "British tourist visiting Spain for the first time",
+      "startTime": "2025-06-25T12:55:43.673Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hi there! I’ve just arrived in Madrid and I’m absolutely starving—could you recommend a good place nearby for authentic Spanish tapas that’s also comfortable for English-speaking tourists?",
+          "sentAt": "2025-06-25T12:55:46.629Z",
+          "response": null,
+          "receivedAt": null,
+          "responseTime": null,
+          "analysis": {},
+          "error": "Cannot read properties of undefined (reading 'substring')",
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-06-25T12:55:56.130Z",
+      "duration": 12457
+    },
+    {
+      "personaId": "foodie_adventurous",
+      "personaName": "Diego Gourmet",
+      "language": "es",
+      "description": "Foodie aventurero que busca experiencias gastronómicas únicas",
+      "startTime": "2025-06-25T12:56:01.136Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "¡Hola RECO! Estoy buscando un restaurante en la ciudad que ofrezca un menú degustación innovador, con ingredientes poco convencionales y técnicas de cocina moderna. ¿Tienes alguna recomendación que me sorprenda?",
+          "sentAt": "2025-06-25T12:56:02.876Z",
+          "response": null,
+          "receivedAt": null,
+          "responseTime": null,
+          "analysis": {},
+          "error": "Cannot read properties of undefined (reading 'substring')",
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-06-25T12:56:12.286Z",
+      "duration": 11150
+    }
+  ]
+}

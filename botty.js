@@ -10,7 +10,7 @@ dotenv.config();
 
 class BottyTester {
   constructor() {
-    this.recoNumber = '593994170801@s.whatsapp.net';
+    this.recoNumber = (process.env.RECO_WHATSAPP_NUMBER || '+593994170801').replace('+', '') + '@s.whatsapp.net';
     this.globalClient = null;
     this.testOrchestrator = new TestOrchestrator();
     this.responseAnalyzer = new ResponseAnalyzer();
@@ -50,48 +50,59 @@ class BottyTester {
     console.log('✅ Environment variables validated');
   }
 
-  async connectToWhatsApp() {
-    const { state, saveCreds } = await useMultiFileAuthState('store_wa-session');
+  async clearSession() {
+    try {
+      const fs = await import('fs/promises');
+      await fs.rm('store_wa-session', { recursive: true, force: true });
+      console.log('🗑️  WhatsApp session cleared');
+    } catch (error) {
+      console.log('ℹ️  No existing session to clear');
+    }
+  }
 
-    this.globalClient = makeWASocket.default({
-      generateHighQualityLinkPreview: true,
-      auth: state,
-      connectTimeoutMs: 120000,
-      defaultQueryTimeoutMs: 60000,
-      keepAliveIntervalMs: 10000,
-      syncFullHistory: false,
-      markOnlineOnConnect: false
-    });
-
-    this.globalClient.ev.on('creds.update', saveCreds);
+  async connectToWhatsApp(retryCount = 0) {
+    const maxRetries = 2;
     
-    this.globalClient.ev.on('connection.update', async (update) => {
-      const { connection, lastDisconnect, qr } = update;
+    try {
+      const { state, saveCreds } = await useMultiFileAuthState('store_wa-session');
 
-      if (qr) {
-        console.log('\n📱 Scan this QR code with your WhatsApp mobile app:');
-        qrcode.generate(qr, { small: true });
-        console.log('\n⏳ Waiting for QR scan...');
+      this.globalClient = makeWASocket.default({
+        generateHighQualityLinkPreview: true,
+        auth: state,
+        connectTimeoutMs: 120000,
+        defaultQueryTimeoutMs: 60000,
+        keepAliveIntervalMs: 10000,
+        syncFullHistory: false,
+        markOnlineOnConnect: false,
+        printQRInTerminal: false
+      });
+
+      this.globalClient.ev.on('creds.update', saveCreds);
+      
+      // Handle sync errors gracefully
+      this.globalClient.ev.on('CB:call', (data) => {
+        console.log('📞 Call event (ignored):', data);
+      });
+      
+      // Suppress excessive sync error logs
+      this.globalClient.ev.on('CB:chatstate-sync', (data) => {
+        // Silently handle chat state sync
+      });
+    
+    } catch (error) {
+      console.error('❌ Error setting up WhatsApp client:', error.message);
+      
+      if (retryCount < maxRetries) {
+        console.log(`🔄 Retrying connection (attempt ${retryCount + 1}/${maxRetries + 1})...`);
+        await this.clearSession();
+        await delay(3000);
+        return this.connectToWhatsApp(retryCount + 1);
       }
+      
+      throw error;
+    }
 
-      if (connection === 'close') {
-        const shouldReconnect = lastDisconnect?.error?.output?.statusCode !== 401;
-        if (shouldReconnect) {
-          console.log('🔄 Reconnecting to WhatsApp...');
-          await delay(2000);
-          await this.connectToWhatsApp();
-        } else {
-          console.log('❌ WhatsApp logout detected');
-          process.exit(1);
-        }
-      } else if (connection === 'open') {
-        console.log('✅ WhatsApp connected successfully');
-        console.log('⏳ Syncing chat data... (this may take a moment)');
-      } else if (connection === 'connecting') {
-        console.log('🔄 Connecting to WhatsApp...');
-      }
-    });
-
+    // Set up message handler
     this.globalClient.ev.on('messages.upsert', (m) => {
       if (m.messages[0].key.fromMe) return;
       
@@ -112,30 +123,53 @@ class BottyTester {
     });
 
     return new Promise((resolve, reject) => {
+      // Increased timeout to 5 minutes for slow connections
       const timeout = setTimeout(() => {
         reject(new Error('WhatsApp connection timeout - please try again'));
-      }, 180000);
+      }, 300000);
 
       let isResolved = false;
+      let connectionReady = false;
 
-      const handleConnection = (update) => {
-        if (isResolved) return;
-        
-        if (update.connection === 'open') {
-          isResolved = true;
-          clearTimeout(timeout);
-          this.globalClient.ev.off('connection.update', handleConnection);
+      const handleConnection = async (update) => {
+        const { connection, lastDisconnect, qr } = update;
+
+        if (qr) {
+          console.log('\n📱 Scan this QR code with your WhatsApp mobile app:');
+          qrcode.generate(qr, { small: true });
+          console.log('\n⏳ Waiting for QR scan...');
+        }
+
+        if (connection === 'connecting') {
+          console.log('🔄 Connecting to WhatsApp...');
+        } else if (connection === 'open') {
+          console.log('✅ WhatsApp connected successfully');
+          connectionReady = true;
           
-          setTimeout(() => {
-            console.log('🎯 WhatsApp ready for testing!');
-            resolve();
-          }, 3000);
-          
-        } else if (update.connection === 'close' && update.lastDisconnect?.error?.output?.statusCode === 401) {
-          isResolved = true;
-          clearTimeout(timeout);
-          this.globalClient.ev.off('connection.update', handleConnection);
-          reject(new Error('WhatsApp logout - please scan QR code again'));
+          // Give some time for initial sync, then resolve
+          if (!isResolved) {
+            setTimeout(() => {
+              if (!isResolved) {
+                isResolved = true;
+                clearTimeout(timeout);
+                this.globalClient.ev.off('connection.update', handleConnection);
+                console.log('🎯 WhatsApp ready for testing!');
+                resolve();
+              }
+            }, 5000); // Reduced wait time
+          }
+        } else if (connection === 'close') {
+          if (lastDisconnect?.error?.output?.statusCode === 401) {
+            isResolved = true;
+            clearTimeout(timeout);
+            this.globalClient.ev.off('connection.update', handleConnection);
+            reject(new Error('WhatsApp logout - please scan QR code again'));
+          } else if (!connectionReady) {
+            // Only reconnect if we haven't had a successful connection yet
+            console.log('🔄 Connection lost, reconnecting...');
+            await delay(2000);
+            await this.connectToWhatsApp();
+          }
         }
       };
 

@@ -5,13 +5,21 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "test:papibot": "jest src/tests/",
     "start": "node index.js",
     "start-botty": "node botty.js",
     "test-reco": "node botty.js",
     "test-reco-dev": "NODE_ENV=development node botty.js",
     "test-response-wait": "node test-response-wait.js",
-    "analyze-logs": "node scripts/analyze-logs.js"
+    "test-connection": "node test-connection.js",
+    "clear-session": "rm -rf store_wa-session/",
+    "clear-papibot-session": "rm -rf papibot_auth_state/",
+    "analyze-logs": "node scripts/analyze-logs.js",
+    "papibot": "node src/papibot-orchestrator.js",
+    "papibot-dev": "NODE_ENV=development LOG_LEVEL=debug node src/papibot-orchestrator.js"
   },
   "keywords": [
     "whatsapp",
@@ -35,8 +43,27 @@
     "node-fetch": "^3.3.2",
     "node-wit": "^6.6.0",
     "openai": "^4.77.0",
+    "p-limit": "^6.2.0",
     "p-queue": "^8.1.0",
     "puppeteer": "^24.2.0",
     "qrcode-terminal": "^0.12.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.32.0",
+    "jest": "^30.0.3"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "transform": {},
+    "testMatch": [
+      "**/src/tests/**/*.test.js"
+    ],
+    "collectCoverageFrom": [
+      "src/**/*.js",
+      "!src/tests/**",
+      "!src/**/*.test.js"
+    ]
   }
 }

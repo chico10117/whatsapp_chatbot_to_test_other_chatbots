@@ -1,0 +1,24 @@
+{
+  "personaId": "budget_conscious",
+  "personaName": "Carlos Estudiante",
+  "language": "es",
+  "description": "Estudiante universitario con presupuesto limitado",
+  "startTime": "2025-06-25T12:55:10.296Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola RECO, ¿me puedes decir dónde hay menús del día baratos cerca de la universidad?",
+      "sentAt": "2025-06-25T12:55:12.501Z",
+      "response": null,
+      "receivedAt": null,
+      "responseTime": null,
+      "analysis": {},
+      "error": "Cannot read properties of undefined (reading 'substring')",
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-06-25T12:55:22.518Z",
+  "duration": 12222
+}

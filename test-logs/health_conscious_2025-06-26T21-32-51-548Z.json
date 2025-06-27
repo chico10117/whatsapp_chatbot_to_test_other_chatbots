@@ -1,0 +1,23 @@
+{
+  "personaId": "health_conscious",
+  "personaName": "María Fitness",
+  "language": "es",
+  "description": "Usuario consciente de la salud que busca opciones nutritivas",
+  "startTime": "2025-06-26T21:32:20.229Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "¡Hola RECO! ¿Me puedes recomendar algún restaurante vegano cerca que tenga opciones sin gluten?",
+      "sentAt": "2025-06-26T21:32:21.370Z",
+      "response": null,
+      "receivedAt": null,
+      "responseTime": null,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-06-26T21:32:51.548Z",
+  "duration": 31319
+}

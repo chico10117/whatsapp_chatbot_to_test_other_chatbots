@@ -1,0 +1,63 @@
+{
+  "personaId": "budget_conscious",
+  "personaName": "Carlos Estudiante",
+  "language": "es",
+  "description": "Estudiante universitario con presupuesto limitado",
+  "startTime": "2025-06-26T13:31:16.736Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola RECO, ¿sabes de algún sitio cerca que tenga menú del día barato? Estoy buscando algo que no pase de 10 euros.",
+      "sentAt": "2025-06-26T13:31:17.962Z",
+      "response": "¡Por supuesto! Te recomiendo este sitio en Madrid:\n\n• Ay Mi Madre!: ⭐️ 4,3  \nRestaurante acogedor en Malasaña, menú del día variado (opciones veganas, pollo, pescado, pizzas, etc.).  \n9,90 € por persona  \n📍https://goo.gl/maps/n9R1dSbgwLB2\n\n¿Te gustaría más opciones o buscas en otra zona?",
+      "receivedAt": "2025-06-26T13:31:32.010Z",
+      "responseTime": 14048,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "¿El menú de 9,90 € incluye bebida y postre, o eso va aparte?",
+      "sentAt": "2025-06-26T13:31:34.307Z",
+      "response": "¡Buena pregunta!  \n• El menú de 9,90 € en Ay Mi Madre! incluye bebida y pan, pero el postre no está incluido en ese precio.  \n¿Te gustaría que te busque opciones donde el postre sí esté incluido?",
+      "receivedAt": "2025-06-26T13:31:41.848Z",
+      "responseTime": 7541,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "Sí, porfa, ¿conoces alguno por menos de 10 € que incluya postre, aunque sea sencillo?",
+      "sentAt": "2025-06-26T13:31:46.213Z",
+      "response": "¡Claro! Aquí tienes una opción económica con postre incluido:\n\n• La Grotte (Getafe): ⭐️ 4,2  \nMenú del día por 7 €, incluye primer y segundo plato, pan, bebida y postre casero.  \nCalle Daoiz, 34, Getafe  \n📍https://goo.gl/maps/3z8b6R9wP1j\n\n¿Te gustaría alguna opción más en Madrid capital, aunque el precio suba un poco?",
+      "receivedAt": "2025-06-26T13:32:10.597Z",
+      "responseTime": 24384,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "¿Sabes si en La Grotte ponen buena cantidad o se quedan cortos con las raciones?",
+      "sentAt": "2025-06-26T13:32:15.124Z",
+      "response": "¡Genial pregunta!  \n• En La Grotte las raciones son generosas, pensadas para estudiantes. Suele ser suficiente para quedar satisfecho, incluso con menú económico.  \n¿Te gustaría saber el tipo de platos que suelen ofrecer?",
+      "receivedAt": "2025-06-26T13:32:24.365Z",
+      "responseTime": 9241,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "Sí, ¿qué tipo de platos suelen poner en el menú del día? ¿Hay algo especial o cambia mucho?",
+      "sentAt": "2025-06-26T13:32:29.404Z",
+      "response": null,
+      "receivedAt": null,
+      "responseTime": null,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-06-26T13:33:02.415Z",
+  "duration": 105679
+}

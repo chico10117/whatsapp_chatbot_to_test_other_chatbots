@@ -1,0 +1,24 @@
+{
+  "personaId": "international_tourist",
+  "personaName": "James British",
+  "language": "en",
+  "description": "British tourist visiting Spain for the first time",
+  "startTime": "2025-06-25T12:55:43.673Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hi there! I’ve just arrived in Madrid and I’m absolutely starving—could you recommend a good place nearby for authentic Spanish tapas that’s also comfortable for English-speaking tourists?",
+      "sentAt": "2025-06-25T12:55:46.629Z",
+      "response": null,
+      "receivedAt": null,
+      "responseTime": null,
+      "analysis": {},
+      "error": "Cannot read properties of undefined (reading 'substring')",
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-06-25T12:55:56.130Z",
+  "duration": 12457
+}

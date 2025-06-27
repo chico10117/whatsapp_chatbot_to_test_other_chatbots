@@ -13,7 +13,7 @@ async function testResponseWaiting() {
   console.log('🧪 Testing RECO Response Waiting Mechanism');
   console.log('==========================================\n');
 
-  const recoNumber = '+593994170801@s.whatsapp.net';
+  const recoNumber = (process.env.RECO_WHATSAPP_NUMBER || '+593994170801').replace('+', '') + '@s.whatsapp.net';
   let globalClient = null;
   const testOrchestrator = new TestOrchestrator();
 

@@ -1,0 +1,163 @@
+{
+  "personaId": "health_conscious",
+  "personaName": "María Fitness",
+  "language": "es",
+  "description": "Usuario consciente de la salud que busca opciones nutritivas",
+  "startTime": "2025-06-25T13:33:26.105Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "¡Hola RECO! ¿Conoces algún restaurante con opciones veganas y orgánicas cerca del centro?",
+      "sentAt": "2025-06-25T13:33:27.858Z",
+      "response": "¡Hola! Aquí tienes algunas opciones veganas y orgánicas cerca del centro:\n\n- **El Vegano Feliz**: Como en casa, variedad y ambiente informal. Gasto: 15-25 €. Valoración: 4.5/5. [Google Maps](https://goo.gl/maps/4AY2btd8mYc9LcQ87)\n- **Shizen Vegan Sushi Bar & Izakaya**: Sushi vegano y sostenibilidad. Gasto: 30-45 €. Valoración: 4.6/5. [Google Maps](https://goo.gl/maps/GcfShNvJU8rB2SSF7)\n- **Om Sabor**: Sabores mexicanos y platos creativos. Gasto: 20-30 €. Valoración: 4.5/5. [Google Maps](https://goo.gl/maps/4L2nPENN6pBkEDYx8)\n\n¿Quieres que busque más o te ayude con alguna preferencia específica?",
+      "receivedAt": "2025-06-25T13:33:43.969Z",
+      "responseTime": 16111,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Me llama la atención Shizen Vegan Sushi Bar. ¿Sabes si tienen opciones sin gluten y qué tipo de proteína vegetal usan en sus platos principales?",
+      "sentAt": "2025-06-25T13:33:47.645Z",
+      "response": "¡Claro! Shizen Vegan Sushi Bar ofrece opciones sin gluten, con sushi, ramen y otros platos claramente etiquetados para celíacos o sensibles al gluten. Utilizan proteínas vegetales como tapioca, yam, konjac, tofu y leche de soja para sus platos principales.",
+      "receivedAt": "2025-06-25T13:34:11.614Z",
+      "responseTime": 23969,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "¿Sus postres también son veganos y sin gluten, o solo los platos principales?",
+      "sentAt": "2025-06-25T13:34:15.951Z",
+      "response": "En Shizen, la mayoría de los postres son veganos, pero no todos son sin gluten. Algunos incluyen ingredientes como harina de trigo. Es recomendable consultar con el restaurante para opciones específicas sin gluten.",
+      "receivedAt": "2025-06-25T13:34:21.715Z",
+      "responseTime": 5764,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "Perfecto, gracias. ¿Sabes si el restaurante usa ingredientes orgánicos en la mayoría de sus preparaciones o solo en algunos platos?",
+      "sentAt": "2025-06-25T13:34:26.807Z",
+      "response": "Shizen Vegan Sushi Bar se centra en ofrecer ingredientes sostenibles y de origen responsable, aunque no todos sus productos son completamente orgánicos. La mayoría de sus ingredientes son de alta calidad, con un enfoque en la sostenibilidad y bienestar.",
+      "receivedAt": "2025-06-25T13:34:32.856Z",
+      "responseTime": 6049,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "¡Genial! ¿Sabes si tienen opciones de smoothies o jugos naturales en su menú, o solo ofrecen bebidas tradicionales?",
+      "sentAt": "2025-06-25T13:34:36.836Z",
+      "response": "En Shizen, además de sus deliciosos platos, ofrecen una selección de bebidas naturales como smoothies y jugos preparados con fruta fresca y sin azúcares añadidos. Ideal para una experiencia saludable y refrescante.",
+      "receivedAt": "2025-06-25T13:34:42.527Z",
+      "responseTime": 5691,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "¿Tienen algún smoothie con proteína vegetal añadida, o solo son a base de fruta?",
+      "sentAt": "2025-06-25T13:34:47.108Z",
+      "response": "En Shizen, sus smoothies generalmente se preparan con fruta fresca y opciones naturales, aunque algunos pueden incluir proteína vegetal añadida como polvo de guisante o soja. Te recomiendo consultar con el restaurante para opciones específicas.",
+      "receivedAt": "2025-06-25T13:34:52.924Z",
+      "responseTime": 5816,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "¿Shizen ofrece menú degustación vegano o alguna opción para probar varios platos pequeños en una sola visita?",
+      "sentAt": "2025-06-25T13:34:57.170Z",
+      "response": "Shizen suele ofrecer menús de degustación o senderos con varios platos pequeños para probar diferentes sabores en una sola visita, ideal para quienes quieren experimentar variedad. Te sugiero confirmar con el restaurante para detalles disponibles en tu visita.",
+      "receivedAt": "2025-06-25T13:35:02.783Z",
+      "responseTime": 5613,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "¿Sus menús de degustación incluyen opciones sin gluten y se pueden adaptar si tengo alguna restricción alimentaria?",
+      "sentAt": "2025-06-25T13:35:07.305Z",
+      "response": "Sí, en Shizen suelen ofrecer menús de degustación que incluyen opciones sin gluten y adaptaciones para restricciones alimentarias. Es recomendable informarles al reservar para que puedan personalizar tu experiencia.",
+      "receivedAt": "2025-06-25T13:35:16.008Z",
+      "responseTime": 8703,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "¿Sabes si el ambiente del restaurante es tranquilo y apto para ir en pareja, o es más bien animado y grupal?",
+      "sentAt": "2025-06-25T13:35:20.965Z",
+      "response": "Shizen tiene un ambiente tranquilo, moderno y acogedor, perfecto para una cita en pareja. Es un lugar ideal para disfrutar de una comida relajada y especial, sin un ambiente muy bullicioso.",
+      "receivedAt": "2025-06-25T13:35:27.664Z",
+      "responseTime": 6699,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "Me encanta la idea. ¿Es necesario reservar con mucha antelación, especialmente para cenas los fines de semana?",
+      "sentAt": "2025-06-25T13:35:31.754Z",
+      "response": "Sí, te recomiendo reservar con antelación, especialmente para cenas los fines de semana, para asegurar tu mesa y disfrutar sin prisas en un ambiente tan agradable como el de Shizen.",
+      "receivedAt": "2025-06-25T13:35:40.712Z",
+      "responseTime": 8958,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "¿Tienen opciones para llevar o delivery saludable si algún día quiero cenar en casa?",
+      "sentAt": "2025-06-25T13:35:45.074Z",
+      "response": "Sí, Shizen ofrece opciones para llevar y delivery, ideales para disfrutar de su comida saludable en casa. Puedes consultar en su web o plataformas de envío para verificar disponibilidad y pedidos.",
+      "receivedAt": "2025-06-25T13:35:51.365Z",
+      "responseTime": 6291,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "¿Hay algún suplemento saludable, como semillas de chía o espirulina, que pueda añadir a los smoothies cuando hago un pedido para llevar?",
+      "sentAt": "2025-06-25T13:35:55.638Z",
+      "response": "En Shizen, puedes solicitar añadidos como semillas de chía, espirulina y otros superalimentos para tus smoothies para potenciar su valor nutricional. Solo debes mencionarlo al hacer tu pedido.",
+      "receivedAt": "2025-06-25T13:36:01.274Z",
+      "responseTime": 5636,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "¿Sabes si también ofrecen ensaladas frescas en su menú, y si es posible personalizarlas con los toppings que elija?",
+      "sentAt": "2025-06-25T13:36:05.543Z",
+      "response": "Sí, Shizen ofrece ensaladas frescas en su menú y generalmente permiten personalizarlas con toppings y aderezos a tu gusto. Es recomendable comunicar tus preferencias al solicitarlas para ajustarlas a tus gustos.",
+      "receivedAt": "2025-06-25T13:36:11.573Z",
+      "responseTime": 6030,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "¿Tienen alguna ensalada rica en proteínas vegetales, por ejemplo con tofu, edamame o legumbres?",
+      "sentAt": "2025-06-25T13:36:15.768Z",
+      "response": "Sí, en Shizen podrás encontrar ensaladas con proteínas vegetales como tofu y edamame, ideales para una opción nutritiva y sabrosa. Pregunta por sus ensaladas específicas con estos ingredientes para asegurarte.",
+      "receivedAt": "2025-06-25T13:36:21.382Z",
+      "responseTime": 5614,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "¿Podrías decirme si los aderezos de sus ensaladas son caseros y sin azúcares añadidos?",
+      "sentAt": "2025-06-25T13:36:25.422Z",
+      "response": "En Shizen, sus aderezos suelen ser caseros, preparados con ingredientes naturales como soja, jengibre y vinagre de arroz. Generalmente no contienen azúcares añadidos, priorizando sabores frescos y equilibrados.",
+      "receivedAt": "2025-06-25T13:36:49.960Z",
+      "responseTime": 24538,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-06-25T13:36:49.960Z",
+  "duration": 203855
+}

@@ -1,0 +1,24 @@
+{
+  "personaId": "foodie_adventurous",
+  "personaName": "Diego Gourmet",
+  "language": "es",
+  "description": "Foodie aventurero que busca experiencias gastronómicas únicas",
+  "startTime": "2025-06-25T12:56:01.136Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "¡Hola RECO! Estoy buscando un restaurante en la ciudad que ofrezca un menú degustación innovador, con ingredientes poco convencionales y técnicas de cocina moderna. ¿Tienes alguna recomendación que me sorprenda?",
+      "sentAt": "2025-06-25T12:56:02.876Z",
+      "response": null,
+      "receivedAt": null,
+      "responseTime": null,
+      "analysis": {},
+      "error": "Cannot read properties of undefined (reading 'substring')",
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-06-25T12:56:12.286Z",
+  "duration": 11150
+}

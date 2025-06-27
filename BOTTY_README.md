@@ -28,7 +28,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 RECO_WHATSAPP_NUMBER=+593994170801
 TEST_TIMEOUT_MS=30000
 LOG_LEVEL=info
-ANALYSIS_MODEL=gpt-4o
+ANALYSIS_MODEL=gpt-4.1
 ```
 
 ### 2. Install Dependencies
@@ -39,7 +39,17 @@ npm install
 yarn install
 ```
 
-### 3. Run BOTTY
+### 3. Test Connection (Recommended First)
+
+Test the WhatsApp connection before running the full test:
+
+```bash
+npm run test-connection
+```
+
+This will verify your WhatsApp connection works properly and send a test message.
+
+### 4. Run BOTTY
 
 ```bash
 npm run test-reco
@@ -47,7 +57,7 @@ npm run test-reco
 node botty.js
 ```
 
-### 4. Scan QR Code
+### 5. Scan QR Code
 
 When BOTTY starts, scan the QR code with your WhatsApp to connect.
 
@@ -154,16 +164,22 @@ MENSAJE FINAL - REPORTE DE PRUEBA RECO BOT
 - `RECO_WHATSAPP_NUMBER`: Target bot number (default: +593994170801)
 - `TEST_TIMEOUT_MS`: Response timeout in milliseconds (default: 30000)
 - `LOG_LEVEL`: Logging verbosity (default: info)
-- `ANALYSIS_MODEL`: OpenAI model for analysis (default: gpt-4o)
+- `ANALYSIS_MODEL`: OpenAI model for analysis (default: gpt-4.1)
 
 ### Command Line Options
 
 ```bash
+# Test WhatsApp connection first (recommended)
+npm run test-connection
+
 # Standard test
 npm run test-reco
 
 # Development mode (more verbose logging)
 npm run test-reco-dev
+
+# Clear WhatsApp session (if having connection issues)
+npm run clear-session
 
 # Start BOTTY only
 npm run start-botty
@@ -173,21 +189,34 @@ npm run start-botty
 
 ### Common Issues
 
-1. **QR Code Not Showing**
-   - Ensure terminal supports QR code display
-   - Try clearing WhatsApp session: `rm -rf store_wa-session/`
+1. **Connection Timeout**
+   - Run `npm run test-connection` first to verify connection
+   - Clear session: `npm run clear-session` and try again
+   - Ensure WhatsApp Web is not open elsewhere
+   - Check for stable internet connection
 
-2. **OpenAI API Errors**
+2. **QR Code Not Showing**
+   - Ensure terminal supports QR code display
+   - Try clearing WhatsApp session: `npm run clear-session`
+
+3. **Chat Sync Errors (regular_low sync failures)**
+   - This is common with accounts that have lots of chat history
+   - Clear session: `npm run clear-session`
+   - The connection should still work despite these errors
+
+4. **OpenAI API Errors**
    - Verify API key is correct in `.env`
    - Check API rate limits and billing
 
-3. **No Responses from RECO**
-   - Confirm RECO bot number is correct
+5. **No Responses from RECO**
+   - Confirm RECO bot number is correct in `.env`
    - Check if RECO bot is online and responding
+   - Test with `npm run test-connection` first
 
-4. **Connection Issues**
+6. **Connection Issues**
    - Ensure stable internet connection
-   - Check WhatsApp Web status
+   - Make sure WhatsApp Web is not open elsewhere
+   - Try `npm run clear-session` to start fresh
 
 ### Debug Mode
 

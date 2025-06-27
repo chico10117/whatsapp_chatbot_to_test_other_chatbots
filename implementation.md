@@ -43,7 +43,7 @@ dotenv.config();
 
 class BottyTester {
   constructor() {
-    this.recoNumber = '+593994170801@s.whatsapp.net';
+    this.recoNumber = (process.env.RECO_WHATSAPP_NUMBER || '+593994170801').replace('+', '') + '@s.whatsapp.net';
     this.globalClient = null;
     this.testOrchestrator = new TestOrchestrator();
     this.responseAnalyzer = new ResponseAnalyzer();
@@ -360,7 +360,7 @@ export default class ResponseAnalyzer {
       `;
 
       const gptResponse = await this.openaiClient.chat.completions.create({
-        model: 'gpt-4o',
+        model: 'gpt-4.1',
         messages: [
           { role: "system", content: "Eres un experto evaluador de chatbots de restaurantes. Analiza objetivamente las respuestas." },
           { role: "user", content: analysisPrompt }
@@ -657,7 +657,7 @@ RECO_WHATSAPP_NUMBER=+593994170801
 TEST_MODE=true
 TEST_TIMEOUT_MS=30000
 LOG_LEVEL=info
-ANALYSIS_MODEL=gpt-4o
+ANALYSIS_MODEL=gpt-4.1
 ```
 
 #### **5.2 Package.json Updates**

@@ -1,0 +1,23 @@
+{
+  "personaId": "health_conscious",
+  "personaName": "María Fitness",
+  "language": "es",
+  "description": "Usuario consciente de la salud que busca opciones nutritivas",
+  "startTime": "2025-06-26T13:30:39.528Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "¡Hola RECO! ¿Conoces algún restaurante en la ciudad que tenga buenas opciones veganas y que use ingredientes orgánicos?",
+      "sentAt": "2025-06-26T13:30:41.601Z",
+      "response": null,
+      "receivedAt": null,
+      "responseTime": null,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-06-26T13:31:11.730Z",
+  "duration": 32202
+}
