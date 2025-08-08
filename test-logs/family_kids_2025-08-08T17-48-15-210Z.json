@@ -1,0 +1,23 @@
+{
+  "personaId": "family_kids",
+  "personaName": "Ana Familia",
+  "language": "es",
+  "description": "Madre de familia con dos niños pequeños",
+  "startTime": "2025-08-08T17:48:11.273Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola RECO, ¿me recomiendas restaurantes family-friendly con zona de juegos y tronas cerca de mi barrio en Salamanca, Madrid?",
+      "sentAt": "2025-08-08T17:48:12.744Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:48:15.209Z",
+      "responseTime": 2465,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T17:48:15.209Z",
+  "duration": 3936
+}

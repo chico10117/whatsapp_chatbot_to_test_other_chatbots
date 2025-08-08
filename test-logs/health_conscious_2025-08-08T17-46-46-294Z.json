@@ -1,0 +1,23 @@
+{
+  "personaId": "health_conscious",
+  "personaName": "María Fitness",
+  "language": "es",
+  "description": "Usuario consciente de la salud que busca opciones nutritivas",
+  "startTime": "2025-08-08T17:46:41.728Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola, busco restaurantes con opciones veganas saludables",
+      "sentAt": "2025-08-08T17:46:42.386Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:46:46.293Z",
+      "responseTime": 3907,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T17:46:46.293Z",
+  "duration": 4565
+}

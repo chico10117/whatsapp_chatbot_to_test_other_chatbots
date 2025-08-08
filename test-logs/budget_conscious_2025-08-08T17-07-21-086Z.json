@@ -1,0 +1,163 @@
+{
+  "personaId": "budget_conscious",
+  "personaName": "Carlos Estudiante",
+  "language": "es",
+  "description": "Estudiante universitario con presupuesto limitado",
+  "startTime": "2025-08-08T17:05:54.423Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hey RECO, ¿dónde puedo comer bien y barato hoy cerca del centro, tipo menú del día por menos de 10€ o algún 2x1 para estudiantes?",
+      "sentAt": "2025-08-08T17:05:56.877Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:05:59.307Z",
+      "responseTime": 2430,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Vale, RECO, ¿qué zona exacta del centro recomiendas hoy con menús por menos de 10€ y si aceptan carnet estudiante para descuento?",
+      "sentAt": "2025-08-08T17:06:01.757Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:06:04.171Z",
+      "responseTime": 2414,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "RECO, ¿tienes alguna opción con buffet libre o menú del día que incluya bebida y postre por menos de 10€, y a qué hora empiezan?",
+      "sentAt": "2025-08-08T17:06:07.945Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:06:10.427Z",
+      "responseTime": 2482,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "RECO, ¿alguno de esos sitios tiene 2x1 en tapas o happy hour, y a qué hora exacta empieza?",
+      "sentAt": "2025-08-08T17:06:13.245Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:06:15.803Z",
+      "responseTime": 2558,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "Genial, RECO, ¿podrías decirme el precio exacto del menú más barato y si incluyen pan, bebida y postre sin coste extra?",
+      "sentAt": "2025-08-08T17:06:18.469Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:06:20.688Z",
+      "responseTime": 2219,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "Perfecto, RECO, ¿hay algún sitio de esos que haga menú hasta las 16:00 y que permita pago con tarjeta y descuento de estudiante?",
+      "sentAt": "2025-08-08T17:06:23.695Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:06:26.132Z",
+      "responseTime": 2437,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "RECO, ¿cuál es el sitio más barato de tu lista que mantenga el menú hasta las 16:00 y acepte descuento de estudiante, y cuánto queda por persona tras el descuento?",
+      "sentAt": "2025-08-08T17:06:29.979Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:06:32.349Z",
+      "responseTime": 2370,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "¿Tienen algún combo de mediodía por menos de 8€ que incluya bebida y pan, y en qué horario exacto lo ofrecen?",
+      "sentAt": "2025-08-08T17:06:37.812Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:06:40.403Z",
+      "responseTime": 2591,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "Vale RECO, ¿puedes confirmar si esos menús incluyen refill de bebida o al menos una caña pequeña, y si el precio sube los fines de semana?",
+      "sentAt": "2025-08-08T17:06:43.450Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:06:45.983Z",
+      "responseTime": 2533,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "Guay, RECO, ¿me reservas mesa para hoy a las 14:00 en el más barato con bebida incluida y descuento estudiante, y me dices el precio final por persona?",
+      "sentAt": "2025-08-08T17:06:50.271Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:06:52.737Z",
+      "responseTime": 2466,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "RECO, ¿el sitio más barato de los que dijiste queda a menos de 10 minutos andando del centro y hoy tiene hueco sin reserva, y cuánto me sale con descuento estudiante?",
+      "sentAt": "2025-08-08T17:06:56.000Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:06:58.441Z",
+      "responseTime": 2441,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "RECO, ¿me pasas la dirección exacta y el horario de cocina del más barato que mencionaste, y si hoy tienen hueco sin reserva?",
+      "sentAt": "2025-08-08T17:07:02.013Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:07:04.993Z",
+      "responseTime": 2980,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "RECO, ¿podrías decirme si alguno ofrece menú por 9€ o menos con bebida incluida y si aplican descuento extra con carnet estudiante?",
+      "sentAt": "2025-08-08T17:07:08.218Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:07:10.535Z",
+      "responseTime": 2317,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "Perfecto, RECO, ¿cuál de tus opciones baratas sirve raciones más grandes o permite repetir pan sin coste, y cuánto sale exactamente el menú con descuento estudiante?",
+      "sentAt": "2025-08-08T17:07:13.371Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:07:15.613Z",
+      "responseTime": 2242,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "RECO, de lo que recomendaste, ¿cuál tiene hoy el mejor precio final con bebida incluida y descuento estudiante, y me confirmas el horario exacto del menú?",
+      "sentAt": "2025-08-08T17:07:18.691Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:07:21.086Z",
+      "responseTime": 2395,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T17:07:21.086Z",
+  "duration": 86663
+}

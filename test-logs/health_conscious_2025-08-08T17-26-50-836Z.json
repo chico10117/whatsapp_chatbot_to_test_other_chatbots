@@ -1,0 +1,163 @@
+{
+  "personaId": "health_conscious",
+  "personaName": "María Fitness",
+  "language": "es",
+  "description": "Usuario consciente de la salud que busca opciones nutritivas",
+  "startTime": "2025-08-08T17:25:27.782Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola, busco restaurantes con opciones veganas saludables",
+      "sentAt": "2025-08-08T17:25:28.204Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:25:32.652Z",
+      "responseTime": 4448,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "¿Tienes alguna recomendación de restaurante vegano u orgánico cercano con buenas opciones sin gluten y alto en proteína vegetal?",
+      "sentAt": "2025-08-08T17:25:34.862Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:25:37.295Z",
+      "responseTime": 2433,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "Genial, ¿podrías compartir el menú o al menos 2-3 platos destacados con sus ingredientes y opciones sin gluten?",
+      "sentAt": "2025-08-08T17:25:40.185Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:25:42.520Z",
+      "responseTime": 2335,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "¿Alguno de esos platos usa soya o gluten oculto (salsas, aderezos) y cuánto aporte de proteína aproximado tiene cada uno?",
+      "sentAt": "2025-08-08T17:25:45.460Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:25:47.879Z",
+      "responseTime": 2419,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "Perfecto, ¿tienen opciones con legumbres o tempeh marinado y podrían preparar sin aceite añadido si lo pido?",
+      "sentAt": "2025-08-08T17:25:50.845Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:25:53.197Z",
+      "responseTime": 2352,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "¿Cuál es el precio promedio de esos platos y si pueden sustituir granos por quinoa o coliflor arroz?",
+      "sentAt": "2025-08-08T17:25:56.150Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:25:58.549Z",
+      "responseTime": 2399,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "¿Tienen postres veganos sin gluten con azúcares naturales (dátil, maple) y podrías decirme sus ingredientes principales?",
+      "sentAt": "2025-08-08T17:26:02.291Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:26:04.683Z",
+      "responseTime": 2392,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "¿Puedes confirmar si manejan trazas de gluten o frutos secos en cocina y si tienen certificación sin gluten para evitar contaminación cruzada?",
+      "sentAt": "2025-08-08T17:26:08.399Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:26:10.653Z",
+      "responseTime": 2254,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "¿Podrías reservarme una mesa para dos en el lugar con mejores opciones veganas sin gluten esta noche y confirmar si aceptan cambios como quitar aceite y sustituir por quinoa?",
+      "sentAt": "2025-08-08T17:26:13.647Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:26:16.198Z",
+      "responseTime": 2551,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "¿Tienen opciones de desayuno/brunch veganas sin gluten, como bowls de acai o tostadas de aguacate en pan GF, y qué ingredientes usan?",
+      "sentAt": "2025-08-08T17:26:18.880Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:26:21.578Z",
+      "responseTime": 2698,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "¿Cuál de tus recomendaciones tiene la mejor ensalada proteica y podrías detallar los ingredientes, el aderezo y si puede pedirse sin aceite?",
+      "sentAt": "2025-08-08T17:26:24.568Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:26:27.186Z",
+      "responseTime": 2618,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "¿Podrías decirme cuál de tus recomendaciones tiene opciones de tofu o tempeh orgánico y si pueden marinarlo sin soya, por ejemplo con miso sin gluten o limón y hierbas?",
+      "sentAt": "2025-08-08T17:26:30.179Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:26:32.846Z",
+      "responseTime": 2667,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "¿De esos lugares, cuál ofrece mejor bowl de proteína vegetal (legumbres, quinoa, tofu/tempeh) y puedes detallar macros aproximadas y si el aderezo es sin aceite?",
+      "sentAt": "2025-08-08T17:26:36.536Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:26:38.937Z",
+      "responseTime": 2401,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "¿Cuál de tus recomendaciones ofrece kombucha o smoothies verdes sin azúcar añadida y podrías decirme los ingredientes y tamaño de porción?",
+      "sentAt": "2025-08-08T17:26:42.272Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:26:44.567Z",
+      "responseTime": 2295,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "Perfecto, ¿podrías indicarme el tiempo de espera promedio y si aceptan pedidos para llevar con empaque eco-friendly para ese lugar que más recomendaste?",
+      "sentAt": "2025-08-08T17:26:48.339Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:26:50.836Z",
+      "responseTime": 2497,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T17:26:50.836Z",
+  "duration": 83054
+}

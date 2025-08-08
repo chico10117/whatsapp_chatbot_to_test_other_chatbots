@@ -1,0 +1,23 @@
+{
+  "personaId": "family_kids",
+  "personaName": "Ana Familia",
+  "language": "es",
+  "description": "Madre de familia con dos niños pequeños",
+  "startTime": "2025-08-08T16:44:32.156Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola RECO, ¿me recomiendas restaurantes family-friendly en mi zona con zona de juegos, tronas y menú infantil? ¿Alguno con espacio para cochecitos?",
+      "sentAt": "2025-08-08T16:44:35.106Z",
+      "response": null,
+      "receivedAt": null,
+      "responseTime": null,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T16:45:05.122Z",
+  "duration": 32966
+}

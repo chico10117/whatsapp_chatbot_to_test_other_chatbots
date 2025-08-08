@@ -1,0 +1,163 @@
+{
+  "personaId": "health_conscious",
+  "personaName": "María Fitness",
+  "language": "es",
+  "description": "Usuario consciente de la salud que busca opciones nutritivas",
+  "startTime": "2025-08-08T17:02:33.766Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola RECO, ¿me recomiendas un lugar vegano u orgánico con opciones sin gluten y buenas proteínas vegetales cerca de mi zona?",
+      "sentAt": "2025-08-08T17:02:35.737Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:02:38.740Z",
+      "responseTime": 3003,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Gracias, suena bien. ¿Tienen información de macros o contenido de proteínas por plato, especialmente en opciones sin gluten como bowls o tofu?",
+      "sentAt": "2025-08-08T17:02:40.955Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:02:43.281Z",
+      "responseTime": 2326,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "¿Tienen opciones de desayuno o brunch veganas sin gluten, como pancakes de avena sin gluten, tofu scramble o smoothies con proteína vegetal?",
+      "sentAt": "2025-08-08T17:02:47.616Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:02:49.960Z",
+      "responseTime": 2344,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "Genial, ¿qué opciones de postre veganas y sin gluten manejan, y usan endulzantes naturales como dátil o monk fruit?",
+      "sentAt": "2025-08-08T17:02:52.896Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:04:40.819Z",
+      "responseTime": 107923,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "Perfecto, ¿tienen menú infantil vegano sin gluten o porciones pequeñas, y pueden ajustar sodio o aceite a solicitud?",
+      "sentAt": "2025-08-08T17:04:43.803Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:04:46.188Z",
+      "responseTime": 2385,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "¿Podrías indicarme si manejan opciones para llevar con envases sostenibles y si aceptan pedidos anticipados para evitar esperas?",
+      "sentAt": "2025-08-08T17:04:49.918Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:04:52.297Z",
+      "responseTime": 2379,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "Gracias, ¿podrías compartir ingredientes y fuente de proteína de 2-3 platos estrella veganos sin gluten, y si pueden indicar sodio aproximado?",
+      "sentAt": "2025-08-08T17:04:55.602Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:04:57.962Z",
+      "responseTime": 2360,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "¿Tienen opciones de bebidas fermentadas bajas en azúcar, como kombucha artesanal o kéfir de agua, y pueden indicar gramos de azúcar por porción?",
+      "sentAt": "2025-08-08T17:05:01.389Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:05:03.654Z",
+      "responseTime": 2265,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "Genial, ¿podrías indicarme si el local cuenta con terrazas o zona tranquila al aire libre y si tienen opción de reservar mesa?",
+      "sentAt": "2025-08-08T17:05:07.089Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:05:09.437Z",
+      "responseTime": 2348,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "Perfecto, ¿podrías indicarme el rango de precios promedio por plato y si tienen menú de degustación vegano sin gluten?",
+      "sentAt": "2025-08-08T17:05:12.757Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:05:15.035Z",
+      "responseTime": 2278,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "Gracias, ¿podrías confirmar si usan ingredientes 100% orgánicos certificados y de proveedores locales, y qué sellos o certificaciones tienen?",
+      "sentAt": "2025-08-08T17:05:19.010Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:05:21.365Z",
+      "responseTime": 2355,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "Excelente, ¿podrías decirme los horarios pico y si ofrecen opción de esperar en lista virtual para minimizar tiempos?",
+      "sentAt": "2025-08-08T17:05:24.515Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:05:28.770Z",
+      "responseTime": 4255,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "¿Podrías confirmar si cuentan con opciones de alergias específicas (sin soja, sin frutos secos) en sus platos veganos sin gluten y cómo previenen la contaminación cruzada?",
+      "sentAt": "2025-08-08T17:05:32.670Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:05:35.093Z",
+      "responseTime": 2423,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "Perfecto, ¿podrías compartir su dirección exacta y si tienen estacionamiento para bicicletas o están cerca de transporte público?",
+      "sentAt": "2025-08-08T17:05:38.259Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:05:40.755Z",
+      "responseTime": 2496,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "Gracias por toda la info; para cerrar, ¿podrías recomendarme tu plato vegano sin gluten más rico en proteínas y decirme su aporte aproximado de proteína por porción?",
+      "sentAt": "2025-08-08T17:05:44.974Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:05:49.419Z",
+      "responseTime": 4445,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T17:05:49.419Z",
+  "duration": 195653
+}

@@ -3,39 +3,56 @@ import OpenAI from 'openai';
 export default class AIConversationGenerator {
   constructor() {
     this.openai = new OpenAI({
-      apiKey: process.env.OPENAI_API_KEY
+      apiKey: process.env.OPENAI_API_KEY,
+      baseURL: "https://api.openai.com/v1"
     });
     this.conversationHistory = new Map(); // Store conversation history per persona
+    this.isCloudflareGateway = false; // using official OpenAI API - responses API supported
   }
 
   async generateInitialQuestion(persona) {
     const systemPrompt = this.buildSystemPrompt(persona);
     const questionModel = process.env.QUESTION_MODEL || "gpt-5";
-    const questionMaxTokens = process.env.QUESTION_MAX_TOKENS ? Number(process.env.QUESTION_MAX_TOKENS) : 300;
     
     try {
-      const response = await this.openai.chat.completions.create({
-        model: questionModel,
-        messages: [
-          {
-            role: "system",
-            content: systemPrompt
-          },
-          {
-            role: "user", 
-            content: "Generate your first question to start the conversation with the restaurant recommendation bot. Be natural and stay in character."
-          }
-        ],
-        // NOTE: The following parameters are not supported by reasoning models like gpt-5.
-        // They are kept here commented out for readers migrating from non-reasoning models.
-        // max_tokens: questionMaxTokens,
-        // temperature: 0.7,
-        reasoning_effort: "minimal"
-      });
+      let raw = '';
+      const canUseResponses = !!(this.openai.responses && typeof this.openai.responses.create === 'function')
+        && (process.env.USE_RESPONSES_API || 'true') !== 'false';
 
-      const question = response.choices[0].message.content.trim();
+      if (canUseResponses) {
+        const responsesPayload = {
+          model: questionModel,
+          input: [
+            { role: "system", content: systemPrompt },
+            { role: "user", content: "Generate your first question to start the conversation with the restaurant recommendation bot. Be natural and stay in character." }
+          ]
+        };
+        
+        // Add reasoning controls when explicitly enabled and supported
+        if (!this.isCloudflareGateway && (process.env.ENABLE_REASONING || 'false') === 'true') {
+          responsesPayload.reasoning = { effort: 'medium' };
+        }
+        
+        const response = await this.openai.responses.create(responsesPayload);
+        raw = response?.output_text 
+          || response?.output?.[0]?.content?.[0]?.text?.value 
+          || '';
+      } else {
+        // Fallback to chat.completions for gateways without Responses API
+        const response = await this.openai.chat.completions.create({
+          model: questionModel,
+          messages: [
+            { role: "system", content: systemPrompt },
+            { role: "user", content: "Generate your first question to start the conversation with the restaurant recommendation bot. Be natural and stay in character." }
+          ],
+          reasoning_effort: "minimal"
+        });
+        raw = response?.choices?.[0]?.message?.content || '';
+      }
+
+      const question = raw.trim();
       
-      // Initialize conversation history for this persona
+      // Initialize conversation history for this persona with proper role structure
       this.conversationHistory.set(persona.id, [
         { role: 'assistant', content: question }
       ]);
@@ -51,7 +68,14 @@ export default class AIConversationGenerator {
   async generateFollowUpQuestion(persona, recoResponse, questionNumber) {
     const history = this.conversationHistory.get(persona.id) || [];
     
-    // Add Reco's response to history
+    // Check if the response is an error message
+    if (this.isErrorResponse(recoResponse)) {
+      console.log(`   ⚠️  Detected error response from RECO, not adding to conversation history`);
+      // Return a retry or clarification question instead of using error in context
+      return this.getRetryQuestion(persona, questionNumber);
+    }
+    
+    // Add Reco's response to history with proper role (user from the AI persona's perspective)
     history.push({ role: 'user', content: recoResponse });
     
     const systemPrompt = this.buildSystemPrompt(persona);
@@ -62,32 +86,51 @@ export default class AIConversationGenerator {
     }
 
     const questionModel = process.env.QUESTION_MODEL || "gpt-5";
-    const questionMaxTokens = process.env.QUESTION_MAX_TOKENS ? Number(process.env.QUESTION_MAX_TOKENS) : 250;
 
     try {
-      const messages = [
+      // Create conversation-aware input messages
+      const inputMessages = [
         { role: "system", content: systemPrompt },
-        { role: "user", content: "This is your conversation with a restaurant recommendation bot so far:" },
+        { role: "user", content: "This is your ongoing conversation with RECO, a restaurant recommendation bot. Based on the conversation history, generate your next question naturally:" },
         ...history,
         { 
           role: "user", 
-          content: `Generate your next question based on the bot's response. Stay in character. This is question ${questionNumber + 1} of ${persona.maxQuestions}. If the bot gave good recommendations, you might ask for more details, alternatives, or related questions. Be natural and conversational.`
+          content: `Generate your next question (${questionNumber + 1}/${persona.maxQuestions}) based on RECO's latest response. Stay in character. If RECO gave recommendations, ask for details, alternatives, or related questions. Be conversational and natural.`
         }
       ];
 
-      const response = await this.openai.chat.completions.create({
-        model: questionModel,
-        messages: messages,
-        // NOTE: The following parameters are not supported by reasoning models like gpt-5.
-        // They are kept here commented out for readers migrating from non-reasoning models.
-        // max_tokens: questionMaxTokens,
-        // temperature: 0.7,
-        reasoning_effort: "minimal"
-      });
+      let raw = '';
+      const canUseResponses = !!(this.openai.responses && typeof this.openai.responses.create === 'function')
+        && (process.env.USE_RESPONSES_API || 'true') !== 'false';
 
-      const question = response.choices[0].message.content.trim();
+      if (canUseResponses) {
+        const responsesPayload = {
+          model: questionModel,
+          input: inputMessages
+        };
+        
+        // Add reasoning controls when explicitly enabled and supported
+        if (!this.isCloudflareGateway && (process.env.ENABLE_REASONING || 'false') === 'true') {
+          responsesPayload.reasoning = { effort: 'medium' };
+        }
+        
+        const response = await this.openai.responses.create(responsesPayload);
+        raw = response?.output_text 
+          || response?.output?.[0]?.content?.[0]?.text?.value 
+          || '';
+      } else {
+        // Fallback to chat.completions for gateways without Responses API
+        const response = await this.openai.chat.completions.create({
+          model: questionModel,
+          messages: inputMessages,
+          reasoning_effort: "minimal"
+        });
+        raw = response?.choices?.[0]?.message?.content || '';
+      }
+
+      const question = raw.trim();
       
-      // Add the new question to history
+      // Add the new question to history with proper role (assistant from AI persona's perspective)
       history.push({ role: 'assistant', content: question });
       this.conversationHistory.set(persona.id, history);
 
@@ -177,5 +220,62 @@ INSTRUCTIONS:
 
   getConversationHistory(personaId) {
     return this.conversationHistory.get(personaId) || [];
+  }
+
+  isErrorResponse(response) {
+    if (!response) return false;
+    
+    const errorPatterns = [
+      /error processing message/i,
+      /error al procesar/i,
+      /error occurred/i,
+      /something went wrong/i,
+      /no puedo procesar/i,
+      /unable to process/i,
+      /error:/i,
+      /^error$/i
+    ];
+    
+    return errorPatterns.some(pattern => pattern.test(response));
+  }
+
+  getRetryQuestion(persona, questionNumber) {
+    // Generate context-aware retry questions based on persona
+    const retryQuestions = {
+      health_conscious: [
+        "Disculpa, ¿podrías recomendarme restaurantes vegetarianos o veganos?",
+        "Perdón, busco lugares con opciones saludables, ¿conoces alguno?",
+        "¿Hay restaurantes con comida orgánica por aquí?"
+      ],
+      budget_conscious: [
+        "Hola, busco restaurantes económicos, ¿me puedes ayudar?",
+        "¿Conoces lugares baratos para comer bien?",
+        "¿Dónde puedo encontrar menús del día económicos?"
+      ],
+      family_kids: [
+        "Hola, necesito restaurantes para ir con niños, ¿cuáles recomiendas?",
+        "¿Qué lugares son buenos para familias con niños pequeños?",
+        "¿Conoces restaurantes con zona infantil?"
+      ],
+      international_tourist: [
+        "Hi, can you recommend authentic Spanish restaurants?",
+        "I'm looking for traditional tapas bars, any suggestions?",
+        "Where can I find good paella in Madrid?"
+      ],
+      foodie_adventurous: [
+        "Busco restaurantes con cocina de autor, ¿qué recomiendas?",
+        "¿Conoces lugares con gastronomía molecular o innovadora?",
+        "¿Cuáles son los mejores restaurantes gourmet de la zona?"
+      ]
+    };
+    
+    const personaRetries = retryQuestions[persona.id] || [
+      "¿Podrías recomendarme algunos restaurantes?",
+      "¿Qué lugares para comer sugieres?",
+      "¿Conoces buenos restaurantes por aquí?"
+    ];
+    
+    // Rotate through retry questions
+    return personaRetries[questionNumber % personaRetries.length];
   }
 } 

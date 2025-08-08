@@ -1,0 +1,33 @@
+{
+  "personaId": "budget_conscious",
+  "personaName": "Carlos Estudiante",
+  "language": "es",
+  "description": "Estudiante universitario con presupuesto limitado",
+  "startTime": "2025-08-08T16:36:47.225Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "¡Ey RECO! ¿Dónde consigo hoy un menú del día bueno, abundante y barato (menos de 10-12€) cerca del centro?",
+      "sentAt": "2025-08-08T16:36:49.803Z",
+      "response": "¡Hola! Soy RECO. Para sugerirte los mejores veganos/orgánicos sin gluten cerca:\n• ¿Dónde estás (ciudad/barrio)?\n• ¿100% vegano o también orgánico?\n• ¿Opciones sin gluten o 100% SG?\n• Presupuesto por persona para almuerzo\n• ¿Alguna alergia extra?",
+      "receivedAt": "2025-08-08T16:36:54.532Z",
+      "responseTime": 4729,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Estoy por el centro de Madrid (Sol/Gran Vía); busco 100% vegano con opciones sin gluten, y el almuerzo que no pase de 10-12€—¿tienes menús del día o combos en ese rango?",
+      "sentAt": "2025-08-08T16:36:56.663Z",
+      "response": null,
+      "receivedAt": null,
+      "responseTime": null,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T16:37:27.680Z",
+  "duration": 40455
+}

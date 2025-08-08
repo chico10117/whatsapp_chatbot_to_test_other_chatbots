@@ -1,0 +1,33 @@
+{
+  "personaId": "budget_conscious",
+  "personaName": "Carlos Estudiante",
+  "language": "es",
+  "description": "Estudiante universitario con presupuesto limitado",
+  "startTime": "2025-08-08T16:43:44.394Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "¡Hey RECO! ¿Dónde puedo comer bien y barato hoy por menos de 10€ cerca del centro, a ser posible con menú del día o alguna oferta para estudiantes?",
+      "sentAt": "2025-08-08T16:43:48.387Z",
+      "response": "• Restaurant Bar Catedral — mexicano. https://www.google.com/maps/place/?q=place_id:ChIJjTS58zL50YURpi6Z3v0Ph1Q\n• El Cardenal https://www.google.com/maps/place/?q=place_id:ChIJh3D2US350YURVW0T-_DRdsA\nJuegos: raro en Centro. ¿Confirmo tronas/menú?",
+      "receivedAt": "2025-08-08T16:43:53.657Z",
+      "responseTime": 5270,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "¿Alguno de esos tiene menú del día por menos de 10€ o algún descuento de estudiante, y qué incluye (plato, bebida y postre)?",
+      "sentAt": "2025-08-08T16:43:56.113Z",
+      "response": null,
+      "receivedAt": null,
+      "responseTime": null,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T16:44:27.150Z",
+  "duration": 42756
+}

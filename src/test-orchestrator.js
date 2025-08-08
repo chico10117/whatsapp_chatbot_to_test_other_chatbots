@@ -15,13 +15,15 @@ export default class TestOrchestrator {
     this.testId = `test_${Date.now()}`;
     this.aiGenerator = new AIConversationGenerator();
     this.questionGenerationTimes = []; // ms durations for generated questions
+    this.globalTotalQuestions = 0;
+    this.globalQuestionCounter = 0;
   }
 
   async executeAllPersonas(whatsappClient, recoNumber) {
     this.logger.logTestStart(this.testId);
     const testStartTime = Date.now();
-    const globalTotalQuestions = Object.values(AI_PERSONAS).reduce((sum, p) => sum + (p.maxQuestions || 15), 0);
-    let globalQuestionCounter = 0;
+    this.globalTotalQuestions = Object.values(AI_PERSONAS).reduce((sum, p) => sum + (p.maxQuestions || 15), 0);
+    this.globalQuestionCounter = 0;
     
     try {
       for (const [personaId, persona] of Object.entries(AI_PERSONAS)) {
@@ -91,8 +93,8 @@ export default class TestOrchestrator {
         recoNumber, 
         initialQuestion, 
         1,
-        ++globalQuestionCounter,
-        globalTotalQuestions,
+        ++this.globalQuestionCounter,
+        this.globalTotalQuestions,
         persona
       );
       
@@ -108,8 +110,14 @@ export default class TestOrchestrator {
         }
         
         const lastResponse = personaResults.questions[personaResults.questions.length - 1].response;
-        if (!lastResponse) {
-          console.log(`   ⚠️  No response received, ending conversation for ${persona.name}`);
+        
+        // Check if we got no response or an error response
+        if (!lastResponse || this.isErrorResponse(lastResponse)) {
+          if (!lastResponse) {
+            console.log(`   ⚠️  No response received, ending conversation for ${persona.name}`);
+          } else {
+            console.log(`   ⚠️  Error response received: "${lastResponse}", ending conversation for ${persona.name}`);
+          }
           break;
         }
         
@@ -138,8 +146,8 @@ export default class TestOrchestrator {
           recoNumber, 
           followUpQuestion, 
           this.currentQuestionIndex + 1,
-          ++globalQuestionCounter,
-          globalTotalQuestions,
+          ++this.globalQuestionCounter,
+          this.globalTotalQuestions,
           persona
         );
         
@@ -202,7 +210,7 @@ export default class TestOrchestrator {
       };
       
       // Wait for response with timeout
-      const timeoutMs = process.env.TEST_TIMEOUT_MS || 30000; // 30 seconds default
+      const timeoutMs = process.env.TEST_TIMEOUT_MS || 120000; // 30 seconds default
       console.log(`   ⏱️  Waiting up to ${timeoutMs/1000}s for response...`);
       
       const response = await this.waitForResponse(timeoutMs);
@@ -258,6 +266,23 @@ export default class TestOrchestrator {
       
       console.log(`   👂 Listening for RECO response...`);
     });
+  }
+
+  isErrorResponse(response) {
+    if (!response) return false;
+    
+    const errorPatterns = [
+      /error processing message/i,
+      /error al procesar/i,
+      /error occurred/i,
+      /something went wrong/i,
+      /no puedo procesar/i,
+      /unable to process/i,
+      /error:/i,
+      /^error$/i
+    ];
+    
+    return errorPatterns.some(pattern => pattern.test(response));
   }
 
   handleIncomingMessage(message) {

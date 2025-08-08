@@ -1,0 +1,33 @@
+{
+  "personaId": "family_kids",
+  "personaName": "Ana Familia",
+  "language": "es",
+  "description": "Madre de familia con dos niños pequeños",
+  "startTime": "2025-08-08T16:37:32.686Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola RECO, busco un restaurante para ir con mis peques (4 y 7) este fin de semana en CDMX; ¿tienes alguna opción con área de juegos segura, tronas y menú infantil?",
+      "sentAt": "2025-08-08T16:37:35.292Z",
+      "response": "¡Ey! RECO al habla. Para clavar menús del día baratos cerca del centro:\n• ¿Ciudad y zona exacta?\n• ¿Vegano/SG o cualquiera?\n• ¿Alergias?\n• ¿Prefieres casero, con bebida/café o terraza?\n• ¿Tope 10–12€ hoy al almuerzo?",
+      "receivedAt": "2025-08-08T16:37:50.479Z",
+      "responseTime": 15187,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "CDMX, zona Centro Histórico; ¿tienen menú infantil, tronas y alguna área de juegos o espacio seguro para niños?",
+      "sentAt": "2025-08-08T16:37:52.923Z",
+      "response": null,
+      "receivedAt": null,
+      "responseTime": null,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T16:38:23.948Z",
+  "duration": 51262
+}

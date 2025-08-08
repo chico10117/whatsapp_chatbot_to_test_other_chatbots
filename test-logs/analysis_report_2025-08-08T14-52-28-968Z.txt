@@ -1,0 +1,50 @@
+MENSAJE FINAL - REPORTE DE PRUEBA RECO BOT
+
+📈 MÉTRICAS GENERALES:
+- Total de preguntas: 75
+- Respuestas recibidas: 75/75
+- Tiempo promedio de respuesta: 8.55 segundos
+- Tasa de éxito: 100.0%
+
+🎯 PRECISIÓN DE RECOMENDACIONES (por persona):
+1. María Fitness: 4.3/5 ⭐⭐⭐⭐☆
+   📍 Respuestas: 100.0% | Recomendaciones: 66.7% | Idioma: 100.0%
+2. Carlos Estudiante: 4.0/5 ⭐⭐⭐⭐☆
+   📍 Respuestas: 100.0% | Recomendaciones: 73.3% | Idioma: 100.0%
+3. Ana Familia: 3.8/5 ⭐⭐⭐⭐☆
+   📍 Respuestas: 100.0% | Recomendaciones: 26.7% | Idioma: 100.0%
+4. James British: 4.9/5 ⭐⭐⭐⭐⭐
+   📍 Respuestas: 100.0% | Recomendaciones: 100.0% | Idioma: 100.0%
+5. Diego Gourmet: 4.5/5 ⭐⭐⭐⭐⭐
+   📍 Respuestas: 100.0% | Recomendaciones: 33.3% | Idioma: 100.0%
+
+🗣️ CALIDAD DE LENGUAJE:
+- Consistencia en español: 100.0%
+- Consistencia en inglés: 100.0%
+- Errores gramaticales detectados: 0
+- Tono apropiado: ✓ Apropiado
+
+⚠️ MANEJO DE CASOS LÍMITE:
+- Preguntas ambiguas: 0/1 manejadas correctamente
+- Solicitudes especiales: 7/11 atendidas
+- Errores recuperados: 0
+
+🔄 FLUJO DE EXPERIENCIA:
+- Claridad en respuestas: 4.3/5
+- Facilidad de uso: 4/5
+- Información completa: 3/5
+- Sugerencias adicionales: 5/5
+
+💡 RECOMENDACIONES:
+• Incluir más recomendaciones específicas en las respuestas
+• Personalizar más las respuestas según el tipo de usuario
+
+📊 RESUMEN EJECUTIVO:
+
+El bot RECO obtuvo una calificación general de A (4.3/5.0).
+Nivel de rendimiento: MUY BUENO
+Tasa de éxito: 100.0% de respuestas recibidas
+45 recomendaciones específicas proporcionadas
+Tiempo promedio de respuesta: 8.6 segundos
+
+Rendimiento excelente. El bot maneja bien la mayoría de consultas.

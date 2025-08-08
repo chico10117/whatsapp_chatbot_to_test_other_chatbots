@@ -1,0 +1,123 @@
+{
+  "timestamp": "2025-08-08T17:48:40.475Z",
+  "totalPersonas": 5,
+  "totalQuestions": 5,
+  "totalResponses": 5,
+  "testResults": [
+    {
+      "personaId": "health_conscious",
+      "personaName": "María Fitness",
+      "language": "es",
+      "description": "Usuario consciente de la salud que busca opciones nutritivas",
+      "startTime": "2025-08-08T17:47:42.366Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, ¿me recomiendas un restaurante vegano u orgánico cercano con buenas opciones sin gluten y fuentes de proteína vegetal (tofu, tempeh o legumbres)?",
+          "sentAt": "2025-08-08T17:47:51.134Z",
+          "response": "Error processing message",
+          "receivedAt": "2025-08-08T17:47:54.129Z",
+          "responseTime": 2995,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T17:47:54.130Z",
+      "duration": 11764
+    },
+    {
+      "personaId": "budget_conscious",
+      "personaName": "Carlos Estudiante",
+      "language": "es",
+      "description": "Estudiante universitario con presupuesto limitado",
+      "startTime": "2025-08-08T17:47:59.137Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hey RECO, ¿qué sitios baratos con menú del día por menos de 10€ me recomiendas cerca del centro? ¿Alguno con descuento para estudiantes o bebida incluida?",
+          "sentAt": "2025-08-08T17:48:03.404Z",
+          "response": "Error processing message",
+          "receivedAt": "2025-08-08T17:48:06.269Z",
+          "responseTime": 2865,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T17:48:06.269Z",
+      "duration": 7132
+    },
+    {
+      "personaId": "family_kids",
+      "personaName": "Ana Familia",
+      "language": "es",
+      "description": "Madre de familia con dos niños pequeños",
+      "startTime": "2025-08-08T17:48:11.273Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, ¿me recomiendas restaurantes family-friendly con zona de juegos y tronas cerca de mi barrio en Salamanca, Madrid?",
+          "sentAt": "2025-08-08T17:48:12.744Z",
+          "response": "Error processing message",
+          "receivedAt": "2025-08-08T17:48:15.209Z",
+          "responseTime": 2465,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T17:48:15.209Z",
+      "duration": 3936
+    },
+    {
+      "personaId": "international_tourist",
+      "personaName": "James British",
+      "language": "en",
+      "description": "British tourist visiting Spain for the first time",
+      "startTime": "2025-08-08T17:48:20.221Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hi RECO! I’ve just arrived in Madrid—could you recommend a cosy, authentic tapas bar near the city centre that’s friendly to English speakers?",
+          "sentAt": "2025-08-08T17:48:22.466Z",
+          "response": "Error processing message",
+          "receivedAt": "2025-08-08T17:48:25.068Z",
+          "responseTime": 2602,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T17:48:25.068Z",
+      "duration": 4847
+    },
+    {
+      "personaId": "foodie_adventurous",
+      "personaName": "Diego Gourmet",
+      "language": "es",
+      "description": "Foodie aventurero que busca experiencias gastronómicas únicas",
+      "startTime": "2025-08-08T17:48:30.071Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, busco una experiencia de alta cocina con enfoque en técnicas innovadoras (cocina molecular, fermentos, maduraciones en seco); ¿qué restaurantes recomendarías en mi ciudad para un menú degustación con maridaje creativo?",
+          "sentAt": "2025-08-08T17:48:33.073Z",
+          "response": "Error processing message",
+          "receivedAt": "2025-08-08T17:48:35.470Z",
+          "responseTime": 2397,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T17:48:35.470Z",
+      "duration": 5399
+    }
+  ]
+}

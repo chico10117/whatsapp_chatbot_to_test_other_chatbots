@@ -1,0 +1,163 @@
+{
+  "personaId": "budget_conscious",
+  "personaName": "Carlos Estudiante",
+  "language": "es",
+  "description": "Estudiante universitario con presupuesto limitado",
+  "startTime": "2025-08-08T18:14:29.456Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hey RECO, ¿dónde puedo comer bien y barato hoy cerca del centro? ¿Algún menú del día por menos de 10€ o sitios con 2x1 para estudiantes?",
+      "sentAt": "2025-08-08T18:14:31.879Z",
+      "response": "¡Vamos a cuidarte el bolsillo cerca del centro! ¿De qué ciudad estás hablando y si tienes credencial de estudiante? ¿Buscas menú del día <10€ vegano 100% o te vale vegetariano con opción vegana? ¿Horario aproximado de comida hoy?",
+      "receivedAt": "2025-08-08T18:15:02.950Z",
+      "responseTime": 31071,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Soy de Madrid y tengo carnet de estudiante; ¿tienes menú del día por menos de 10€ cerca de Sol hoy entre 14:00-15:00, mejor vegetariano con opción vegana?",
+      "sentAt": "2025-08-08T18:15:05.880Z",
+      "response": "¡Genial, Madrid centro y con carnet de estudiante!\n\n- ¿Allergias/intolerancias (gluten, frutos secos, soja)? \n- ¿Prefieres buffet/menú del día o bocata/plato del día?\n\nMientras confirmas, chollos cerca de Sol (<10€ aprox):\n- Museo del Jamón\n• Menú del día muy económico; suele haber opción vegetal (confirma)\n• 8–10€\n• https://goo.gl/maps/7Sg3cQ1mU3Q2\n\n- 100 Montaditos (miércoles/domingo 1€)\n• Bocatas veg-friendly y promos estudiante\n• 4–8€\n• https://goo.gl/maps/6pQx3m7b2oE2\n\n- Rodilla\n• Combos ensalada/sopa; pide opción vegana\n• 6–9€\n• https://goo.gl/maps/8yqA2k3w4fJ2\n\n¿Te busco opciones 100% veg con descuento estudiante, aunque ronden 10–12€?",
+      "receivedAt": "2025-08-08T18:15:46.195Z",
+      "responseTime": 40315,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "Sin alergias; prefiero menú del día. ¿En el Museo del Jamón hoy hay opción vegetariana y el precio exacto cerca de Sol con descuento estudiante?",
+      "sentAt": "2025-08-08T18:15:50.646Z",
+      "response": "Soy tu RECO: no puedo verificar en vivo, pero cerca de Sol suelen tener menú 8–9,50€. Opción vegetariana variable (ensalada, tortilla, judías, huevo). Descuento estudiante no garantizado. ¿Te paso un texto breve para WhatsApp y sucursales a 5 min de Sol?",
+      "receivedAt": "2025-08-08T18:16:19.836Z",
+      "responseTime": 29190,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "Sí, pásame el texto para WhatsApp y las sucursales a 5 min de Sol; ¿alguna otra opción de menú del día <10€ con vegetariano fijo por si falla?",
+      "sentAt": "2025-08-08T18:16:23.395Z",
+      "response": "Perfecto. Texto para WhatsApp (copia/pega):\n• Hola, ¿cuál es el precio del menú del día hoy y si tienen opción vegetariana? ¿Aplican descuento para estudiante con carnet? Gracias.\n\nSucursales Museo del Jamón cerca de Sol (5 min):\n- Museo del Jamón\n• Bar/restaurant español\n• https://www.google.com/maps/place/?q=place_id:ChIJT-qy934oQg0RwzQqkgx7t-M\n- Museo del Jamón (otra sucursal)\n• Bar/café español\n• https://www.google.com/maps/place/?q=place_id:ChIJTcCqK3koQg0Ry57BfkqF_xI\n\nPlan B <10€ con vegetariano:\n- YERBABUENA: ⭐️ 4.5\n• Vegetariano/vegano con menús y platos del día económicos\n• 9–12€ (pregunta por opción <10€)\n• https://www.google.com/maps/place/?q=place_id:ChIJ0W4USXkoQg0R1H9auDqiISw\n\n¿Quieres que te arme otro mensaje para Yerbabuena y te calcule macros aproximados según elección?",
+      "receivedAt": "2025-08-08T18:17:15.278Z",
+      "responseTime": 51883,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "Sí, arma el mensaje para Yerbabuena; ¿tienen menú del día fijo vegetariano por menos de 10€ hoy y qué incluye (primer, segundo, bebida, pan)?",
+      "sentAt": "2025-08-08T18:17:19.569Z",
+      "response": "¡Listo! Mensaje para Yerbabuena (copia/pega):\n• Hola, ¿tienen hoy menú del día vegetariano por menos de 10€? ¿Qué incluye (primer, segundo, bebida y pan) y horario de servicio? ¿Alguna opción vegana? Gracias.\n\n- YERBABUENA: ⭐️ 4.5\n• Vegetariano/vegano; postres/helados\n• 9–12€\n• https://www.google.com/maps/place/?q=place_id:ChIJ0W4USXkoQg0R1H9auDqiISw",
+      "receivedAt": "2025-08-08T18:17:44.579Z",
+      "responseTime": 25010,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "Gracias, RECO. Si Yerbabuena se va a 11–12€, ¿qué otro menú del día vegetariano fijo por ≤10€ cerca de Sol me recomiendas, y hay algún sitio con descuento estudiante confirmado?",
+      "sentAt": "2025-08-08T18:17:49.854Z",
+      "response": "¡A tope! Opciones cerca de Sol por ≤10€ (vegetariano con opción vegana). Confirma en el día:\n\n- Restaurante Vegetariano Artemisa - Gran Vía: ⭐️ 4.5\n• Vegetariano/vegano; suelen tener menú del día económico\n• 9–11€\n• https://www.google.com/maps/place/?q=place_id:ChIJC4OxX4coQg0R3bqGh0fouew\n\n- B13 bar: ⭐️ 4.4\n• Vegano fast-casual; menús/platos del día ajustados de precio\n• 8–10€\n• https://www.google.com/maps/place/?q=place_id:ChIJ42kRXX0oQg0RiFFbECjZKtE\n\n- Superchulo: ⭐️ 4.3\n• Veg-friendly con menús/daily specials\n• 9–12€ (busca opción ≤10€)\n• https://www.google.com/maps/place/?q=place_id:ChIJR2rz-2EoQg0RJQlNH4n9wro\n\nDescuento estudiante confirmado: no tengo confirmación fija en estos; pregunta al llegar o por WhatsApp. ¿Te paso textos para consultar precio exacto y si aplican descuento con carnet?",
+      "receivedAt": "2025-08-08T18:18:23.234Z",
+      "responseTime": 33380,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "Sí, pásame los textos; y entre Artemisa y B13, ¿cuál suele tener menú más cerca de 8–9€ hoy cerca de Sol?",
+      "sentAt": "2025-08-08T18:18:26.997Z",
+      "response": "¡Voy con eso!\n\nTextos para WhatsApp:\n- Artemisa (Gran Vía)\n• Hola, ¿precio del menú del día hoy? ¿Hay opción vegetariana/vegana ≤10€ y descuento con carnet de estudiante? Gracias.\n\n- B13\n• Hola, ¿tenéis menú/plato del día hoy? ¿Precio (ideal 8–9€) y si aplicáis descuento estudiante? Gracias.\n\nComparativa rápida:\n- B13 suele estar más cerca de 8–9€ en opciones del día.\n- Artemisa suele rondar 9–11€.\n\n¿Quieres que te sugiera qué pedir según macros?",
+      "receivedAt": "2025-08-08T18:18:46.849Z",
+      "responseTime": 19852,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "Sí, sugiéreme qué pedir en B13 para llenar bien por 8–9€; ¿algún combo plato + bebida que salga más a cuenta para un estudiante?",
+      "sentAt": "2025-08-08T18:18:50.461Z",
+      "response": "Como tu RECO en B13 (budget 8–9€):\n- Plato del día vegano contundente (burger o plato combinado con legumbres/tofu) + agua del grifo.\n- Si hay combo, pide bowl de legumbres + patatas/ensalada.\n- Meta proteína 25–30 g. Pregunta por “menú estudiante”. ¿Te gusta picante?",
+      "receivedAt": "2025-08-08T18:19:09.726Z",
+      "responseTime": 19265,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "Sí, me va el picante; ¿en B13 suelen tener salsa picante incluida o hay que pagar extra, y el “menú estudiante” cuánto queda exactamente?",
+      "sentAt": "2025-08-08T18:19:12.875Z",
+      "response": "Soy tu RECO: en B13 suelen tener salsas picantes caseras (pregunta por chipotle/valentina); normalmente sin coste extra. “Menú estudiante” no está fijo; a veces -10% o combo 8–9€. Te dejo texto: “¿Hoy hay menú estudiante y salsas picantes sin coste?”",
+      "receivedAt": "2025-08-08T18:19:42.607Z",
+      "responseTime": 29732,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "Genial; además de B13, ¿algún sitio cerca de Sol con menú estudiante fiable o happy hour de comida que me deje en 8–9€ con opción vegetariana?",
+      "sentAt": "2025-08-08T18:19:48.818Z",
+      "response": "¡Claro! Cerca de Sol con opción veg y deals 8–9€:\n- B13: ⭐️ 4.4\n• Vegano; a veces -10% estudiante o combo 8–9€\n• https://www.google.com/maps/place/?q=place_id:ChIJ42kRXX0oQg0RiFFbECjZKtE\n\n- 100 Montaditos (c/Semana 1€)\n• Vegetariano posible; miércoles/domingo 1€ c/u\n• https://goo.gl/maps/6pQx3m7b2oE2\n\n- Rodilla\n• Combos con promo tarde; pide opción veg\n• https://goo.gl/maps/8yqA2k3w4fJ2\n\n¿Te paso textos para pedir “menú estudiante”/happy hour exacto hoy?",
+      "receivedAt": "2025-08-08T18:20:15.424Z",
+      "responseTime": 26606,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "Sí, pásame los textos; y en Rodilla, ¿a qué hora empieza la promo de tarde y qué combo veg sale por 8–9€ con bebida?",
+      "sentAt": "2025-08-08T18:20:18.752Z",
+      "response": "¡Voy, estudiante en Madrid!\n\nTextos para WhatsApp:\n- B13\n• Hola, ¿hoy tenéis menú estudiante o combo 8–9€? ¿Incluye bebida y opción vegetariana/vegana? Gracias.\n\n- 100 Montaditos\n• Hola, ¿hoy hay promo (Miércoles/Domingo 1€)? ¿Alguna opción vegetariana y combo 8–9€ con bebida? Gracias.\n\n- Rodilla\n• Hola, ¿a qué hora empieza la promo de tarde hoy y qué combo vegetariano con bebida queda por 8–9€? Gracias.\n\nSobre Rodilla:\n- La “merienda” suele arrancar entre 16:00–17:00 (varía por tienda).\n- Combo que suele cuadrar 8–9€: sándwich vegetal + ensalada pequeña o crema + bebida. Pide sustitución vegana si hace falta. ¿Quieres que te recomiende la sucursal Rodilla más cercana a Sol?",
+      "receivedAt": "2025-08-08T18:21:00.306Z",
+      "responseTime": 41554,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "Sí, recomiéndame la sucursal Rodilla más cercana a Sol y si aceptan carnet estudiante para esa promo de tarde.",
+      "sentAt": "2025-08-08T18:21:05.308Z",
+      "response": "¡Hecho, estudiante en Madrid!\n\nSucursales Rodilla cerca de Sol (elige la más próxima):\n- Rodilla: • Sandwich shop/café, desayunos, take away • https://www.google.com/maps/place/?q=place_id:ChIJjfz9poAoQg0RgTLNvTU9olc\n- Rodilla: • Sandwich shop/café, desayunos, take away • https://www.google.com/maps/place/?q=place_id:ChIJPUzvS3woQg0Rn4K-yrtbjfM\n- Rodilla - Plaza Carlos V: • Café/sándwiches, fast-casual • https://www.google.com/maps/place/?q=place_id:ChIJ9zxnoSUmQg0RG7ILxRGZ_sc\n\nCarnet estudiante:\n- La promo de tarde suele ser general; el carnet no siempre agrega descuento. Pregunta en caja: “¿Aplica promo merienda y descuento estudiante hoy?” ¿Te paso mensaje listo para enviar a la sucursal más cercana?",
+      "receivedAt": "2025-08-08T18:21:33.908Z",
+      "responseTime": 28600,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "Sí, pásame el mensaje listo y dime cuál de esas sucursales de Rodilla está a 5–7 min a pie de Sol para ir directo.",
+      "sentAt": "2025-08-08T18:21:38.281Z",
+      "response": "¡Listo! Mensaje para WhatsApp a Rodilla:\n• Hola, ¿a qué hora empieza hoy la promo de tarde y qué combo vegetariano con bebida queda por 8–9€? ¿Aplica además descuento de estudiante con carnet? Gracias.\n\nSucursales cerca de Sol (elige la más próxima):\n- Rodilla\n• Sandwich shop/café; desayuno, take away\n• https://www.google.com/maps/place/?q=place_id:ChIJjfz9poAoQg0RgTLNvTU9olc\n\nNo puedo confirmar cuál está a 5–7 min exactos desde Sol sin mapa en vivo. ¿Quieres que te guíe a la más cercana según tu calle exacta? ¿Preferencias de combo (ensalada/crema + sándwich + bebida)?",
+      "receivedAt": "2025-08-08T18:22:17.916Z",
+      "responseTime": 39635,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "Estoy saliendo de Puerta del Sol (kilómetro cero); ¿cuál de esas Rodilla me queda a 5–7 min a pie y qué combo veg con bebida recomiendas para clavar 8–9€?",
+      "sentAt": "2025-08-08T18:22:24.086Z",
+      "response": "¡Perfecto, desde Kilómetro Cero!\n\n- Rodilla más cercana (5–7 min a pie):\n• Rodilla (Calle Preciados/Callao aprox.)\n• https://www.google.com/maps/place/?q=place_id:ChIJjfz9poAoQg0RgTLNvTU9olc\n\n- Combo veg para 8–9€ aprox.:\n• Sándwich Vegetal + crema del día (si es vegetal) + agua o refresco\n• Alternativa: ensalada pequeña + sándwich Vegetal + agua\n\n• Tip: pregunta por “promo merienda” desde 16:00–17:00 y si aplica a combos veg. ¿Te preparo texto para pedir sustituciones veg si la crema lleva lácteo?",
+      "receivedAt": "2025-08-08T18:23:10.557Z",
+      "responseTime": 46471,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "Sí, pásame el texto para pedir sustituciones veg si la crema lleva lácteo; ¿y si la promo merienda no aplica hoy, qué alternativa igual de barata cerca de Callao me recomiendas?",
+      "sentAt": "2025-08-08T18:23:13.882Z",
+      "response": "¡Va!\n\n- Texto para Rodilla\n• Hola, ¿podrían cambiar la crema si lleva lácteos por una opción vegetal (sopa/ensalada) manteniendo el precio del combo? También el sándwich en versión 100% vegetariana/vegana. Gracias.\n\nAlternativas baratas cerca de Callao (8–9€ aprox.):\n- B13: ⭐️ 4.4\n• Vegano; combos/plato del día económicos\n• https://www.google.com/maps/place/?q=place_id:ChIJ42kRXX0oQg0RiFFbECjZKtE\n\n- 100 Montaditos (miércoles/domingo 1€)\n• Montaditos veg + bebida\n• https://goo.gl/maps/6pQx3m7b2oE2\n\n¿Quieres que ajuste según si prefieres caliente o frío y picante?",
+      "receivedAt": "2025-08-08T18:23:44.208Z",
+      "responseTime": 30326,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T18:23:44.208Z",
+  "duration": 554752
+}

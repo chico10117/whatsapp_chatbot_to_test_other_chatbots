@@ -1,0 +1,33 @@
+{
+  "personaId": "international_tourist",
+  "personaName": "James British",
+  "language": "en",
+  "description": "British tourist visiting Spain for the first time",
+  "startTime": "2025-08-08T16:45:10.191Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hi RECO! I’ve just arrived in Madrid—could you recommend a cozy, authentic tapas bar near the city centre that’s friendly to English speakers?",
+      "sentAt": "2025-08-08T16:45:12.279Z",
+      "response": "• Taberna El Sur — tapas bar. https://www.google.com/maps/place/?q=place_id:ChIJiTGJRSomQg0RTD1MZa1RTnE\n• Casa Alberto — tavern. https://www.google.com/maps/place/?q=place_id:ChIJi0vRVCkmQg0RhJD1GJk3jkU\nEnglish-friendly. More?",
+      "receivedAt": "2025-08-08T16:45:25.722Z",
+      "responseTime": 13443,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Thanks! Do either of these take reservations, and what dishes should I absolutely try at each?",
+      "sentAt": "2025-08-08T16:45:27.921Z",
+      "response": null,
+      "receivedAt": null,
+      "responseTime": null,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T16:45:58.937Z",
+  "duration": 48746
+}

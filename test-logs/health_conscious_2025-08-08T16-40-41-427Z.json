@@ -1,0 +1,33 @@
+{
+  "personaId": "health_conscious",
+  "personaName": "María Fitness",
+  "language": "es",
+  "description": "Usuario consciente de la salud que busca opciones nutritivas",
+  "startTime": "2025-08-08T16:40:04.172Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola RECO, ¿me recomiendas restaurantes veganos u orgánicos con opciones sin gluten cerca de mí que usen ingredientes locales y ofrezcan buena proteína vegetal?",
+      "sentAt": "2025-08-08T16:40:06.409Z",
+      "response": "• Mad Mad Vegan (vegano, SG opc.). https://www.google.com/maps/place/?q=place_id:ChIJp0iAs5kpQg0REg9rNYuY8PQ\n• Oveja Negra Vegana (vegano, SG opc.). https://www.google.com/maps/place/?q=place_id:ChIJda37oismQg0RaQH3D8Qb3fY\n¿Te paso alguna más?",
+      "receivedAt": "2025-08-08T16:40:08.165Z",
+      "responseTime": 1756,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Gracias, suenan bien. ¿Cuál de los dos tiene mejores opciones sin gluten certificadas y fuentes de proteína como tempeh, tofu orgánico o legumbres, y qué platos recomendarías?",
+      "sentAt": "2025-08-08T16:40:10.411Z",
+      "response": null,
+      "receivedAt": null,
+      "responseTime": null,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T16:40:41.426Z",
+  "duration": 37254
+}

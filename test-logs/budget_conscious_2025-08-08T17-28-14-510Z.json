@@ -1,0 +1,163 @@
+{
+  "personaId": "budget_conscious",
+  "personaName": "Carlos Estudiante",
+  "language": "es",
+  "description": "Estudiante universitario con presupuesto limitado",
+  "startTime": "2025-08-08T17:26:55.840Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola, necesito encontrar comida buena y barata para estudiantes",
+      "sentAt": "2025-08-08T17:26:56.174Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:26:58.572Z",
+      "responseTime": 2398,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "¿Tienes algún menú del día barato cerca del centro con opción de bebida incluida y descuento de estudiante?",
+      "sentAt": "2025-08-08T17:26:59.980Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:27:02.372Z",
+      "responseTime": 2392,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "¿De los que me dijiste, cuál tiene el menú más barato con bebida incluida y cuánto sale exacto con descuento estudiante?",
+      "sentAt": "2025-08-08T17:27:05.713Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:27:08.073Z",
+      "responseTime": 2360,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "¿Y esos menús incluyen postre o café sin coste extra, o hay que pagar aparte?",
+      "sentAt": "2025-08-08T17:27:11.515Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:27:13.947Z",
+      "responseTime": 2432,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "¿Alguno ofrece 2x1, happy hour o refill gratis de bebida, y en qué horarios exactos?",
+      "sentAt": "2025-08-08T17:27:16.782Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:27:19.202Z",
+      "responseTime": 2420,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "¿Cuál de esos sitios tiene raciones más generosas por el mismo precio y cuánto cuesta el menú final por persona?",
+      "sentAt": "2025-08-08T17:27:22.646Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:27:25.152Z",
+      "responseTime": 2506,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "¿Me reservas mesa en el más barato para hoy a mediodía y me confirmas si aceptan carnet de estudiante para el descuento?",
+      "sentAt": "2025-08-08T17:27:28.768Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:27:31.176Z",
+      "responseTime": 2408,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "¿El sitio más barato incluye agua o refresco en el precio del menú y cuánto queda por persona con el descuento aplicado?",
+      "sentAt": "2025-08-08T17:27:33.713Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:27:35.996Z",
+      "responseTime": 2283,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "¿Tienen algún menú de noche o finde con precio cerrado y descuento de estudiante, y cuánto queda por persona?",
+      "sentAt": "2025-08-08T17:27:38.462Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:27:40.795Z",
+      "responseTime": 2333,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "¿Cuál de los recomendados tiene tapa gratis con la bebida y cuánto cuesta cada caña o refresco en happy hour?",
+      "sentAt": "2025-08-08T17:27:43.339Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:27:45.797Z",
+      "responseTime": 2458,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "¿De esas opciones, cuál acepta pago en efectivo y tarjeta y si voy hoy, hay que pagar algún suplemento por terraza?",
+      "sentAt": "2025-08-08T17:27:49.272Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:27:51.973Z",
+      "responseTime": 2701,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "¿Tienen algún combo barato de mediodía tipo bocata + bebida + café, y a qué precio queda con descuento estudiante?",
+      "sentAt": "2025-08-08T17:27:55.207Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:27:57.622Z",
+      "responseTime": 2415,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "¿Y entre esos, cuál cierra más tarde entre semana y mantiene el menú barato hasta última hora?",
+      "sentAt": "2025-08-08T17:28:00.826Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:28:03.203Z",
+      "responseTime": 2377,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "¿Puedes decirme la dirección exacta del más barato y si necesito reservar o puedo caer sin avisar?",
+      "sentAt": "2025-08-08T17:28:06.302Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:28:08.646Z",
+      "responseTime": 2344,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "¿Última: aceptan cupones o tarjetas de descuento de estudiante tipo ISIC y hay algún código promo activo ahora mismo?",
+      "sentAt": "2025-08-08T17:28:12.174Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:28:14.509Z",
+      "responseTime": 2335,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T17:28:14.509Z",
+  "duration": 78669
+}

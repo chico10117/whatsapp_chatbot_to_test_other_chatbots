@@ -1,0 +1,23 @@
+{
+  "personaId": "international_tourist",
+  "personaName": "James British",
+  "language": "en",
+  "description": "British tourist visiting Spain for the first time",
+  "startTime": "2025-08-08T17:48:20.221Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hi RECO! I’ve just arrived in Madrid—could you recommend a cosy, authentic tapas bar near the city centre that’s friendly to English speakers?",
+      "sentAt": "2025-08-08T17:48:22.466Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:48:25.068Z",
+      "responseTime": 2602,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T17:48:25.068Z",
+  "duration": 4847
+}

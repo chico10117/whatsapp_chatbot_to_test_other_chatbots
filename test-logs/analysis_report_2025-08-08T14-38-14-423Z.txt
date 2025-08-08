@@ -1,0 +1,56 @@
+MENSAJE FINAL - REPORTE DE PRUEBA RECO BOT
+
+📈 MÉTRICAS GENERALES:
+- Total de preguntas: 75
+- Respuestas recibidas: 75/75
+- Tiempo promedio de respuesta: 8.55 segundos
+- Tasa de éxito: 100.0%
+
+🎯 PRECISIÓN DE RECOMENDACIONES (por persona):
+1. María Fitness: 0.0/5 ☆☆☆☆☆
+   📍 Respuestas: 100.0% | Recomendaciones: 0.0% | Idioma: 0.0%
+2. Carlos Estudiante: 0.0/5 ☆☆☆☆☆
+   📍 Respuestas: 100.0% | Recomendaciones: 0.0% | Idioma: 0.0%
+3. Ana Familia: 0.0/5 ☆☆☆☆☆
+   📍 Respuestas: 100.0% | Recomendaciones: 0.0% | Idioma: 0.0%
+4. James British: 0.0/5 ☆☆☆☆☆
+   📍 Respuestas: 100.0% | Recomendaciones: 0.0% | Idioma: 0.0%
+5. Diego Gourmet: 0.0/5 ☆☆☆☆☆
+   📍 Respuestas: 100.0% | Recomendaciones: 0.0% | Idioma: 0.0%
+
+🗣️ CALIDAD DE LENGUAJE:
+- Consistencia en español: 0.0%
+- Consistencia en inglés: 0.0%
+- Errores gramaticales detectados: 0
+- Tono apropiado: ✓ Apropiado
+
+⚠️ MANEJO DE CASOS LÍMITE:
+- Preguntas ambiguas: 0/1 manejadas correctamente
+- Solicitudes especiales: 0/11 atendidas
+- Errores recuperados: 0
+
+🔄 FLUJO DE EXPERIENCIA:
+- Claridad en respuestas: 0.0/5
+- Facilidad de uso: 0/5
+- Información completa: 0/5
+- Sugerencias adicionales: 5/5
+
+💡 RECOMENDACIONES:
+• Mejorar la precisión y relevancia de las recomendaciones
+• Incluir más recomendaciones específicas en las respuestas
+• Mejorar la consistencia del idioma según la consulta del usuario
+• Personalizar más las respuestas según el tipo de usuario
+• Mejorar respuestas sobre opciones saludables y dietéticas
+• Incluir más información sobre precios y ofertas económicas
+• Agregar más opciones familiares y servicios para niños
+• Expandir conocimiento sobre gastronomía gourmet y experiencias únicas
+
+📊 RESUMEN EJECUTIVO:
+
+El bot RECO obtuvo una calificación general de D (0.0/5.0).
+Nivel de rendimiento: CRÍTICO
+Tasa de éxito: 100.0% de respuestas recibidas
+0 recomendaciones específicas proporcionadas
+Tiempo promedio de respuesta: 8.6 segundos
+
+Rendimiento bajo. Se necesita revisión integral del sistema.

@@ -66,7 +66,12 @@ ${this.generateExecutiveSummary(metrics, analysisResults)}
     const scores = [];
     
     allTestResults.forEach((persona, index) => {
-      const score = analysisResults[persona.personaId];
+      const score = analysisResults[persona.personaId] || {
+        overallScore: 0,
+        responseRate: 0,
+        recommendationRate: 0,
+        languageConsistency: 0
+      };
       const stars = '⭐'.repeat(Math.round(score.overallScore));
       const emptyStars = '☆'.repeat(5 - Math.round(score.overallScore));
       

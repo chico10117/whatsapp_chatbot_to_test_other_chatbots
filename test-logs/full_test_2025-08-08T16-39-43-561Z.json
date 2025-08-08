@@ -1,0 +1,143 @@
+{
+  "timestamp": "2025-08-08T16:39:43.561Z",
+  "totalPersonas": 5,
+  "totalQuestions": 7,
+  "totalResponses": 2,
+  "testResults": [
+    {
+      "personaId": "health_conscious",
+      "personaName": "María Fitness",
+      "language": "es",
+      "description": "Usuario consciente de la salud que busca opciones nutritivas",
+      "startTime": "2025-08-08T16:36:09.537Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, ¿me recomiendas restaurantes veganos u orgánicos con buenas opciones sin gluten cerca de mí?",
+          "sentAt": "2025-08-08T16:36:12.042Z",
+          "response": null,
+          "receivedAt": null,
+          "responseTime": null,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T16:36:42.217Z",
+      "duration": 32680
+    },
+    {
+      "personaId": "budget_conscious",
+      "personaName": "Carlos Estudiante",
+      "language": "es",
+      "description": "Estudiante universitario con presupuesto limitado",
+      "startTime": "2025-08-08T16:36:47.225Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "¡Ey RECO! ¿Dónde consigo hoy un menú del día bueno, abundante y barato (menos de 10-12€) cerca del centro?",
+          "sentAt": "2025-08-08T16:36:49.803Z",
+          "response": "¡Hola! Soy RECO. Para sugerirte los mejores veganos/orgánicos sin gluten cerca:\n• ¿Dónde estás (ciudad/barrio)?\n• ¿100% vegano o también orgánico?\n• ¿Opciones sin gluten o 100% SG?\n• Presupuesto por persona para almuerzo\n• ¿Alguna alergia extra?",
+          "receivedAt": "2025-08-08T16:36:54.532Z",
+          "responseTime": 4729,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "Estoy por el centro de Madrid (Sol/Gran Vía); busco 100% vegano con opciones sin gluten, y el almuerzo que no pase de 10-12€—¿tienes menús del día o combos en ese rango?",
+          "sentAt": "2025-08-08T16:36:56.663Z",
+          "response": null,
+          "receivedAt": null,
+          "responseTime": null,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T16:37:27.680Z",
+      "duration": 40455
+    },
+    {
+      "personaId": "family_kids",
+      "personaName": "Ana Familia",
+      "language": "es",
+      "description": "Madre de familia con dos niños pequeños",
+      "startTime": "2025-08-08T16:37:32.686Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, busco un restaurante para ir con mis peques (4 y 7) este fin de semana en CDMX; ¿tienes alguna opción con área de juegos segura, tronas y menú infantil?",
+          "sentAt": "2025-08-08T16:37:35.292Z",
+          "response": "¡Ey! RECO al habla. Para clavar menús del día baratos cerca del centro:\n• ¿Ciudad y zona exacta?\n• ¿Vegano/SG o cualquiera?\n• ¿Alergias?\n• ¿Prefieres casero, con bebida/café o terraza?\n• ¿Tope 10–12€ hoy al almuerzo?",
+          "receivedAt": "2025-08-08T16:37:50.479Z",
+          "responseTime": 15187,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "CDMX, zona Centro Histórico; ¿tienen menú infantil, tronas y alguna área de juegos o espacio seguro para niños?",
+          "sentAt": "2025-08-08T16:37:52.923Z",
+          "response": null,
+          "receivedAt": null,
+          "responseTime": null,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T16:38:23.948Z",
+      "duration": 51262
+    },
+    {
+      "personaId": "international_tourist",
+      "personaName": "James British",
+      "language": "en",
+      "description": "British tourist visiting Spain for the first time",
+      "startTime": "2025-08-08T16:38:28.951Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hi RECO, I’ve just arrived in Madrid—where can I find a cosy, authentic tapas bar near the city centre that’s friendly to English speakers?",
+          "sentAt": "2025-08-08T16:38:31.466Z",
+          "response": null,
+          "receivedAt": null,
+          "responseTime": null,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T16:39:01.480Z",
+      "duration": 32529
+    },
+    {
+      "personaId": "foodie_adventurous",
+      "personaName": "Diego Gourmet",
+      "language": "es",
+      "description": "Foodie aventurero que busca experiencias gastronómicas únicas",
+      "startTime": "2025-08-08T16:39:06.485Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, busco una experiencia de alta cocina con toques de cocina molecular y un menú degustación audaz; ¿qué restaurante en mi ciudad está experimentando con técnicas innovadoras y maridajes poco convencionales?",
+          "sentAt": "2025-08-08T16:39:08.541Z",
+          "response": null,
+          "receivedAt": null,
+          "responseTime": null,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T16:39:38.555Z",
+      "duration": 32070
+    }
+  ]
+}

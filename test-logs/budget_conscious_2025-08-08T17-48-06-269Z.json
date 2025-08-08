@@ -1,0 +1,23 @@
+{
+  "personaId": "budget_conscious",
+  "personaName": "Carlos Estudiante",
+  "language": "es",
+  "description": "Estudiante universitario con presupuesto limitado",
+  "startTime": "2025-08-08T17:47:59.137Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hey RECO, ¿qué sitios baratos con menú del día por menos de 10€ me recomiendas cerca del centro? ¿Alguno con descuento para estudiantes o bebida incluida?",
+      "sentAt": "2025-08-08T17:48:03.404Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:48:06.269Z",
+      "responseTime": 2865,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T17:48:06.269Z",
+  "duration": 7132
+}

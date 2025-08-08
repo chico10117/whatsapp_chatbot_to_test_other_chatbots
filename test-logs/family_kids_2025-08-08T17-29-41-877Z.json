@@ -1,0 +1,163 @@
+{
+  "personaId": "family_kids",
+  "personaName": "Ana Familia",
+  "language": "es",
+  "description": "Madre de familia con dos niños pequeños",
+  "startTime": "2025-08-08T17:28:19.515Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola, busco restaurantes family-friendly con facilidades para niños",
+      "sentAt": "2025-08-08T17:28:19.948Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:28:22.346Z",
+      "responseTime": 2398,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "¿Tienen alguna recomendación de restaurantes con zona de juegos segura y menú infantil cerca de mi zona?",
+      "sentAt": "2025-08-08T17:28:23.903Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:28:26.337Z",
+      "responseTime": 2434,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "¿Alguno de los que recomendaste tiene tronas, cambiador en el baño y opción de menú sin frutos secos?",
+      "sentAt": "2025-08-08T17:28:28.828Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:28:31.495Z",
+      "responseTime": 2667,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "¿Cuál de esos tiene terraza cerrada o área interior amplia para cochecitos y espacio para que los peques se muevan sin riesgo?",
+      "sentAt": "2025-08-08T17:28:34.357Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:28:36.609Z",
+      "responseTime": 2252,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "¿Tienen opciones de entretenimiento en mesa (crayones, libros) y sillas elevadoras además de tronas en el que me sugeriste como más amplio?",
+      "sentAt": "2025-08-08T17:28:40.043Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:28:43.565Z",
+      "responseTime": 3522,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "¿Podrías decirme si aceptan reservas para grupos familiares y cuál es el mejor horario para ir con niños sin tanta espera?",
+      "sentAt": "2025-08-08T17:28:45.964Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:28:48.356Z",
+      "responseTime": 2392,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "¿El restaurante que recomendaste con mejor terraza tiene microondas para calentar potitos y ofrece medio menú para niños pequeños?",
+      "sentAt": "2025-08-08T17:28:50.851Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:28:53.633Z",
+      "responseTime": 2782,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "¿Ese que tiene microondas también cuenta con zona de juegos a la vista de las mesas y personal acostumbrado a familias con niños pequeños?",
+      "sentAt": "2025-08-08T17:28:56.330Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:28:58.843Z",
+      "responseTime": 2513,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "¿Podrías indicarme si tienen sillas altas suficientes y si el baño con cambiador está en planta baja o hay que subir escaleras con el cochecito?",
+      "sentAt": "2025-08-08T17:29:01.561Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:29:03.919Z",
+      "responseTime": 2358,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "¿Entre las opciones que diste, cuál tiene menú infantil con verduras o fruta incluida y agua/jugo sin azúcar, y cuál es el precio aproximado?",
+      "sentAt": "2025-08-08T17:29:07.191Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:29:09.623Z",
+      "responseTime": 2432,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "¿Ese con menú infantil más saludable ofrece también alternativas sin gluten y posibilidad de adaptar platos para alergias, y cómo manejan la contaminación cruzada?",
+      "sentAt": "2025-08-08T17:29:12.561Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:29:14.952Z",
+      "responseTime": 2391,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "¿Podrías confirmar si ese lugar admite cochecitos dentro sin problema y si tienen un rincón tranquilo por si necesito dar de comer al bebé?",
+      "sentAt": "2025-08-08T17:29:18.551Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:29:20.946Z",
+      "responseTime": 2395,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "Genial, ¿podrías confirmarme si tienen parking cercano o convenio con algún parking, y si hay rampa de acceso para entrar con el cochecito?",
+      "sentAt": "2025-08-08T17:29:24.973Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:29:27.493Z",
+      "responseTime": 2520,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "Perfecto, ¿me guardan alguna mesa cerca de la zona de juegos con buena visibilidad y hay enchufes cerca por si necesito cargar una tablet?",
+      "sentAt": "2025-08-08T17:29:30.395Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:29:32.758Z",
+      "responseTime": 2363,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "Gracias, última duda: ¿el ruido suele ser moderado y tienen música baja para que los peques no se saturen, especialmente en el horario que recomiendas?",
+      "sentAt": "2025-08-08T17:29:39.502Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:29:41.877Z",
+      "responseTime": 2375,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T17:29:41.877Z",
+  "duration": 82362
+}

@@ -1,0 +1,23 @@
+{
+  "personaId": "foodie_adventurous",
+  "personaName": "Diego Gourmet",
+  "language": "es",
+  "description": "Foodie aventurero que busca experiencias gastronómicas únicas",
+  "startTime": "2025-08-08T16:39:06.485Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola RECO, busco una experiencia de alta cocina con toques de cocina molecular y un menú degustación audaz; ¿qué restaurante en mi ciudad está experimentando con técnicas innovadoras y maridajes poco convencionales?",
+      "sentAt": "2025-08-08T16:39:08.541Z",
+      "response": null,
+      "receivedAt": null,
+      "responseTime": null,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T16:39:38.555Z",
+  "duration": 32070
+}

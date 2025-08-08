@@ -1,0 +1,23 @@
+{
+  "personaId": "health_conscious",
+  "personaName": "María Fitness",
+  "language": "es",
+  "description": "Usuario consciente de la salud que busca opciones nutritivas",
+  "startTime": "2025-08-08T17:47:42.366Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola RECO, ¿me recomiendas un restaurante vegano u orgánico cercano con buenas opciones sin gluten y fuentes de proteína vegetal (tofu, tempeh o legumbres)?",
+      "sentAt": "2025-08-08T17:47:51.134Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:47:54.129Z",
+      "responseTime": 2995,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T17:47:54.130Z",
+  "duration": 11764
+}

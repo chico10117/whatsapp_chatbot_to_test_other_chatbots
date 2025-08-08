@@ -1,0 +1,324 @@
+{
+  "timestamp": "2025-08-08T17:49:04.006Z",
+  "duration": 81667,
+  "testResults": [
+    {
+      "personaId": "health_conscious",
+      "personaName": "María Fitness",
+      "language": "es",
+      "description": "Usuario consciente de la salud que busca opciones nutritivas",
+      "startTime": "2025-08-08T17:47:42.366Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, ¿me recomiendas un restaurante vegano u orgánico cercano con buenas opciones sin gluten y fuentes de proteína vegetal (tofu, tempeh o legumbres)?",
+          "sentAt": "2025-08-08T17:47:51.134Z",
+          "response": "Error processing message",
+          "receivedAt": "2025-08-08T17:47:54.129Z",
+          "responseTime": 2995,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": false,
+            "relevanceScore": 1,
+            "containsExpectedKeywords": false,
+            "responseQuality": "no_response",
+            "recommendationCount": 0,
+            "errors": [
+              "No proporciona recomendaciones específicas de restaurantes.",
+              "Respuesta no está en el idioma solicitado (español).",
+              "No responde a ninguno de los requisitos nutricionales planteados.",
+              "No incluye ninguna palabra clave relevante ni información de valor."
+            ],
+            "strengths": [],
+            "suggestions": [
+              "Responder directamente en español, alineándose con el idioma esperado del usuario.",
+              "Incluir recomendaciones específicas de restaurantes veganos u orgánicos cercanos con opciones sin gluten y rica proteína vegetal.",
+              "Incorporar palabras clave asociadas a la consulta, como 'vegano', 'orgánico', 'sin gluten', y fuentes protéicas vegetales.",
+              "Asegurar que la respuesta no sea un mensaje de error técnico, priorizando una salida útil o instrucciones de ayuda si ocurre un fallo."
+            ]
+          },
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T17:47:54.130Z",
+      "duration": 11764
+    },
+    {
+      "personaId": "budget_conscious",
+      "personaName": "Carlos Estudiante",
+      "language": "es",
+      "description": "Estudiante universitario con presupuesto limitado",
+      "startTime": "2025-08-08T17:47:59.137Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hey RECO, ¿qué sitios baratos con menú del día por menos de 10€ me recomiendas cerca del centro? ¿Alguno con descuento para estudiantes o bebida incluida?",
+          "sentAt": "2025-08-08T17:48:03.404Z",
+          "response": "Error processing message",
+          "receivedAt": "2025-08-08T17:48:06.269Z",
+          "responseTime": 2865,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": false,
+            "relevanceScore": 1,
+            "containsExpectedKeywords": false,
+            "responseQuality": "no_response",
+            "recommendationCount": 0,
+            "errors": [
+              "No se proporcionó ninguna recomendación de restaurante.",
+              "La respuesta está en inglés y solo muestra un mensaje de error.",
+              "No se abordó la pregunta específica ni se usaron palabras clave relacionadas."
+            ],
+            "strengths": [],
+            "suggestions": [
+              "Responder en español y de forma personalizada para estudiantes con presupuesto limitado.",
+              "Incluir nombres y detalles de restaurantes con menú del día por menos de 10€ cerca del centro.",
+              "Mencionar opciones con descuentos para estudiantes o bebida incluida.",
+              "Utilizar palabras clave relevantes como 'barato', 'económico', 'menú del día', 'descuento', etc."
+            ]
+          },
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T17:48:06.269Z",
+      "duration": 7132
+    },
+    {
+      "personaId": "family_kids",
+      "personaName": "Ana Familia",
+      "language": "es",
+      "description": "Madre de familia con dos niños pequeños",
+      "startTime": "2025-08-08T17:48:11.273Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, ¿me recomiendas restaurantes family-friendly con zona de juegos y tronas cerca de mi barrio en Salamanca, Madrid?",
+          "sentAt": "2025-08-08T17:48:12.744Z",
+          "response": "Error processing message",
+          "receivedAt": "2025-08-08T17:48:15.209Z",
+          "responseTime": 2465,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": false,
+            "relevanceScore": 1,
+            "containsExpectedKeywords": false,
+            "responseQuality": "no_response",
+            "recommendationCount": 0,
+            "errors": [
+              "No proporciona recomendaciones específicas.",
+              "La respuesta está en inglés y no en español.",
+              "No responde a la consulta del usuario.",
+              "No contiene palabras clave relevantes."
+            ],
+            "strengths": [],
+            "suggestions": [
+              "Responder en español, adaptando el lenguaje al perfil de una madre de familia.",
+              "Incluir al menos tres recomendaciones de restaurantes family-friendly en el barrio de Salamanca.",
+              "Destacar servicios relevantes como zona de juegos, tronas, menú infantil o actividades para niños.",
+              "Utilizar palabras clave especificadas para mejorar la conexión con la consulta del usuario."
+            ]
+          },
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T17:48:15.209Z",
+      "duration": 3936
+    },
+    {
+      "personaId": "international_tourist",
+      "personaName": "James British",
+      "language": "en",
+      "description": "British tourist visiting Spain for the first time",
+      "startTime": "2025-08-08T17:48:20.221Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hi RECO! I’ve just arrived in Madrid—could you recommend a cosy, authentic tapas bar near the city centre that’s friendly to English speakers?",
+          "sentAt": "2025-08-08T17:48:22.466Z",
+          "response": "Error processing message",
+          "receivedAt": "2025-08-08T17:48:25.068Z",
+          "responseTime": 2602,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": false,
+            "relevanceScore": 1,
+            "containsExpectedKeywords": false,
+            "responseQuality": "no_response",
+            "recommendationCount": 0,
+            "errors": [
+              "No restaurant recommendation provided",
+              "Not in the expected language (English)",
+              "Generic error message given instead of helpful information",
+              "Does not address the user's question"
+            ],
+            "strengths": [],
+            "suggestions": [
+              "Provide at least one specific tapas bar recommendation near Madrid city centre",
+              "Ensure the response is in English",
+              "Mention features relevant to an English-speaking tourist (e.g., English menus, friendly staff)",
+              "Address the user's request for a cosy and authentic atmosphere"
+            ]
+          },
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T17:48:25.068Z",
+      "duration": 4847
+    },
+    {
+      "personaId": "foodie_adventurous",
+      "personaName": "Diego Gourmet",
+      "language": "es",
+      "description": "Foodie aventurero que busca experiencias gastronómicas únicas",
+      "startTime": "2025-08-08T17:48:30.071Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, busco una experiencia de alta cocina con enfoque en técnicas innovadoras (cocina molecular, fermentos, maduraciones en seco); ¿qué restaurantes recomendarías en mi ciudad para un menú degustación con maridaje creativo?",
+          "sentAt": "2025-08-08T17:48:33.073Z",
+          "response": "Error processing message",
+          "receivedAt": "2025-08-08T17:48:35.470Z",
+          "responseTime": 2397,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": false,
+            "relevanceScore": 1,
+            "containsExpectedKeywords": false,
+            "responseQuality": "no_response",
+            "recommendationCount": 0,
+            "errors": [
+              "No se proporcionó ninguna recomendación de restaurante.",
+              "La respuesta no está en español.",
+              "No se usaron palabras clave relacionadas con la gastronomía solicitada.",
+              "La respuesta no responde a la pregunta ni orienta al usuario."
+            ],
+            "strengths": [],
+            "suggestions": [
+              "Generar una respuesta relevante en español que incluya al menos dos recomendaciones de restaurantes de alta cocina en Madrid, especializadas en cocina innovadora.",
+              "Incluir palabras clave relacionadas con la consulta del usuario para mostrarse como un experto en gastronomía.",
+              "Responder en un tono acogedor, alineado con el perfil foodie y aventurero del usuario.",
+              "Asegurarse de que la respuesta invite al usuario a seguir interactuando con el chatbot."
+            ]
+          },
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T17:48:35.470Z",
+      "duration": 5399
+    }
+  ],
+  "analysisResults": {
+    "health_conscious": {
+      "overallScore": 1,
+      "responseRate": 100,
+      "recommendationRate": 0,
+      "languageConsistency": 0,
+      "keywordRelevance": 0,
+      "averageRelevance": 1,
+      "qualityDistribution": {
+        "excellent": 0,
+        "good": 0,
+        "fair": 0,
+        "poor": 0,
+        "no_response": 1,
+        "analysis_error": 0
+      },
+      "totalQuestions": 1,
+      "totalResponses": 1,
+      "totalRecommendations": 0
+    },
+    "budget_conscious": {
+      "overallScore": 1,
+      "responseRate": 100,
+      "recommendationRate": 0,
+      "languageConsistency": 0,
+      "keywordRelevance": 0,
+      "averageRelevance": 1,
+      "qualityDistribution": {
+        "excellent": 0,
+        "good": 0,
+        "fair": 0,
+        "poor": 0,
+        "no_response": 1,
+        "analysis_error": 0
+      },
+      "totalQuestions": 1,
+      "totalResponses": 1,
+      "totalRecommendations": 0
+    },
+    "family_kids": {
+      "overallScore": 1,
+      "responseRate": 100,
+      "recommendationRate": 0,
+      "languageConsistency": 0,
+      "keywordRelevance": 0,
+      "averageRelevance": 1,
+      "qualityDistribution": {
+        "excellent": 0,
+        "good": 0,
+        "fair": 0,
+        "poor": 0,
+        "no_response": 1,
+        "analysis_error": 0
+      },
+      "totalQuestions": 1,
+      "totalResponses": 1,
+      "totalRecommendations": 0
+    },
+    "international_tourist": {
+      "overallScore": 1,
+      "responseRate": 100,
+      "recommendationRate": 0,
+      "languageConsistency": 0,
+      "keywordRelevance": 0,
+      "averageRelevance": 1,
+      "qualityDistribution": {
+        "excellent": 0,
+        "good": 0,
+        "fair": 0,
+        "poor": 0,
+        "no_response": 1,
+        "analysis_error": 0
+      },
+      "totalQuestions": 1,
+      "totalResponses": 1,
+      "totalRecommendations": 0
+    },
+    "foodie_adventurous": {
+      "overallScore": 1,
+      "responseRate": 100,
+      "recommendationRate": 0,
+      "languageConsistency": 0,
+      "keywordRelevance": 0,
+      "averageRelevance": 1,
+      "qualityDistribution": {
+        "excellent": 0,
+        "good": 0,
+        "fair": 0,
+        "poor": 0,
+        "no_response": 1,
+        "analysis_error": 0
+      },
+      "totalQuestions": 1,
+      "totalResponses": 1,
+      "totalRecommendations": 0
+    }
+  },
+  "finalReport": "MENSAJE FINAL - REPORTE DE PRUEBA RECO BOT\n\n📈 MÉTRICAS GENERALES:\n- Total de preguntas: 5\n- Respuestas recibidas: 5/5\n- Tiempo promedio de respuesta: 2.66 segundos\n- Tasa de éxito: 100.0%\n\n🎯 PRECISIÓN DE RECOMENDACIONES (por persona):\n1. María Fitness: 1.0/5 ⭐☆☆☆☆\n   📍 Respuestas: 100.0% | Recomendaciones: 0.0% | Idioma: 0.0%\n2. Carlos Estudiante: 1.0/5 ⭐☆☆☆☆\n   📍 Respuestas: 100.0% | Recomendaciones: 0.0% | Idioma: 0.0%\n3. Ana Familia: 1.0/5 ⭐☆☆☆☆\n   📍 Respuestas: 100.0% | Recomendaciones: 0.0% | Idioma: 0.0%\n4. James British: 1.0/5 ⭐☆☆☆☆\n   📍 Respuestas: 100.0% | Recomendaciones: 0.0% | Idioma: 0.0%\n5. Diego Gourmet: 1.0/5 ⭐☆☆☆☆\n   📍 Respuestas: 100.0% | Recomendaciones: 0.0% | Idioma: 0.0%\n\n🗣️ CALIDAD DE LENGUAJE:\n- Consistencia en español: 0.0%\n- Consistencia en inglés: 0.0%\n- Errores gramaticales detectados: 0\n- Tono apropiado: ⚠️ Necesita mejora\n\n⚠️ MANEJO DE CASOS LÍMITE:\n- Preguntas ambiguas: 0/0 manejadas correctamente\n- Solicitudes especiales: 0/1 atendidas\n- Errores recuperados: 0\n\n🔄 FLUJO DE EXPERIENCIA:\n- Claridad en respuestas: 1.0/5\n- Facilidad de uso: 1/5\n- Información completa: 0/5\n- Sugerencias adicionales: 5/5\n\n💡 RECOMENDACIONES:\n• Mejorar la precisión y relevancia de las recomendaciones\n• Incluir más recomendaciones específicas en las respuestas\n• Mejorar la consistencia del idioma según la consulta del usuario\n• Personalizar más las respuestas según el tipo de usuario\n• Mejorar respuestas sobre opciones saludables y dietéticas\n• Incluir más información sobre precios y ofertas económicas\n• Agregar más opciones familiares y servicios para niños\n• Expandir conocimiento sobre gastronomía gourmet y experiencias únicas\n\n📊 RESUMEN EJECUTIVO:\n\nEl bot RECO obtuvo una calificación general de C- (1.0/5.0).\nNivel de rendimiento: DEFICIENTE\nTasa de éxito: 100.0% de respuestas recibidas\n0 recomendaciones específicas proporcionadas\nTiempo promedio de respuesta: 2.7 segundos\n\nRendimiento bajo. Se necesita revisión integral del sistema.",
+  "summary": {
+    "averageScore": 1,
+    "averageResponseRate": 100,
+    "personasAnalyzed": 5,
+    "overallGrade": "D"
+  }
+}

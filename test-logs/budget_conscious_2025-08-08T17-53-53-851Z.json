@@ -1,0 +1,23 @@
+{
+  "personaId": "budget_conscious",
+  "personaName": "Carlos Estudiante",
+  "language": "es",
+  "description": "Estudiante universitario con presupuesto limitado",
+  "startTime": "2025-08-08T17:53:49.127Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola RECO, ¿dónde puedo comer bien y barato hoy cerca del centro? ¿Algún menú del día por menos de 10€ o descuento de estudiante?",
+      "sentAt": "2025-08-08T17:53:51.524Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:53:53.850Z",
+      "responseTime": 2326,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T17:53:53.851Z",
+  "duration": 4724
+}

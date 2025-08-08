@@ -1,0 +1,163 @@
+{
+  "personaId": "international_tourist",
+  "personaName": "James British",
+  "language": "en",
+  "description": "British tourist visiting Spain for the first time",
+  "startTime": "2025-08-08T17:29:46.881Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hi, I'm looking for authentic Spanish restaurants for tourists",
+      "sentAt": "2025-08-08T17:29:48.455Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:29:50.780Z",
+      "responseTime": 2325,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Hi RECO! I’ve just arrived in Madrid—could you suggest a couple of authentic tapas bars near the city centre that are friendly to tourists and have an English menu?",
+      "sentAt": "2025-08-08T17:29:52.868Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:29:55.380Z",
+      "responseTime": 2512,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "That sounds great—do either of those tapas bars take reservations, and roughly what time should I arrive to avoid long waits?",
+      "sentAt": "2025-08-08T17:29:58.494Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:30:00.907Z",
+      "responseTime": 2413,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "Brilliant—do they each have a must-order house specialty tapas you’d recommend for a first-timer?",
+      "sentAt": "2025-08-08T17:30:06.275Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:30:08.810Z",
+      "responseTime": 2535,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "Thanks! Do either spot offer a good paella option nearby if I fancy that after tapas, or should I go elsewhere for a proper paella?",
+      "sentAt": "2025-08-08T17:30:12.398Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:30:14.893Z",
+      "responseTime": 2495,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "If I go for paella elsewhere, could you recommend a reliable spot in Madrid that does it properly at lunchtime with an English menu?",
+      "sentAt": "2025-08-08T17:30:18.394Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:30:21.492Z",
+      "responseTime": 3098,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "Great—do I need to book ahead for that paella spot, and what time do they usually start serving the lunchtime paella?",
+      "sentAt": "2025-08-08T17:30:25.244Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:30:27.670Z",
+      "responseTime": 2426,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "Perfect—what’s the price range for the paella there, and do they offer a menu del día that includes it?",
+      "sentAt": "2025-08-08T17:30:30.118Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:30:32.578Z",
+      "responseTime": 2460,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "Sounds ideal—do they accommodate solo diners for paella, or is it strictly for two or more?",
+      "sentAt": "2025-08-08T17:30:35.451Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:30:37.948Z",
+      "responseTime": 2497,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "Brilliant—do they offer any non-seafood paella (like Valencian or mixed) for a bit of variety?",
+      "sentAt": "2025-08-08T17:30:41.810Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:30:44.343Z",
+      "responseTime": 2533,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "Great—do they also serve fideuà or any rice specials on weekends, and if so, which one would you pick?",
+      "sentAt": "2025-08-08T17:30:46.987Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:30:49.508Z",
+      "responseTime": 2521,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "Thanks—are those rice dishes cooked to order, and roughly how long should I expect to wait once I sit down?",
+      "sentAt": "2025-08-08T17:30:51.863Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:30:54.199Z",
+      "responseTime": 2336,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "Lovely—do they offer half-portions or a smaller rice option if I’m not too hungry?",
+      "sentAt": "2025-08-08T17:30:57.218Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:30:59.856Z",
+      "responseTime": 2638,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "Sounds good—do they have an English drinks list, and which Spanish wines or vermouth would pair best with the paella?",
+      "sentAt": "2025-08-08T17:31:03.318Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:31:05.731Z",
+      "responseTime": 2413,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "Brilliant—could you share the exact address and nearest metro stop for that paella spot, and whether they’re open on Sundays?",
+      "sentAt": "2025-08-08T17:31:08.669Z",
+      "response": "Error processing message",
+      "receivedAt": "2025-08-08T17:31:11.048Z",
+      "responseTime": 2379,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T17:31:11.048Z",
+  "duration": 84167
+}
