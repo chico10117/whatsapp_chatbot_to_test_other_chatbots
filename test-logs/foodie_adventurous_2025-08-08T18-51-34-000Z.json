@@ -1,0 +1,163 @@
+{
+  "personaId": "foodie_adventurous",
+  "personaName": "Diego Gourmet",
+  "language": "es",
+  "description": "Foodie aventurero que busca experiencias gastronómicas únicas",
+  "startTime": "2025-08-08T18:41:49.547Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola RECO, busco una experiencia de alta cocina con toques de cocina molecular y maridaje creativo; ¿qué restaurantes en mi ciudad destacan por menús degustación innovadores y uso de ingredientes exóticos?",
+      "sentAt": "2025-08-08T18:41:51.417Z",
+      "response": "¡Planazo foodie! En Madrid, alta cocina con toques moleculares y maridajes creativos:\n\n*DSTAgE: ⭐️ 4.7*\n• Fine dining de autor, técnicas vanguardistas y producto exótico\n• €160–250 pp (menú + maridaje)\n• https://www.google.com/maps/place/?q=place_id:ChIJM_4eFY8oQg0R3wcnD3nYubk\n\n*Coque: ⭐️ 4.8*\n• Experiencia por estancias, cocina técnica y maridaje top\n• €200–350 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJoRkIVamMQQ0RlLGpgzeAxzA\n\n*Restaurante Omeraki. By Alberto Chicote.: ⭐️ 4.6*\n• Creatividad, guiños moleculares y producto global\n• €120–200 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJiVihijApQg0RiZyfNOjVSUE\n\n*Restaurante Clos: ⭐️ 4.6*\n• Degustación técnica, maridajes cuidados mediterráneos\n• €120–190 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJF6dzp_koQg0R62gcjySme7g\n\n*Restaurante Gaytán: ⭐️ 4.6*\n• Cocina de autor con juego técnico y menú degustación\n• €120–190 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJd6M8r94oQg0RwUOiAobTPIo\n\n¿Prefieres terraza tranquila o sala con mesa vista a cocina? Puedo sugerir el mejor horario y maridaje.",
+      "receivedAt": "2025-08-08T18:42:22.749Z",
+      "responseTime": 31332,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Me seduce la cocina en directo; ¿en cuál de estos la mesa vista a cocina ofrece más interacción con el pase y opción de maridaje experimental (maceraciones, sakes, orange wines)?",
+      "sentAt": "2025-08-08T18:42:25.887Z",
+      "response": "Tu RECO aquí. Para show de cocina + maridaje experimental:\n\n- DSTAgE: chef’s counter muy interactivo; maridaje con sakes/naranjos.\n- Coque: recorrido por bodegas/bar + pase activo; maridaje creativo.\n- Gaytán: mesa frente a cocina vista fuego; maridaje curioso.\n\n¿Te reservo textos?",
+      "receivedAt": "2025-08-08T18:42:51.716Z",
+      "responseTime": 25829,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "Perfecto; ¿qué horario recomienda para el chef’s counter de DSTAgE para ver el pase en pleno apogeo y qué incluye su maridaje experimental últimamente?",
+      "sentAt": "2025-08-08T18:42:54.871Z",
+      "response": "Tu RECO aquí. Para el chef’s counter de DSTAgE:\n\n- Mejor horario\n• Almuerzo: 13:30 (entras con la primera tanda y ves el pase arrancar y coger ritmo).\n• Cena: 20:30 (inicio de servicio y máximo movimiento 21:00–22:00).\n\n- Maridaje experimental\n• Suelen incluir sakes, orange wines y maceraciones especiales. Detalles cambian por temporada; conviene pedir “maridaje experimental” al reservar.\n\n- Texto para WhatsApp\n• Hola, ¿hay chef’s counter el [día]? Preferimos 13:30/20:30 para ver el pase. ¿Disponibilidad con maridaje experimental (sakes, orange wines, maceraciones)? 2 personas. Gracias.",
+      "receivedAt": "2025-08-08T18:43:54.739Z",
+      "responseTime": 59868,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "Genial; si no hubiera sitio en el chef’s counter de DSTAgE, ¿qué alternativa entre Coque o Gaytán ofrece la experiencia más inmersiva con maridaje igual de atrevido?",
+      "sentAt": "2025-08-08T18:43:58.168Z",
+      "response": "Tu RECO al habla. Si falla el counter de DSTAgE:\n\n- Coque: ⭐️ 4.8\n• Experiencia más inmersiva (recorrido bodega–cocina–sala), mucho contacto con el pase.\n• Maridaje muy atrevido: jereces, sakes, maceraciones, vinificaciones raras.\n\n- Gaytán: ⭐️ 4.6\n• Cocina vista en anfiteatro, fuego y pase a la vista.\n• Maridaje creativo, algo menos experimental que Coque.\n\n¿Te paso texto para pedir mesa frente a cocina y maridaje “sin miedo”?",
+      "receivedAt": "2025-08-08T18:44:16.778Z",
+      "responseTime": 18610,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "Sí, pásame el texto ideal para Coque pidiendo recorrido completo, mesa pegada al pase y maridaje “sin miedo”, para 2 a las 20:30.",
+      "sentAt": "2025-08-08T18:44:20.094Z",
+      "response": "• Hola, ¿podrían reservar para 2 el [fecha] a las 20:30 con recorrido completo (bodega–cocina–sala)? \n• Preferimos mesa pegada al pase/cocina. \n• Maridaje “sin miedo” (sakes, orange wines, maceraciones). \n• Nombre: [tu nombre]. \n• Gracias.",
+      "receivedAt": "2025-08-08T18:44:39.488Z",
+      "responseTime": 19394,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "¿Entre Coque y DSTAgE, algún plato icónico reciente donde brillen técnicas moleculares (fermentos, gelificaciones, esferificaciones) que no debería perderme?",
+      "sentAt": "2025-08-08T18:44:42.912Z",
+      "response": "Tu RECO aquí. Destacados recientes:\n- DSTAgE: esferas de aceituna/ajoblanco, gel de yuzu con mar y fermentos de temporada.\n- Coque: esferificación de uva/jerez, “gazpacho” clarificado con geles, kombuchas y koji en fondos.\nConfirma en sala, cambia por temporada.",
+      "receivedAt": "2025-08-08T18:45:03.866Z",
+      "responseTime": 20954,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "¿Podrías sugerirme el mejor maridaje para esas esferas (aceituna/ajoblanco en DSTAgE y uva/jerez en Coque): sake específico, jerez o naranja que realce acidez y umami sin eclipsar la textura?",
+      "sentAt": "2025-08-08T18:45:06.746Z",
+      "response": "Tu RECO sugiere:\n\n- DSTAgE (aceituna/ajoblanco):\n• Sake Junmai Ginjo seco (umami limpio) o Manzanilla Pasada (salina, tensa).\n• Orange wine ligero de maceración corta (moscatel seco).\n\n- Coque (uva/jerez):\n• Fino en rama o Amontillado joven.\n• Sake Kimoto seco.",
+      "receivedAt": "2025-08-08T18:45:37.217Z",
+      "responseTime": 30471,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "Excelente; ¿alguna etiqueta concreta que suelan manejar (bodega y añada) para esa Manzanilla Pasada o un Junmai Ginjo con perfil cítrico y final seco que pueda pedir tal cual en sala?",
+      "sentAt": "2025-08-08T18:45:42.508Z",
+      "response": "Tu RECO al habla. Etiquetas concretas (suelen aparecer en cartas de alta cocina en Madrid; confirma disponibilidad):\n\n- Manzanilla Pasada\n• Equipo Navazos “La Bota de Manzanilla Pasada” (ed. 90s/100s, saca reciente). Perfil salino, tenso, final seco.\n• Ramiro Ibáñez “Manzanilla Pasada de Sanlúcar” (Cota 45, saca reciente). Salinidad + umami sutil.\n\n- Junmai Ginjo cítrico y seco\n• Dassai 45 Junmai Daiginjo (limón/pera, final limpio y seco).\n• Dewazakura “Oka” Junmai Ginjo (floral-cítrico, seco medio).\n• Tedorigawa “Iki na Onna” Junmai Ginjo (cítrico suave, final seco).\n• Nanbu Bijin Junmai Ginjo (manzana verde/cítricos, seco y nítido).\n\nTip para pedir: “¿Tienen Manzanilla Pasada tipo La Bota o Cota 45? Si no, un Fino en rama. En sake, un Junmai Ginjo seco de corte cítrico (Dewazakura/Tedorigawa/Nanbu Bijin), por favor.”",
+      "receivedAt": "2025-08-08T18:46:22.629Z",
+      "responseTime": 40121,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "Perfecto, ¿sabes si en Coque o DSTAgE suelen trabajar ahora mismo con La Bota de Manzanilla Pasada o Cota 45, y si no, qué fino en rama equivalente tienen por copas para arrancar el pase?",
+      "sentAt": "2025-08-08T18:46:26.425Z",
+      "response": "Tu RECO: no tengo confirmación actual de La Bota/Cota 45 en Coque o DSTAgE. Pide por copas:\n- Fino en rama: Tío Pepe en Rama, Barbadillo “Solear en Rama” o Valdespino “Inocente” saca reciente.\nFrase útil: “¿Fino en rama por copas para iniciar?”",
+      "receivedAt": "2025-08-08T18:47:36.525Z",
+      "responseTime": 70100,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "Perfecto; si abren con Fino en rama por copas, ¿qué bocado de apertura recomiendas emparejar (salazones, encurtidos, ostra) para potenciar salinidad y umami sin saturar el paladar?",
+      "sentAt": "2025-08-08T18:47:40.698Z",
+      "response": "Your foodie friend here!\n\n- Mejor bocado con Fino en rama:\n• Ostra natural con limón mínimo\n• Boquerón/anchova en salazón suave\n• Encurtidos finos (piparra, cebolleta)\n• Almendra marcona tostada ligera\n\n- Tip: 1–2 mordiscos máx.; pide “fino bien frío” para realzar salinidad y umami.",
+      "receivedAt": "2025-08-08T18:48:22.220Z",
+      "responseTime": 41522,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "Perfecto, ¿alguna barra cruda en Madrid donde trabajen ostras con aderezos minimalistas (ponzu cítrico, granizado de manzanilla, emulsión de yuzu) y opción de fino en rama por copas?",
+      "sentAt": "2025-08-08T18:48:25.680Z",
+      "response": "Tu RECO al habla. Barras crudas con ostras y aderezos minimalistas + fino en rama por copas:\n\n- Restaurante Rafa | Restaurante Marisquería: ⭐️\n• Marisquería clásica con barra; suelen tener aderezos suaves y finos/jereces\n• Medio–alto\n• https://www.google.com/maps/place/?q=place_id:ChIJS-YrBrApQg0RNfoRNnjnTno\n\n- Mercado de la Paz (puestos gourmet): ⭐️\n• Ostras Daniel Sorlut; a veces ponzu/cítricos y copa de Jerez cercana\n• Medio\n• https://www.google.com/maps/place/?q=place_id:ChIJ7fF3jpYoQg0RcfOxYBExJrY\n\n- Ostras Daniel Sorlut (Canalejas/Gourmet): ⭐️\n• Ostras premium; aderezos cítricos y posibilidad de Jerez en barra vecina\n• Medio–alto\n• https://www.google.com/maps/place/?q=place_id:ChIJdVrXlUMpQg0RcpzQKeLj-2g\n\n¿Prefieres barra animada o mesa tranquila? Puedo sugerir qué pedir y frases exactas para solicitar ponzu/yuzu y fino en rama.",
+      "receivedAt": "2025-08-08T18:49:21.123Z",
+      "responseTime": 55443,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "Barra animada siempre; ¿cuál de esas barras sirve la ostra con ponzu o yuzu mejor ejecutado y garantiza fino en rama por copas, y qué hora recomiendas para coger sitio sin agobios?",
+      "sentAt": "2025-08-08T18:49:25.576Z",
+      "response": "Tu RECO aquí:\n\n- Ostras Daniel Sorlut (Canalejas)\n• Mejor ejecución de ponzu/yuzu; cortes perfectos\n• Fino en rama fácil en barras vecinas del food hall\n• Hora: 19:00–19:30 para sitio y buen ritmo\n\n- Rafa (barra)\n• Aderezos clásicos finos; ponzu a petición\n• Suelen tener Jerez por copas (pide fino en rama)\n• Hora: 13:15 o 20:00 en punto para hueco\n\nFrase útil: “Ostra con ponzu/yuzu muy ligero y un fino en rama bien frío, por favor.”",
+      "receivedAt": "2025-08-08T18:50:01.847Z",
+      "responseTime": 36271,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "Perfecto, voy a Canalejas; ¿alguna recomendación de 2–3 bocados adicionales en esas barras que dialoguen con el fino en rama (erizo, tartar de pescado blanco, navajas a la plancha) para montar un mini menú salino-umami?",
+      "sentAt": "2025-08-08T18:50:05.450Z",
+      "response": "Your foodie friend here! Mini menú salino-umami con fino en rama en Canalejas:\n- Ostra con ponzu/yuzu ligero\n- Navajas a la plancha con limón y perejil\n- Tartar de lubina con cítrico y aceite suave\n- Erizo (si hay), natural o con manzanilla\nTip: pide fino bien frío y repón por media copa.",
+      "receivedAt": "2025-08-08T18:50:29.791Z",
+      "responseTime": 24341,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "Suena redondo; ¿alguna barra en Canalejas que haga un tartar de lubina con corte de cuchillo y aderezo cítrico minimalista, y qué fino en rama por copas suelen tener allí para acompañarlo?",
+      "sentAt": "2025-08-08T18:50:33.748Z",
+      "response": "Tu RECO aquí:\n\n- Tartar de lubina (corte a cuchillo, cítrico mínimo)\n• Sorlut Canalejas o barra de pescados del Food Hall (pregunta por “tartar de lubina, corte a cuchillo y aderezo de cítricos suave”).\n• Hora ideal: 19:00–19:30.\n\n- Fino en rama por copas habitual en el hall\n• Tío Pepe en Rama o Solear en Rama (según barra).\n• Pide: “fino en rama bien frío para maridar el tartar, por favor.” ¿Te paso texto listo para WhatsApp del centro?",
+      "receivedAt": "2025-08-08T18:51:09.686Z",
+      "responseTime": 35938,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "Sí, pásame el texto para WhatsApp, y añade que buscamos tartar de lubina a cuchillo, ostra con ponzu ligero y fino en rama bien frío a las 19:15.",
+      "sentAt": "2025-08-08T18:51:14.105Z",
+      "response": "• Hola, ¿tienen hoy a las 19:15 barra con hueco? Buscamos tartar de lubina cortado a cuchillo y ostra con ponzu ligero. ¿Sirven fino en rama por copas bien frío? Reserva a nombre de [tu nombre], 2 personas. ¡Gracias!",
+      "receivedAt": "2025-08-08T18:51:34.000Z",
+      "responseTime": 19895,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T18:51:34.000Z",
+  "duration": 584453
+}

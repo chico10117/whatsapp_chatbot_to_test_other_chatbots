@@ -1,0 +1,163 @@
+{
+  "personaId": "international_tourist",
+  "personaName": "James British",
+  "language": "en",
+  "description": "British tourist visiting Spain for the first time",
+  "startTime": "2025-08-08T18:34:10.221Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hi RECO! I’ve just arrived in Madrid—where can I find a cosy, authentic tapas bar with an English-friendly menu to ease me in tonight?",
+      "sentAt": "2025-08-08T18:34:12.376Z",
+      "response": "Love it—welcome to Madrid! A few cosy, authentic tapas spots with English-friendly service tonight:\n\n- Taberna El Sur: ⭐️ 4.6\n• Classic Spanish tapas; friendly, tourist-savvy staff\n• €15–25 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJiTGJRSomQg0RTD1MZa1RTnE\n\n- Casa Labra: ⭐️ 4.4\n• Historic tavern; cod croquettes, simple English help\n• €12–20 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJ3aNabn4oQg0RUZW-XLWz1e8\n\n- Bodega de la Ardosa: ⭐️ 4.5\n• Old-school bodega; vermouth and tapas, some English\n• €15–25 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJ8xKGEogoQg0REcIj5XURiIU\n\nFancy terrace or prefer a quieter corner inside?",
+      "receivedAt": "2025-08-08T18:34:42.724Z",
+      "responseTime": 30348,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "These sound spot on—between Taberna El Sur and Bodega de la Ardosa, which is better for a first-timer to try classic tapas like tortilla and patatas bravas without too much crowd?",
+      "sentAt": "2025-08-08T18:34:45.538Z",
+      "response": "Your foodie friend here! For a first-timer seeking classics with less crowd:\n\n- Taberna El Sur: slightly easier for English, friendlier seating, good tortilla/bravas. Go early (~7–7:30 pm).\n- Bodega de la Ardosa: fantastic tortilla, but tighter, busier. Best right at opening.\n\nWant a quieter terrace nearby?",
+      "receivedAt": "2025-08-08T18:35:03.042Z",
+      "responseTime": 17504,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "Yes please—any quieter terraces near Taberna El Sur with solid tapas and an English-friendly menu?",
+      "sentAt": "2025-08-08T18:35:08.483Z",
+      "response": "Your foodie friend here! Quieter terraces near Taberna El Sur with solid tapas and English-friendly menus:\n\n- Mas Al Sur: ⭐️ 4.5\n• Mediterranean/Spanish; spacious terrace, staff used to English\n• €18–28 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJb--hcSkmQg0RQJurZ9RM3dY\n\n- Taberna el Sur de Huertas: ⭐️ 4.5\n• Sister spot; relaxed vibe, simple English menu\n• €15–25 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJw4AzoxEpQg0RpH4c2aQolns\n\nFancy I book you early terrace seating tips and what to order (tortilla, bravas, grilled chicken/pasta for kids)?",
+      "receivedAt": "2025-08-08T18:36:06.862Z",
+      "responseTime": 58379,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "That’d be great—could you give me the best time to snag a terrace table and what to order first at Mas Al Sur, plus a kid-friendly backup dish?",
+      "sentAt": "2025-08-08T18:36:12.797Z",
+      "response": "Your foodie friend here!\n\n- Best time: arrive 7:00–7:20 pm for terrace without a wait.\n- Order first: tortilla, patatas bravas, gambas al ajillo, croquetas.\n- Kid-friendly backup: grilled chicken with fries or simple pasta pomodoro.\nWant wine tips?",
+      "receivedAt": "2025-08-08T18:36:31.816Z",
+      "responseTime": 19019,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "Yes please—what’s a good local white and a smooth red by the glass at Mas Al Sur, and roughly how much are they?",
+      "sentAt": "2025-08-08T18:36:35.460Z",
+      "response": "Your gastronomic recommendations assistant here!\n\n- Local white: Albariño (Rías Baixas) or Verdejo (Rueda) by the glass; crisp, citrusy. ~€3.5–5.5.\n- Smooth red: Rioja Crianza or Ribera del Duero joven; soft tannins. ~€4–6.\n- Tip: ask for “copa fría de Albariño” to start, then Rioja with heartier tapas.",
+      "receivedAt": "2025-08-08T18:36:56.782Z",
+      "responseTime": 21322,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "Brilliant—do I need a reservation at Mas Al Sur for 7–7:20 pm on a Friday, or is walk-in fine for the terrace?",
+      "sentAt": "2025-08-08T18:36:59.830Z",
+      "response": "Your foodie friend here!\n\n- For Friday 7:00–7:20 pm: walk-in usually fine for terrace if you’re 2–3 ppl.\n- For 4+ or stroller: recommend booking.\n- Tip: arrive 5–10 min early and ask “mesa en terraza, por favor.”\n\nWant a quick WhatsApp text to reserve just in case?",
+      "receivedAt": "2025-08-08T18:37:24.685Z",
+      "responseTime": 24855,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "Yes, please—could you draft a quick WhatsApp message in Spanish for a terrace table at 7:10 pm for two tonight at Mas Al Sur?",
+      "sentAt": "2025-08-08T18:37:29.660Z",
+      "response": "• Hola, ¿podrían reservarnos hoy a las 19:10 una mesa en terraza para 2 personas?  \n• Si es posible, zona tranquila.  \n• Nombre: [tu nombre].  \n• Gracias.",
+      "receivedAt": "2025-08-08T18:37:46.756Z",
+      "responseTime": 17096,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "Perfect—any must-try dessert nearby after Mas Al Sur, something classic like flan or churros, with an English menu?",
+      "sentAt": "2025-08-08T18:37:49.825Z",
+      "response": "Your foodie friend here! Sweet, classic desserts near Mas Al Sur with English-friendly menus:\n\n- Chocolatería San Ginés: ⭐️ 4.4\n• Iconic churros con chocolate, English menu\n• €5–8 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJk2y3YI0oQg0R6b2j5c7U1H4\n\n- La Rollerie (Huertas): ⭐️ 4.2\n• Flan, cheesecake, churros; staff used to English\n• €6–10 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJrbk1IhMpQg0R9N1iWbXqR1w\n\n- Casa Mira (C. Mayor): ⭐️ 4.5\n• Traditional sweets; ask for flan/tocino de cielo nearby recs\n• €4–8 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJN-1C9HEoQg0R2bLw5zYxFX8\n\nWant me to tailor by creamy flan vs. crispy churros preference?",
+      "receivedAt": "2025-08-08T18:38:15.112Z",
+      "responseTime": 25287,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "I’m leaning churros—between San Ginés and La Rollerie, which has a shorter wait around 9 pm on a Friday, and how late are they open?",
+      "sentAt": "2025-08-08T18:38:18.394Z",
+      "response": "Your foodie friend here!\n\n- Wait at 9 pm Friday:\n• La Rollerie usually shorter; San Ginés often queues (touristy peak).\n- Hours (typical):\n• San Ginés: very late (often till 1–6 am, varies).\n• La Rollerie: usually till ~11:30 pm–12 am.\n\nTip: For San Ginés, join the line, order “churros + chocolate” first, then grab a terrace table if free.",
+      "receivedAt": "2025-08-08T18:38:51.681Z",
+      "responseTime": 33287,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "Great tip—if the queue at San Ginés looks mad, is there a nearby lesser-known churrería with decent chocolate and some English help?",
+      "sentAt": "2025-08-08T18:38:55.558Z",
+      "response": "Your foodie friend here! Near San Ginés, lower-key churros with decent chocolate and some English help:\n\n- Maestro Churrero: ⭐️\n• Coffee shop/bakery; churros y porras, personal amables\n• https://www.google.com/maps/place/?q=place_id:ChIJb8IG3n8oQg0RfbR4UQINMzs\n\n- Chocolat Madrid: ⭐️\n• Chocolate shop/cafetería; chocolate espeso, trato cercano\n• https://www.google.com/maps/place/?q=place_id:ChIJuZPf4ikmQg0RamNqvGvOaCs\n\n- Churrería Chocolatería 1902: ⭐️\n• Dessert shop; clásica, a dos pasos de Sol\n• https://www.google.com/maps/place/?q=place_id:ChIJRzj5oH4oQg0RvAZf-4A3UXU\n\nGo around 9–9:30 pm to dodge lines.",
+      "receivedAt": "2025-08-08T18:39:32.090Z",
+      "responseTime": 36532,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "Brilliant—between Chocolat Madrid and Maestro Churrero, which has the thicker hot chocolate and a quieter vibe around 9:15 pm?",
+      "sentAt": "2025-08-08T18:39:37.043Z",
+      "response": "Your foodie friend here!\n\n- Chocolat Madrid: thicker, richer hot chocolate; cosier, usually quieter around 9:15 pm if you snag an inside table.\n- Maestro Churrero: chocolate a bit lighter; livelier vibe.\n\nTip: At Chocolat, order “churros y chocolate espeso” and sit indoors for calm.",
+      "receivedAt": "2025-08-08T18:39:51.084Z",
+      "responseTime": 14041,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "Lovely—does Chocolat Madrid have an English menu, and roughly what’s the price for churros with chocolate?",
+      "sentAt": "2025-08-08T18:39:54.478Z",
+      "response": "Your foodie friend here!  \n- English menu: usually yes (staff can help in English).  \n- Price: churros + hot chocolate ~€5–7 per person.  \nTip: ask for “chocolate espeso” and pay at counter after ordering.",
+      "receivedAt": "2025-08-08T18:40:18.117Z",
+      "responseTime": 23639,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "Perfect—before I go, any tipping etiquette I should know for tapas bars and churros spots in Madrid?",
+      "sentAt": "2025-08-08T18:40:21.476Z",
+      "response": "Your foodie friend here! Quick tipping tips in Madrid:\n\n- Not mandatory; service is included.\n- Rounding up is common: leave small coins or to the nearest euro.\n- Good sit-down tapas/churros: 5–10% if service was great.\n- Bars/cafés counter service: leave €0.50–€1 per drink/snack.\n- Pay by card? You can tip cash on the table.",
+      "receivedAt": "2025-08-08T18:40:39.748Z",
+      "responseTime": 18272,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "Thanks—that helps a lot! One last thing: any Sunday lunch spot for a proper paella that’s authentic but has an English menu?",
+      "sentAt": "2025-08-08T18:40:42.676Z",
+      "response": "Your foodie friend here! Authentic paella for Sunday lunch with English-friendly menus:\n\n- Casa de Valencia: ⭐️ 4.4\n• Classic Valencian/seafood paellas; old-school, legit rice\n• €25–35 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJb0I0cTAoQg0RrJk8k1fB3j0\n\n- El Caldero (Murcian rice): ⭐️ 4.5\n• Rice in caldero/paella, seafood-forward; English help\n• €22–32 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJ0Vh0xksoQg0R5hI5X7Gm9b8\n\n- St. James (Juan Bravo): ⭐️ 4.5\n• “Arrocería” institution; many rice styles, English menu\n• €28–40 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJn2m2mXooQg0R_9CKaC1r3nI\n\nTips:\n- Book for 13:30–14:00; order paella to share (min 2).\n- Ask for socarrat and 20–25 min cook time.\nWant a terrace vs. indoor recommendation and which rice to pick?",
+      "receivedAt": "2025-08-08T18:41:16.388Z",
+      "responseTime": 33712,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "Yes please—between Casa de Valencia and St. James, which has a nicer Sunday terrace and a standout seafood paella, and should I book for 13:30 or 14:00?",
+      "sentAt": "2025-08-08T18:41:19.353Z",
+      "response": "Your foodie friend here!\n\n- Terrace vibe:\n• Casa de Valencia: classic, leafy terrace with a local feel; great Sunday ambiance.\n• St. James (Juan Bravo): polished, comfy terrace; more upscale.\n\n- Seafood paella:\n• Both are excellent; St. James is ultra-consistent, Casa de Valencia feels more traditional.\n\n- Booking time:\n• Reserve 13:30 for easier terrace seating; 14:00 is peak.\n\n- What to request:\n• Seafood paella for 2, ask for socarrat and “arroz al punto.”\n• House Verdejo by the glass to start.\n\nWant a ready-to-send WhatsApp text to book?",
+      "receivedAt": "2025-08-08T18:41:44.543Z",
+      "responseTime": 25190,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T18:41:44.543Z",
+  "duration": 454322
+}

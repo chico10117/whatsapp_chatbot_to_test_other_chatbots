@@ -1,0 +1,163 @@
+{
+  "personaId": "family_kids",
+  "personaName": "Ana Familia",
+  "language": "es",
+  "description": "Madre de familia con dos niños pequeños",
+  "startTime": "2025-08-08T18:23:49.212Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola RECO, ¿me recomiendas restaurantes en Madrid con zona de juegos segura, tronas y menú infantil para ir con mis peques de 4 y 7 años este fin de semana?",
+      "sentAt": "2025-08-08T18:23:51.029Z",
+      "response": "¡Plan familiar en Madrid! ¿Alguna alergia infantil?\n\n- Casa Emiliana, restaurante con parque infantil\n• Restaurante y eventos; parque infantil y ambiente familiar\n• https://www.google.com/maps/place/?q=place_id:ChIJF6ENTqrSQw0RHeVx0DtAnwE\n\n- Restaurante El Torreón de El Pardo\n• Español/mediterráneo; amplio y familiar, ideal peques\n• https://www.google.com/maps/place/?q=place_id:ChIJNYKBlxqBQQ0R6xLXEgIdbDg\n\n- THE MOON EAT AND FUN\n• Restaurante con zona de juegos/ocio infantil\n• https://www.google.com/maps/place/?q=place_id:ChIJrbBGb2M7Qg0RD0OfSzUrj50\n\n- Restaurante La Burguesita\n• Hamburguesas; playground y ambiente kids-friendly\n• https://www.google.com/maps/place/?q=place_id:ChIJB2UZ0PmPQQ0RqfGNW0kRibg\n\n- Amor al Plato\n• Barbacoa/mediterráneo; playground y eventos\n• https://www.google.com/maps/place/?q=place_id:ChIJjd-FzQkpQg0RO45tCAkrJyM\n\n¿Prefieres terraza, horario de comida o merienda? Puedo pasarte textos para confirmar tronas/menú infantil.",
+      "receivedAt": "2025-08-08T18:24:37.419Z",
+      "responseTime": 46390,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Gracias, suenan bien. ¿Podrías confirmar si en Casa Emiliana y THE MOON tienen tronas, menú infantil con opciones sin frutos secos y zona de juegos cerrada o vigilada?",
+      "sentAt": "2025-08-08T18:24:40.408Z",
+      "response": "Gracias. No puedo confirmar en vivo, pero te dejo textos para WhatsApp:\n\n- Casa Emiliana\n• Hola, ¿tienen tronas, menú infantil sin frutos secos y zona de juegos cerrada/vigilada? ¿Horario y reserva para fin de semana? Gracias.\n\n- THE MOON EAT AND FUN\n• Igual que arriba. ¿Te los envío también en inglés?",
+      "receivedAt": "2025-08-08T18:25:18.561Z",
+      "responseTime": 38153,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "Perfecto, envíalos en español; además, ¿cuál de estos tiene terraza amplia y sombra cerca del área infantil para comer al mediodía?",
+      "sentAt": "2025-08-08T18:25:21.482Z",
+      "response": "¡Listo!\n\n- Mensaje para Casa Emiliana\n• Hola, ¿tienen tronas, menú infantil sin frutos secos y zona de juegos cerrada o vigilada? ¿Hay terraza con sombra cerca del área infantil y reservas para este finde al mediodía? Gracias.\n\n- Mensaje para THE MOON EAT AND FUN\n• Hola, ¿cuentan con tronas, menú infantil sin frutos secos y zona de juegos cerrada/vigilada? ¿Disponen de terraza sombreada junto a la zona infantil y reservas para este finde a mediodía? Gracias.\n\n- Terraza y sombra\n• Casa Emiliana: suele tener terraza amplia y zonas sombreadas cerca del parque infantil.\n• THE MOON: espacio de ocio infantil interno; terraza variable según sede. Confirma con el mensaje. ¿Me cuentas tus gustos para ajustar más sitios?",
+      "receivedAt": "2025-08-08T18:25:45.522Z",
+      "responseTime": 24040,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "Gracias, suena bien; ¿tienes alguna alternativa con zona de juegos exterior y terraza amplia a la sombra por la zona norte de Madrid (tipo Montecarmelo/Las Tablas)?",
+      "sentAt": "2025-08-08T18:25:49.195Z",
+      "response": "¡Planazo por el norte! Opciones family-friendly con terraza; confirma zona de juegos/tronas por WhatsApp:\n\n- Casa Emiliana, restaurante con parque infantil: ⭐️ 4.5\n• Restaurante con parque infantil; ambiente familiar y terraza amplia\n• 15–25€\n• https://www.google.com/maps/place/?q=place_id:ChIJF6ENTqrSQw0RHeVx0DtAnwE\n\n- Restaurante Garden Las Tablas: \n• Restaurante/café con terraza; ambiente tranquilo para familias\n• https://www.google.com/maps/place/?q=place_id:ChIJRV7szPsrQg0RqNuz3DKW4oU\n\n- Saona Las Tablas:\n• Mediterráneo; terrazas amplias y menú kids-friendly\n• https://www.google.com/maps/place/?q=place_id:ChIJQ8ijfNMrQg0RclqBGmXamgA\n\n- Ochenta Grados Las Tablas:\n• Restaurante moderno; terraza agradable, platos en medias raciones\n• https://www.google.com/maps/place/?q=place_id:ChIJaxYp0fYrQg0RS0WRmRf_cZc\n\n- Cuadrilla Montecarmelo:\n• Bar-restaurante con terraza; ambiente vecinal\n• https://www.google.com/maps/place/?q=place_id:ChIJF5dFW0QrQg0RRPRqt-A1iEs\n\n¿Prefieres Montecarmelo o Las Tablas y horario exacto? Pido tronas/menú infantil en tu nombre con un texto listo.",
+      "receivedAt": "2025-08-08T18:27:04.462Z",
+      "responseTime": 75267,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "Gracias, ¿puedes confirmar cuáles de estos en Las Tablas tienen tronas, menú infantil y zona de juegos (mejor exterior) para comer el sábado a las 13:30?",
+      "sentAt": "2025-08-08T18:27:08.953Z",
+      "response": "Soy tu RECO: no puedo confirmar en vivo, pero te dejo textos para pedirlo y reservar sábado 13:30.\n\n- Restaurante Garden Las Tablas\n• Hola, ¿tienen tronas, menú infantil y zona de juegos (ideal exterior)? ¿Hay terraza con sombra? ¿Mesa sábado 13:30 para 2 adultos + 2 peques?\n\n- Saona Las Tablas\n• Hola, ¿cuentan con tronas, menú infantil y área de juegos cercana? ¿Terraza sombreada? ¿Disponibilidad sábado 13:30 para 2 adultos + 2 niños?\n\n- Ochenta Grados Las Tablas\n• Hola, ¿tienen tronas y menú infantil? ¿Alguna zona de juegos cerca o espacio exterior? ¿Mesa sábado 13:30 para 2 adultos + 2 peques?\n\n¿Prefieres que afine según si necesitas zona 100% exterior o interior vista al juego?",
+      "receivedAt": "2025-08-08T18:28:14.149Z",
+      "responseTime": 65196,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "Gracias; prefiero zona de juegos 100% exterior y mesa en terraza con sombra, ¿alguna otra opción en Las Tablas que cumpla eso y tenga tronas y menú infantil?",
+      "sentAt": "2025-08-08T18:28:17.106Z",
+      "response": "¡Perfecto, zona norte y kids felices!\n\n- Las Tablas: ⭐️\n• Restaurante familiar; terraza y ambiente tranquilo\n• Medio\n• https://www.google.com/maps/place/?q=place_id:ChIJ3wmgc8G1w4URnpjN3OQ9a2U\n\n- Saona Las Tablas: ⭐️\n• Mediterráneo; suele tener tronas y menú infantil; terrazas amplias\n• Medio\n• https://www.google.com/maps/place/?q=place_id:ChIJQ8ijfNMrQg0RclqBGmXamgA\n\n- Restaurante Garden Las Tablas: ⭐️\n• Terraza ajardinada; perfil familiar\n• Medio\n• https://www.google.com/maps/place/?q=place_id:ChIJRV7szPsrQg0RqNuz3DKW4oU\n\n- The Fitzgerald Las Tablas: ⭐️\n• Hamburguesería; kids-friendly, terraza\n• Medio\n• https://www.google.com/maps/place/?q=place_id:ChIJq7p2yNMrQg0RrYfwwWqN4k0\n\n- Peggy Sue’s Las Tablas: ⭐️\n• Diner; menú infantil y tronas habituales\n• Medio\n• https://www.google.com/maps/place/?q=place_id:ChIJQ_U1zdMrQg0RnQe7wFQH8xM\n\nTip: escribe para confirmar tronas, menú infantil y “zona de juegos 100% exterior + mesa en terraza con sombra”. ¿Te preparo el texto?",
+      "receivedAt": "2025-08-08T18:28:44.441Z",
+      "responseTime": 27335,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "Sí, prepárame el texto y, si puedes, añade que preferimos zona de juegos visible desde la mesa; ¿cuál de estos suele tener parque exterior propio frente a la terraza?",
+      "sentAt": "2025-08-08T18:28:47.530Z",
+      "response": "¡Hecho! Copia/pega para cada lugar:\n\n- Saona Las Tablas\n• Hola, ¿sábado 13:30 mesa en terraza con sombra? ¿Tienen tronas, menú infantil y zona de juegos 100% exterior visible desde la mesa? Gracias.\n\n- Garden Las Tablas\n• Hola, ¿podemos reservar sábado 13:30 en terraza sombreada? ¿Tronas, menú infantil y parque exterior visible desde la mesa? Gracias.\n\n- The Fitzgerald Las Tablas\n• Hola, ¿sábado 13:30 terraza con sombra? ¿Tronas, menú infantil y zona de juegos exterior visible desde la mesa? Gracias.\n\n- Peggy Sue’s Las Tablas\n• Hola, ¿sábado 13:30 terraza sombreada? ¿Tronas, menú infantil y juegos exteriores visibles desde mesa? Gracias.\n\nParque exterior frente a terraza (orientativo):\n- Garden suele estar junto a zona ajardinada; Saona a veces frente a áreas peatonales. Confirma por WhatsApp. ¿Me cuentas tus gustos para afinar más tu perfil?",
+      "receivedAt": "2025-08-08T18:29:21.270Z",
+      "responseTime": 33740,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "Gracias; ¿entre Garden y Saona, cuál suele tener mejor visibilidad del parque desde la mesa y baños con cambiador cerca de la terraza?",
+      "sentAt": "2025-08-08T18:29:24.231Z",
+      "response": "- Visibilidad del parque:\n• Garden Las Tablas: suele tener mejor vista a zona ajardinada desde terraza.\n• Saona Las Tablas: visibilidad variable según mesa.\n\n- Cambiador cerca:\n• Garden: a menudo más cercano al salón/terraza.\n• Saona: depende de local. Sugiero confirmarlo por WhatsApp.",
+      "receivedAt": "2025-08-08T18:29:56.161Z",
+      "responseTime": 31930,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "Perfecto, me quedo con Garden; ¿puedes sugerirme 2-3 platos aptos para niños y alguna opción ligera para adultos, y confirmar si tienen sillas elevadoras además de tronas?",
+      "sentAt": "2025-08-08T18:29:59.976Z",
+      "response": "¡Buenísimo, Garden Las Tablas!\n\n- Niños:\n• Pasta sencilla con tomate/aceite y queso aparte\n• Pechuga/pescado a la plancha con patatas/verduras\n• Mini hamburguesa o croquetas con ensalada\n\n- Adultos ligeros:\n• Ensalada completa con proteína (pollo/atún/legumbres)\n• Verduras a la plancha o tataki ligero (si ofrecen)\n• Gazpacho/crema del día\n\n- Mensaje para confirmar:\n• Hola, ¿tienen tronas y también sillas elevadoras? ¿Podemos reservar terraza con sombra y vista a la zona de juegos? Gracias.",
+      "receivedAt": "2025-08-08T18:30:27.376Z",
+      "responseTime": 27400,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "Genial, ¿podrías confirmar si en Garden tienen opción de menú infantil con postre sencillo (yogur o fruta) y si el pan puede ser sin frutos secos?",
+      "sentAt": "2025-08-08T18:30:38.013Z",
+      "response": "Soy tu RECO: no puedo confirmar en vivo. Texto para WhatsApp a Garden Las Tablas:\n• Hola, ¿tienen menú infantil con postre sencillo (yogur o fruta)? ¿El pan puede ser sin frutos secos? Reserva terraza con sombra y vista a juegos para 2 adultos + 2 peques, sábado 13:30. Gracias.",
+      "receivedAt": "2025-08-08T18:31:04.322Z",
+      "responseTime": 26309,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "Perfecto, lo envío; si Garden no tuviera mesa a las 13:30, ¿qué alternativa similar en Las Tablas con parque visible y cambiador me recomiendas como plan B?",
+      "sentAt": "2025-08-08T18:31:08.124Z",
+      "response": "¡Plan B en Las Tablas, family-friendly con terraza y parque visible (confirma por WhatsApp):\n\n- Saona Las Tablas: ⭐️ 4.2\n• Mediterráneo; terraza amplia, suele haber tronas y menú infantil\n• 15–22€\n• https://www.google.com/maps/place/?q=place_id:ChIJQ8ijfNMrQg0RclqBGmXamgA\n\n- The Fitzgerald Las Tablas: ⭐️ 4.3\n• Hamburguesería; terraza, perfil kids-friendly\n• 15–20€\n• https://www.google.com/maps/place/?q=place_id:ChIJq7p2yNMrQg0RrYfwwWqN4k0\n\n- Peggy Sue’s Las Tablas: ⭐️ 4.1\n• Diner americano; menú infantil y tronas frecuentes\n• 12–18€\n• https://www.google.com/maps/place/?q=place_id:ChIJQ_U1zdMrQg0RnQe7wFQH8xM\n\n- Cuadrilla Montecarmelo: ⭐️ 4.2\n• Terraza vecinal amplia; buen ambiente familiar\n• 12–20€\n• https://www.google.com/maps/place/?q=place_id:ChIJF5dFW0QrQg0RRPRqt-A1iEs\n\nTexto para confirmar rápido:\n• Hola, ¿mesa sábado 13:30 en terraza con sombra y vista a zona de juegos? ¿Tienen tronas, sillas elevadoras y cambiador? ¿Menú infantil con postre (yogur/fruta)? Gracias.",
+      "receivedAt": "2025-08-08T18:31:39.766Z",
+      "responseTime": 31642,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "Gracias; entre Saona y The Fitzgerald, ¿cuál suele tener la zona de juegos más cercana y visible desde la terraza y baños con cambiador?",
+      "sentAt": "2025-08-08T18:31:43.861Z",
+      "response": "- Visibilidad juegos:\n• Saona Las Tablas: suele tener áreas peatonales/parquecito más a la vista desde algunas mesas.\n• The Fitzgerald: terraza buena, juegos menos cercanos.\n\n- Cambiador:\n• Saona: más probable cercano al salón.\n• Fitzgerald: variable. Mejor confirmar por WhatsApp.",
+      "receivedAt": "2025-08-08T18:32:15.964Z",
+      "responseTime": 32103,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "Perfecto, voy con Saona; ¿me recomiendas qué pedir para los peques (sin frutos secos) y una opción ligera para mí, y añado en el WhatsApp que nos guarden mesa con vista directa al parque?",
+      "sentAt": "2025-08-08T18:32:19.880Z",
+      "response": "¡Plan Saona Las Tablas!\n\n- Peques (sin frutos secos):\n• Pasta al pomodoro/aceite, queso aparte\n• Pechuga/pescado a la plancha con patatas\n• Mini burger sin salsas con ensalada\n\n- Tú (ligero):\n• Ensalada con legumbres o atún\n• Poke/bowl veggie\n\nMensaje WhatsApp:\n• Hola, ¿mesa terraza con sombra y vista directa al parque para 2 adultos + 2 peques sábado 13:30? ¿Menú infantil sin frutos secos y tronas/sillas elevadoras? Gracias. ¿Quieres afinar por gustos para tu perfil?",
+      "receivedAt": "2025-08-08T18:32:46.776Z",
+      "responseTime": 26896,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "Sí, para afinar: a mis peques les gustan pasta y pollo a la plancha, y evitamos frutos secos; ¿alguna mesa tranquila en Saona lejos de humo y con acceso fácil al baño con cambiador?",
+      "sentAt": "2025-08-08T18:32:50.552Z",
+      "response": "¡Perfecto!\n\n- Pedido peques: pasta al pomodoro y pollo a la plancha; sin frutos secos.\n- Mesa sugerida en Saona:\n• Terraza, esquina sombreada con vista al parque\n• Lejos de zona de fumadores\n• Cerca de acceso a baños con cambiador\n- Texto para WhatsApp:\n• Hola, ¿sábado 13:30 mesa en terraza tranquila, esquina sombreada con vista al parque, lejos de humo y cerca del baño con cambiador? 2 adultos + 2 peques. Pasta al pomodoro y pollo a la plancha sin frutos secos. ¿Tronas/sillas elevadoras? Gracias.",
+      "receivedAt": "2025-08-08T18:33:25.169Z",
+      "responseTime": 34617,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "Gracias, ¿podrías decirme si en Saona aceptan carrito en terraza y si tienen vasos con tapa o pajitas para los peques?",
+      "sentAt": "2025-08-08T18:33:28.160Z",
+      "response": "Soy tu RECO: no puedo confirmarlo en vivo. Texto para WhatsApp a Saona:\n• Hola, ¿permiten carrito en la terraza y tienen vasos con tapa o pajitas para peques? Además, mesa en terraza tranquila con sombra y vista al parque. 2 adultos + 2 peques. Gracias.",
+      "receivedAt": "2025-08-08T18:34:05.217Z",
+      "responseTime": 37057,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T18:34:05.217Z",
+  "duration": 616005
+}

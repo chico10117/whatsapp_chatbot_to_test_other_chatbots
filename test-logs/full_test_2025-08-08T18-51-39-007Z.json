@@ -1,0 +1,823 @@
+{
+  "timestamp": "2025-08-08T18:51:39.007Z",
+  "totalPersonas": 5,
+  "totalQuestions": 75,
+  "totalResponses": 75,
+  "testResults": [
+    {
+      "personaId": "health_conscious",
+      "personaName": "María Fitness",
+      "language": "es",
+      "description": "Usuario consciente de la salud que busca opciones nutritivas",
+      "startTime": "2025-08-08T18:03:56.812Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, ¿me recomiendas tres restaurantes veganos u orgánicos con opciones sin gluten y buenas proteínas vegetales cerca de mi zona?",
+          "sentAt": "2025-08-08T18:03:58.926Z",
+          "response": "¡Claro! Para afinar: ¿en qué zona de CDMX estarás y presupuesto aprox.? ¿Prefieres vegano 100% o vale orgánico con opciones? ¿Algo clave para tus peques (área de juegos, tronas, menú infantil)?",
+          "receivedAt": "2025-08-08T18:04:29.797Z",
+          "responseTime": 30871,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "Estaré en la Roma Norte, presupuesto medio; prefiero 100% vegano, ¿tienes opciones con certificación sin gluten y buena fuente de proteína (tofu/tempeh/legumbres)?",
+          "sentAt": "2025-08-08T18:04:31.423Z",
+          "response": "¡Perfecto, Roma Norte, vegano y presupuesto medio!\n\n- Plantasia: ⭐️ 4.6\n  • Cocina asiática vegana; suele ofrecer opciones sin gluten y platos con tofu/tempeh\n  • $250–350\n  • https://www.google.com/maps/place/?q=place_id:ChIJ_YlsywD_0YURBh8YBWDnANs\n\n- LOS LOOSERS: ⭐️ 4.5\n  • Fusión asiática-mex; ramen y bowls con tofu/legumbres, opciones sin gluten\n  • $200–300\n  • https://www.google.com/maps/place/?q=place_id:ChIJH5Wn80X_0YURPKBludA0RHs\n\n- La Pitahaya Vegana: ⭐️ 4.5\n  • Mex vegana; suelen manejar tortillas y salsas sin gluten; frijoles y tofu\n  • $200–300\n  • https://www.google.com/maps/place/?q=place_id:ChIJJR4eqjv_0YUR6Vp6yrU9Ers\n\n¿Requieres certificación “sin gluten” estricta y sillas/menú infantil para tus peques? Puedo ajustar.",
+          "receivedAt": "2025-08-08T18:05:07.987Z",
+          "responseTime": 36564,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "¿Alguno de estos tres tiene certificación “sin gluten” oficial y qué platillos con tofu/tempeh recomiendas ahí para asegurar buena proteína?",
+          "sentAt": "2025-08-08T18:05:11.251Z",
+          "response": "Soy tu RECO: no tengo confirmación de certificación “sin gluten” oficial para estos tres. Te sugiero llamar antes.\n\n- Plantasia: pad thai de tofu, tempeh kung pao (30–35 g prot)\n- Los Loosers: ramen de tofu, bowl de legumbres (25–30 g)\n- Pitahaya: tacos de frijol/soya, tinga de setas con tofu (20–25 g)\n\n¿Quieres que verifique contacto, tronas y menú infantil?",
+          "receivedAt": "2025-08-08T18:05:54.366Z",
+          "responseTime": 43115,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "Sí, porfa verifica teléfono y si tienen tronas/menú infantil; además, ¿alguna opción con pan o postres sin gluten certificados cerca por si queremos algo dulce después?",
+          "sentAt": "2025-08-08T18:05:57.920Z",
+          "response": "¡Voy! Como tu RECO:\n\n- Plantasia: Tel no confirmado; suelen tener tronas, menú infantil limitado. \n- La Pitahaya Vegana: Tel no confirmado; tronas ocasionales, menú infantil no fijo.\n\nDulce sin gluten certificado cerca:\n- LA OTILIA: ⭐️ 4.6\n  • Bakery/cafetería 100% sin gluten\n  • $120–200\n  • https://www.google.com/maps/place/?q=place_id:ChIJ2zH49kf_0YUR-SvxMz50PxE\n\n¿Te reservo y confirmo tronas/menú por teléfono?",
+          "receivedAt": "2025-08-08T18:07:20.238Z",
+          "responseTime": 82318,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "Sí, ¿puedes llamar para confirmar tronas y menú infantil en Plantasia y Pitahaya, y de paso reservar para 2 adultos + 2 peques mañana a la 1 pm?",
+          "sentAt": "2025-08-08T18:07:27.023Z",
+          "response": "Soy tu RECO: no puedo llamar ni hacer reservas por ti, pero te dejo guion y datos para confirmar rápido.\n\n- Plantasia\n  • Tel: no disponible aquí; sugiere llamar vía Google Maps\n  • Pregunta: “¿Tienen tronas y menú infantil? Reserva 2 adultos + 2 niños mañana 1 pm.”\n\n- La Pitahaya Vegana\n  • Tel: desde su ficha en Google Maps\n  • Pregunta: igual que arriba\n\nDulce sin gluten certificado:\n- LA OTILIA: ⭐️ 4.6\n  • Bakery/cafetería 100% sin gluten\n  • $120–200\n  • https://www.google.com/maps/place/?q=place_id:ChIJ2zH49kf_0YUR-SvxMz50PxE\n\n¿Quieres que te redacte el mensaje para WhatsApp/DM a cada lugar?",
+          "receivedAt": "2025-08-08T18:08:29.006Z",
+          "responseTime": 61983,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "Sí, redacta un mensaje breve para WhatsApp a Plantasia y otro a La Pitahaya confirmando tronas, menú infantil y disponibilidad mañana 1 pm para 2 adultos y 2 peques.",
+          "sentAt": "2025-08-08T18:08:32.497Z",
+          "response": "¡Listo! Te dejo dos textos para copiar/pegar en WhatsApp:\n\n- Plantasia\n• Hola, ¿qué tal? Queremos reservar mañana a la 1 pm para 2 adultos y 2 peques. ¿Cuentan con tronas y algún menú infantil o porciones para niños? Gracias.\n\n- La Pitahaya Vegana\n• Hola, ¿podrían confirmar mesa mañana a la 1 pm para 2 adultos y 2 peques? ¿Tienen tronas y opción de menú infantil o porciones para niños? ¡Gracias!",
+          "receivedAt": "2025-08-08T18:08:51.131Z",
+          "responseTime": 18634,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "Gracias, RECO. ¿Alguna mesa tranquila con sillas altas disponible en terraza/interior que recomiendes en cada lugar para ir con peques?",
+          "sentAt": "2025-08-08T18:08:56.971Z",
+          "response": "¡Con gusto!\n\n- Plantasia\n• Pide mesa interior cerca de la pared del jardín vertical, lejos de barra; buena para tronas.\n• Si terraza, solicita esquina sombreada junto a muro (menos paso).\n\n- La Pitahaya Vegana\n• Mesa interior junto a muro lateral, lejos de entrada.\n• En terraza, rincón pegado a la pared; evita zona de pasillo. ¿Te reservo mensaje para pedirlo?",
+          "receivedAt": "2025-08-08T18:09:12.989Z",
+          "responseTime": 16018,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "Sí, redacta el mensaje para pedir esas mesas específicas en ambos lugares, por favor.",
+          "sentAt": "2025-08-08T18:09:16.079Z",
+          "response": "¡Hecho! Textos listos para enviar:\n\n- Plantasia\n• Hola, ¿podrían asignarnos mañana 1 pm una mesa interior junto al jardín vertical, lejos de la barra? Si es terraza, esquina sombreada pegada al muro para usar trona. Somos 2 adultos y 2 peques. Gracias.\n\n- La Pitahaya Vegana\n• Hola, ¿nos reservan mañana 1 pm una mesa interior junto al muro lateral, lejos de la entrada? Si es terraza, rincón pegado a la pared (sin paso). Usaremos trona. Somos 2 adultos y 2 peques. ¡Gracias!",
+          "receivedAt": "2025-08-08T18:09:39.697Z",
+          "responseTime": 23618,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "Gracias, RECO. ¿Algún platillo en cada lugar que sea 100% vegano, sin gluten verificable y alto en proteína (30 g+) que recomiendes para mí?",
+          "sentAt": "2025-08-08T18:09:43.658Z",
+          "response": "Gracias por preguntar. No tengo confirmación “sin gluten” certificada en estos sitios. Opciones altas en proteína a considerar (verifica con staff):\n\n- Plantasia: tempeh kung pao + arroz extra (~35 g).\n- Los Loosers: bowl tofu + legumbres (~30–32 g).\n- Pitahaya: tacos de soya + frijoles y extra tofu (~30 g).",
+          "receivedAt": "2025-08-08T18:10:19.881Z",
+          "responseTime": 36223,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "Perfecto, ¿en Plantasia podrían preparar el tempeh kung pao sin salsa con gluten (soya/trigo) y usar tamari sin gluten?",
+          "sentAt": "2025-08-08T18:10:22.786Z",
+          "response": "Sí, pídelo así (y confirma en mesa):\n\n• “Tempeh kung pao sin salsa con gluten; usen tamari sin gluten y maicena, sin salsa de ostras ni trigo. ¿Plancha/sartén limpia y utensilios separados? Gracias.” ¿Te redacto versión en inglés por si acaso?",
+          "receivedAt": "2025-08-08T18:10:37.392Z",
+          "responseTime": 14606,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "Sí, pásame la versión en inglés y, de paso, ¿sabes si LA OTILIA tiene opciones de pan proteico o postres con aporte de proteína vegetal?",
+          "sentAt": "2025-08-08T18:10:41.933Z",
+          "response": "- English request (Plantasia)\n• Hi! Could you make the tempeh kung pao gluten-free? Use gluten-free tamari and cornstarch, no wheat/soy sauce or oyster sauce. Please cook on a clean pan/grill with separate utensils. Thanks!\n\n- LA OTILIA (bakery 100% sin gluten)\n• Suelen tener pan de semillas/chía/amaránto y brownies o galletas con harina de almendra/avena sin gluten; proteína moderada. Pregunta por: pan multisemillas, pan de quinoa/amaranto y muffins con proteína vegana. ¿Te confirmo al llamar?",
+          "receivedAt": "2025-08-08T18:11:15.651Z",
+          "responseTime": 33718,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "Sí, ¿podrías confirmar con LA OTILIA si tienen pan multisemillas o de quinoa/amaranto y algún muffin con proteína vegana, indicando gramos de proteína por porción?",
+          "sentAt": "2025-08-08T18:11:20.226Z",
+          "response": "Soy tu RECO: no puedo llamar, pero te dejo texto para WhatsApp y el enlace.\n\n- Mensaje para LA OTILIA\n• Hola, ¿tienen pan multisemillas o de quinoa/amaranto y algún muffin con proteína vegana? ¿Cuántos gramos de proteína por porción y tamaño de la porción? Gracias.\n\n- LA OTILIA: ⭐️ 4.6\n• Bakery/cafetería 100% sin gluten\n• $120–200\n• https://www.google.com/maps/place/?q=place_id:ChIJ2zH49kf_0YUR-SvxMz50PxE\n\n¿Quieres que adapte el mensaje según tus metas de proteína?",
+          "receivedAt": "2025-08-08T18:11:51.528Z",
+          "responseTime": 31302,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "Sí, ajusta el mensaje: busco panes/muffins veganos con al menos 12–15 g de proteína por porción; ¿puedes incluir esa meta y preguntar por tamaño y azúcares añadidos?",
+          "sentAt": "2025-08-08T18:11:56.698Z",
+          "response": "¡Listo! Texto para WhatsApp a LA OTILIA:\n\n• Hola, ¿tienen pan multisemillas o de quinoa/amaranto y muffins veganos con ≥12–15 g de proteína por porción? \n• ¿Cuál es el tamaño de porción (g o pieza) y cuántos azúcares añadidos trae (g)?\n• Gracias.",
+          "receivedAt": "2025-08-08T18:12:26.804Z",
+          "responseTime": 30106,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "Perfecto, RECO. Si LA OTILIA no llega a 12–15 g, ¿qué otra panadería/cafetería 100% sin gluten cerca de Roma Norte tiene panes o muffins veganos altos en proteína?",
+          "sentAt": "2025-08-08T18:12:30.880Z",
+          "response": "¡Voy con opciones 100% sin gluten cerca de Roma Norte para panes/muffins veganos proteicos!\n\n- Mome Healthy Bakery\n• Café/panadería saludable; suelen manejar opciones veganas y GF\n• https://www.google.com/maps/place/?q=place_id:ChIJ1_MJETf_0YURe2QpBYS4Zc4\n\n- Mestizo Cacao, Panadería Artesanal sin Gluten\n• Panadería sin gluten; pregunta por multisemillas/quinoa y muffins veganos\n• https://www.google.com/maps/place/?q=place_id:ChIJu158CzwBzoURvtXsumgD_-8\n\n- Miga Vegana\n• Panadería vegana; consulta líneas GF y panes con semillas/legumbres\n• https://www.google.com/maps/place/?q=place_id:ChIJb8bfYPX_0YURhh8vr-JIkhU\n\nSugerencia: pide panes/muffins con harinas de garbanzo/almendra/quinoa y proteína añadida; meta 12–15 g/porción y azúcares añadidos. ¿Te redacto mensaje para cada uno?",
+          "receivedAt": "2025-08-08T18:14:04.051Z",
+          "responseTime": 93171,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "Sí, redacta el mensaje para cada uno pidiendo panes/muffins veganos 100% sin gluten con 12–15 g de proteína por porción, indicando tamaño y gramos de azúcares añadidos, por favor.",
+          "sentAt": "2025-08-08T18:14:07.820Z",
+          "response": "¡Hecho! Textos para copiar/pegar:\n\n- Mome Healthy Bakery\n• Hola, ¿tienen panes o muffins 100% sin gluten y veganos con 12–15 g de proteína por porción? ¿Tamaño de porción (g o pieza) y cuántos g de azúcares añadidos? Gracias.\n\n- Mestizo Cacao (sin gluten)\n• Hola, ¿manejan pan multisemillas/quinoa o muffins veganos 100% GF con 12–15 g de proteína por porción? ¿Tamaño de porción y g de azúcares añadidos? Gracias.\n\n- Miga Vegana\n• Hola, ¿cuentan con línea 100% sin gluten de panes/muffins veganos con 12–15 g de proteína por porción? ¿Tamaño de porción y g de azúcares añadidos? Gracias.",
+          "receivedAt": "2025-08-08T18:14:24.451Z",
+          "responseTime": 16631,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T18:14:24.452Z",
+      "duration": 627640
+    },
+    {
+      "personaId": "budget_conscious",
+      "personaName": "Carlos Estudiante",
+      "language": "es",
+      "description": "Estudiante universitario con presupuesto limitado",
+      "startTime": "2025-08-08T18:14:29.456Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hey RECO, ¿dónde puedo comer bien y barato hoy cerca del centro? ¿Algún menú del día por menos de 10€ o sitios con 2x1 para estudiantes?",
+          "sentAt": "2025-08-08T18:14:31.879Z",
+          "response": "¡Vamos a cuidarte el bolsillo cerca del centro! ¿De qué ciudad estás hablando y si tienes credencial de estudiante? ¿Buscas menú del día <10€ vegano 100% o te vale vegetariano con opción vegana? ¿Horario aproximado de comida hoy?",
+          "receivedAt": "2025-08-08T18:15:02.950Z",
+          "responseTime": 31071,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "Soy de Madrid y tengo carnet de estudiante; ¿tienes menú del día por menos de 10€ cerca de Sol hoy entre 14:00-15:00, mejor vegetariano con opción vegana?",
+          "sentAt": "2025-08-08T18:15:05.880Z",
+          "response": "¡Genial, Madrid centro y con carnet de estudiante!\n\n- ¿Allergias/intolerancias (gluten, frutos secos, soja)? \n- ¿Prefieres buffet/menú del día o bocata/plato del día?\n\nMientras confirmas, chollos cerca de Sol (<10€ aprox):\n- Museo del Jamón\n• Menú del día muy económico; suele haber opción vegetal (confirma)\n• 8–10€\n• https://goo.gl/maps/7Sg3cQ1mU3Q2\n\n- 100 Montaditos (miércoles/domingo 1€)\n• Bocatas veg-friendly y promos estudiante\n• 4–8€\n• https://goo.gl/maps/6pQx3m7b2oE2\n\n- Rodilla\n• Combos ensalada/sopa; pide opción vegana\n• 6–9€\n• https://goo.gl/maps/8yqA2k3w4fJ2\n\n¿Te busco opciones 100% veg con descuento estudiante, aunque ronden 10–12€?",
+          "receivedAt": "2025-08-08T18:15:46.195Z",
+          "responseTime": 40315,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "Sin alergias; prefiero menú del día. ¿En el Museo del Jamón hoy hay opción vegetariana y el precio exacto cerca de Sol con descuento estudiante?",
+          "sentAt": "2025-08-08T18:15:50.646Z",
+          "response": "Soy tu RECO: no puedo verificar en vivo, pero cerca de Sol suelen tener menú 8–9,50€. Opción vegetariana variable (ensalada, tortilla, judías, huevo). Descuento estudiante no garantizado. ¿Te paso un texto breve para WhatsApp y sucursales a 5 min de Sol?",
+          "receivedAt": "2025-08-08T18:16:19.836Z",
+          "responseTime": 29190,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "Sí, pásame el texto para WhatsApp y las sucursales a 5 min de Sol; ¿alguna otra opción de menú del día <10€ con vegetariano fijo por si falla?",
+          "sentAt": "2025-08-08T18:16:23.395Z",
+          "response": "Perfecto. Texto para WhatsApp (copia/pega):\n• Hola, ¿cuál es el precio del menú del día hoy y si tienen opción vegetariana? ¿Aplican descuento para estudiante con carnet? Gracias.\n\nSucursales Museo del Jamón cerca de Sol (5 min):\n- Museo del Jamón\n• Bar/restaurant español\n• https://www.google.com/maps/place/?q=place_id:ChIJT-qy934oQg0RwzQqkgx7t-M\n- Museo del Jamón (otra sucursal)\n• Bar/café español\n• https://www.google.com/maps/place/?q=place_id:ChIJTcCqK3koQg0Ry57BfkqF_xI\n\nPlan B <10€ con vegetariano:\n- YERBABUENA: ⭐️ 4.5\n• Vegetariano/vegano con menús y platos del día económicos\n• 9–12€ (pregunta por opción <10€)\n• https://www.google.com/maps/place/?q=place_id:ChIJ0W4USXkoQg0R1H9auDqiISw\n\n¿Quieres que te arme otro mensaje para Yerbabuena y te calcule macros aproximados según elección?",
+          "receivedAt": "2025-08-08T18:17:15.278Z",
+          "responseTime": 51883,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "Sí, arma el mensaje para Yerbabuena; ¿tienen menú del día fijo vegetariano por menos de 10€ hoy y qué incluye (primer, segundo, bebida, pan)?",
+          "sentAt": "2025-08-08T18:17:19.569Z",
+          "response": "¡Listo! Mensaje para Yerbabuena (copia/pega):\n• Hola, ¿tienen hoy menú del día vegetariano por menos de 10€? ¿Qué incluye (primer, segundo, bebida y pan) y horario de servicio? ¿Alguna opción vegana? Gracias.\n\n- YERBABUENA: ⭐️ 4.5\n• Vegetariano/vegano; postres/helados\n• 9–12€\n• https://www.google.com/maps/place/?q=place_id:ChIJ0W4USXkoQg0R1H9auDqiISw",
+          "receivedAt": "2025-08-08T18:17:44.579Z",
+          "responseTime": 25010,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "Gracias, RECO. Si Yerbabuena se va a 11–12€, ¿qué otro menú del día vegetariano fijo por ≤10€ cerca de Sol me recomiendas, y hay algún sitio con descuento estudiante confirmado?",
+          "sentAt": "2025-08-08T18:17:49.854Z",
+          "response": "¡A tope! Opciones cerca de Sol por ≤10€ (vegetariano con opción vegana). Confirma en el día:\n\n- Restaurante Vegetariano Artemisa - Gran Vía: ⭐️ 4.5\n• Vegetariano/vegano; suelen tener menú del día económico\n• 9–11€\n• https://www.google.com/maps/place/?q=place_id:ChIJC4OxX4coQg0R3bqGh0fouew\n\n- B13 bar: ⭐️ 4.4\n• Vegano fast-casual; menús/platos del día ajustados de precio\n• 8–10€\n• https://www.google.com/maps/place/?q=place_id:ChIJ42kRXX0oQg0RiFFbECjZKtE\n\n- Superchulo: ⭐️ 4.3\n• Veg-friendly con menús/daily specials\n• 9–12€ (busca opción ≤10€)\n• https://www.google.com/maps/place/?q=place_id:ChIJR2rz-2EoQg0RJQlNH4n9wro\n\nDescuento estudiante confirmado: no tengo confirmación fija en estos; pregunta al llegar o por WhatsApp. ¿Te paso textos para consultar precio exacto y si aplican descuento con carnet?",
+          "receivedAt": "2025-08-08T18:18:23.234Z",
+          "responseTime": 33380,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "Sí, pásame los textos; y entre Artemisa y B13, ¿cuál suele tener menú más cerca de 8–9€ hoy cerca de Sol?",
+          "sentAt": "2025-08-08T18:18:26.997Z",
+          "response": "¡Voy con eso!\n\nTextos para WhatsApp:\n- Artemisa (Gran Vía)\n• Hola, ¿precio del menú del día hoy? ¿Hay opción vegetariana/vegana ≤10€ y descuento con carnet de estudiante? Gracias.\n\n- B13\n• Hola, ¿tenéis menú/plato del día hoy? ¿Precio (ideal 8–9€) y si aplicáis descuento estudiante? Gracias.\n\nComparativa rápida:\n- B13 suele estar más cerca de 8–9€ en opciones del día.\n- Artemisa suele rondar 9–11€.\n\n¿Quieres que te sugiera qué pedir según macros?",
+          "receivedAt": "2025-08-08T18:18:46.849Z",
+          "responseTime": 19852,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "Sí, sugiéreme qué pedir en B13 para llenar bien por 8–9€; ¿algún combo plato + bebida que salga más a cuenta para un estudiante?",
+          "sentAt": "2025-08-08T18:18:50.461Z",
+          "response": "Como tu RECO en B13 (budget 8–9€):\n- Plato del día vegano contundente (burger o plato combinado con legumbres/tofu) + agua del grifo.\n- Si hay combo, pide bowl de legumbres + patatas/ensalada.\n- Meta proteína 25–30 g. Pregunta por “menú estudiante”. ¿Te gusta picante?",
+          "receivedAt": "2025-08-08T18:19:09.726Z",
+          "responseTime": 19265,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "Sí, me va el picante; ¿en B13 suelen tener salsa picante incluida o hay que pagar extra, y el “menú estudiante” cuánto queda exactamente?",
+          "sentAt": "2025-08-08T18:19:12.875Z",
+          "response": "Soy tu RECO: en B13 suelen tener salsas picantes caseras (pregunta por chipotle/valentina); normalmente sin coste extra. “Menú estudiante” no está fijo; a veces -10% o combo 8–9€. Te dejo texto: “¿Hoy hay menú estudiante y salsas picantes sin coste?”",
+          "receivedAt": "2025-08-08T18:19:42.607Z",
+          "responseTime": 29732,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "Genial; además de B13, ¿algún sitio cerca de Sol con menú estudiante fiable o happy hour de comida que me deje en 8–9€ con opción vegetariana?",
+          "sentAt": "2025-08-08T18:19:48.818Z",
+          "response": "¡Claro! Cerca de Sol con opción veg y deals 8–9€:\n- B13: ⭐️ 4.4\n• Vegano; a veces -10% estudiante o combo 8–9€\n• https://www.google.com/maps/place/?q=place_id:ChIJ42kRXX0oQg0RiFFbECjZKtE\n\n- 100 Montaditos (c/Semana 1€)\n• Vegetariano posible; miércoles/domingo 1€ c/u\n• https://goo.gl/maps/6pQx3m7b2oE2\n\n- Rodilla\n• Combos con promo tarde; pide opción veg\n• https://goo.gl/maps/8yqA2k3w4fJ2\n\n¿Te paso textos para pedir “menú estudiante”/happy hour exacto hoy?",
+          "receivedAt": "2025-08-08T18:20:15.424Z",
+          "responseTime": 26606,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "Sí, pásame los textos; y en Rodilla, ¿a qué hora empieza la promo de tarde y qué combo veg sale por 8–9€ con bebida?",
+          "sentAt": "2025-08-08T18:20:18.752Z",
+          "response": "¡Voy, estudiante en Madrid!\n\nTextos para WhatsApp:\n- B13\n• Hola, ¿hoy tenéis menú estudiante o combo 8–9€? ¿Incluye bebida y opción vegetariana/vegana? Gracias.\n\n- 100 Montaditos\n• Hola, ¿hoy hay promo (Miércoles/Domingo 1€)? ¿Alguna opción vegetariana y combo 8–9€ con bebida? Gracias.\n\n- Rodilla\n• Hola, ¿a qué hora empieza la promo de tarde hoy y qué combo vegetariano con bebida queda por 8–9€? Gracias.\n\nSobre Rodilla:\n- La “merienda” suele arrancar entre 16:00–17:00 (varía por tienda).\n- Combo que suele cuadrar 8–9€: sándwich vegetal + ensalada pequeña o crema + bebida. Pide sustitución vegana si hace falta. ¿Quieres que te recomiende la sucursal Rodilla más cercana a Sol?",
+          "receivedAt": "2025-08-08T18:21:00.306Z",
+          "responseTime": 41554,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "Sí, recomiéndame la sucursal Rodilla más cercana a Sol y si aceptan carnet estudiante para esa promo de tarde.",
+          "sentAt": "2025-08-08T18:21:05.308Z",
+          "response": "¡Hecho, estudiante en Madrid!\n\nSucursales Rodilla cerca de Sol (elige la más próxima):\n- Rodilla: • Sandwich shop/café, desayunos, take away • https://www.google.com/maps/place/?q=place_id:ChIJjfz9poAoQg0RgTLNvTU9olc\n- Rodilla: • Sandwich shop/café, desayunos, take away • https://www.google.com/maps/place/?q=place_id:ChIJPUzvS3woQg0Rn4K-yrtbjfM\n- Rodilla - Plaza Carlos V: • Café/sándwiches, fast-casual • https://www.google.com/maps/place/?q=place_id:ChIJ9zxnoSUmQg0RG7ILxRGZ_sc\n\nCarnet estudiante:\n- La promo de tarde suele ser general; el carnet no siempre agrega descuento. Pregunta en caja: “¿Aplica promo merienda y descuento estudiante hoy?” ¿Te paso mensaje listo para enviar a la sucursal más cercana?",
+          "receivedAt": "2025-08-08T18:21:33.908Z",
+          "responseTime": 28600,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "Sí, pásame el mensaje listo y dime cuál de esas sucursales de Rodilla está a 5–7 min a pie de Sol para ir directo.",
+          "sentAt": "2025-08-08T18:21:38.281Z",
+          "response": "¡Listo! Mensaje para WhatsApp a Rodilla:\n• Hola, ¿a qué hora empieza hoy la promo de tarde y qué combo vegetariano con bebida queda por 8–9€? ¿Aplica además descuento de estudiante con carnet? Gracias.\n\nSucursales cerca de Sol (elige la más próxima):\n- Rodilla\n• Sandwich shop/café; desayuno, take away\n• https://www.google.com/maps/place/?q=place_id:ChIJjfz9poAoQg0RgTLNvTU9olc\n\nNo puedo confirmar cuál está a 5–7 min exactos desde Sol sin mapa en vivo. ¿Quieres que te guíe a la más cercana según tu calle exacta? ¿Preferencias de combo (ensalada/crema + sándwich + bebida)?",
+          "receivedAt": "2025-08-08T18:22:17.916Z",
+          "responseTime": 39635,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "Estoy saliendo de Puerta del Sol (kilómetro cero); ¿cuál de esas Rodilla me queda a 5–7 min a pie y qué combo veg con bebida recomiendas para clavar 8–9€?",
+          "sentAt": "2025-08-08T18:22:24.086Z",
+          "response": "¡Perfecto, desde Kilómetro Cero!\n\n- Rodilla más cercana (5–7 min a pie):\n• Rodilla (Calle Preciados/Callao aprox.)\n• https://www.google.com/maps/place/?q=place_id:ChIJjfz9poAoQg0RgTLNvTU9olc\n\n- Combo veg para 8–9€ aprox.:\n• Sándwich Vegetal + crema del día (si es vegetal) + agua o refresco\n• Alternativa: ensalada pequeña + sándwich Vegetal + agua\n\n• Tip: pregunta por “promo merienda” desde 16:00–17:00 y si aplica a combos veg. ¿Te preparo texto para pedir sustituciones veg si la crema lleva lácteo?",
+          "receivedAt": "2025-08-08T18:23:10.557Z",
+          "responseTime": 46471,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "Sí, pásame el texto para pedir sustituciones veg si la crema lleva lácteo; ¿y si la promo merienda no aplica hoy, qué alternativa igual de barata cerca de Callao me recomiendas?",
+          "sentAt": "2025-08-08T18:23:13.882Z",
+          "response": "¡Va!\n\n- Texto para Rodilla\n• Hola, ¿podrían cambiar la crema si lleva lácteos por una opción vegetal (sopa/ensalada) manteniendo el precio del combo? También el sándwich en versión 100% vegetariana/vegana. Gracias.\n\nAlternativas baratas cerca de Callao (8–9€ aprox.):\n- B13: ⭐️ 4.4\n• Vegano; combos/plato del día económicos\n• https://www.google.com/maps/place/?q=place_id:ChIJ42kRXX0oQg0RiFFbECjZKtE\n\n- 100 Montaditos (miércoles/domingo 1€)\n• Montaditos veg + bebida\n• https://goo.gl/maps/6pQx3m7b2oE2\n\n¿Quieres que ajuste según si prefieres caliente o frío y picante?",
+          "receivedAt": "2025-08-08T18:23:44.208Z",
+          "responseTime": 30326,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T18:23:44.208Z",
+      "duration": 554752
+    },
+    {
+      "personaId": "family_kids",
+      "personaName": "Ana Familia",
+      "language": "es",
+      "description": "Madre de familia con dos niños pequeños",
+      "startTime": "2025-08-08T18:23:49.212Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, ¿me recomiendas restaurantes en Madrid con zona de juegos segura, tronas y menú infantil para ir con mis peques de 4 y 7 años este fin de semana?",
+          "sentAt": "2025-08-08T18:23:51.029Z",
+          "response": "¡Plan familiar en Madrid! ¿Alguna alergia infantil?\n\n- Casa Emiliana, restaurante con parque infantil\n• Restaurante y eventos; parque infantil y ambiente familiar\n• https://www.google.com/maps/place/?q=place_id:ChIJF6ENTqrSQw0RHeVx0DtAnwE\n\n- Restaurante El Torreón de El Pardo\n• Español/mediterráneo; amplio y familiar, ideal peques\n• https://www.google.com/maps/place/?q=place_id:ChIJNYKBlxqBQQ0R6xLXEgIdbDg\n\n- THE MOON EAT AND FUN\n• Restaurante con zona de juegos/ocio infantil\n• https://www.google.com/maps/place/?q=place_id:ChIJrbBGb2M7Qg0RD0OfSzUrj50\n\n- Restaurante La Burguesita\n• Hamburguesas; playground y ambiente kids-friendly\n• https://www.google.com/maps/place/?q=place_id:ChIJB2UZ0PmPQQ0RqfGNW0kRibg\n\n- Amor al Plato\n• Barbacoa/mediterráneo; playground y eventos\n• https://www.google.com/maps/place/?q=place_id:ChIJjd-FzQkpQg0RO45tCAkrJyM\n\n¿Prefieres terraza, horario de comida o merienda? Puedo pasarte textos para confirmar tronas/menú infantil.",
+          "receivedAt": "2025-08-08T18:24:37.419Z",
+          "responseTime": 46390,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "Gracias, suenan bien. ¿Podrías confirmar si en Casa Emiliana y THE MOON tienen tronas, menú infantil con opciones sin frutos secos y zona de juegos cerrada o vigilada?",
+          "sentAt": "2025-08-08T18:24:40.408Z",
+          "response": "Gracias. No puedo confirmar en vivo, pero te dejo textos para WhatsApp:\n\n- Casa Emiliana\n• Hola, ¿tienen tronas, menú infantil sin frutos secos y zona de juegos cerrada/vigilada? ¿Horario y reserva para fin de semana? Gracias.\n\n- THE MOON EAT AND FUN\n• Igual que arriba. ¿Te los envío también en inglés?",
+          "receivedAt": "2025-08-08T18:25:18.561Z",
+          "responseTime": 38153,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "Perfecto, envíalos en español; además, ¿cuál de estos tiene terraza amplia y sombra cerca del área infantil para comer al mediodía?",
+          "sentAt": "2025-08-08T18:25:21.482Z",
+          "response": "¡Listo!\n\n- Mensaje para Casa Emiliana\n• Hola, ¿tienen tronas, menú infantil sin frutos secos y zona de juegos cerrada o vigilada? ¿Hay terraza con sombra cerca del área infantil y reservas para este finde al mediodía? Gracias.\n\n- Mensaje para THE MOON EAT AND FUN\n• Hola, ¿cuentan con tronas, menú infantil sin frutos secos y zona de juegos cerrada/vigilada? ¿Disponen de terraza sombreada junto a la zona infantil y reservas para este finde a mediodía? Gracias.\n\n- Terraza y sombra\n• Casa Emiliana: suele tener terraza amplia y zonas sombreadas cerca del parque infantil.\n• THE MOON: espacio de ocio infantil interno; terraza variable según sede. Confirma con el mensaje. ¿Me cuentas tus gustos para ajustar más sitios?",
+          "receivedAt": "2025-08-08T18:25:45.522Z",
+          "responseTime": 24040,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "Gracias, suena bien; ¿tienes alguna alternativa con zona de juegos exterior y terraza amplia a la sombra por la zona norte de Madrid (tipo Montecarmelo/Las Tablas)?",
+          "sentAt": "2025-08-08T18:25:49.195Z",
+          "response": "¡Planazo por el norte! Opciones family-friendly con terraza; confirma zona de juegos/tronas por WhatsApp:\n\n- Casa Emiliana, restaurante con parque infantil: ⭐️ 4.5\n• Restaurante con parque infantil; ambiente familiar y terraza amplia\n• 15–25€\n• https://www.google.com/maps/place/?q=place_id:ChIJF6ENTqrSQw0RHeVx0DtAnwE\n\n- Restaurante Garden Las Tablas: \n• Restaurante/café con terraza; ambiente tranquilo para familias\n• https://www.google.com/maps/place/?q=place_id:ChIJRV7szPsrQg0RqNuz3DKW4oU\n\n- Saona Las Tablas:\n• Mediterráneo; terrazas amplias y menú kids-friendly\n• https://www.google.com/maps/place/?q=place_id:ChIJQ8ijfNMrQg0RclqBGmXamgA\n\n- Ochenta Grados Las Tablas:\n• Restaurante moderno; terraza agradable, platos en medias raciones\n• https://www.google.com/maps/place/?q=place_id:ChIJaxYp0fYrQg0RS0WRmRf_cZc\n\n- Cuadrilla Montecarmelo:\n• Bar-restaurante con terraza; ambiente vecinal\n• https://www.google.com/maps/place/?q=place_id:ChIJF5dFW0QrQg0RRPRqt-A1iEs\n\n¿Prefieres Montecarmelo o Las Tablas y horario exacto? Pido tronas/menú infantil en tu nombre con un texto listo.",
+          "receivedAt": "2025-08-08T18:27:04.462Z",
+          "responseTime": 75267,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "Gracias, ¿puedes confirmar cuáles de estos en Las Tablas tienen tronas, menú infantil y zona de juegos (mejor exterior) para comer el sábado a las 13:30?",
+          "sentAt": "2025-08-08T18:27:08.953Z",
+          "response": "Soy tu RECO: no puedo confirmar en vivo, pero te dejo textos para pedirlo y reservar sábado 13:30.\n\n- Restaurante Garden Las Tablas\n• Hola, ¿tienen tronas, menú infantil y zona de juegos (ideal exterior)? ¿Hay terraza con sombra? ¿Mesa sábado 13:30 para 2 adultos + 2 peques?\n\n- Saona Las Tablas\n• Hola, ¿cuentan con tronas, menú infantil y área de juegos cercana? ¿Terraza sombreada? ¿Disponibilidad sábado 13:30 para 2 adultos + 2 niños?\n\n- Ochenta Grados Las Tablas\n• Hola, ¿tienen tronas y menú infantil? ¿Alguna zona de juegos cerca o espacio exterior? ¿Mesa sábado 13:30 para 2 adultos + 2 peques?\n\n¿Prefieres que afine según si necesitas zona 100% exterior o interior vista al juego?",
+          "receivedAt": "2025-08-08T18:28:14.149Z",
+          "responseTime": 65196,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "Gracias; prefiero zona de juegos 100% exterior y mesa en terraza con sombra, ¿alguna otra opción en Las Tablas que cumpla eso y tenga tronas y menú infantil?",
+          "sentAt": "2025-08-08T18:28:17.106Z",
+          "response": "¡Perfecto, zona norte y kids felices!\n\n- Las Tablas: ⭐️\n• Restaurante familiar; terraza y ambiente tranquilo\n• Medio\n• https://www.google.com/maps/place/?q=place_id:ChIJ3wmgc8G1w4URnpjN3OQ9a2U\n\n- Saona Las Tablas: ⭐️\n• Mediterráneo; suele tener tronas y menú infantil; terrazas amplias\n• Medio\n• https://www.google.com/maps/place/?q=place_id:ChIJQ8ijfNMrQg0RclqBGmXamgA\n\n- Restaurante Garden Las Tablas: ⭐️\n• Terraza ajardinada; perfil familiar\n• Medio\n• https://www.google.com/maps/place/?q=place_id:ChIJRV7szPsrQg0RqNuz3DKW4oU\n\n- The Fitzgerald Las Tablas: ⭐️\n• Hamburguesería; kids-friendly, terraza\n• Medio\n• https://www.google.com/maps/place/?q=place_id:ChIJq7p2yNMrQg0RrYfwwWqN4k0\n\n- Peggy Sue’s Las Tablas: ⭐️\n• Diner; menú infantil y tronas habituales\n• Medio\n• https://www.google.com/maps/place/?q=place_id:ChIJQ_U1zdMrQg0RnQe7wFQH8xM\n\nTip: escribe para confirmar tronas, menú infantil y “zona de juegos 100% exterior + mesa en terraza con sombra”. ¿Te preparo el texto?",
+          "receivedAt": "2025-08-08T18:28:44.441Z",
+          "responseTime": 27335,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "Sí, prepárame el texto y, si puedes, añade que preferimos zona de juegos visible desde la mesa; ¿cuál de estos suele tener parque exterior propio frente a la terraza?",
+          "sentAt": "2025-08-08T18:28:47.530Z",
+          "response": "¡Hecho! Copia/pega para cada lugar:\n\n- Saona Las Tablas\n• Hola, ¿sábado 13:30 mesa en terraza con sombra? ¿Tienen tronas, menú infantil y zona de juegos 100% exterior visible desde la mesa? Gracias.\n\n- Garden Las Tablas\n• Hola, ¿podemos reservar sábado 13:30 en terraza sombreada? ¿Tronas, menú infantil y parque exterior visible desde la mesa? Gracias.\n\n- The Fitzgerald Las Tablas\n• Hola, ¿sábado 13:30 terraza con sombra? ¿Tronas, menú infantil y zona de juegos exterior visible desde la mesa? Gracias.\n\n- Peggy Sue’s Las Tablas\n• Hola, ¿sábado 13:30 terraza sombreada? ¿Tronas, menú infantil y juegos exteriores visibles desde mesa? Gracias.\n\nParque exterior frente a terraza (orientativo):\n- Garden suele estar junto a zona ajardinada; Saona a veces frente a áreas peatonales. Confirma por WhatsApp. ¿Me cuentas tus gustos para afinar más tu perfil?",
+          "receivedAt": "2025-08-08T18:29:21.270Z",
+          "responseTime": 33740,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "Gracias; ¿entre Garden y Saona, cuál suele tener mejor visibilidad del parque desde la mesa y baños con cambiador cerca de la terraza?",
+          "sentAt": "2025-08-08T18:29:24.231Z",
+          "response": "- Visibilidad del parque:\n• Garden Las Tablas: suele tener mejor vista a zona ajardinada desde terraza.\n• Saona Las Tablas: visibilidad variable según mesa.\n\n- Cambiador cerca:\n• Garden: a menudo más cercano al salón/terraza.\n• Saona: depende de local. Sugiero confirmarlo por WhatsApp.",
+          "receivedAt": "2025-08-08T18:29:56.161Z",
+          "responseTime": 31930,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "Perfecto, me quedo con Garden; ¿puedes sugerirme 2-3 platos aptos para niños y alguna opción ligera para adultos, y confirmar si tienen sillas elevadoras además de tronas?",
+          "sentAt": "2025-08-08T18:29:59.976Z",
+          "response": "¡Buenísimo, Garden Las Tablas!\n\n- Niños:\n• Pasta sencilla con tomate/aceite y queso aparte\n• Pechuga/pescado a la plancha con patatas/verduras\n• Mini hamburguesa o croquetas con ensalada\n\n- Adultos ligeros:\n• Ensalada completa con proteína (pollo/atún/legumbres)\n• Verduras a la plancha o tataki ligero (si ofrecen)\n• Gazpacho/crema del día\n\n- Mensaje para confirmar:\n• Hola, ¿tienen tronas y también sillas elevadoras? ¿Podemos reservar terraza con sombra y vista a la zona de juegos? Gracias.",
+          "receivedAt": "2025-08-08T18:30:27.376Z",
+          "responseTime": 27400,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "Genial, ¿podrías confirmar si en Garden tienen opción de menú infantil con postre sencillo (yogur o fruta) y si el pan puede ser sin frutos secos?",
+          "sentAt": "2025-08-08T18:30:38.013Z",
+          "response": "Soy tu RECO: no puedo confirmar en vivo. Texto para WhatsApp a Garden Las Tablas:\n• Hola, ¿tienen menú infantil con postre sencillo (yogur o fruta)? ¿El pan puede ser sin frutos secos? Reserva terraza con sombra y vista a juegos para 2 adultos + 2 peques, sábado 13:30. Gracias.",
+          "receivedAt": "2025-08-08T18:31:04.322Z",
+          "responseTime": 26309,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "Perfecto, lo envío; si Garden no tuviera mesa a las 13:30, ¿qué alternativa similar en Las Tablas con parque visible y cambiador me recomiendas como plan B?",
+          "sentAt": "2025-08-08T18:31:08.124Z",
+          "response": "¡Plan B en Las Tablas, family-friendly con terraza y parque visible (confirma por WhatsApp):\n\n- Saona Las Tablas: ⭐️ 4.2\n• Mediterráneo; terraza amplia, suele haber tronas y menú infantil\n• 15–22€\n• https://www.google.com/maps/place/?q=place_id:ChIJQ8ijfNMrQg0RclqBGmXamgA\n\n- The Fitzgerald Las Tablas: ⭐️ 4.3\n• Hamburguesería; terraza, perfil kids-friendly\n• 15–20€\n• https://www.google.com/maps/place/?q=place_id:ChIJq7p2yNMrQg0RrYfwwWqN4k0\n\n- Peggy Sue’s Las Tablas: ⭐️ 4.1\n• Diner americano; menú infantil y tronas frecuentes\n• 12–18€\n• https://www.google.com/maps/place/?q=place_id:ChIJQ_U1zdMrQg0RnQe7wFQH8xM\n\n- Cuadrilla Montecarmelo: ⭐️ 4.2\n• Terraza vecinal amplia; buen ambiente familiar\n• 12–20€\n• https://www.google.com/maps/place/?q=place_id:ChIJF5dFW0QrQg0RRPRqt-A1iEs\n\nTexto para confirmar rápido:\n• Hola, ¿mesa sábado 13:30 en terraza con sombra y vista a zona de juegos? ¿Tienen tronas, sillas elevadoras y cambiador? ¿Menú infantil con postre (yogur/fruta)? Gracias.",
+          "receivedAt": "2025-08-08T18:31:39.766Z",
+          "responseTime": 31642,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "Gracias; entre Saona y The Fitzgerald, ¿cuál suele tener la zona de juegos más cercana y visible desde la terraza y baños con cambiador?",
+          "sentAt": "2025-08-08T18:31:43.861Z",
+          "response": "- Visibilidad juegos:\n• Saona Las Tablas: suele tener áreas peatonales/parquecito más a la vista desde algunas mesas.\n• The Fitzgerald: terraza buena, juegos menos cercanos.\n\n- Cambiador:\n• Saona: más probable cercano al salón.\n• Fitzgerald: variable. Mejor confirmar por WhatsApp.",
+          "receivedAt": "2025-08-08T18:32:15.964Z",
+          "responseTime": 32103,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "Perfecto, voy con Saona; ¿me recomiendas qué pedir para los peques (sin frutos secos) y una opción ligera para mí, y añado en el WhatsApp que nos guarden mesa con vista directa al parque?",
+          "sentAt": "2025-08-08T18:32:19.880Z",
+          "response": "¡Plan Saona Las Tablas!\n\n- Peques (sin frutos secos):\n• Pasta al pomodoro/aceite, queso aparte\n• Pechuga/pescado a la plancha con patatas\n• Mini burger sin salsas con ensalada\n\n- Tú (ligero):\n• Ensalada con legumbres o atún\n• Poke/bowl veggie\n\nMensaje WhatsApp:\n• Hola, ¿mesa terraza con sombra y vista directa al parque para 2 adultos + 2 peques sábado 13:30? ¿Menú infantil sin frutos secos y tronas/sillas elevadoras? Gracias. ¿Quieres afinar por gustos para tu perfil?",
+          "receivedAt": "2025-08-08T18:32:46.776Z",
+          "responseTime": 26896,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "Sí, para afinar: a mis peques les gustan pasta y pollo a la plancha, y evitamos frutos secos; ¿alguna mesa tranquila en Saona lejos de humo y con acceso fácil al baño con cambiador?",
+          "sentAt": "2025-08-08T18:32:50.552Z",
+          "response": "¡Perfecto!\n\n- Pedido peques: pasta al pomodoro y pollo a la plancha; sin frutos secos.\n- Mesa sugerida en Saona:\n• Terraza, esquina sombreada con vista al parque\n• Lejos de zona de fumadores\n• Cerca de acceso a baños con cambiador\n- Texto para WhatsApp:\n• Hola, ¿sábado 13:30 mesa en terraza tranquila, esquina sombreada con vista al parque, lejos de humo y cerca del baño con cambiador? 2 adultos + 2 peques. Pasta al pomodoro y pollo a la plancha sin frutos secos. ¿Tronas/sillas elevadoras? Gracias.",
+          "receivedAt": "2025-08-08T18:33:25.169Z",
+          "responseTime": 34617,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "Gracias, ¿podrías decirme si en Saona aceptan carrito en terraza y si tienen vasos con tapa o pajitas para los peques?",
+          "sentAt": "2025-08-08T18:33:28.160Z",
+          "response": "Soy tu RECO: no puedo confirmarlo en vivo. Texto para WhatsApp a Saona:\n• Hola, ¿permiten carrito en la terraza y tienen vasos con tapa o pajitas para peques? Además, mesa en terraza tranquila con sombra y vista al parque. 2 adultos + 2 peques. Gracias.",
+          "receivedAt": "2025-08-08T18:34:05.217Z",
+          "responseTime": 37057,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T18:34:05.217Z",
+      "duration": 616005
+    },
+    {
+      "personaId": "international_tourist",
+      "personaName": "James British",
+      "language": "en",
+      "description": "British tourist visiting Spain for the first time",
+      "startTime": "2025-08-08T18:34:10.221Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hi RECO! I’ve just arrived in Madrid—where can I find a cosy, authentic tapas bar with an English-friendly menu to ease me in tonight?",
+          "sentAt": "2025-08-08T18:34:12.376Z",
+          "response": "Love it—welcome to Madrid! A few cosy, authentic tapas spots with English-friendly service tonight:\n\n- Taberna El Sur: ⭐️ 4.6\n• Classic Spanish tapas; friendly, tourist-savvy staff\n• €15–25 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJiTGJRSomQg0RTD1MZa1RTnE\n\n- Casa Labra: ⭐️ 4.4\n• Historic tavern; cod croquettes, simple English help\n• €12–20 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJ3aNabn4oQg0RUZW-XLWz1e8\n\n- Bodega de la Ardosa: ⭐️ 4.5\n• Old-school bodega; vermouth and tapas, some English\n• €15–25 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJ8xKGEogoQg0REcIj5XURiIU\n\nFancy terrace or prefer a quieter corner inside?",
+          "receivedAt": "2025-08-08T18:34:42.724Z",
+          "responseTime": 30348,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "These sound spot on—between Taberna El Sur and Bodega de la Ardosa, which is better for a first-timer to try classic tapas like tortilla and patatas bravas without too much crowd?",
+          "sentAt": "2025-08-08T18:34:45.538Z",
+          "response": "Your foodie friend here! For a first-timer seeking classics with less crowd:\n\n- Taberna El Sur: slightly easier for English, friendlier seating, good tortilla/bravas. Go early (~7–7:30 pm).\n- Bodega de la Ardosa: fantastic tortilla, but tighter, busier. Best right at opening.\n\nWant a quieter terrace nearby?",
+          "receivedAt": "2025-08-08T18:35:03.042Z",
+          "responseTime": 17504,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "Yes please—any quieter terraces near Taberna El Sur with solid tapas and an English-friendly menu?",
+          "sentAt": "2025-08-08T18:35:08.483Z",
+          "response": "Your foodie friend here! Quieter terraces near Taberna El Sur with solid tapas and English-friendly menus:\n\n- Mas Al Sur: ⭐️ 4.5\n• Mediterranean/Spanish; spacious terrace, staff used to English\n• €18–28 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJb--hcSkmQg0RQJurZ9RM3dY\n\n- Taberna el Sur de Huertas: ⭐️ 4.5\n• Sister spot; relaxed vibe, simple English menu\n• €15–25 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJw4AzoxEpQg0RpH4c2aQolns\n\nFancy I book you early terrace seating tips and what to order (tortilla, bravas, grilled chicken/pasta for kids)?",
+          "receivedAt": "2025-08-08T18:36:06.862Z",
+          "responseTime": 58379,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "That’d be great—could you give me the best time to snag a terrace table and what to order first at Mas Al Sur, plus a kid-friendly backup dish?",
+          "sentAt": "2025-08-08T18:36:12.797Z",
+          "response": "Your foodie friend here!\n\n- Best time: arrive 7:00–7:20 pm for terrace without a wait.\n- Order first: tortilla, patatas bravas, gambas al ajillo, croquetas.\n- Kid-friendly backup: grilled chicken with fries or simple pasta pomodoro.\nWant wine tips?",
+          "receivedAt": "2025-08-08T18:36:31.816Z",
+          "responseTime": 19019,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "Yes please—what’s a good local white and a smooth red by the glass at Mas Al Sur, and roughly how much are they?",
+          "sentAt": "2025-08-08T18:36:35.460Z",
+          "response": "Your gastronomic recommendations assistant here!\n\n- Local white: Albariño (Rías Baixas) or Verdejo (Rueda) by the glass; crisp, citrusy. ~€3.5–5.5.\n- Smooth red: Rioja Crianza or Ribera del Duero joven; soft tannins. ~€4–6.\n- Tip: ask for “copa fría de Albariño” to start, then Rioja with heartier tapas.",
+          "receivedAt": "2025-08-08T18:36:56.782Z",
+          "responseTime": 21322,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "Brilliant—do I need a reservation at Mas Al Sur for 7–7:20 pm on a Friday, or is walk-in fine for the terrace?",
+          "sentAt": "2025-08-08T18:36:59.830Z",
+          "response": "Your foodie friend here!\n\n- For Friday 7:00–7:20 pm: walk-in usually fine for terrace if you’re 2–3 ppl.\n- For 4+ or stroller: recommend booking.\n- Tip: arrive 5–10 min early and ask “mesa en terraza, por favor.”\n\nWant a quick WhatsApp text to reserve just in case?",
+          "receivedAt": "2025-08-08T18:37:24.685Z",
+          "responseTime": 24855,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "Yes, please—could you draft a quick WhatsApp message in Spanish for a terrace table at 7:10 pm for two tonight at Mas Al Sur?",
+          "sentAt": "2025-08-08T18:37:29.660Z",
+          "response": "• Hola, ¿podrían reservarnos hoy a las 19:10 una mesa en terraza para 2 personas?  \n• Si es posible, zona tranquila.  \n• Nombre: [tu nombre].  \n• Gracias.",
+          "receivedAt": "2025-08-08T18:37:46.756Z",
+          "responseTime": 17096,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "Perfect—any must-try dessert nearby after Mas Al Sur, something classic like flan or churros, with an English menu?",
+          "sentAt": "2025-08-08T18:37:49.825Z",
+          "response": "Your foodie friend here! Sweet, classic desserts near Mas Al Sur with English-friendly menus:\n\n- Chocolatería San Ginés: ⭐️ 4.4\n• Iconic churros con chocolate, English menu\n• €5–8 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJk2y3YI0oQg0R6b2j5c7U1H4\n\n- La Rollerie (Huertas): ⭐️ 4.2\n• Flan, cheesecake, churros; staff used to English\n• €6–10 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJrbk1IhMpQg0R9N1iWbXqR1w\n\n- Casa Mira (C. Mayor): ⭐️ 4.5\n• Traditional sweets; ask for flan/tocino de cielo nearby recs\n• €4–8 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJN-1C9HEoQg0R2bLw5zYxFX8\n\nWant me to tailor by creamy flan vs. crispy churros preference?",
+          "receivedAt": "2025-08-08T18:38:15.112Z",
+          "responseTime": 25287,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "I’m leaning churros—between San Ginés and La Rollerie, which has a shorter wait around 9 pm on a Friday, and how late are they open?",
+          "sentAt": "2025-08-08T18:38:18.394Z",
+          "response": "Your foodie friend here!\n\n- Wait at 9 pm Friday:\n• La Rollerie usually shorter; San Ginés often queues (touristy peak).\n- Hours (typical):\n• San Ginés: very late (often till 1–6 am, varies).\n• La Rollerie: usually till ~11:30 pm–12 am.\n\nTip: For San Ginés, join the line, order “churros + chocolate” first, then grab a terrace table if free.",
+          "receivedAt": "2025-08-08T18:38:51.681Z",
+          "responseTime": 33287,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "Great tip—if the queue at San Ginés looks mad, is there a nearby lesser-known churrería with decent chocolate and some English help?",
+          "sentAt": "2025-08-08T18:38:55.558Z",
+          "response": "Your foodie friend here! Near San Ginés, lower-key churros with decent chocolate and some English help:\n\n- Maestro Churrero: ⭐️\n• Coffee shop/bakery; churros y porras, personal amables\n• https://www.google.com/maps/place/?q=place_id:ChIJb8IG3n8oQg0RfbR4UQINMzs\n\n- Chocolat Madrid: ⭐️\n• Chocolate shop/cafetería; chocolate espeso, trato cercano\n• https://www.google.com/maps/place/?q=place_id:ChIJuZPf4ikmQg0RamNqvGvOaCs\n\n- Churrería Chocolatería 1902: ⭐️\n• Dessert shop; clásica, a dos pasos de Sol\n• https://www.google.com/maps/place/?q=place_id:ChIJRzj5oH4oQg0RvAZf-4A3UXU\n\nGo around 9–9:30 pm to dodge lines.",
+          "receivedAt": "2025-08-08T18:39:32.090Z",
+          "responseTime": 36532,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "Brilliant—between Chocolat Madrid and Maestro Churrero, which has the thicker hot chocolate and a quieter vibe around 9:15 pm?",
+          "sentAt": "2025-08-08T18:39:37.043Z",
+          "response": "Your foodie friend here!\n\n- Chocolat Madrid: thicker, richer hot chocolate; cosier, usually quieter around 9:15 pm if you snag an inside table.\n- Maestro Churrero: chocolate a bit lighter; livelier vibe.\n\nTip: At Chocolat, order “churros y chocolate espeso” and sit indoors for calm.",
+          "receivedAt": "2025-08-08T18:39:51.084Z",
+          "responseTime": 14041,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "Lovely—does Chocolat Madrid have an English menu, and roughly what’s the price for churros with chocolate?",
+          "sentAt": "2025-08-08T18:39:54.478Z",
+          "response": "Your foodie friend here!  \n- English menu: usually yes (staff can help in English).  \n- Price: churros + hot chocolate ~€5–7 per person.  \nTip: ask for “chocolate espeso” and pay at counter after ordering.",
+          "receivedAt": "2025-08-08T18:40:18.117Z",
+          "responseTime": 23639,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "Perfect—before I go, any tipping etiquette I should know for tapas bars and churros spots in Madrid?",
+          "sentAt": "2025-08-08T18:40:21.476Z",
+          "response": "Your foodie friend here! Quick tipping tips in Madrid:\n\n- Not mandatory; service is included.\n- Rounding up is common: leave small coins or to the nearest euro.\n- Good sit-down tapas/churros: 5–10% if service was great.\n- Bars/cafés counter service: leave €0.50–€1 per drink/snack.\n- Pay by card? You can tip cash on the table.",
+          "receivedAt": "2025-08-08T18:40:39.748Z",
+          "responseTime": 18272,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "Thanks—that helps a lot! One last thing: any Sunday lunch spot for a proper paella that’s authentic but has an English menu?",
+          "sentAt": "2025-08-08T18:40:42.676Z",
+          "response": "Your foodie friend here! Authentic paella for Sunday lunch with English-friendly menus:\n\n- Casa de Valencia: ⭐️ 4.4\n• Classic Valencian/seafood paellas; old-school, legit rice\n• €25–35 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJb0I0cTAoQg0RrJk8k1fB3j0\n\n- El Caldero (Murcian rice): ⭐️ 4.5\n• Rice in caldero/paella, seafood-forward; English help\n• €22–32 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJ0Vh0xksoQg0R5hI5X7Gm9b8\n\n- St. James (Juan Bravo): ⭐️ 4.5\n• “Arrocería” institution; many rice styles, English menu\n• €28–40 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJn2m2mXooQg0R_9CKaC1r3nI\n\nTips:\n- Book for 13:30–14:00; order paella to share (min 2).\n- Ask for socarrat and 20–25 min cook time.\nWant a terrace vs. indoor recommendation and which rice to pick?",
+          "receivedAt": "2025-08-08T18:41:16.388Z",
+          "responseTime": 33712,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "Yes please—between Casa de Valencia and St. James, which has a nicer Sunday terrace and a standout seafood paella, and should I book for 13:30 or 14:00?",
+          "sentAt": "2025-08-08T18:41:19.353Z",
+          "response": "Your foodie friend here!\n\n- Terrace vibe:\n• Casa de Valencia: classic, leafy terrace with a local feel; great Sunday ambiance.\n• St. James (Juan Bravo): polished, comfy terrace; more upscale.\n\n- Seafood paella:\n• Both are excellent; St. James is ultra-consistent, Casa de Valencia feels more traditional.\n\n- Booking time:\n• Reserve 13:30 for easier terrace seating; 14:00 is peak.\n\n- What to request:\n• Seafood paella for 2, ask for socarrat and “arroz al punto.”\n• House Verdejo by the glass to start.\n\nWant a ready-to-send WhatsApp text to book?",
+          "receivedAt": "2025-08-08T18:41:44.543Z",
+          "responseTime": 25190,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T18:41:44.543Z",
+      "duration": 454322
+    },
+    {
+      "personaId": "foodie_adventurous",
+      "personaName": "Diego Gourmet",
+      "language": "es",
+      "description": "Foodie aventurero que busca experiencias gastronómicas únicas",
+      "startTime": "2025-08-08T18:41:49.547Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, busco una experiencia de alta cocina con toques de cocina molecular y maridaje creativo; ¿qué restaurantes en mi ciudad destacan por menús degustación innovadores y uso de ingredientes exóticos?",
+          "sentAt": "2025-08-08T18:41:51.417Z",
+          "response": "¡Planazo foodie! En Madrid, alta cocina con toques moleculares y maridajes creativos:\n\n*DSTAgE: ⭐️ 4.7*\n• Fine dining de autor, técnicas vanguardistas y producto exótico\n• €160–250 pp (menú + maridaje)\n• https://www.google.com/maps/place/?q=place_id:ChIJM_4eFY8oQg0R3wcnD3nYubk\n\n*Coque: ⭐️ 4.8*\n• Experiencia por estancias, cocina técnica y maridaje top\n• €200–350 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJoRkIVamMQQ0RlLGpgzeAxzA\n\n*Restaurante Omeraki. By Alberto Chicote.: ⭐️ 4.6*\n• Creatividad, guiños moleculares y producto global\n• €120–200 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJiVihijApQg0RiZyfNOjVSUE\n\n*Restaurante Clos: ⭐️ 4.6*\n• Degustación técnica, maridajes cuidados mediterráneos\n• €120–190 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJF6dzp_koQg0R62gcjySme7g\n\n*Restaurante Gaytán: ⭐️ 4.6*\n• Cocina de autor con juego técnico y menú degustación\n• €120–190 pp\n• https://www.google.com/maps/place/?q=place_id:ChIJd6M8r94oQg0RwUOiAobTPIo\n\n¿Prefieres terraza tranquila o sala con mesa vista a cocina? Puedo sugerir el mejor horario y maridaje.",
+          "receivedAt": "2025-08-08T18:42:22.749Z",
+          "responseTime": 31332,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "Me seduce la cocina en directo; ¿en cuál de estos la mesa vista a cocina ofrece más interacción con el pase y opción de maridaje experimental (maceraciones, sakes, orange wines)?",
+          "sentAt": "2025-08-08T18:42:25.887Z",
+          "response": "Tu RECO aquí. Para show de cocina + maridaje experimental:\n\n- DSTAgE: chef’s counter muy interactivo; maridaje con sakes/naranjos.\n- Coque: recorrido por bodegas/bar + pase activo; maridaje creativo.\n- Gaytán: mesa frente a cocina vista fuego; maridaje curioso.\n\n¿Te reservo textos?",
+          "receivedAt": "2025-08-08T18:42:51.716Z",
+          "responseTime": 25829,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "Perfecto; ¿qué horario recomienda para el chef’s counter de DSTAgE para ver el pase en pleno apogeo y qué incluye su maridaje experimental últimamente?",
+          "sentAt": "2025-08-08T18:42:54.871Z",
+          "response": "Tu RECO aquí. Para el chef’s counter de DSTAgE:\n\n- Mejor horario\n• Almuerzo: 13:30 (entras con la primera tanda y ves el pase arrancar y coger ritmo).\n• Cena: 20:30 (inicio de servicio y máximo movimiento 21:00–22:00).\n\n- Maridaje experimental\n• Suelen incluir sakes, orange wines y maceraciones especiales. Detalles cambian por temporada; conviene pedir “maridaje experimental” al reservar.\n\n- Texto para WhatsApp\n• Hola, ¿hay chef’s counter el [día]? Preferimos 13:30/20:30 para ver el pase. ¿Disponibilidad con maridaje experimental (sakes, orange wines, maceraciones)? 2 personas. Gracias.",
+          "receivedAt": "2025-08-08T18:43:54.739Z",
+          "responseTime": 59868,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "Genial; si no hubiera sitio en el chef’s counter de DSTAgE, ¿qué alternativa entre Coque o Gaytán ofrece la experiencia más inmersiva con maridaje igual de atrevido?",
+          "sentAt": "2025-08-08T18:43:58.168Z",
+          "response": "Tu RECO al habla. Si falla el counter de DSTAgE:\n\n- Coque: ⭐️ 4.8\n• Experiencia más inmersiva (recorrido bodega–cocina–sala), mucho contacto con el pase.\n• Maridaje muy atrevido: jereces, sakes, maceraciones, vinificaciones raras.\n\n- Gaytán: ⭐️ 4.6\n• Cocina vista en anfiteatro, fuego y pase a la vista.\n• Maridaje creativo, algo menos experimental que Coque.\n\n¿Te paso texto para pedir mesa frente a cocina y maridaje “sin miedo”?",
+          "receivedAt": "2025-08-08T18:44:16.778Z",
+          "responseTime": 18610,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "Sí, pásame el texto ideal para Coque pidiendo recorrido completo, mesa pegada al pase y maridaje “sin miedo”, para 2 a las 20:30.",
+          "sentAt": "2025-08-08T18:44:20.094Z",
+          "response": "• Hola, ¿podrían reservar para 2 el [fecha] a las 20:30 con recorrido completo (bodega–cocina–sala)? \n• Preferimos mesa pegada al pase/cocina. \n• Maridaje “sin miedo” (sakes, orange wines, maceraciones). \n• Nombre: [tu nombre]. \n• Gracias.",
+          "receivedAt": "2025-08-08T18:44:39.488Z",
+          "responseTime": 19394,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "¿Entre Coque y DSTAgE, algún plato icónico reciente donde brillen técnicas moleculares (fermentos, gelificaciones, esferificaciones) que no debería perderme?",
+          "sentAt": "2025-08-08T18:44:42.912Z",
+          "response": "Tu RECO aquí. Destacados recientes:\n- DSTAgE: esferas de aceituna/ajoblanco, gel de yuzu con mar y fermentos de temporada.\n- Coque: esferificación de uva/jerez, “gazpacho” clarificado con geles, kombuchas y koji en fondos.\nConfirma en sala, cambia por temporada.",
+          "receivedAt": "2025-08-08T18:45:03.866Z",
+          "responseTime": 20954,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "¿Podrías sugerirme el mejor maridaje para esas esferas (aceituna/ajoblanco en DSTAgE y uva/jerez en Coque): sake específico, jerez o naranja que realce acidez y umami sin eclipsar la textura?",
+          "sentAt": "2025-08-08T18:45:06.746Z",
+          "response": "Tu RECO sugiere:\n\n- DSTAgE (aceituna/ajoblanco):\n• Sake Junmai Ginjo seco (umami limpio) o Manzanilla Pasada (salina, tensa).\n• Orange wine ligero de maceración corta (moscatel seco).\n\n- Coque (uva/jerez):\n• Fino en rama o Amontillado joven.\n• Sake Kimoto seco.",
+          "receivedAt": "2025-08-08T18:45:37.217Z",
+          "responseTime": 30471,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "Excelente; ¿alguna etiqueta concreta que suelan manejar (bodega y añada) para esa Manzanilla Pasada o un Junmai Ginjo con perfil cítrico y final seco que pueda pedir tal cual en sala?",
+          "sentAt": "2025-08-08T18:45:42.508Z",
+          "response": "Tu RECO al habla. Etiquetas concretas (suelen aparecer en cartas de alta cocina en Madrid; confirma disponibilidad):\n\n- Manzanilla Pasada\n• Equipo Navazos “La Bota de Manzanilla Pasada” (ed. 90s/100s, saca reciente). Perfil salino, tenso, final seco.\n• Ramiro Ibáñez “Manzanilla Pasada de Sanlúcar” (Cota 45, saca reciente). Salinidad + umami sutil.\n\n- Junmai Ginjo cítrico y seco\n• Dassai 45 Junmai Daiginjo (limón/pera, final limpio y seco).\n• Dewazakura “Oka” Junmai Ginjo (floral-cítrico, seco medio).\n• Tedorigawa “Iki na Onna” Junmai Ginjo (cítrico suave, final seco).\n• Nanbu Bijin Junmai Ginjo (manzana verde/cítricos, seco y nítido).\n\nTip para pedir: “¿Tienen Manzanilla Pasada tipo La Bota o Cota 45? Si no, un Fino en rama. En sake, un Junmai Ginjo seco de corte cítrico (Dewazakura/Tedorigawa/Nanbu Bijin), por favor.”",
+          "receivedAt": "2025-08-08T18:46:22.629Z",
+          "responseTime": 40121,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "Perfecto, ¿sabes si en Coque o DSTAgE suelen trabajar ahora mismo con La Bota de Manzanilla Pasada o Cota 45, y si no, qué fino en rama equivalente tienen por copas para arrancar el pase?",
+          "sentAt": "2025-08-08T18:46:26.425Z",
+          "response": "Tu RECO: no tengo confirmación actual de La Bota/Cota 45 en Coque o DSTAgE. Pide por copas:\n- Fino en rama: Tío Pepe en Rama, Barbadillo “Solear en Rama” o Valdespino “Inocente” saca reciente.\nFrase útil: “¿Fino en rama por copas para iniciar?”",
+          "receivedAt": "2025-08-08T18:47:36.525Z",
+          "responseTime": 70100,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "Perfecto; si abren con Fino en rama por copas, ¿qué bocado de apertura recomiendas emparejar (salazones, encurtidos, ostra) para potenciar salinidad y umami sin saturar el paladar?",
+          "sentAt": "2025-08-08T18:47:40.698Z",
+          "response": "Your foodie friend here!\n\n- Mejor bocado con Fino en rama:\n• Ostra natural con limón mínimo\n• Boquerón/anchova en salazón suave\n• Encurtidos finos (piparra, cebolleta)\n• Almendra marcona tostada ligera\n\n- Tip: 1–2 mordiscos máx.; pide “fino bien frío” para realzar salinidad y umami.",
+          "receivedAt": "2025-08-08T18:48:22.220Z",
+          "responseTime": 41522,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "Perfecto, ¿alguna barra cruda en Madrid donde trabajen ostras con aderezos minimalistas (ponzu cítrico, granizado de manzanilla, emulsión de yuzu) y opción de fino en rama por copas?",
+          "sentAt": "2025-08-08T18:48:25.680Z",
+          "response": "Tu RECO al habla. Barras crudas con ostras y aderezos minimalistas + fino en rama por copas:\n\n- Restaurante Rafa | Restaurante Marisquería: ⭐️\n• Marisquería clásica con barra; suelen tener aderezos suaves y finos/jereces\n• Medio–alto\n• https://www.google.com/maps/place/?q=place_id:ChIJS-YrBrApQg0RNfoRNnjnTno\n\n- Mercado de la Paz (puestos gourmet): ⭐️\n• Ostras Daniel Sorlut; a veces ponzu/cítricos y copa de Jerez cercana\n• Medio\n• https://www.google.com/maps/place/?q=place_id:ChIJ7fF3jpYoQg0RcfOxYBExJrY\n\n- Ostras Daniel Sorlut (Canalejas/Gourmet): ⭐️\n• Ostras premium; aderezos cítricos y posibilidad de Jerez en barra vecina\n• Medio–alto\n• https://www.google.com/maps/place/?q=place_id:ChIJdVrXlUMpQg0RcpzQKeLj-2g\n\n¿Prefieres barra animada o mesa tranquila? Puedo sugerir qué pedir y frases exactas para solicitar ponzu/yuzu y fino en rama.",
+          "receivedAt": "2025-08-08T18:49:21.123Z",
+          "responseTime": 55443,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "Barra animada siempre; ¿cuál de esas barras sirve la ostra con ponzu o yuzu mejor ejecutado y garantiza fino en rama por copas, y qué hora recomiendas para coger sitio sin agobios?",
+          "sentAt": "2025-08-08T18:49:25.576Z",
+          "response": "Tu RECO aquí:\n\n- Ostras Daniel Sorlut (Canalejas)\n• Mejor ejecución de ponzu/yuzu; cortes perfectos\n• Fino en rama fácil en barras vecinas del food hall\n• Hora: 19:00–19:30 para sitio y buen ritmo\n\n- Rafa (barra)\n• Aderezos clásicos finos; ponzu a petición\n• Suelen tener Jerez por copas (pide fino en rama)\n• Hora: 13:15 o 20:00 en punto para hueco\n\nFrase útil: “Ostra con ponzu/yuzu muy ligero y un fino en rama bien frío, por favor.”",
+          "receivedAt": "2025-08-08T18:50:01.847Z",
+          "responseTime": 36271,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "Perfecto, voy a Canalejas; ¿alguna recomendación de 2–3 bocados adicionales en esas barras que dialoguen con el fino en rama (erizo, tartar de pescado blanco, navajas a la plancha) para montar un mini menú salino-umami?",
+          "sentAt": "2025-08-08T18:50:05.450Z",
+          "response": "Your foodie friend here! Mini menú salino-umami con fino en rama en Canalejas:\n- Ostra con ponzu/yuzu ligero\n- Navajas a la plancha con limón y perejil\n- Tartar de lubina con cítrico y aceite suave\n- Erizo (si hay), natural o con manzanilla\nTip: pide fino bien frío y repón por media copa.",
+          "receivedAt": "2025-08-08T18:50:29.791Z",
+          "responseTime": 24341,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "Suena redondo; ¿alguna barra en Canalejas que haga un tartar de lubina con corte de cuchillo y aderezo cítrico minimalista, y qué fino en rama por copas suelen tener allí para acompañarlo?",
+          "sentAt": "2025-08-08T18:50:33.748Z",
+          "response": "Tu RECO aquí:\n\n- Tartar de lubina (corte a cuchillo, cítrico mínimo)\n• Sorlut Canalejas o barra de pescados del Food Hall (pregunta por “tartar de lubina, corte a cuchillo y aderezo de cítricos suave”).\n• Hora ideal: 19:00–19:30.\n\n- Fino en rama por copas habitual en el hall\n• Tío Pepe en Rama o Solear en Rama (según barra).\n• Pide: “fino en rama bien frío para maridar el tartar, por favor.” ¿Te paso texto listo para WhatsApp del centro?",
+          "receivedAt": "2025-08-08T18:51:09.686Z",
+          "responseTime": 35938,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "Sí, pásame el texto para WhatsApp, y añade que buscamos tartar de lubina a cuchillo, ostra con ponzu ligero y fino en rama bien frío a las 19:15.",
+          "sentAt": "2025-08-08T18:51:14.105Z",
+          "response": "• Hola, ¿tienen hoy a las 19:15 barra con hueco? Buscamos tartar de lubina cortado a cuchillo y ostra con ponzu ligero. ¿Sirven fino en rama por copas bien frío? Reserva a nombre de [tu nombre], 2 personas. ¡Gracias!",
+          "receivedAt": "2025-08-08T18:51:34.000Z",
+          "responseTime": 19895,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T18:51:34.000Z",
+      "duration": 584453
+    }
+  ]
+}
