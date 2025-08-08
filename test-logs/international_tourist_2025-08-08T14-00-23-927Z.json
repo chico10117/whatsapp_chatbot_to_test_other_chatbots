@@ -1,0 +1,163 @@
+{
+  "personaId": "international_tourist",
+  "personaName": "James British",
+  "language": "en",
+  "description": "British tourist visiting Spain for the first time",
+  "startTime": "2025-08-08T13:57:04.360Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hi RECO! I’ve just landed in Madrid—could you recommend a cosy, authentic tapas bar near the city centre that’s friendly to English speakers?",
+      "sentAt": "2025-08-08T13:57:06.675Z",
+      "response": "Welcome to Madrid! Here are great cosy tapas bars near the city centre, friendly to English speakers:\n\n*Casa Labra*: ⭐️ 4.2  \n• Historic spot famous for cod croquettes and classic tapas  \n• Average cost: €10-15 per person  \n• https://www.google.com/maps/place/?q=place_id:ChIJk7rJdIkoQg0R2Qv3jQf8jv4\n\n*Taberna Malaspina*: ⭐️ 4.4  \n• Lively, authentic atmosphere with a varied tapas menu  \n• Average cost: €12-18 per person  \n• https://www.google.com/maps/place/?q=place_id:ChIJ8z2uJ4koQg0R1vQ1nZ3pK7g\n\nWould you like tips on must-try tapas or help translating the menu?",
+      "receivedAt": "2025-08-08T13:57:15.083Z",
+      "responseTime": 8408,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Both sound lovely—between Casa Labra and Malaspina, which tends to be less crowded around 7–8 pm, and do they take reservations?",
+      "sentAt": "2025-08-08T13:57:17.636Z",
+      "response": "Great question! Casa Labra is usually busier around 7–8 pm, especially with locals. Taberna Malaspina can also get crowded but tends to have more space and a quicker turnover. Neither typically takes reservations for tapas, so arriving early is best. Would you like tips on what to order or quieter times to visit?",
+      "receivedAt": "2025-08-08T13:57:24.261Z",
+      "responseTime": 6625,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "Thanks! What are the must-try tapas at each, and any local drinks to pair with them?",
+      "sentAt": "2025-08-08T13:57:28.796Z",
+      "response": "Absolutely!  \n• **Casa Labra:** Try the cod croquettes (“croquetas de bacalao”) and battered cod (“tajada de bacalao”). Pair with a cold Mahou beer or a glass of Spanish vermouth.  \n• **Malaspina:** Go for patatas bravas, grilled mushrooms (“setas a la plancha”), and Spanish omelette (“tortilla española”). Pair with Rioja red wine or a refreshing tinto de verano.  \n\nWant help with menu translations or more pairing ideas?",
+      "receivedAt": "2025-08-08T13:57:37.984Z",
+      "responseTime": 9188,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "Those sound perfect—are there any vegetarian-friendly tapas at either place, and roughly how long might I wait if I arrive at 7 pm?",
+      "sentAt": "2025-08-08T13:57:43.183Z",
+      "response": "Yes!  \n• Casa Labra: Limited veggie options, but you’ll find Spanish omelette and sometimes salads.  \n• Malaspina: More vegetarian-friendly—patatas bravas, grilled mushrooms, pimientos de padrón, and tortilla.  \nAt 7 pm, expect a 10–20 min wait at either, possibly less if you arrive right at opening. Want tips for more veggie tapas spots nearby?",
+      "receivedAt": "2025-08-08T13:57:51.957Z",
+      "responseTime": 8774,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "Malaspina sounds ideal—could you suggest a nearby spot for dessert after tapas, preferably with churros or a good flan?",
+      "sentAt": "2025-08-08T13:57:57.170Z",
+      "response": "Great choice! For dessert near Malaspina, try:\n\n*Chocolatería San Ginés*: ⭐️ 4.4  \n• Legendary for churros con chocolate, open late  \n• Average cost: €5-7 per person  \n• https://www.google.com/maps/place/?q=place_id:ChIJR1y2n3koQg0R8F3WJqQn7rQ\n\n*La Mallorquina*: ⭐️ 4.3  \n• Classic pastry shop, famous for flan and traditional sweets  \n• Average cost: €4-6 per person  \n• https://www.google.com/maps/place/?q=place_id:ChIJw5z3nHkoQg0R2b7w5yF4KkY\n\nWould you like tips on the best time to visit or what to order?",
+      "receivedAt": "2025-08-08T13:58:04.792Z",
+      "responseTime": 7622,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "Brilliant, thanks—between San Ginés and La Mallorquina, which is less crowded around 9 pm, and is there usually seating available?",
+      "sentAt": "2025-08-08T13:58:11.456Z",
+      "response": "At 9 pm, Chocolatería San Ginés is usually busier, especially for churros, but you can often find a table with a short wait. La Mallorquina tends to be quieter with more available seating at that hour. Prefer a lively spot or a relaxed atmosphere for dessert?",
+      "receivedAt": "2025-08-08T13:58:17.381Z",
+      "responseTime": 5925,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "I fancy a relaxed atmosphere—at La Mallorquina, what specific flan or pastry would you recommend, and do they have an English menu?",
+      "sentAt": "2025-08-08T13:58:22.346Z",
+      "response": "Great choice! At La Mallorquina, try their classic “flan de huevo” (egg flan) or “napolitana de crema” (custard-filled pastry)—both are delicious and not too heavy. They don’t always have an English menu, but staff are helpful and can guide you. Want help translating pastry names or more dessert tips?",
+      "receivedAt": "2025-08-08T13:58:29.470Z",
+      "responseTime": 7124,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "Thanks—that sounds lovely; roughly what time does La Mallorquina close on weeknights so I can plan after Malaspina?",
+      "sentAt": "2025-08-08T13:58:34.599Z",
+      "response": "You’re welcome! La Mallorquina usually closes around 9:00 pm on weeknights. I recommend heading there right after dinner to enjoy your dessert without rushing. Would you like more late-night dessert options just in case?",
+      "receivedAt": "2025-08-08T13:58:41.810Z",
+      "responseTime": 7211,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "Yes, please—could you suggest a late-night dessert spot near Sol that’s open past 10 pm, ideally with churros or good cakes and some seating?",
+      "sentAt": "2025-08-08T13:58:47.110Z",
+      "response": "Of course! For late-night dessert near Sol, try:\n\n*Chocolatería San Ginés*: ⭐️ 4.4  \n• Open 24 hours, famous for churros con chocolate, plenty of seating  \n• https://www.google.com/maps/place/?q=place_id:ChIJR1y2n3koQg0R8F3WJqQn7rQ\n\n*La Rollerie*: ⭐️ 4.3  \n• Open until midnight, offers cakes, pastries, and a cozy café vibe  \n• https://www.google.com/maps/place/?q=place_id:ChIJw3vZzXkoQg0R7l4GQ1A9bZk\n\nBoth are great for a sweet late-night treat! Want recommendations for what to order at either spot?",
+      "receivedAt": "2025-08-08T13:58:56.201Z",
+      "responseTime": 9091,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "Lovely—at San Ginés late at night, is the chocolate very sweet or more bittersweet, and do they offer any lighter options if I’m a bit full from tapas?",
+      "sentAt": "2025-08-08T13:59:01.973Z",
+      "response": "Great question! At San Ginés, the chocolate is thick and rich—more bittersweet than overly sweet. If you’re feeling full, you can order just churros (without chocolate) or share a portion. They also offer coffee or tea as lighter alternatives. Want tips on pairing or other light desserts nearby?",
+      "receivedAt": "2025-08-08T13:59:07.482Z",
+      "responseTime": 5509,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "That helps a lot—any nearby spot for a light, fruity dessert like helado or sorbet after 10 pm near Sol, with seating?",
+      "sentAt": "2025-08-08T13:59:13.688Z",
+      "response": "Absolutely! For a light, fruity dessert near Sol after 10 pm, try:\n\n*Llaollao*: ⭐️ 4.2  \n• Natural frozen yogurt with fresh fruit toppings, open until 11 pm  \n• Seating available  \n• https://www.google.com/maps/place/?q=place_id:ChIJp9vCz3koQg0R2j1wIYw8VnA\n\n*Mistura Ice Cream*: ⭐️ 4.6  \n• Artisanal gelato and sorbet, including fruity flavors, open until 11 pm  \n• Cozy seating  \n• https://www.google.com/maps/place/?q=place_id:ChIJ1x4bYXkoQg0Rr6b3QfJQ7tA\n\nWould you like suggestions for the best fruity flavors to try?",
+      "receivedAt": "2025-08-08T13:59:25.770Z",
+      "responseTime": 12082,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "Both look great—between Llaollao and Mistura, which has the best mango or passion fruit options, and is there usually indoor seating free around 10:30 pm?",
+      "sentAt": "2025-08-08T13:59:31.674Z",
+      "response": "Mistura Ice Cream is known for its artisanal mango and passion fruit sorbets—super fresh and flavorful! Llaollao offers mango as a topping, but Mistura’s fruit flavors stand out more. Around 10:30 pm, both usually have indoor seating available and a relaxed vibe. Want tips on other must-try sorbet flavors at Mistura?",
+      "receivedAt": "2025-08-08T13:59:43.233Z",
+      "responseTime": 11559,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "Lovely—at Mistura, do they offer small tasting scoops so I can try both mango and passion fruit without a full portion?",
+      "sentAt": "2025-08-08T13:59:48.956Z",
+      "response": "Yes! At Mistura, you can request a small tasting scoop before choosing, and their small cup (“tarrina pequeña”) usually lets you pick two flavors—perfect for trying both mango and passion fruit without a full portion. Want tips on pairing with other flavors or light toppings?",
+      "receivedAt": "2025-08-08T13:59:56.699Z",
+      "responseTime": 7743,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "Perfect—after Mistura, is there a cosy wine bar nearby for a final glass of Rioja with English-friendly staff?",
+      "sentAt": "2025-08-08T14:00:02.135Z",
+      "response": "Absolutely! Try:\n\n*Angelita Madrid*: ⭐️ 4.7  \n• Cozy wine bar with a fantastic Spanish wine selection, including Rioja  \n• English-friendly staff and relaxed atmosphere  \n• https://www.google.com/maps/place/?q=place_id:ChIJJ4b6z3koQg0R4Q7nW5vXh8U\n\nWould you like tips on which Rioja to try or help pairing it with a light snack?",
+      "receivedAt": "2025-08-08T14:00:09.749Z",
+      "responseTime": 7614,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "That sounds perfect—could you suggest a specific Rioja by the glass at Angelita (something medium-bodied), and do they serve a small cheese plate to nibble on?",
+      "sentAt": "2025-08-08T14:00:18.136Z",
+      "response": "Great choice! At Angelita, ask for a glass of Rioja Crianza or Reserva—both are medium-bodied, smooth, and food-friendly. They do serve small cheese plates and Spanish charcuterie, perfect for nibbling with your wine. Want tips on cheese pairings or other Spanish wines to try?",
+      "receivedAt": "2025-08-08T14:00:23.927Z",
+      "responseTime": 5791,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T14:00:23.927Z",
+  "duration": 199567
+}

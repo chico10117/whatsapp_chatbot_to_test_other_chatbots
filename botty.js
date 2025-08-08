@@ -178,12 +178,18 @@ class BottyTester {
       console.log(`   Average Score: ${summary.averageScore.toFixed(1)}/5.0`);
       console.log(`   Response Rate: ${summary.averageResponseRate.toFixed(1)}%`);
       console.log(`   Personas Tested: ${summary.personasAnalyzed}`);
+      // Include average question generation time from orchestrator
+      const avgGenMs = this.testOrchestrator.getAverageQuestionGenerationMs();
+      if (avgGenMs) {
+        console.log(`   Avg Question Gen Time: ${(avgGenMs/1000).toFixed(2)}s`);
+      }
 
       return {
         testResults,
         analysisResults,
         finalReport,
-        summary
+        summary,
+        avgQuestionGenerationMs: this.testOrchestrator.getAverageQuestionGenerationMs()
       };
 
     } catch (error) {
@@ -257,7 +263,17 @@ class BottyTester {
         summary: this.responseAnalyzer.generateQuickSummary(analysisResults)
       };
 
-      await this.logger.saveFullTestResults([completeResults]);
+      // Save persona-level results (expected by logger)
+      await this.logger.saveFullTestResults(testResults);
+      // Optionally also persist a session summary file alongside
+      // without breaking the existing logger contract
+      // This keeps detailed analytics and report text for later review
+      const fs = await import('fs/promises');
+      const path = await import('path');
+      const logsDir = './test-logs';
+      const sessionFilename = `session_${timestamp}.json`;
+      const sessionFilepath = path.join(logsDir, sessionFilename);
+      await fs.writeFile(sessionFilepath, JSON.stringify(completeResults, null, 2));
       console.log('💾 Complete test session saved');
     } catch (error) {
       console.error('⚠️  Failed to save complete results:', error.message);

@@ -1,0 +1,163 @@
+{
+  "personaId": "budget_conscious",
+  "personaName": "Carlos Estudiante",
+  "language": "es",
+  "description": "Estudiante universitario con presupuesto limitado",
+  "startTime": "2025-08-08T12:51:21.926Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola RECO, ¿sabes de algún sitio por aquí donde tengan menú del día barato? Estoy buscando algo que no me deje la cartera temblando.",
+      "sentAt": "2025-08-08T12:51:23.200Z",
+      "response": "¡Hola! Te recomiendo estas opciones económicas cerca del centro:\n\n*Mamacitas*  \n• Restaurante casual con menú variado  \n• Costo promedio bajo  \n• https://www.google.com/maps/place/?q=place_id:ChIJB5VTq-lZ54YRpOGp-feJpMU\n\n*El Jacalito Restaurant*  \n• Mexicano, ideal para desayunos y comidas  \n• Precios accesibles  \n• https://www.google.com/maps/place/?q=place_id:ChIJywRdOaBZ54YRyknSQQMIWJE\n\n¿Prefieres comida picante, vegetariana o algún tipo específico? ¡Cuéntame para afinar la recomendación!",
+      "receivedAt": "2025-08-08T12:51:30.328Z",
+      "responseTime": 7128,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Gracias, tienen buena pinta. ¿Sabes si alguno de estos sitios tiene menú del día con bebida incluida? ¿Y cuánto cuesta exactamente?",
+      "sentAt": "2025-08-08T12:51:31.491Z",
+      "response": "¡Con gusto! Ambos suelen ofrecer menú del día económico, a menudo con bebida incluida (agua fresca o refresco). El precio ronda los $90-$120 MXN. Te sugiero preguntar al llegar, ya que puede variar. ¿Te gustaría recomendaciones de platillos picantes o con mariscos?",
+      "receivedAt": "2025-08-08T12:51:40.161Z",
+      "responseTime": 8670,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "¡Perfecto! ¿Sabes si aceptan tarjeta o solo efectivo? Porque a veces solo traigo la tarjeta y no quiero quedarme a lavar platos.",
+      "sentAt": "2025-08-08T12:51:44.389Z",
+      "response": "¡Buena pregunta! Mamacitas suele aceptar tarjeta y efectivo, mientras que El Jacalito a veces solo efectivo. Te recomiendo confirmar antes de ordenar. ¿Te gustaría que te sugiera platillos picantes para probar?",
+      "receivedAt": "2025-08-08T12:51:52.204Z",
+      "responseTime": 7815,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "¡Sí, me late probar algo picante! ¿Qué platillo picante del menú recomiendas y qué tan picante está?",
+      "sentAt": "2025-08-08T12:51:56.313Z",
+      "response": "¡Genial! En Mamacitas, prueba los tacos de camarón al chipotle: son picantes, pero tolerables para quienes disfrutan el picante. En El Jacalito, la cochinita pibil con salsa habanera es intensa, ¡ideal si te gusta el picor fuerte! ¿Te animas con alguno?",
+      "receivedAt": "2025-08-08T12:52:01.500Z",
+      "responseTime": 5187,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "¡Uf, la cochinita con habanero suena potente! ¿Sabes si el menú del día incluye postre o hay que pagarlo aparte?",
+      "sentAt": "2025-08-08T12:52:05.866Z",
+      "response": "Normalmente, el menú del día incluye postre sencillo (como gelatina o arroz con leche), pero a veces es extra, según el lugar. Te sugiero preguntar al ordenar. ¿Te gustaría recomendaciones de postres ligeros o picantes para probar?",
+      "receivedAt": "2025-08-08T12:52:09.894Z",
+      "responseTime": 4028,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "Gracias por el dato. Y si voy con amigos, ¿tienen alguna promo de 2x1 o descuento para grupos de estudiantes?",
+      "sentAt": "2025-08-08T12:52:17.989Z",
+      "response": "¡De nada! A veces Mamacitas lanza promos de 2x1 en bebidas o tacos, y El Jacalito suele tener descuentos para grupos o estudiantes, especialmente entre semana. Te recomiendo preguntar al llegar. ¿Quieres tips para compartir platillos picantes en grupo?",
+      "receivedAt": "2025-08-08T12:52:25.570Z",
+      "responseTime": 7581,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "Sí, pásate esos tips para compartir, pero dime también si tienen opción de refill en bebidas o solo es un vaso. ¡Eso ayuda a ahorrar!",
+      "sentAt": "2025-08-08T12:52:29.583Z",
+      "response": "¡Claro!  \n• En Mamacitas, a veces hay refill en aguas frescas; pregunta al ordenar.  \n• El Jacalito suele dar solo un vaso, pero puedes pedir extra con costo bajo.  \nTips: pide platillos al centro, como guacamole, salsas y tacos variados para compartir y probar más sabores picantes. ¿Te gustaría más ideas para compartir mariscos o algo vegetariano?",
+      "receivedAt": "2025-08-08T12:52:36.266Z",
+      "responseTime": 6683,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "¡Gracias! Y ya que mencionas mariscos, ¿qué opción de mariscos es la más barata en esos menús? Porque a veces se suben mucho con el precio.",
+      "sentAt": "2025-08-08T12:52:40.605Z",
+      "response": "¡Buen punto! La opción más económica suele ser el ceviche de pescado o coctel de camarón en ambos lugares. Son frescos, ligeros y no tan caros como otros mariscos. ¿Te gustaría saber con qué bebida combinan mejor?",
+      "receivedAt": "2025-08-08T12:52:55.805Z",
+      "responseTime": 15200,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "¡Sí, dime con qué bebida sale mejor el ceviche! Y si hay happy hour en alguno, avísame, que eso siempre ayuda al bolsillo.",
+      "sentAt": "2025-08-08T12:53:04.658Z",
+      "response": "¡Por supuesto! El ceviche va perfecto con agua de limón, jamaica o una cerveza clara bien fría. Mamacitas a veces tiene happy hour en cervezas por la tarde; pregunta por la promo al llegar. ¿Te gustaría más tips para maridar platillos picantes?",
+      "receivedAt": "2025-08-08T12:53:10.106Z",
+      "responseTime": 5448,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "¡Va! ¿Sabes a qué hora empieza el happy hour en Mamacitas y si hay límite de tiempo o mínimo de consumo?",
+      "sentAt": "2025-08-08T12:53:14.030Z",
+      "response": "Generalmente, el happy hour en Mamacitas inicia entre 4 y 7 pm, con duración de 2 a 3 horas. Suele no requerir consumo mínimo, pero pregunta al llegar por detalles y promociones vigentes. ¿Te gustaría más sugerencias para aprovechar tu visita?",
+      "receivedAt": "2025-08-08T12:53:22.152Z",
+      "responseTime": 8122,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "¡Sí, recomiéndame otro sitio barato con happy hour por la zona! Así comparo antes de decidir.",
+      "sentAt": "2025-08-08T12:53:28.456Z",
+      "response": "¡Por supuesto! Aquí tienes otra opción económica con happy hour cerca del centro:\n\n*La Diosa Taqueria Calle 8*  \n• Restaurante mexicano casual, ideal para botanear y probar salsas picantes  \n• Happy hour en cervezas y margaritas por la tarde  \n• https://www.google.com/maps/place/?q=place_id:ChIJ_W-cb3q32YgRnC8uPM2I2do\n\n¿Te gustaría saber qué platillos picantes o de mariscos ofrecen aquí?",
+      "receivedAt": "2025-08-08T12:53:35.042Z",
+      "responseTime": 6586,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "¡Sí, cuéntame cuáles son los mariscos más baratos que tienen en La Diosa Taqueria, y si esos entran en happy hour o solo aplica a las bebidas!",
+      "sentAt": "2025-08-08T12:53:39.866Z",
+      "response": "En La Diosa Taqueria, los mariscos más baratos suelen ser los tacos de camarón y ceviche de pescado. El happy hour aplica solo a bebidas (cervezas y margaritas), pero puedes acompañar tus mariscos con estas promos. ¿Quieres tips para pedirlos bien picantes?",
+      "receivedAt": "2025-08-08T12:53:46.502Z",
+      "responseTime": 6636,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "¡Claro! ¿Y esos tacos de camarón vienen bien servidos o son de esos que traen poquito relleno? Porque no quiero quedarme con hambre.",
+      "sentAt": "2025-08-08T12:53:50.782Z",
+      "response": "¡Buena pregunta! En La Diosa Taqueria los tacos de camarón suelen estar bien servidos, con camarones frescos y buena cantidad de vegetales. Si prefieres más relleno, puedes pedir doble camarón por un costo extra. ¿Te gustaría ideas para combinarlos con salsas picantes?",
+      "receivedAt": "2025-08-08T12:53:56.861Z",
+      "responseTime": 6079,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "Sí, dime cuáles salsas picantes recomiendas ahí, y si cobran extra por pedir varias.",
+      "sentAt": "2025-08-08T12:54:02.138Z",
+      "response": "¡Perfecto! En La Diosa Taqueria te recomiendo probar:\n\n• Salsa de habanero (muy picante)  \n• Salsa verde de chile serrano  \n• Salsa de chipotle ahumado  \n\nNormalmente no cobran extra por pedir varias salsas. ¿Te gustaría saber cuál combina mejor con los tacos de camarón?",
+      "receivedAt": "2025-08-08T12:54:09.318Z",
+      "responseTime": 7180,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "Sí, dime cuál de esas salsas queda mejor con los tacos de camarón, y si tienes algún tip para que no me enchile tanto, se agradece.",
+      "sentAt": "2025-08-08T12:54:13.709Z",
+      "response": "¡Claro! Para los tacos de camarón, la salsa de chipotle ahumado es ideal: resalta el sabor sin opacar el marisco y tiene picor moderado. Tip: pide la salsa aparte y agrega poco a poco, así controlas el nivel de picante. ¿Te gustaría más tips para disfrutar la comida picante?",
+      "receivedAt": "2025-08-08T12:54:19.105Z",
+      "responseTime": 5396,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T12:54:19.105Z",
+  "duration": 177179
+}

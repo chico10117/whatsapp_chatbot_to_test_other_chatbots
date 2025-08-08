@@ -74,9 +74,11 @@ export default class TestLogger {
     console.log(`   📝 ${questionCount} questions planned`);
   }
 
-  logQuestionSent(questionNumber, question, persona) {
+  logQuestionSent(questionNumber, question, persona, globalIndex, globalTotal) {
     const preview = question.length > 60 ? question.substring(0, 57) + '...' : question;
-    console.log(`   📤 [${new Date().toLocaleTimeString()}] Q${questionNumber}/15: ${preview}`);
+    const perPersonaTotal = persona?.maxQuestions || 15;
+    const globalStr = globalIndex && globalTotal ? ` | Global ${globalIndex}/${globalTotal}` : '';
+    console.log(`   📤 [${new Date().toLocaleTimeString()}] Q${questionNumber}/${perPersonaTotal}${globalStr}: ${preview}`);
     console.log(`   ⏳ Waiting for RECO response...`);
   }
 
@@ -90,6 +92,12 @@ export default class TestLogger {
     } else {
       console.log(`   ⚠️  No response received, proceeding anyway`);
     }
+  }
+
+  logQuestionGenerated(persona, questionNumber, durationMs, type = 'follow-up') {
+    const secs = (durationMs / 1000).toFixed(2);
+    const label = type === 'initial' ? 'Initial' : 'Follow-up';
+    console.log(`   🕒 [${new Date().toLocaleTimeString()}] ${label} question Q${questionNumber} generated in ${secs}s for ${persona.name}`);
   }
 
   logPersonaComplete(persona, duration) {

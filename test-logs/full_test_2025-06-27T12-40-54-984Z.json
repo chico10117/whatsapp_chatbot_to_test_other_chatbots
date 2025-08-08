@@ -1,0 +1,494 @@
+{
+  "timestamp": "2025-06-27T12:40:54.984Z",
+  "totalPersonas": 5,
+  "totalQuestions": 42,
+  "totalResponses": 39,
+  "testResults": [
+    {
+      "personaId": "health_conscious",
+      "personaName": "María Fitness",
+      "language": "es",
+      "description": "Usuario consciente de la salud que busca opciones nutritivas",
+      "startTime": "2025-06-27T12:27:30.383Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "¡Hola RECO! ¿Conoces algún restaurante vegano en la zona que tenga opciones sin gluten y use ingredientes orgánicos?",
+          "sentAt": "2025-06-27T12:27:31.626Z",
+          "response": "¡Hola! 😊  \nAquí tienes opciones veganas, sin gluten y con ingredientes orgánicos cerca de Alcorcón/Madrid:\n\n• El Fermín: ⭐️ 4.3  \n  Vegano/vegetariano, opciones sin gluten, cocina vegetal  \n  15–20 €  \n  📍https://goo.gl/maps/3SyQy7LpKAvPU5HE9\n\n• Artemisa (Madrid centro): ⭐️ 4.5  \n  100% vegano y sin gluten, cocina casera saludable  \n  15–20 €  \n  📍https://goo.gl/maps/PwdneR9C1qz8JK8y8\n\n• Kauna Lounge And Sushi Bar: ⭐️ 4.7  \n  Opciones veganas y sin gluten, no exclusivo ni orgánico  \n  25 €  \n  📍https://goo.gl/maps/dn6z6B8rAro1JgqD7\n\nSi buscas estrictamente ingredientes orgánicos certificados, te recomiendo preguntar en el restaurante antes de ir. ¿Te gustaría más información sobre alguno?",
+          "receivedAt": "2025-06-27T12:27:53.143Z",
+          "responseTime": 21517,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "Gracias, RECO. ¿Sabes si en Artemisa usan proteínas vegetales como tofu, tempeh o legumbres en sus platos principales?",
+          "sentAt": "2025-06-27T12:27:56.277Z",
+          "response": "¡Por supuesto! 😊  \n• En Artemisa destacan las proteínas vegetales: legumbres (garbanzos, lentejas), tofu y tempeh suelen estar presentes en sus platos principales.  \n• También emplean frutos secos, semillas y quinoa para aportar variedad y nutrición.  \n¿Te gustaría saber qué platos concretos llevan estos ingredientes o necesitas recomendaciones según tus gustos?",
+          "receivedAt": "2025-06-27T12:28:13.680Z",
+          "responseTime": 17403,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "¡Genial! ¿Tienes idea de si en Artemisa preparan sus platos con aceites saludables como el de oliva virgen extra, o usan otro tipo de aceite?",
+          "sentAt": "2025-06-27T12:28:18.319Z",
+          "response": "¡Muy buena pregunta!  \n• En Artemisa, por su enfoque mediterráneo y saludable, es habitual el uso de aceite de oliva virgen extra, sobre todo en ensaladas, cremas y aliños.  \n• Sin embargo, la carta no especifica si lo usan en todos los platos, así que lo mejor es consultarlo en el restaurante si buscas exclusividad.  \n¿Quieres que te ayude con más detalles sobre algún plato concreto?",
+          "receivedAt": "2025-06-27T12:28:33.569Z",
+          "responseTime": 15250,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "Sí, por favor. ¿Podrías decirme si tienen algún plato principal con tempeh y qué otros ingredientes lo acompañan?",
+          "sentAt": "2025-06-27T12:28:37.984Z",
+          "response": "¡Claro!  \n• Actualmente, en la carta oficial de Artemisa no aparece ningún plato principal con tempeh.  \n• Sus platos principales suelen llevar tofu, legumbres, verduras y hamburguesas vegetales, pero no tempeh como ingrediente destacado.  \n¿Te gustaría que te recomiende otros restaurantes en Madrid donde sí sirvan tempeh?",
+          "receivedAt": "2025-06-27T12:29:00.717Z",
+          "responseTime": 22733,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "Sí, por favor. ¿Conoces algún restaurante vegano cerca que ofrezca platos principales con tempeh y que también cuide el uso de ingredientes ecológicos?",
+          "sentAt": "2025-06-27T12:29:04.930Z",
+          "response": "¡Por supuesto! Aquí tienes opciones veganas cerca de Alcorcón/Madrid con platos de tempeh y enfoque ecológico:\n\n• Masamadre Vegan Food  \n  - Platos con tempeh y productos ecológicos  \n  - 📍https://goo.gl/maps/eLWRtQdSypw4y8Mh7\n\n• Romero Verde: ⭐️ 4.6  \n  Tempeh como proteína principal, ingredientes naturales y ecológicos  \n  25–30 €  \n  📍https://goo.gl/maps/pzuKpyaWB2sSaZZB7\n\n• Levél Veggie Bistró: ⭐️ 4.7  \n  Cocina sofisticada, platos con tempeh y productos ecológicos  \n  35 €  \n  📍https://goo.gl/maps/6b2bvxG3xCzAWyCq8\n\n¿Quieres detalles de algún menú o prefieres reservar directamente?",
+          "receivedAt": "2025-06-27T12:29:22.406Z",
+          "responseTime": 17476,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "¿Sabes si en Romero Verde el tempeh lo preparan a la plancha, al horno o en algún guiso? Me interesa saber cómo lo cocinan.",
+          "sentAt": "2025-06-27T12:29:26.601Z",
+          "response": "¡Buena elección!  \n• En Romero Verde suelen preparar el tempeh salteado a la plancha, como en su Pad Thai de verduras con tempeh y salsa de cacahuete.  \n• También lo incluyen en platos fusión, a veces en guisos o acompañado de salsas.  \n¿Te gustaría saber más sobre algún plato concreto con tempeh de su carta?",
+          "receivedAt": "2025-06-27T12:29:46.835Z",
+          "responseTime": 20234,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "¿Sabes si ese Pad Thai de verduras con tempeh es sin gluten y qué tipo de fideos usan exactamente?",
+          "sentAt": "2025-06-27T12:29:51.299Z",
+          "response": null,
+          "receivedAt": null,
+          "responseTime": null,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-06-27T12:30:24.320Z",
+      "duration": 173937
+    },
+    {
+      "personaId": "budget_conscious",
+      "personaName": "Carlos Estudiante",
+      "language": "es",
+      "description": "Estudiante universitario con presupuesto limitado",
+      "startTime": "2025-06-27T12:30:29.326Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, ¿conoces algún sitio cerca que tenga menú del día barato? Tengo el presupuesto justo y quiero comer bien.",
+          "sentAt": "2025-06-27T12:30:32.879Z",
+          "response": "¡Por supuesto! Aquí tienes opciones con menú del día económico cerca de Alcorcón:\n\n- Restaurante De Julián: ⭐️ 4.3  \n  Menú del día variado y casero  \n  12–14 €  \n  📍https://goo.gl/maps/jPEQ1YkKfJbPxMqp8\n\n- Bar Restaurante El Rincón de Rafa: ⭐️ 4.2  \n  Menú del día abundante y económico  \n  10–12 €  \n  📍https://goo.gl/maps/7xkJ2K8v3xQ2\n\n- Cafetería El Parque: ⭐️ 4.1  \n  Platos sencillos y menú diario  \n  9–11 €  \n  📍https://goo.gl/maps/3gQw2wQ1g6E2\n\n¿Prefieres comida casera, vegetariana o tienes alguna restricción alimentaria?",
+          "receivedAt": "2025-06-27T12:30:41.774Z",
+          "responseTime": 8895,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "¿En alguno de esos sitios hacen descuento para estudiantes o incluyen bebida en el menú?",
+          "sentAt": "2025-06-27T12:30:43.127Z",
+          "response": "¡Buena pregunta!  \n• Restaurante De Julián: El menú suele incluir bebida y postre/café, pero no tienen descuento específico para estudiantes.  \n• El Rincón de Rafa: Incluye bebida y postre en el menú; pregunta por descuentos, a veces hacen promociones según el día.  \n• Cafetería El Parque: El menú básico incluye bebida, pero no hay descuento estudiantil oficial.\n\n¿Quieres que te ayude a llamar para confirmar promociones o buscas menús aún más económicos?",
+          "receivedAt": "2025-06-27T12:30:50.545Z",
+          "responseTime": 7418,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "¿Sabes si en alguno de esos sitios hay opción de repetir plato o si las raciones son generosas?",
+          "sentAt": "2025-06-27T12:30:54.595Z",
+          "response": "¡Claro!  \n• Restaurante De Julián: Raciones generosas, pero no suelen permitir repetir plato en el menú del día.  \n• El Rincón de Rafa: Platos abundantes y trato cercano; a veces permiten repetir si hay poca gente, pero depende del día.  \n• Cafetería El Parque: Raciones normales, no suelen permitir repetir.\n\n¿Te gustaría que te recomiende algún sitio tipo buffet libre o con menús más abundantes?",
+          "receivedAt": "2025-06-27T12:31:02.615Z",
+          "responseTime": 8020,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "Sí, dime si hay algún buffet libre por la zona que sea barato y se pueda comer bien, y si hay alguna oferta especial para estudiantes.",
+          "sentAt": "2025-06-27T12:31:06.546Z",
+          "response": "¡Por supuesto! Aquí tienes una opción destacada en Alcorcón:\n\n- Restaurante Pacífico Buffet Libre  \n  Buffet asiático/wok muy variado y popular, ideal para comer bien y abundante  \n  • Comidas entre semana: 16,80 €  \n  • Cenas (lunes a jueves): 22 €  \n  • Fines de semana/festivos: 26 €  \n  • Niños hasta 1,40 m: 12 €  \n  • Bebidas ilimitadas incluidas  \n  📍https://goo.gl/maps/hWv4PKH5Uo1gamBZA  \n  *No hay información oficial sobre descuentos para estudiantes, pero puedes consultarlo al llegar.*\n\n¿Te gustaría que te recomiende buffets de otro tipo o más económicos?",
+          "receivedAt": "2025-06-27T12:31:21.203Z",
+          "responseTime": 14657,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "¿Sabes si en ese buffet hay opción de llevarse comida para casa o solo es para comer allí?",
+          "sentAt": "2025-06-27T12:31:25.585Z",
+          "response": "¡Buena pregunta!  \n• En Restaurante Pacífico Buffet Libre, el servicio principal es para comer en el local.  \n• No suelen ofrecer opción de llevar comida a casa desde el buffet, pero a veces tienen menú para llevar aparte.  \n¿Quieres que te busque buffets o restaurantes con opción take away cerca?",
+          "receivedAt": "2025-06-27T12:31:31.919Z",
+          "responseTime": 6334,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "¿Sabes si en el menú para llevar suelen poner bastante cantidad o es más pequeño que lo que sirven en el local?",
+          "sentAt": "2025-06-27T12:31:36.242Z",
+          "response": "¡Muy buena consulta!  \n• Normalmente, el menú para llevar en buffets como Pacífico suele ser más pequeño que el autoservicio en el local, ya que se cobra por ración o bandeja.  \n• La cantidad es razonable, pero no tan abundante como comer allí sin límite.  \n¿Te gustaría que te recomiende sitios con menús para llevar generosos o económicos?",
+          "receivedAt": "2025-06-27T12:31:44.189Z",
+          "responseTime": 7947,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "¿Conoces algún sitio en Alcorcón donde los menús para llevar sean grandes y baratos, tipo para compartir entre dos?",
+          "sentAt": "2025-06-27T12:31:48.194Z",
+          "response": "¡Por supuesto! Aquí tienes opciones en Alcorcón con menús para llevar grandes y económicos, ideales para compartir:\n\n• Cocina Bon Appétit  \n  - Menú del día casero para llevar: primer plato, segundo, postre y pan  \n  - 9,95 € (tarde) / 10,95 € (mañana)  \n  - 📍Busca “Cocina Bon Appétit Alcorcón” en Google Maps\n\n• Fratelli's Due Pizza: ⭐️ 4/5  \n  - Pizzas artesanales grandes, perfectas para compartir  \n  - 10–15 € por persona  \n  - 📍Busca “Fratelli's Due Pizza Alcorcón” en Google Maps\n\n• Pizzeria Carlos Alcorcón 2: ⭐️ 4/5  \n  - Pizzas familiares y menús para llevar  \n  - 10–15 € por persona  \n  - 📍Busca “Pizzeria Carlos Alcorcón 2” en Google Maps\n\n¿Prefieres comida casera, italiana o tienes antojo de otro tipo de cocina para compartir?",
+          "receivedAt": "2025-06-27T12:32:01.255Z",
+          "responseTime": 13061,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "¿Sabes si en Cocina Bon Appétit el menú para llevar incluye bebida o hay que pagarla aparte?",
+          "sentAt": "2025-06-27T12:32:05.075Z",
+          "response": "¡Buena pregunta!  \n• En Cocina Bon Appétit, el menú para llevar normalmente NO incluye bebida; suele cobrarse aparte.  \n• Puedes añadirla por un pequeño suplemento si lo deseas.  \n¿Te gustaría saber qué platos suelen tener en el menú diario o buscas otras opciones similares?",
+          "receivedAt": "2025-06-27T12:32:11.217Z",
+          "responseTime": 6142,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "¿Qué tipo de platos suelen poner en el menú diario de Cocina Bon Appétit? ¿Tienen opciones para vegetarianos?",
+          "sentAt": "2025-06-27T12:32:15.415Z",
+          "response": "¡Claro!  \n• Cocina Bon Appétit suele ofrecer platos caseros como guisos, arroces, pasta, carnes y pescados.  \n• Suelen incluir opciones vegetarianas: cremas, ensaladas, pastas o verduras salteadas.  \n¿Te gustaría que te cuente algún ejemplo concreto del menú de esta semana?",
+          "receivedAt": "2025-06-27T12:32:24.007Z",
+          "responseTime": 8592,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "Sí, dime algún ejemplo de menú que tengan esta semana y si se puede elegir entre varios primeros y segundos.",
+          "sentAt": "2025-06-27T12:32:27.723Z",
+          "response": "¡Por supuesto!  \n• En Cocina Bon Appétit normalmente puedes elegir entre 3-4 primeros y 3-4 segundos cada día.  \n• Ejemplo de menú semanal:  \n  - Primeros: ensalada mixta, crema de calabaza, arroz a la cubana, pasta boloñesa  \n  - Segundos: pollo al horno, merluza a la romana, tortilla de patata, albóndigas vegetales  \n• Incluyen pan y postre.  \n¿Te gustaría saber si hay algún plato específico para vegetarianos esta semana?",
+          "receivedAt": "2025-06-27T12:32:35.236Z",
+          "responseTime": 7513,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "¿Sabes si cambian los platos todos los días o repiten mucho durante la semana?",
+          "sentAt": "2025-06-27T12:32:39.009Z",
+          "response": "¡Buena pregunta!  \n• En Cocina Bon Appétit suelen cambiar los platos a diario, ofreciendo variedad cada día.  \n• Algunos básicos como ensaladas o pastas pueden repetirse, pero los guisos y segundos principales varían bastante.  \n¿Quieres que te ayude a consultar el menú de un día concreto?",
+          "receivedAt": "2025-06-27T12:32:45.415Z",
+          "responseTime": 6406,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "Sí, ¿sabes si suelen tener algún postre casero incluido en el menú, tipo flan o arroz con leche, o son postres de estos industriales?",
+          "sentAt": "2025-06-27T12:32:50.392Z",
+          "response": "¡Muy buena consulta!  \n• En Cocina Bon Appétit suelen incluir postres caseros en el menú, como flan, arroz con leche o natillas.  \n• También pueden ofrecer fruta o yogur, pero los caseros son habituales.  \n¿Te gustaría saber qué postres caseros tienen hoy o prefieres otras opciones?",
+          "receivedAt": "2025-06-27T12:32:59.514Z",
+          "responseTime": 9122,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "¿Sabes si los postres caseros están incluidos en el precio del menú, o hay que pagar un suplemento si eliges flan o arroz con leche?",
+          "sentAt": "2025-06-27T12:33:03.673Z",
+          "response": "¡Sí!  \n• En Cocina Bon Appétit, los postres caseros como flan o arroz con leche suelen estar incluidos en el precio del menú, sin suplemento.  \n• Solo algunos postres especiales pueden tener recargo, pero lo habitual es que estén incluidos.  \n¿Quieres que te ayude a consultar el menú de hoy o necesitas recomendaciones de otros sitios?",
+          "receivedAt": "2025-06-27T12:33:10.380Z",
+          "responseTime": 6707,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "Genial, ¿sabes si hay sitio para sentarse si voy a recoger el menú o es solo para llevar?",
+          "sentAt": "2025-06-27T12:33:15.497Z",
+          "response": "¡Buena pregunta!  \n• En Cocina Bon Appétit, el menú está pensado principalmente para llevar, pero suelen tener algunas mesas para esperar o, a veces, para comer rápido si hay sitio.  \n• No es un local de comedor amplio.  \n¿Te gustaría opciones con más espacio para comer allí o prefieres solo para llevar?",
+          "receivedAt": "2025-06-27T12:33:22.239Z",
+          "responseTime": 6742,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "Si sabes de algún sitio parecido, pero que tenga zona para sentarse tranquilo y comer allí, ¿me puedes recomendar alguno por la zona?",
+          "sentAt": "2025-06-27T12:33:26.532Z",
+          "response": "¡Por supuesto! Aquí tienes restaurantes en Alcorcón con menú del día y zona cómoda para sentarse y comer tranquilo:\n\n• El Fermín: ⭐️ 4,3  \n  Menú del día variado, ambiente acogedor y zona amplia para comer  \n  15–20 €  \n  📍https://goo.gl/maps/N8vnfA3G7xjA2Hmt6\n\n• Asador Villaranda: ⭐️ 4,2  \n  Cocina casera, menú del día económico y comedor espacioso  \n  15 €  \n  📍https://goo.gl/maps/18R2De7Pc9aEJgkW7\n\n• Carpe Diem Restaurant: ⭐️ 4,2  \n  Menú del día equilibrado, local moderno y cómodo para sentarse  \n  15–18 €  \n  📍https://goo.gl/maps/JPwnUs9KY1W2\n\n¿Prefieres ambiente tranquilo, comida tradicional o buscas algo más específico?",
+          "receivedAt": "2025-06-27T12:33:54.432Z",
+          "responseTime": 27900,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-06-27T12:33:54.432Z",
+      "duration": 205106
+    },
+    {
+      "personaId": "family_kids",
+      "personaName": "Ana Familia",
+      "language": "es",
+      "description": "Madre de familia con dos niños pequeños",
+      "startTime": "2025-06-27T12:33:59.436Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, ¿me puedes recomendar un restaurante en la ciudad que tenga zona de juegos para niños y menú infantil?",
+          "sentAt": "2025-06-27T12:34:00.752Z",
+          "response": "¡Por supuesto! Aquí tienes una opción ideal en Alcorcón para ir con niños:\n\n• VIPS Alcorcón: ⭐️ 4,0  \n  Zona de juegos infantil y menú especial para niños (hamburguesas, pasta, nuggets, etc.)  \n  10–15 € por niño  \n  📍https://goo.gl/maps/1b4kqK7v2vQ2\n\n• Foster’s Hollywood Tres Aguas: ⭐️ 4,1  \n  Espacio familiar, menú infantil y área de juegos en el centro comercial  \n  12–16 € por niño  \n  📍https://goo.gl/maps/6q9ZQK2rV4Q2\n\n¿Quieres más opciones o buscas algún tipo de comida en concreto?",
+          "receivedAt": "2025-06-27T12:34:10.170Z",
+          "responseTime": 9418,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "¿Sabes si en VIPS Alcorcón hay tronas y cambiador para bebés? Eso para mí es fundamental.",
+          "sentAt": "2025-06-27T12:34:11.359Z",
+          "response": "¡Buena pregunta!  \n• En VIPS Alcorcón suelen disponer de tronas para bebés y, en muchos locales de la cadena, también hay cambiador en los baños.  \n• Aunque no está confirmado al 100% para esta sucursal, es muy probable por su enfoque familiar.  \n• Te recomiendo llamar antes de ir para asegurarte de que ambos servicios estén disponibles ese día.  \n¿Quieres que te ayude a buscar el teléfono o necesitas más opciones familiares en la zona?",
+          "receivedAt": "2025-06-27T12:34:27.457Z",
+          "responseTime": 16098,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "Perfecto, ¿sabes si en Foster’s Hollywood Tres Aguas la zona de juegos está cerca de las mesas para poder vigilar a los niños mientras comemos?",
+          "sentAt": "2025-06-27T12:34:31.537Z",
+          "response": "¡Muy buena consulta!  \n• En Foster’s Hollywood Tres Aguas, la zona de juegos suele estar dentro del propio centro comercial, cerca del restaurante, pero no integrada en la sala de mesas.  \n• Desde algunas mesas puedes vigilar a los niños si están en la zona de juegos del centro, pero no es una ludoteca interna al restaurante.  \n• Si buscas vigilancia directa mientras comes, te recomiendo preguntar al llegar por la mesa más cercana a la zona de juegos.  \n¿Quieres que te recomiende restaurantes con ludoteca interna o zona infantil dentro del propio local?",
+          "receivedAt": "2025-06-27T12:34:40.337Z",
+          "responseTime": 8800,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "Sí, por favor, ¿me puedes recomendar algún restaurante en Alcorcón que tenga ludoteca interna dentro del propio local? Eso me da mucha tranquilidad.",
+          "sentAt": "2025-06-27T12:34:44.496Z",
+          "response": "¡Por supuesto! Aquí tienes una opción en Alcorcón con ludoteca interna:\n\n• La Tagliatella Alcorcón: ⭐️ 4,2  \n  Restaurante italiano con ludoteca interna para niños, ideal para familias.  \n  Menú infantil disponible.  \n  15–20 € por persona  \n  📍https://goo.gl/maps/6v5RTKvTZdUoNZtA8\n\n• Ginos Alcorcón TresAguas: ⭐️ 4,0  \n  Zona de juegos infantil dentro del local, ambiente familiar y menú infantil.  \n  12–18 € por persona  \n  📍https://goo.gl/maps/7xKJ4h4vK8H2\n\n¿Te gustaría más información sobre los menús infantiles o necesitas reservar mesa?",
+          "receivedAt": "2025-06-27T12:34:54.806Z",
+          "responseTime": 10310,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "¿Sabes si en La Tagliatella la ludoteca está atendida por monitores o es solo un espacio de juegos donde los niños juegan solos?",
+          "sentAt": "2025-06-27T12:34:58.737Z",
+          "response": "¡Muy buena pregunta!  \n• En La Tagliatella Alcorcón, la ludoteca suele ser un espacio de juegos sin monitores, donde los niños juegan solos bajo la supervisión de sus familias.  \n• No suelen contar con personal específico para atender la zona infantil.  \n¿Quieres que te recomiende algún restaurante con ludoteca atendida por monitores o buscas más detalles sobre La Tagliatella?",
+          "receivedAt": "2025-06-27T12:35:05.323Z",
+          "responseTime": 6586,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "¿El espacio de juegos en Ginos está pensado para niños pequeños, como los míos de 4 y 7 años, o es más para niños mayores?",
+          "sentAt": "2025-06-27T12:35:09.577Z",
+          "response": "¡Perfecta consulta!  \n• En Ginos Alcorcón TresAguas, la zona de juegos está pensada principalmente para niños pequeños, ideal para edades como 4 y 7 años.  \n• Suele incluir juegos seguros, pizarras y juguetes adaptados a los más peques.  \n¿Te gustaría detalles sobre el menú infantil o prefieres más opciones similares en la zona?",
+          "receivedAt": "2025-06-27T12:35:16.308Z",
+          "responseTime": 6731,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "¿Tienes idea si en Ginos hay cambiador en el baño y si las mesas están cerca de la zona de juegos para poder vigilar a los niños mientras comen y juegan?",
+          "sentAt": "2025-06-27T12:35:20.492Z",
+          "response": "¡Muy buena pregunta!  \n• En Ginos Alcorcón TresAguas suelen disponer de cambiador en el baño, ya que es un local familiar.  \n• La zona de juegos está cerca de las mesas, permitiendo vigilar a los niños mientras comes, aunque la visibilidad depende de la mesa que te asignen.  \n¿Quieres que te ayude a reservar mesa cerca de la zona de juegos o necesitas más opciones familiares?",
+          "receivedAt": "2025-06-27T12:35:28.379Z",
+          "responseTime": 7887,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "Sí, ¿me puedes contar qué incluye el menú infantil en Ginos? Así veo si les gustará a mis hijos.",
+          "sentAt": "2025-06-27T12:35:32.419Z",
+          "response": "¡Por supuesto!  \n• El menú infantil en Ginos suele incluir:  \n  - Plato principal a elegir: pizza pequeña, pasta (macarrones o espaguetis con salsa a elegir), lasaña o nuggets  \n  - Bebida: agua, zumo o refresco  \n  - Postre: helado, yogur o fruta  \n• Incluye también un pequeño detalle o juguete.  \n¿Quieres saber si tienen opciones sin gluten o vegetarianas para niños?",
+          "receivedAt": "2025-06-27T12:35:43.015Z",
+          "responseTime": 10596,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "¿Sabes si suelen tener tronas disponibles en Ginos? Porque si vamos con el peque de 4 años, aún la necesitamos.",
+          "sentAt": "2025-06-27T12:35:46.864Z",
+          "response": "¡Sí!  \n• En Ginos Alcorcón TresAguas suelen disponer de tronas para los más pequeños.  \n• Solo tienes que pedirla al llegar o al hacer la reserva.  \n¿Te gustaría que te ayude a reservar mesa y trona, o necesitas más información sobre el restaurante?",
+          "receivedAt": "2025-06-27T12:35:55.354Z",
+          "responseTime": 8490,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "¿El restaurante suele estar muy lleno los fines de semana o se puede ir sin reserva? Me gustaría saber si es necesario reservar con antelación.",
+          "sentAt": "2025-06-27T12:36:00.204Z",
+          "response": "¡Muy buena consulta!  \n• Ginos Alcorcón TresAguas suele estar bastante concurrido los fines de semana, sobre todo en horarios de comida y cena.  \n• Es recomendable reservar con antelación para asegurar mesa, especialmente si necesitas zona cerca de juegos o trona.  \n¿Quieres que te ayude a gestionar la reserva o prefieres más opciones familiares por la zona?",
+          "receivedAt": "2025-06-27T12:36:06.377Z",
+          "responseTime": 6173,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "¿Sabes si el aparcamiento en TresAguas suele estar muy lleno o suele haber sitio fácil para aparcar con niños?",
+          "sentAt": "2025-06-27T12:36:10.616Z",
+          "response": "¡Buena pregunta!  \n• El centro comercial TresAguas dispone de un parking amplio y gratuito.  \n• Normalmente hay plazas disponibles, incluso en fines de semana, aunque puede haber más afluencia en horas punta.  \n• Suele ser fácil aparcar cerca de la entrada, ideal para ir con niños.  \n¿Te gustaría recomendaciones de acceso o buscas más restaurantes con fácil aparcamiento?",
+          "receivedAt": "2025-06-27T12:36:18.802Z",
+          "responseTime": 8186,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "¿Sabes si en TresAguas hay alguna zona de juegos o parque infantil donde puedan jugar los niños antes o después de comer?",
+          "sentAt": "2025-06-27T12:36:23.273Z",
+          "response": "¡Sí!  \n• En TresAguas hay varias zonas de juegos infantiles, tanto interiores como exteriores.  \n• Disponen de parque infantil cubierto, áreas de juegos blandos y, en ocasiones, actividades organizadas para niños.  \n• Es ideal para que los peques jueguen antes o después de comer.  \n¿Quieres información sobre horarios o actividades especiales para niños en el centro comercial?",
+          "receivedAt": "2025-06-27T12:36:30.425Z",
+          "responseTime": 7152,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "¿Sabes si alguna de esas zonas de juegos en TresAguas es gratuita o si hay que pagar entrada para que los niños puedan jugar?",
+          "sentAt": "2025-06-27T12:36:34.873Z",
+          "response": "¡Muy buena consulta!  \n• En TresAguas, la mayoría de las zonas de juegos infantiles básicas (parques exteriores y áreas blandas interiores) son gratuitas.  \n• Algunas zonas especiales, como ludotecas o actividades organizadas, pueden tener coste o entrada puntual.  \n¿Quieres detalles sobre alguna zona de juegos concreta o información sobre horarios y actividades?",
+          "receivedAt": "2025-06-27T12:36:40.917Z",
+          "responseTime": 6044,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "¿Sabes si en verano las zonas de juegos exteriores tienen sombra o toldos para proteger a los niños del sol?",
+          "sentAt": "2025-06-27T12:36:44.810Z",
+          "response": "¡Excelente pregunta!  \n• En TresAguas, las zonas de juegos exteriores cuentan con algunas áreas sombreadas y toldos, pero no toda la superficie está cubierta.  \n• Es recomendable llevar gorra y protección solar para los niños, sobre todo en las horas centrales del día.  \n¿Te gustaría que te recomiende otras zonas de juegos cubiertas o actividades fresquitas para el verano?",
+          "receivedAt": "2025-06-27T12:36:52.231Z",
+          "responseTime": 7421,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "Sí, ¿me puedes recomendar alguna actividad cubierta para niños pequeños en la zona, aparte de las zonas de juegos del centro comercial?",
+          "sentAt": "2025-06-27T12:36:56.440Z",
+          "response": "¡Por supuesto! Aquí tienes actividades cubiertas para niños pequeños en Alcorcón y alrededores:\n\n• Urban Planet Jump Alcorcón: ⭐️ 4,5  \n  Parque de camas elásticas cubierto, zona para peques y cumpleaños  \n  10–15 €  \n  📍https://goo.gl/maps/9w3rR5wz7j9k4t6z6\n\n• Ludoteca Chiquitines: ⭐️ 4,6  \n  Espacio de juegos cubierto para niños pequeños, talleres y animación  \n  8–12 €  \n  📍https://goo.gl/maps/1vQ7U2xwz2bQeT7A7\n\n• Happyland Alcorcón: ⭐️ 4,4  \n  Parque infantil cubierto con toboganes, piscinas de bolas y cafetería  \n  7–12 €  \n  📍https://goo.gl/maps/7n3T6wz6z8bqZk2d8\n\n¿Te gustaría información sobre horarios, reservas o actividades especiales en alguno de estos sitios?",
+          "receivedAt": "2025-06-27T12:37:09.993Z",
+          "responseTime": 13553,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-06-27T12:37:09.994Z",
+      "duration": 190558
+    },
+    {
+      "personaId": "international_tourist",
+      "personaName": "James British",
+      "language": "en",
+      "description": "British tourist visiting Spain for the first time",
+      "startTime": "2025-06-27T12:37:14.997Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hi there! I’ve just arrived in Madrid and I’m really keen to try some authentic Spanish food. Could you recommend a good place for my first dinner?",
+          "sentAt": "2025-06-27T12:37:15.724Z",
+          "response": "Welcome to Madrid! 🇪🇸 Here are top spots for authentic Spanish food:\n\n• Restaurante Botín: ⭐️ 4.5  \n  World’s oldest restaurant, famous for roast suckling pig & lamb  \n  €40–€60  \n  📍https://maps.app.goo.gl/Jkf7e9r3JfUQFhNY9\n\n• Casa Lucio: ⭐️ 4.3  \n  Legendary “huevos rotos” and classic Spanish dishes  \n  €35–€50  \n  📍https://maps.app.goo.gl/ZK4Q1CxYCDfWfVcS9\n\n• La Bola Taberna: ⭐️ 4.5  \n  Famous for cocido madrileño (traditional stew)  \n  €20–€35  \n  📍https://maps.app.goo.gl/oAVeZVQ6Uxy5WNTXA\n\nWould you like more options or details about any of these?",
+          "receivedAt": "2025-06-27T12:37:41.539Z",
+          "responseTime": 25815,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "These all sound brilliant! Does Restaurante Botín have an English menu, and do I need to book a table in advance?",
+          "sentAt": "2025-06-27T12:37:42.692Z",
+          "response": "Great choice!  \n• Restaurante Botín does have an English menu—just ask the staff, they’re used to international guests.  \n• Booking in advance is highly recommended, especially for dinner, as it’s very popular.  \nWould you like help with the reservation or tips on what to order?",
+          "receivedAt": "2025-06-27T12:37:49.118Z",
+          "responseTime": 6426,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "That’s really helpful, thank you! What would you say are the absolute must-try dishes at Botín, especially for a first-timer like me?",
+          "sentAt": "2025-06-27T12:37:53.741Z",
+          "response": "You’re welcome! At Botín, don’t miss these classics:  \n• Cochinillo asado (roast suckling pig) – their signature dish  \n• Cordero asado (roast lamb) – tender and flavorful  \n• Sopa de ajo (garlic soup with egg and ham) – a local favorite starter  \n• Tarta de la casa (house cake) – for dessert\n\nWould you like wine pairing suggestions or info on portion sizes?",
+          "receivedAt": "2025-06-27T12:38:00.535Z",
+          "responseTime": 6794,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "Those sound delicious! Would you happen to know if the portion sizes are quite large, or is it possible to share a main dish, especially the roast pig or lamb?",
+          "sentAt": "2025-06-27T12:38:04.801Z",
+          "response": null,
+          "receivedAt": null,
+          "responseTime": null,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-06-27T12:40:43.461Z",
+      "duration": 208464
+    },
+    {
+      "personaId": "foodie_adventurous",
+      "personaName": "Diego Gourmet",
+      "language": "es",
+      "description": "Foodie aventurero que busca experiencias gastronómicas únicas",
+      "startTime": "2025-06-27T12:40:48.493Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, ¿puedes recomendarme algún restaurante en la ciudad que ofrezca menús degustación con técnicas de cocina molecular?",
+          "sentAt": "2025-06-27T12:40:49.962Z",
+          "response": null,
+          "receivedAt": null,
+          "responseTime": null,
+          "analysis": {},
+          "error": "Connection Closed",
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-06-27T12:40:49.978Z",
+      "duration": 1485
+    }
+  ]
+}

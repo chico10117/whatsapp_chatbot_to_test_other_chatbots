@@ -1,0 +1,163 @@
+{
+  "personaId": "health_conscious",
+  "personaName": "María Fitness",
+  "language": "es",
+  "description": "Usuario consciente de la salud que busca opciones nutritivas",
+  "startTime": "2025-08-08T12:48:35.264Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "¡Hola RECO! ¿Conoces algún restaurante vegano y orgánico cerca del centro que tenga opciones sin gluten?",
+      "sentAt": "2025-08-08T12:48:37.618Z",
+      "response": "¡Hola! Claro, aquí tienes algunas opciones cerca del centro que pueden interesarte:\n\n• Vegamo: Restaurante vegano con opciones de hamburguesas, pizzas y desayunos. Ideal para quienes buscan opciones saludables y variadas.  \nhttps://www.google.com/maps/place/?q=place_id:ChIJw7OQuyr_0YURSik_5eRXJHs\n\n• El Mejor del Centro: Restaurante vegano y vegetariano con toque mexicano.  \nhttps://www.google.com/maps/place/?q=place_id:ChIJgfUMSdX-0YURTIt5N318460\n\n• Senza Gluten by Jemiko - 100% Gluten Free Cafe & Bakery: Café y panadería 100% libre de gluten, perfecto si buscas opciones seguras y deliciosas.  \nhttps://www.google.com/maps/place/?q=place_id:ChIJM95IwLZZwokRpZhaBV9TlYY\n\n¿Te gustaría saber más sobre el ambiente o los platillos de alguno?",
+      "receivedAt": "2025-08-08T12:48:51.429Z",
+      "responseTime": 13811,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "¡Gracias! Me interesa Vegamo. ¿Sabes si usan ingredientes orgánicos y qué opciones de proteínas vegetales tienen en su menú?",
+      "sentAt": "2025-08-08T12:48:53.097Z",
+      "response": "¡Con gusto! Vegamo suele priorizar ingredientes frescos y locales, aunque no siempre todos son orgánicos. Sus opciones de proteínas vegetales incluyen:\n\n• Tofu y tempeh en varios platillos  \n• Hamburguesas de lentejas y garbanzos  \n• Falafel y quinoa  \n\n¿Te gustaría que traduzca su menú o te ayude a elegir un platillo picante? Si tienes alguna otra preferencia, ¡cuéntame!",
+      "receivedAt": "2025-08-08T12:48:59.666Z",
+      "responseTime": 6569,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "¿Tienen opciones de smoothies o ensaladas que sean ricos en proteína vegetal?",
+      "sentAt": "2025-08-08T12:49:04.154Z",
+      "response": "¡Sí! Vegamo suele ofrecer:\n\n• Smoothies con proteína vegetal (puedes pedirlos con proteína de chícharo o soya)  \n• Ensaladas con tofu, garbanzos o quinoa, ideales para un extra de proteína  \n\n¿Te gustaría recomendaciones específicas de smoothies o ensaladas picantes?",
+      "receivedAt": "2025-08-08T12:49:09.009Z",
+      "responseTime": 4855,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "¿Los smoothies llevan endulzantes artificiales o usan frutas naturales para darle dulzor?",
+      "sentAt": "2025-08-08T12:49:13.666Z",
+      "response": "Generalmente, en Vegamo los smoothies se endulzan con frutas naturales como plátano o mango. Si prefieres sin azúcar añadida o sin endulzantes artificiales, puedes pedirlo al ordenar. ¿Quieres que te sugiera un smoothie específico?",
+      "receivedAt": "2025-08-08T12:49:17.481Z",
+      "responseTime": 3815,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "¿Tienen opciones de toppings saludables, como semillas de chía, hemp o frutos secos, para agregar a los smoothies?",
+      "sentAt": "2025-08-08T12:49:21.557Z",
+      "response": "¡Sí! Vegamo suele ofrecer toppings saludables como semillas de chía, hemp y mix de frutos secos para agregar a tus smoothies o bowls. Estos toppings aportan proteínas, grasas saludables y textura. ¿Te gustaría saber los beneficios de alguno?",
+      "receivedAt": "2025-08-08T12:49:34.413Z",
+      "responseTime": 12856,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "¿Las ensaladas tienen aderezos caseros y puedes elegir opciones bajas en grasa o sin aceite?",
+      "sentAt": "2025-08-08T12:49:38.551Z",
+      "response": "¡Exacto! Las ensaladas de Vegamo suelen tener aderezos caseros. Puedes pedir opciones bajas en grasa o sin aceite, como vinagreta de limón o yogur vegetal. ¿Te gustaría recomendaciones de ensaladas frescas y picantes?",
+      "receivedAt": "2025-08-08T12:49:43.128Z",
+      "responseTime": 4577,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "¿El yogur vegetal que usan en los aderezos es casero o comprado, y de qué está hecho?",
+      "sentAt": "2025-08-08T12:49:47.662Z",
+      "response": "Por lo general, el yogur vegetal en Vegamo es comprado y suele ser de coco o soya. Si prefieres casero, puedes preguntar al ordenar, ya que a veces lo preparan en casa. ¿Te gustaría opciones de aderezos sin yogur?",
+      "receivedAt": "2025-08-08T12:49:52.745Z",
+      "responseTime": 5083,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "Sí, ¿qué aderezos sin yogur ofrecen que sean bajos en azúcares añadidos?",
+      "sentAt": "2025-08-08T12:49:57.378Z",
+      "response": "¡Perfecto! En Vegamo puedes encontrar aderezos sin yogur y bajos en azúcares añadidos, como:\n\n• Salsa de aguacate con cilantro, limón y chile  \n• Vinagreta de aceite de oliva, mostaza y hierbas  \n• Salsa tahini con ajo y limón  \n\n¿Te gustaría saber cuál combina mejor con mariscos vegetales o alguna ensalada picante?",
+      "receivedAt": "2025-08-08T12:50:11.715Z",
+      "responseTime": 14337,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "¿La salsa tahini la preparan sin azúcar, y sabes si usan tahini orgánico?",
+      "sentAt": "2025-08-08T12:50:15.696Z",
+      "response": "La salsa tahini de Vegamo normalmente se prepara sin azúcar añadida, solo con tahini, limón, ajo y especias. El tahini suele ser de buena calidad, pero no siempre orgánico. Puedes pedir que te confirmen al ordenar. ¿Te gustaría recomendaciones de platillos donde usarla?",
+      "receivedAt": "2025-08-08T12:50:20.689Z",
+      "responseTime": 4993,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "¿Tienen wraps o bowls donde pueda pedir la salsa tahini como aderezo principal?",
+      "sentAt": "2025-08-08T12:50:24.855Z",
+      "response": "¡Sí! En Vegamo puedes pedir bowls y wraps donde la salsa tahini es una excelente opción de aderezo principal. Combina muy bien con falafel, tofu, garbanzos y vegetales frescos. ¿Te gustaría sugerencias de combinaciones picantes o con mariscos vegetales?",
+      "receivedAt": "2025-08-08T12:50:29.613Z",
+      "responseTime": 4758,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "¿Tienen opciones de wraps sin gluten, y qué ingredientes usan para la base?",
+      "sentAt": "2025-08-08T12:50:33.479Z",
+      "response": "¡Claro! Vegamo suele ofrecer wraps sin gluten hechos con tortillas de maíz, nopal o lechuga. Son ideales para quienes buscan opciones ligeras y saludables. ¿Quieres recomendaciones de rellenos picantes o con proteína vegetal?",
+      "receivedAt": "2025-08-08T12:50:40.417Z",
+      "responseTime": 6938,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "¿Cuál de las bases sin gluten recomiendas más para un wrap que sea saciante y alto en proteína vegetal?",
+      "sentAt": "2025-08-08T12:50:44.501Z",
+      "response": "Como tu foodie friend, te recomiendo la base de tortilla de nopal: es saciante, baja en calorías y rica en fibra. Combínala con tofu, garbanzos o falafel para un wrap alto en proteína vegetal. ¿Te gustaría ideas de combinaciones picantes?",
+      "receivedAt": "2025-08-08T12:50:49.430Z",
+      "responseTime": 4929,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "¿El falafel que preparan es horneado o frito, y sabes si usan aceite de buena calidad?",
+      "sentAt": "2025-08-08T12:50:54.039Z",
+      "response": "En Vegamo, el falafel suele ser frito, pero con aceite vegetal de buena calidad (como girasol o canola). Si prefieres horneado, puedes preguntar si lo preparan así. ¿Quieres opciones de wraps picantes con falafel?",
+      "receivedAt": "2025-08-08T12:50:58.321Z",
+      "responseTime": 4282,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "¿Tienen opción de agregar más vegetales o germinados frescos al wrap de falafel para hacerlo aún más nutritivo?",
+      "sentAt": "2025-08-08T12:51:02.430Z",
+      "response": "¡Sí! Puedes agregar más vegetales frescos como espinaca, jitomate, pepino, zanahoria y germinados al wrap de falafel. Así lo haces más nutritivo, colorido y saciante. ¿Te gustaría sugerencias de combinaciones picantes?",
+      "receivedAt": "2025-08-08T12:51:07.925Z",
+      "responseTime": 5495,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "¿Los germinados que usan son orgánicos y de qué tipo suelen tener disponibles?",
+      "sentAt": "2025-08-08T12:51:11.998Z",
+      "response": "Generalmente, los germinados en Vegamo son frescos y a veces orgánicos, según disponibilidad. Suelen tener germinados de alfalfa, lenteja y brócoli. Puedes preguntar por la opción orgánica al ordenar. ¿Te gustaría saber los beneficios de algún germinado?",
+      "receivedAt": "2025-08-08T12:51:16.921Z",
+      "responseTime": 4923,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T12:51:16.922Z",
+  "duration": 161658
+}

@@ -1,0 +1,163 @@
+{
+  "personaId": "health_conscious",
+  "personaName": "María Fitness",
+  "language": "es",
+  "description": "Usuario consciente de la salud que busca opciones nutritivas",
+  "startTime": "2025-07-01T22:36:56.473Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "¡Hola, RECO! ¿Me puedes recomendar algún restaurante vegano por la zona que use ingredientes orgánicos?",
+      "sentAt": "2025-07-01T22:36:58.181Z",
+      "response": "¡Hola! 😊  \nComo tu amigo foodie, te comparto algunos consejos para encontrar restaurantes veganos con ingredientes orgánicos en tu zona:\n\n• Busca en Google Maps: \"restaurante vegano ingredientes orgánicos\" y revisa valoraciones (lo ideal: 4.0-4.7/5).  \n• Verifica la carta: suelen indicar si usan productos orgánicos y de temporada.  \n• Pregunta por el origen de los ingredientes: los buenos restaurantes estarán encantados de contártelo.  \n• Ejemplo internacional:  \nMy Organic Corner: ⭐️ 4.5  \nRestaurante vegano con ingredientes siempre orgánicos y frescos.  \nGasto medio: rango medio  \n📍https://goo.gl/maps/qx2PGNWBUrF2\n\n¿Me dices en qué ciudad o barrio buscas? Así te paso opciones exactas con valoración, precio y enlace directo.",
+      "receivedAt": "2025-07-01T22:37:19.961Z",
+      "responseTime": 21780,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "¡Perfecto! Estoy en Madrid. ¿Tienes algún restaurante recomendado aquí que tenga buenas opciones sin gluten además de ser vegano y orgánico?",
+      "sentAt": "2025-07-01T22:37:21.254Z",
+      "response": "¡Por supuesto! Aquí tienes tres opciones top en Madrid que cumplen con lo que buscas:\n\n• Superchulo: ⭐️ 4.4  \nRestaurante moderno y alegre, cocina vegana creativa, todo sin gluten y apto para celíacos.  \n20–30 € por persona  \n📍https://goo.gl/maps/bvS7b3z1nhtpWyJD9\n\n• La Encomienda: ⭐️ 4.5  \nVegano y ecológico en Lavapiés, platos de temporada y ambiente acogedor. Consulta en el local las opciones 100% sin gluten.  \n18–25 € por persona  \n📍https://goo.gl/maps/6kYx3p9FkQmEYqAM8\n\n• Bloved Veggie Corner: ⭐️ 4.5  \nEspacio 100% vegetal en Gran Vía, cocina refinada y postres gourmet. Confirma en el local las opciones sin gluten.  \n30–35 € por persona  \n📍https://goo.gl/maps/p2XzTnPzCv5tmNmt8\n\n¿Te gustaría saber más sobre alguno o buscas algo aún más específico?",
+      "receivedAt": "2025-07-01T22:37:40.018Z",
+      "responseTime": 18764,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "Me llama la atención Superchulo porque todo es sin gluten. ¿Sabes si tienen buenas opciones de proteínas vegetales, como tofu, tempeh o legumbres en sus platos principales?",
+      "sentAt": "2025-07-01T22:37:44.782Z",
+      "response": "¡Genial elección! Superchulo destaca por:\n\n• Platos principales con proteínas vegetales: tofu, tempeh y legumbres como base.\n• Carnes veganas hechas de guisantes, soja y alubias.\n• Cocina creativa y saludable, ideal si buscas variedad y sabor.\n\n¿Quieres que te recomiende algún plato concreto de su carta o necesitas info sobre alérgenos?",
+      "receivedAt": "2025-07-01T22:37:56.807Z",
+      "responseTime": 12025,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "¿Tienen opciones de ensaladas completas con proteína vegetal? Me interesa que incluyan semillas o frutos secos para un aporte extra.",
+      "sentAt": "2025-07-01T22:38:01.869Z",
+      "response": "¡Sí! Superchulo ofrece ensaladas completas con:\n\n• Base de hojas frescas y vegetales variados  \n• Toppings de tofu, legumbres o tempeh  \n• Semillas (chía, sésamo, calabaza) y frutos secos (nueces, almendras)  \n• Aliños caseros y opciones sin gluten\n\nPerfectas para un aporte extra de proteínas y grasas saludables. ¿Te gustaría saber el contenido nutricional aproximado o prefieres recomendaciones de otros platos?",
+      "receivedAt": "2025-07-01T22:38:08.032Z",
+      "responseTime": 6163,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "¿Sabes si los aliños caseros de las ensaladas son 100% veganos y sin azúcares añadidos?",
+      "sentAt": "2025-07-01T22:38:11.945Z",
+      "response": "¡Buena pregunta! En Superchulo:\n\n• Los aliños caseros son 100% veganos (como alioli vegano y vinagretas vegetales).  \n• No especifican claramente la ausencia total de azúcares añadidos, pero su filosofía es saludable y suelen evitarlos.  \n• Si necesitas restricción absoluta de azúcar, mejor consulta directamente en el local.\n\n¿Te gustaría que te ayude a preguntarles o buscas otra recomendación?",
+      "receivedAt": "2025-07-01T22:38:23.571Z",
+      "responseTime": 11626,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "¿Sabes si Superchulo tiene opciones de smoothies o batidos veganos en su carta?",
+      "sentAt": "2025-07-01T22:38:28.476Z",
+      "response": "¡Sí! Superchulo Madrid ofrece smoothies y batidos aptos para veganos:\n\n• Todos alineados con su cocina plant based y saludable  \n• Puedes pedirlos 100% veganos (confírmalo al pedir)  \n• Ideales para un desayuno o merienda colorida  \n• Ingredientes frescos y naturales, sin lácteos\n\n¿Te gustaría saber más sobre sabores o buscas otra bebida saludable?",
+      "receivedAt": "2025-07-01T22:38:41.694Z",
+      "responseTime": 13218,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "¿Sabes si los smoothies llevan algún tipo de endulzante? Prefiero opciones que solo usen frutas para endulzar.",
+      "sentAt": "2025-07-01T22:38:45.959Z",
+      "response": "¡Buena elección! En Superchulo:\n\n• Sus smoothies suelen endulzarse solo con fruta fresca.  \n• No suelen añadir azúcares ni siropes, siguiendo su filosofía natural.  \n• Si prefieres que no lleven ningún endulzante extra, puedes pedirlo al hacer tu pedido.\n\n¿Te gustaría recomendaciones de combinaciones de frutas o prefieres explorar otras opciones veganas en Madrid?",
+      "receivedAt": "2025-07-01T22:38:51.281Z",
+      "responseTime": 5322,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "¿Tienen smoothies con ingredientes como espirulina, chlorella u otras superfoods? Me gusta añadir ese extra nutritivo.",
+      "sentAt": "2025-07-01T22:38:55.233Z",
+      "response": "¡Sí! Superchulo suele incluir superfoods en sus smoothies:\n\n• Puedes encontrar opciones con espirulina, chlorella, açai o maca.  \n• Su carta varía según temporada, pero siempre hay algún batido con “extra” nutritivo.  \n• Puedes pedir añadir superfoods a tu smoothie favorito.\n\n¿Te gustaría saber más sobre otros locales con smoothies de superfoods en Madrid? Si quieres, cuéntame más sobre tus gustos para afinar futuras recomendaciones.",
+      "receivedAt": "2025-07-01T22:38:59.596Z",
+      "responseTime": 4363,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "Me interesa, ¿conoces algún otro sitio en Madrid donde los smoothies de superfoods sean su especialidad y usen ingredientes ecológicos?",
+      "sentAt": "2025-07-01T22:39:04.473Z",
+      "response": "¡Por supuesto! Aquí tienes varios locales en Madrid especializados en smoothies de superfoods y con ingredientes ecológicos:\n\n• Pomona Club Healthy Bar: ⭐️ 4.6  \nSmoothies con productos de temporada y opciones ecológicas.  \n8–12 €/persona  \n📍https://maps.google.com/?q=Calle+de+Serrano+100,+Madrid\n\n• SESĒNROOM: ⭐️ 4.8  \nBarra de colágeno, smoothies funcionales, sin aditivos, puedes añadir superfoods.  \n7–10 €/persona  \n📍https://maps.google.com/?q=Calle+Fernando+el+Santo+21,+Madrid\n\n• Forbidden Fruit Bar: ⭐️ 4.7  \nEspecialistas en smoothies y bowls con acai, pitaya, espirulina, etc.  \n7–10 €/persona  \n📍https://maps.google.com/?q=Calle+de+la+Libertad+37,+Madrid\n\n¿Te gustaría info sobre alguno en concreto o buscas una zona específica?",
+      "receivedAt": "2025-07-01T22:39:20.239Z",
+      "responseTime": 15766,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "Forbidden Fruit Bar me llama la atención por la variedad de superfoods. ¿Sabes si sus bowls y smoothies también son sin gluten y usan bases vegetales como leche de almendras o avena?",
+      "sentAt": "2025-07-01T22:39:24.771Z",
+      "response": "¡Excelente elección! Forbidden Fruit Bar destaca por:\n\n• Bowls y smoothies 100% plant based, con opciones de leche de almendras, avena o coco.  \n• La mayoría de sus recetas son sin gluten, pero siempre es recomendable avisar si tienes intolerancia.  \n• Usan superfoods como base: açai, pitaya, espirulina, semillas y frutos secos ecológicos.\n\n¿Quieres recomendaciones de combinaciones o prefieres info nutricional aproximada?",
+      "receivedAt": "2025-07-01T22:39:29.687Z",
+      "responseTime": 4916,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "¿Tienen opciones de toppings proteicos, como granola sin gluten, semillas de cáñamo o crema de frutos secos para los bowls?",
+      "sentAt": "2025-07-01T22:39:34.155Z",
+      "response": "¡Sí! Forbidden Fruit Bar ofrece toppings proteicos para sus bowls:\n\n• Granola sin gluten (confirma al pedir)  \n• Semillas de cáñamo, chía y calabaza  \n• Cremas de frutos secos (almendra, cacahuete, anacardo)  \n• Fruta fresca y superfoods adicionales\n\n¿Te gustaría que te recomiende una combinación concreta o buscas info sobre alérgenos?",
+      "receivedAt": "2025-07-01T22:39:39.362Z",
+      "responseTime": 5207,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "¿Sabes si preparan la granola en el local y si está endulzada solo con fruta o miel, o llevan algún azúcar añadido?",
+      "sentAt": "2025-07-01T22:39:43.792Z",
+      "response": "¡Muy buena pregunta! En Forbidden Fruit Bar:\n\n• Suelen preparar la granola en el local, priorizando ingredientes naturales.  \n• Normalmente la endulzan solo con fruta deshidratada o miel, evitando azúcares refinados.  \n• Si prefieres sin miel (solo fruta), puedes consultarlo al pedir para asegurarte.\n\n¿Quieres que te ayude a preguntarles directamente o te gustaría explorar otras opciones de desayuno saludable en Madrid?",
+      "receivedAt": "2025-07-01T22:39:48.337Z",
+      "responseTime": 4545,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "¿Tienen opciones de desayuno salado, tipo tostadas o bowls con aguacate y proteína vegetal? Me interesa equilibrar dulce y salado en mis comidas.",
+      "sentAt": "2025-07-01T22:39:52.735Z",
+      "response": "¡Claro! En Forbidden Fruit Bar también puedes encontrar desayunos salados:\n\n• Tostadas de pan sin gluten con aguacate, tomate y semillas  \n• Opciones con hummus, tofu marinado o crema de frutos secos  \n• Bowls salados con base vegetal, verduras frescas y toppings proteicos\n\nPerfecto para equilibrar dulce y salado. ¿Te gustaría recomendaciones de combinaciones o buscas otro tipo de desayuno saludable en Madrid?",
+      "receivedAt": "2025-07-01T22:39:57.290Z",
+      "responseTime": 4555,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "¿Sabes si el pan sin gluten que usan es casero o de qué tipo de harinas lo preparan? Me interesa evitar ultraprocesados.",
+      "sentAt": "2025-07-01T22:40:01.968Z",
+      "response": "¡Gran pregunta! En Forbidden Fruit Bar:\n\n• El pan sin gluten suele ser artesanal, pero no siempre casero; a veces lo adquieren de obradores locales especializados.  \n• Suelen usar harinas de arroz, maíz y/o trigo sarraceno, evitando ultraprocesados.  \n• Si prefieres pan 100% casero y ecológico, te recomiendo consultarlo al pedir para asegurarte.\n\n¿Quieres que te sugiera algún sitio en Madrid donde el pan sin gluten sea siempre casero y ecológico?",
+      "receivedAt": "2025-07-01T22:40:08.919Z",
+      "responseTime": 6951,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "Sí, me interesaría mucho saber de algún sitio en Madrid donde preparen pan sin gluten casero y ecológico, ¿tienes alguno que recomiendes?",
+      "sentAt": "2025-07-01T22:40:14.318Z",
+      "response": "¡Por supuesto! Aquí tienes excelentes opciones en Madrid para pan sin gluten casero y ecológico:\n\n• Leon The Baker: ⭐️ 4.7  \nPanadería especializada, pan de trigo sarraceno ecológico, fermentación lenta.  \n4,68 € por pieza  \n📍https://goo.gl/maps/Rsivq9pTLdb8XReM8\n\n• Escorza sin gluten: ⭐️ 5.0  \nPanadería artesana y ecológica, todo sin gluten y sin lactosa, masa madre y sin aditivos.  \n5–8 € por pan  \n📍https://goo.gl/maps/EkSBenLvNrRxCqGW8\n\n• Celicioso: ⭐️ 4.5  \nPanadería y cafetería 100% sin gluten, opciones ecológicas y artesanas.  \n4–7 € por pieza  \n📍https://goo.gl/maps/5wJHeeyPYbkti7G78\n\n¿Te gustaría recomendaciones de bollería sin gluten o buscas algo más específico?",
+      "receivedAt": "2025-07-01T22:40:28.504Z",
+      "responseTime": 14186,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-07-01T22:40:28.504Z",
+  "duration": 212031
+}

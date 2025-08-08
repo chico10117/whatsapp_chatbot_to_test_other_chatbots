@@ -14,11 +14,14 @@ export default class TestOrchestrator {
     this.responseCallback = null;
     this.testId = `test_${Date.now()}`;
     this.aiGenerator = new AIConversationGenerator();
+    this.questionGenerationTimes = []; // ms durations for generated questions
   }
 
   async executeAllPersonas(whatsappClient, recoNumber) {
     this.logger.logTestStart(this.testId);
     const testStartTime = Date.now();
+    const globalTotalQuestions = Object.values(AI_PERSONAS).reduce((sum, p) => sum + (p.maxQuestions || 15), 0);
+    let globalQuestionCounter = 0;
     
     try {
       for (const [personaId, persona] of Object.entries(AI_PERSONAS)) {
@@ -73,8 +76,12 @@ export default class TestOrchestrator {
       this.aiGenerator.resetConversation(persona.id);
       
       // Generate and send initial question
-      console.log(`   🤖 Generating initial question for ${persona.name}...`);
-      const initialQuestion = await this.aiGenerator.generateInitialQuestion(persona);
+       console.log(`   🤖 Generating initial question for ${persona.name}...`);
+       const genStartInitial = Date.now();
+       const initialQuestion = await this.aiGenerator.generateInitialQuestion(persona);
+       const genDurationInitial = Date.now() - genStartInitial;
+       this.logger.logQuestionGenerated(persona, 1, genDurationInitial, 'initial');
+       this.questionGenerationTimes.push(genDurationInitial);
       
       console.log(`   💭 ${persona.name}: "${initialQuestion}"`);
       
@@ -83,7 +90,10 @@ export default class TestOrchestrator {
         whatsappClient, 
         recoNumber, 
         initialQuestion, 
-        1
+        1,
+        ++globalQuestionCounter,
+        globalTotalQuestions,
+        persona
       );
       
       personaResults.questions.push(questionResult);
@@ -104,12 +114,16 @@ export default class TestOrchestrator {
         }
         
         // Generate follow-up question based on Reco's response
-        console.log(`   🤖 Generating follow-up question ${this.currentQuestionIndex + 1}...`);
-        const followUpQuestion = await this.aiGenerator.generateFollowUpQuestion(
+         console.log(`   🤖 Generating follow-up question ${this.currentQuestionIndex + 1}...`);
+         const genStart = Date.now();
+         const followUpQuestion = await this.aiGenerator.generateFollowUpQuestion(
           persona, 
           lastResponse, 
           this.currentQuestionIndex
         );
+         const genDuration = Date.now() - genStart;
+         this.logger.logQuestionGenerated(persona, this.currentQuestionIndex + 1, genDuration, 'follow-up');
+         this.questionGenerationTimes.push(genDuration);
         
         if (!followUpQuestion) {
           console.log(`   ✅ Conversation complete for ${persona.name}`);
@@ -123,17 +137,20 @@ export default class TestOrchestrator {
           whatsappClient, 
           recoNumber, 
           followUpQuestion, 
-          this.currentQuestionIndex + 1
+          this.currentQuestionIndex + 1,
+          ++globalQuestionCounter,
+          globalTotalQuestions,
+          persona
         );
         
         personaResults.questions.push(followUpResult);
         this.currentQuestionIndex++;
         
         // Add delay between questions to be respectful
-        if (this.currentQuestionIndex < persona.maxQuestions) {
-          console.log(`   ⏳ Waiting 3 seconds before next question...`);
-          await delay(3000);
-        }
+         if (this.currentQuestionIndex < persona.maxQuestions) {
+           console.log(`   ⏳ Waiting 1 second before next question...`);
+           await delay(1000);
+         }
       }
       
       personaResults.endTime = new Date();
@@ -159,13 +176,15 @@ export default class TestOrchestrator {
     }
   }
 
-  async sendQuestionAndWaitResponse(whatsappClient, recoNumber, question, questionNumber) {
+  async sendQuestionAndWaitResponse(whatsappClient, recoNumber, question, questionNumber, globalIndex, globalTotal, persona) {
     const sentTime = new Date();
     
     try {
       // Send question to Reco
       await whatsappClient.sendMessage(recoNumber, { text: question });
       console.log(`   📤 Message sent, waiting for RECO response...`);
+      // Log with per-persona and global progression
+      this.logger.logQuestionSent(questionNumber, question, persona, globalIndex, globalTotal);
       
       // Set up response waiting mechanism
       this.isWaitingForResponse = true;
@@ -306,6 +325,12 @@ export default class TestOrchestrator {
       totalPersonas: Object.keys(AI_PERSONAS).length,
       conversationType: 'AI_GENERATED'
     };
+  }
+
+  getAverageQuestionGenerationMs() {
+    if (!this.questionGenerationTimes.length) return 0;
+    const total = this.questionGenerationTimes.reduce((sum, n) => sum + n, 0);
+    return total / this.questionGenerationTimes.length;
   }
 
   reset() {

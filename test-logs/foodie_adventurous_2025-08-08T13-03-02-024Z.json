@@ -1,0 +1,163 @@
+{
+  "personaId": "foodie_adventurous",
+  "personaName": "Diego Gourmet",
+  "language": "es",
+  "description": "Foodie aventurero que busca experiencias gastronómicas únicas",
+  "startTime": "2025-08-08T12:59:48.800Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola RECO, estoy buscando un restaurante en la CDMX que ofrezca un menú degustación innovador, ¿tienes alguna recomendación donde el chef experimente con ingredientes poco convencionales?",
+      "sentAt": "2025-08-08T12:59:50.374Z",
+      "response": "¡Hola! Te recomiendo estos lugares en CDMX donde el menú degustación es innovador y los chefs suelen experimentar con ingredientes poco convencionales:\n\n*Pujol*  \n• Restaurante mexicano de autor, famoso por su creatividad y uso de ingredientes únicos  \n• https://www.google.com/maps/place/?q=place_id:ChIJWZ2zdav40YURFvsU_rU3uaE\n\n*Quintonil*  \n• Alta cocina mexicana, menú degustación con propuestas originales y productos poco habituales  \n• https://www.google.com/maps/place/?q=place_id:ChIJbS8EZf8B0oURwwD8B0MpqK0\n\n¿Te gustaría saber el rango de precios o detalles sobre la experiencia en alguno?",
+      "receivedAt": "2025-08-08T12:59:59.495Z",
+      "responseTime": 9121,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Gracias, RECO. ¿Podrías contarme un poco más sobre la experiencia de maridaje en Quintonil? Me interesa saber si proponen un maridaje creativo que complemente el menú degustación.",
+      "sentAt": "2025-08-08T13:00:01.332Z",
+      "response": "¡Por supuesto! En Quintonil, la experiencia de maridaje es muy cuidada y creativa. Ofrecen maridaje con vinos nacionales e internacionales, y a veces incluyen mezcales, cervezas artesanales o infusiones para resaltar cada platillo. El equipo sommelier te guía para que cada bebida complemente los sabores únicos del menú degustación. ¿Te gustaría saber el costo aproximado o reservar con anticipación?",
+      "receivedAt": "2025-08-08T13:00:09.586Z",
+      "responseTime": 8254,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "Me encanta la idea de maridar con infusiones y mezcales, suena bastante original. ¿Tienes alguna referencia sobre algún platillo del menú degustación que utilice ingredientes exóticos o poco comunes?",
+      "sentAt": "2025-08-08T13:00:13.974Z",
+      "response": "¡Sí! En Quintonil suelen sorprender con ingredientes poco convencionales, como:\n\n• Hojas y flores silvestres mexicanas  \n• Escamoles (larvas de hormiga)  \n• Chicatana (hormiga voladora)  \n• Vegetales fermentados y raíces nativas  \n\nEstos ingredientes aportan sabores únicos y resaltan la creatividad del chef. ¿Te gustaría saber cómo reservar o tips para aprovechar la experiencia al máximo?",
+      "receivedAt": "2025-08-08T13:00:20.101Z",
+      "responseTime": 6127,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "Excelente selección de ingredientes, justo lo que busco. ¿Sabes si el chef Jorge Vallejo suele salir a saludar durante el servicio o si existe la posibilidad de una visita guiada a la cocina?",
+      "sentAt": "2025-08-08T13:00:24.817Z",
+      "response": "¡Qué buena pregunta! En Quintonil, el chef Jorge Vallejo y su equipo suelen estar muy presentes, pero los saludos personales o visitas guiadas a la cocina no siempre están garantizados. Sin embargo, en restaurantes de este nivel a veces ofrecen experiencias especiales si las solicitas al reservar. Te recomiendo contactar directamente a Quintonil a través de su sitio web o redes sociales para preguntar por la disponibilidad de estas experiencias exclusivas. ¿Te gustaría tips para hacer tu reservación o recomendaciones de otros lugares similares?",
+      "receivedAt": "2025-08-08T13:00:40.150Z",
+      "responseTime": 15333,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "Agradezco el consejo, RECO. ¿Tienes algún tip sobre el mejor horario para reservar en Quintonil si busco una experiencia más tranquila y personalizada, quizás evitando los momentos de mayor afluencia?",
+      "sentAt": "2025-08-08T13:00:44.673Z",
+      "response": "¡Con gusto! Para una experiencia más tranquila y personalizada en Quintonil, te recomiendo reservar en horario de comida entre semana, alrededor de la 1:30 pm. Así evitas el rush y el ambiente es más relajado. Las noches de martes o miércoles también suelen ser menos concurridas. ¿Te gustaría recomendaciones para complementar tu visita, como bares cercanos o postres imperdibles?",
+      "receivedAt": "2025-08-08T13:00:52.674Z",
+      "responseTime": 8001,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "Excelente sugerencia, RECO. ¿Hay algún bar cercano donde recomiendes continuar la experiencia, especialmente alguno que ofrezca coctelería creativa con destilados mexicanos?",
+      "sentAt": "2025-08-08T13:00:56.733Z",
+      "response": "¡Claro! Aquí tienes una excelente opción cerca de Quintonil para seguir la experiencia con coctelería creativa:\n\n*Handshake Speakeasy*: ⭐️ 4.7  \n• Bar de autor reconocido internacionalmente, especializado en cocteles innovadores con destilados mexicanos  \n• Costo promedio por persona: $400-$600 MXN  \n• https://www.google.com/maps/place/?q=place_id:ChIJk6mQZfUB0oURnP7y7p5jT3I\n\n¿Te gustaría recomendaciones de cocteles picantes o con mezcal para probar ahí?",
+      "receivedAt": "2025-08-08T13:01:11.307Z",
+      "responseTime": 14574,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "¡Interesante opción! ¿Tienes alguna recomendación de coctel con mezcal en Handshake Speakeasy que destaque por su creatividad o por la incorporación de ingredientes inusuales?",
+      "sentAt": "2025-08-08T13:01:15.791Z",
+      "response": "¡Por supuesto! En Handshake Speakeasy te recomiendo pedir cocteles como:\n\n• “Mezcal Negroni” con infusiones de especias mexicanas  \n• Cocteles con mezcal, chile, piña asada o ingredientes como hoja santa y sal de gusano  \n• Pregunta por creaciones de temporada, suelen sorprender con ingredientes poco comunes y presentaciones originales\n\n¿Te gustaría tips para maridar estos cocteles con algún snack o botana del bar?",
+      "receivedAt": "2025-08-08T13:01:22.817Z",
+      "responseTime": 7026,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "Definitivamente me interesa, RECO. ¿Cuál botana o snack del menú de Handshake Speakeasy recomendarías para acompañar un coctel con mezcal y chile, buscando un equilibrio de sabores sin opacar al destilado?",
+      "sentAt": "2025-08-08T13:01:27.971Z",
+      "response": "¡Excelente elección! Para acompañar un coctel con mezcal y chile en Handshake Speakeasy, te sugiero:\n\n• Tostadas de atún o mariscos: frescura y un toque cítrico equilibran el picante y el ahumado  \n• Guacamole con totopos artesanales: sabor suave que realza el mezcal  \n• Frutos secos especiados: aportan textura sin opacar el destilado\n\n¿Te gustaría más recomendaciones de maridaje o tips para pedir botanas ligeras y sabrosas?",
+      "receivedAt": "2025-08-08T13:01:35.303Z",
+      "responseTime": 7332,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "Gracias, RECO, muy buenas sugerencias. ¿Sabes si Handshake Speakeasy suele renovar su menú de botanas con ingredientes de temporada o si ofrecen opciones fuera de carta para quienes buscan algo diferente?",
+      "sentAt": "2025-08-08T13:01:40.254Z",
+      "response": "¡Con gusto! Handshake Speakeasy suele renovar su menú de botanas según la temporada, incorporando ingredientes frescos y propuestas originales. Además, el staff es flexible y a veces puede sugerir opciones fuera de carta si buscas algo especial. Te recomiendo preguntar por recomendaciones del día al llegar. ¿Te gustaría tips para aprovechar al máximo la experiencia en un speakeasy?",
+      "receivedAt": "2025-08-08T13:01:51.645Z",
+      "responseTime": 11391,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "Me parece una excelente estrategia, RECO. ¿Sabes si es necesario reservar con anticipación en Handshake Speakeasy, o se puede acceder fácilmente llegando sin reserva, especialmente entre semana?",
+      "sentAt": "2025-08-08T13:01:56.263Z",
+      "response": "¡Excelente pregunta! En Handshake Speakeasy es muy recomendable reservar con anticipación, incluso entre semana, ya que es un bar muy popular y el acceso suele ser limitado. Así aseguras tu lugar y una mejor experiencia. ¿Te gustaría tips para hacer tu reserva o recomendaciones de otros bares creativos en la zona?",
+      "receivedAt": "2025-08-08T13:02:02.379Z",
+      "responseTime": 6116,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "Gracias, RECO. Ya que mencionas otros bares creativos en la zona, ¿podrías recomendarme algún lugar adicional donde la mixología destaque por el uso de ingredientes autóctonos o técnicas innovadoras?",
+      "sentAt": "2025-08-08T13:02:06.816Z",
+      "response": "¡Por supuesto! Aquí tienes otra excelente opción cerca de Quintonil:\n\n*Limantour Polanco*: ⭐️ 4.6  \n• Bar galardonado internacionalmente, famoso por su mixología con ingredientes autóctonos y técnicas creativas  \n• Costo promedio por persona: $350-$600 MXN  \n• https://www.google.com/maps/place/?q=place_id:ChIJw6VQZfUB0oURXk0QbQ5kYwY\n\n¿Te gustaría recomendaciones de cocteles con sabores mexicanos o tips para pedir algo fuera de lo común?",
+      "receivedAt": "2025-08-08T13:02:13.959Z",
+      "responseTime": 7143,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "Suena fascinante, RECO. ¿Podrías recomendarme algún coctel de Limantour Polanco que destaque por el uso de ingredientes autóctonos, ideal para quienes apreciamos sabores complejos y equilibrados?",
+      "sentAt": "2025-08-08T13:02:19.020Z",
+      "response": "¡Con mucho gusto! En Limantour Polanco te recomiendo probar:\n\n• “Mezcal Stalk” – Mezcal, licor de chile ancho, hoja santa y cítricos, con un perfil ahumado y herbal  \n• “Mr. Pink” – Gin, jugo de toronja, licor de chile y jarabe de jamaica, fresco y ligeramente picante  \n• Pregunta por cocteles de temporada con ingredientes como xoconostle, cacao o maíz azul\n\n¿Te gustaría tips para maridar alguno de estos cocteles con botanas del lugar?",
+      "receivedAt": "2025-08-08T13:02:26.496Z",
+      "responseTime": 7476,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "Gran selección de cocteles, RECO. ¿Tienes alguna sugerencia de botana en Limantour Polanco que resalte las notas herbales y ahumadas de un trago como el Mezcal Stalk?",
+      "sentAt": "2025-08-08T13:02:31.050Z",
+      "response": "¡Por supuesto! Para resaltar las notas herbales y ahumadas del Mezcal Stalk en Limantour Polanco, te sugiero:\n\n• Tacos de camarón con salsa de chile seco  \n• Guacamole con totopos de maíz azul  \n• Queso de cabra con hierbas frescas y tostadas\n\nEstas botanas equilibran y realzan los sabores del coctel sin opacarlo. ¿Te gustaría más recomendaciones para maridar cocteles con mariscos o algo picante?",
+      "receivedAt": "2025-08-08T13:02:40.359Z",
+      "responseTime": 9309,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "Excelentes opciones, RECO. ¿Sabes si en Limantour Polanco ofrecen alguna botana fuera de carta recomendada por el chef, o si el staff suele sugerir maridajes personalizados según el coctel elegido?",
+      "sentAt": "2025-08-08T13:02:44.854Z",
+      "response": "¡Me alegra que te gusten las opciones! En Limantour Polanco, el staff es muy atento y suele sugerir maridajes personalizados según el coctel que elijas. Ocasionalmente, el chef ofrece botanas fuera de carta con ingredientes de temporada. Te recomiendo preguntar por recomendaciones especiales al ordenar. ¿Te gustaría más tips para disfrutar la experiencia o recomendaciones de otros bares creativos?",
+      "receivedAt": "2025-08-08T13:02:51.207Z",
+      "responseTime": 6353,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "Perfecto, RECO. Para cerrar la experiencia, ¿me recomendarías visitar Limantour Polanco antes o después de cenar en Quintonil para disfrutar al máximo tanto la mixología como la comida?",
+      "sentAt": "2025-08-08T13:02:55.581Z",
+      "response": "¡Excelente pregunta! Para disfrutar al máximo, te recomiendo visitar Limantour Polanco después de cenar en Quintonil. Así podrás saborear la cena sin prisas y luego relajarte con cocteles creativos, permitiendo que los sabores de ambos lugares brillen por separado. Además, el ambiente en Limantour suele ser más animado por la noche. ¿Te gustaría tips para reservar o sugerencias de digestivos mexicanos para cerrar la noche?",
+      "receivedAt": "2025-08-08T13:03:02.023Z",
+      "responseTime": 6442,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T13:03:02.023Z",
+  "duration": 193223
+}

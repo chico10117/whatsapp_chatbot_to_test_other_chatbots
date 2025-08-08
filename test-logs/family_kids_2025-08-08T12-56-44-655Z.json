@@ -1,0 +1,163 @@
+{
+  "personaId": "family_kids",
+  "personaName": "Ana Familia",
+  "language": "es",
+  "description": "Madre de familia con dos niños pequeños",
+  "startTime": "2025-08-08T12:54:24.109Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola RECO, ¿me puedes recomendar un restaurante en la ciudad que tenga zona de juegos para niños pequeños?",
+      "sentAt": "2025-08-08T12:54:25.291Z",
+      "response": "¡Hola! Te recomiendo Nervous Nellie's:  \n• Restaurante de mariscos y comida americana  \n• Ambiente familiar y suele contar con zona de juegos para niños  \n• https://www.google.com/maps/place/?q=place_id:ChIJS3D1VII724gR9FOkROyTlxI\n\n¿Te gustaría sugerencias de platillos para niños o recomendaciones saludables del menú?",
+      "receivedAt": "2025-08-08T12:54:32.304Z",
+      "responseTime": 7013,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "¿Tienen tronas y cambiador de pañales en los baños? Eso es importante cuando voy con mis hijos pequeños.",
+      "sentAt": "2025-08-08T12:54:33.875Z",
+      "response": "¡Buena pregunta! Nervous Nellie's suele contar con tronas para niños y área familiar. El cambiador de pañales está disponible en los baños principales, pero te sugiero confirmar al llegar. ¿Te gustaría tips para elegir platillos saludables para los peques?",
+      "receivedAt": "2025-08-08T12:54:40.337Z",
+      "responseTime": 6462,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "¿El restaurante tiene algún área al aire libre o espacio cerrado para que los niños jueguen, especialmente si hace mal tiempo?",
+      "sentAt": "2025-08-08T12:54:44.930Z",
+      "response": "¡Sí! Nervous Nellie's cuenta con área al aire libre y también espacios cerrados, así los niños pueden jugar sin importar el clima. ¿Te gustaría recomendaciones de platillos aptos para niños y fáciles de comer?",
+      "receivedAt": "2025-08-08T12:54:51.152Z",
+      "responseTime": 6222,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "¿Tienen menú infantil con opciones como pollo a la plancha o verduras, o solo ofrecen lo típico como nuggets y papas?",
+      "sentAt": "2025-08-08T12:54:55.743Z",
+      "response": "¡Buena elección! Nervous Nellie's ofrece menú infantil variado:  \n• Pollo a la plancha  \n• Verduras al vapor  \n• Opciones clásicas como nuggets y papas  \n\n¿Te gustaría recomendaciones saludables o ideas para combinar platillos para los peques?",
+      "receivedAt": "2025-08-08T12:55:01.107Z",
+      "responseTime": 5364,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "¿Las bebidas incluidas en el menú infantil son jugos naturales o solo refrescos? Prefiero algo sin tanta azúcar para mis hijos.",
+      "sentAt": "2025-08-08T12:55:05.087Z",
+      "response": "¡Excelente decisión! El menú infantil suele incluir jugos naturales y agua, además de refrescos. Puedes pedir específicamente jugo natural o agua para evitar exceso de azúcar. ¿Te gustaría sugerencias de snacks saludables para niños?",
+      "receivedAt": "2025-08-08T12:55:09.375Z",
+      "responseTime": 4288,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "¿El restaurante suele estar muy lleno a la hora de la comida o recomiendas hacer reservación si voy con niños?",
+      "sentAt": "2025-08-08T12:55:13.691Z",
+      "response": "¡Buena pregunta! Nervous Nellie’s suele llenarse a la hora de la comida, sobre todo fines de semana. Te recomiendo hacer reservación si vas con niños para asegurar mesa y zona de juegos. ¿Te gustaría más tips para una visita cómoda en familia?",
+      "receivedAt": "2025-08-08T12:55:19.077Z",
+      "responseTime": 5386,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "¿La zona de juegos está a la vista desde las mesas o es necesario acompañar a los niños todo el tiempo?",
+      "sentAt": "2025-08-08T12:55:23.306Z",
+      "response": "¡Gran duda! La zona de juegos en Nervous Nellie’s suele estar cerca de las mesas familiares y es visible, así puedes vigilar a los niños mientras comes. Aun así, siempre es bueno supervisar a los más pequeños. ¿Te gustaría más recomendaciones para comer tranquilo con niños?",
+      "receivedAt": "2025-08-08T12:55:28.456Z",
+      "responseTime": 5150,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "¿Hay actividades o entretenimiento especial para niños, como pinta caritas o globoflexia, los fines de semana?",
+      "sentAt": "2025-08-08T12:55:32.845Z",
+      "response": "¡Qué buena idea! En Nervous Nellie’s, los fines de semana a veces hay actividades especiales como pinta caritas y globoflexia, sobre todo en temporada alta o días festivos. Te sugiero preguntar al reservar. ¿Te gustaría tips para aprovechar al máximo la visita con tus hijos?",
+      "receivedAt": "2025-08-08T12:55:38.988Z",
+      "responseTime": 6143,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "¿El restaurante tiene estacionamiento propio o hay que buscar lugar en la calle? Me interesa porque siempre llevo muchas cosas con los niños.",
+      "sentAt": "2025-08-08T12:55:43.468Z",
+      "response": "¡Te entiendo perfecto! Nervous Nellie’s cuenta con estacionamiento propio, lo que facilita mucho la visita en familia. Así puedes bajar todo con calma y comodidad. ¿Te gustaría recomendaciones de otros lugares familiares en la ciudad?",
+      "receivedAt": "2025-08-08T12:55:47.439Z",
+      "responseTime": 3971,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "¿El restaurante tiene algún tipo de descuento o promoción para familias o para niños los fines de semana?",
+      "sentAt": "2025-08-08T12:55:51.510Z",
+      "response": "¡Buena pregunta! Nervous Nellie’s suele tener promociones para familias, como menú infantil a precio especial o descuentos en combos los fines de semana. Te recomiendo preguntar por las promos vigentes al llegar. ¿Te gustaría más tips para ahorrar en tu visita?",
+      "receivedAt": "2025-08-08T12:55:57.785Z",
+      "responseTime": 6275,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "¿El restaurante acepta pago con tarjeta o solo efectivo? Porque a veces no llevo mucho efectivo cuando salgo con los niños.",
+      "sentAt": "2025-08-08T12:56:02.529Z",
+      "response": "¡Tranquila! Nervous Nellie’s acepta pago con tarjeta y efectivo, así que puedes pagar cómodamente como prefieras. ¿Te gustaría más recomendaciones de restaurantes familiares o tips para comer fuera con niños?",
+      "receivedAt": "2025-08-08T12:56:06.221Z",
+      "responseTime": 3692,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "¿El restaurante ofrece sillas elevadoras o cojines para niños más grandes que ya no usan trona pero todavía necesitan un poco de altura en la mesa?",
+      "sentAt": "2025-08-08T12:56:10.575Z",
+      "response": "¡Sí! Nervous Nellie’s suele tener sillas elevadoras y cojines para niños más grandes, así que tus peques estarán cómodos en la mesa. ¿Te gustaría más consejos para una comida familiar agradable?",
+      "receivedAt": "2025-08-08T12:56:14.830Z",
+      "responseTime": 4255,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "¿El ambiente del restaurante es tranquilo o suele haber mucha gente y ruido, especialmente en la zona familiar? Me gustaría que mis hijos puedan disfrutar sin agobiarse.",
+      "sentAt": "2025-08-08T12:56:19.322Z",
+      "response": "¡Excelente pregunta! El ambiente en Nervous Nellie’s suele ser familiar y relajado, aunque en horas pico puede haber algo de ruido. Si prefieres más tranquilidad, te recomiendo ir temprano o entre semana. ¿Te gustaría sugerencias de horarios ideales para familias?",
+      "receivedAt": "2025-08-08T12:56:24.317Z",
+      "responseTime": 4995,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "¿El restaurante tiene acceso para carriolas o espacio suficiente para dejarlas cerca de la mesa? A veces voy con la carriola y necesito saber si es cómodo moverme con ella.",
+      "sentAt": "2025-08-08T12:56:29.527Z",
+      "response": "¡Por supuesto! Nervous Nellie’s tiene acceso para carriolas y espacio suficiente para dejarlas cerca de la mesa, facilitando la movilidad con niños pequeños. ¿Te gustaría más tips para salir a comer con bebés o niños pequeños?",
+      "receivedAt": "2025-08-08T12:56:33.660Z",
+      "responseTime": 4133,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "¿Me podrías recomendar algún otro restaurante similar en la ciudad, que también tenga zona de juegos y buenas facilidades para familias?",
+      "sentAt": "2025-08-08T12:56:37.900Z",
+      "response": "¡Con gusto! Aquí tienes otra opción familiar en la ciudad:\n\n*MILAGROS FARM*  \n• Restaurante con ambiente familiar y zona de juegos  \n• Espacio amplio y cómodo para familias  \n• https://www.google.com/maps/place/?q=place_id:ChIJl2S_W9Lr2YgRtdR9_YtEUHU\n\n¿Te gustaría saber sobre su menú infantil o tips para disfrutar la visita con niños?",
+      "receivedAt": "2025-08-08T12:56:44.654Z",
+      "responseTime": 6754,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T12:56:44.655Z",
+  "duration": 140546
+}

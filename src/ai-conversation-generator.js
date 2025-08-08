@@ -10,10 +10,12 @@ export default class AIConversationGenerator {
 
   async generateInitialQuestion(persona) {
     const systemPrompt = this.buildSystemPrompt(persona);
+    const questionModel = process.env.QUESTION_MODEL || "gpt-5";
+    const questionMaxTokens = process.env.QUESTION_MAX_TOKENS ? Number(process.env.QUESTION_MAX_TOKENS) : 300;
     
     try {
       const response = await this.openai.chat.completions.create({
-        model: "gpt-4.1",
+        model: questionModel,
         messages: [
           {
             role: "system",
@@ -24,8 +26,11 @@ export default class AIConversationGenerator {
             content: "Generate your first question to start the conversation with the restaurant recommendation bot. Be natural and stay in character."
           }
         ],
-        max_tokens: 150,
-        temperature: 0.8
+        // NOTE: The following parameters are not supported by reasoning models like gpt-5.
+        // They are kept here commented out for readers migrating from non-reasoning models.
+        // max_tokens: questionMaxTokens,
+        // temperature: 0.7,
+        reasoning_effort: "minimal"
       });
 
       const question = response.choices[0].message.content.trim();
@@ -56,6 +61,9 @@ export default class AIConversationGenerator {
       return null; // End conversation
     }
 
+    const questionModel = process.env.QUESTION_MODEL || "gpt-5";
+    const questionMaxTokens = process.env.QUESTION_MAX_TOKENS ? Number(process.env.QUESTION_MAX_TOKENS) : 250;
+
     try {
       const messages = [
         { role: "system", content: systemPrompt },
@@ -68,10 +76,13 @@ export default class AIConversationGenerator {
       ];
 
       const response = await this.openai.chat.completions.create({
-        model: "gpt-4.1",
+        model: questionModel,
         messages: messages,
-        max_tokens: 150,
-        temperature: 0.8
+        // NOTE: The following parameters are not supported by reasoning models like gpt-5.
+        // They are kept here commented out for readers migrating from non-reasoning models.
+        // max_tokens: questionMaxTokens,
+        // temperature: 0.7,
+        reasoning_effort: "minimal"
       });
 
       const question = response.choices[0].message.content.trim();

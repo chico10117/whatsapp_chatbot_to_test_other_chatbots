@@ -1,0 +1,163 @@
+{
+  "personaId": "family_kids",
+  "personaName": "Ana Familia",
+  "language": "es",
+  "description": "Madre de familia con dos niños pequeños",
+  "startTime": "2025-07-01T22:43:50.709Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola RECO, ¿me puedes recomendar un restaurante en la ciudad que tenga zona de juegos para niños pequeños?",
+      "sentAt": "2025-07-01T22:43:51.655Z",
+      "response": "¡Hola! 😊 Como tu asistente de recomendaciones gastronómicas, ¿me puedes decir en qué ciudad buscas el restaurante con zona de juegos para niños pequeños? Así te paso opciones ideales para familias.",
+      "receivedAt": "2025-07-01T22:43:55.567Z",
+      "responseTime": 3912,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "¡Claro! Estoy en Madrid. ¿Tienes opciones con menú infantil y tronas, además de la zona de juegos?",
+      "sentAt": "2025-07-01T22:43:56.666Z",
+      "response": "¡Por supuesto! Aquí tienes opciones en Madrid ideales para familias con peques:\n\n• Restaurante La Excéntrica: ⭐️ 4.2  \nZona infantil con piscina de bolas y talleres, menú infantil y tronas.  \n20–30 € por persona  \n📍https://maps.google.com/?cid=15541056008136753730\n\n• Lamucca (Plaza de España): ⭐️ 4.3  \nPiscina de bolas, monitores los findes, menú infantil y tronas.  \n20–25 € por persona  \n📍https://maps.google.com/?cid=12767745634665511059\n\n• Mamá Campo: ⭐️ 4.3  \nJunto a parque infantil vallado, menú infantil, cocina casera y tronas.  \n20–25 € por persona  \n📍https://maps.google.com/?cid=18145271868413585436\n\n¿Te gustaría más opciones o buscas en alguna zona concreta de Madrid?",
+      "receivedAt": "2025-07-01T22:44:12.750Z",
+      "responseTime": 16084,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "¿Sabes si en alguno de estos restaurantes hay cambiador en el baño o facilidades para bebés?",
+      "sentAt": "2025-07-01T22:44:16.698Z",
+      "response": "¡Sí! Te detallo:\n\n• La Excéntrica: dispone de cambiador en el baño y espacio para carritos.  \n• Lamucca (Plaza de España): tiene cambiador y tronas, ambiente muy family-friendly.  \n• Mamá Campo: cuenta con cambiador, tronas y espacio cómodo para familias con bebés.\n\n¿Te gustaría saber si ofrecen menús especiales para alergias o intolerancias?",
+      "receivedAt": "2025-07-01T22:44:21.406Z",
+      "responseTime": 4708,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "Sí, por favor. ¿Sabes si los menús infantiles incluyen opciones sin gluten o sin lactosa?",
+      "sentAt": "2025-07-01T22:44:25.274Z",
+      "response": "¡Buena pregunta! En estos restaurantes:\n\n• La Excéntrica: ofrece opciones sin gluten y sin lactosa en el menú infantil, pero es recomendable avisar al reservar.  \n• Lamucca: dispone de platos adaptados para niños sin gluten o sin lactosa, consulta al camarero al llegar.  \n• Mamá Campo: menú infantil con opciones sin gluten y sin lactosa, ingredientes ecológicos y flexibilidad para adaptar platos.\n\n¿Te gustaría recomendaciones de platos infantiles saludables o necesitas info sobre otros alérgenos?",
+      "receivedAt": "2025-07-01T22:44:31.397Z",
+      "responseTime": 6123,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "¿Tienes idea si en alguno de estos sitios hay animadores o actividades organizadas para niños durante la comida, sobre todo los fines de semana?",
+      "sentAt": "2025-07-01T22:44:36.170Z",
+      "response": "¡Sí! Te cuento:\n\n• La Excéntrica: suele tener animadores y talleres infantiles los fines de semana, especialmente en horario de comidas.  \n• Lamucca (Plaza de España): ofrece monitores y actividades para niños los sábados y domingos a mediodía.  \n• Mamá Campo: a veces organiza talleres o cuentacuentos, sobre todo en fechas especiales; consulta su agenda.\n\n¿Quieres que te recomiende algún sitio con animación infantil garantizada todos los fines de semana?",
+      "receivedAt": "2025-07-01T22:44:42.401Z",
+      "responseTime": 6231,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "Sí, por favor. ¿Hay alguno que tenga terraza o espacio exterior donde los niños puedan jugar mientras los adultos comen?",
+      "sentAt": "2025-07-01T22:44:46.345Z",
+      "response": "¡Claro! Aquí tienes opciones en Madrid con terraza o espacio exterior para que los peques jueguen mientras los adultos disfrutan:\n\n• El Jardín de Alma: ⭐️ 4.4  \nGran terraza ajardinada, zona de juegos infantil y animación los fines de semana.  \n25–35 € por persona  \n📍https://goo.gl/maps/1r6Qb5R8g5n1k9dN7\n\n• El Jardín Secreto de Salvador Bachiller: ⭐️ 4.3  \nTerraza temática, espacio exterior y menú infantil. Zona de juegos pequeña, ideal para peques.  \n20–30 € por persona  \n📍https://goo.gl/maps/2nX4Ew8rQbC2\n\n• Mamá Campo (Plaza de Olavide): ⭐️ 4.3  \nTerraza junto a parque infantil vallado, ideal para vigilar a los niños mientras comes.  \n20–25 € por persona  \n📍https://goo.gl/maps/8v5n8u5X5Zy\n\n¿Te gustaría saber si alguno ofrece animación infantil garantizada todos los fines de semana?",
+      "receivedAt": "2025-07-01T22:44:53.286Z",
+      "responseTime": 6941,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "¿Sabes si hace falta reservar con mucha antelación en estos restaurantes para asegurar mesa en la terraza los fines de semana?",
+      "sentAt": "2025-07-01T22:44:57.907Z",
+      "response": "¡Sí! En estos restaurantes, especialmente con terraza y zona infantil, es muy recomendable reservar con antelación para los fines de semana:\n\n• El Jardín de Alma y El Jardín Secreto de Salvador Bachiller: suelen llenarse rápido, reserva al menos con 3–5 días de antelación.  \n• Mamá Campo (Plaza de Olavide): también aconsejable reservar con varios días de margen, sobre todo si quieres mesa cerca del parque.\n\n¿Te ayudo con los teléfonos de reserva o prefieres recomendaciones de restaurantes menos concurridos pero family-friendly?",
+      "receivedAt": "2025-07-01T22:45:08.487Z",
+      "responseTime": 10580,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "¿En estos restaurantes suelen tener tronas suficientes y espacio para dejar carritos, o es mejor avisar al reservar?",
+      "sentAt": "2025-07-01T22:45:13.086Z",
+      "response": "¡Muy buena pregunta! En estos restaurantes:\n\n• Suelen disponer de varias tronas y espacio para carritos, pero en fines de semana pueden agotarse rápido.  \n• Es recomendable avisar al reservar si necesitas trona y espacio para carrito, así te lo aseguran y preparan la mesa adecuada.\n\n¿Te gustaría que te recomiende algún restaurante menos concurrido pero igualmente cómodo para familias?",
+      "receivedAt": "2025-07-01T22:45:17.897Z",
+      "responseTime": 4811,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "¿Tienes alguna recomendación de restaurante menos concurrido, pero que también tenga zona de juegos o algún entretenimiento para niños?",
+      "sentAt": "2025-07-01T22:45:21.899Z",
+      "response": "¡Por supuesto! Aquí tienes una opción menos concurrida, ideal para familias y con entretenimiento infantil:\n\n• La Familiar: ⭐️ 4.2  \nRestaurante amplio en Las Tablas, zona de juegos interior, menú infantil, tronas y espacio para carritos. Ambiente tranquilo, perfecto para familias que buscan comodidad.  \n18–25 € por persona  \n📍https://goo.gl/maps/4a6L6F7Qw9k\n\n¿Te gustaría más opciones fuera del centro o buscas en alguna zona concreta de Madrid?",
+      "receivedAt": "2025-07-01T22:45:27.001Z",
+      "responseTime": 5102,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "¿La Familiar tiene cambiador en el baño y opciones en el menú infantil para niños con alergias o intolerancias?",
+      "sentAt": "2025-07-01T22:45:30.712Z",
+      "response": "¡Sí! En La Familiar:\n\n• Disponen de cambiador en el baño y espacio cómodo para familias.  \n• El menú infantil ofrece opciones adaptadas para alergias o intolerancias (sin gluten, sin lactosa, etc.), pero es recomendable avisar al reservar para que lo tengan en cuenta.\n\n¿Te gustaría recomendaciones de platos infantiles saludables o info sobre otros restaurantes family-friendly?",
+      "receivedAt": "2025-07-01T22:45:35.393Z",
+      "responseTime": 4681,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "¿Sabes si en La Familiar organizan algún tipo de actividad o animación para niños los fines de semana, como talleres o juegos dirigidos?",
+      "sentAt": "2025-07-01T22:45:39.631Z",
+      "response": "¡Sí! En La Familiar suelen organizar actividades y animación para niños los fines de semana:\n\n• Talleres creativos, juegos dirigidos y animadores durante las comidas de sábado y domingo.  \n• Consulta su agenda o llama antes, ya que las actividades pueden variar según la fecha.\n\n¿Te gustaría que te ayude a contactarles para confirmar la animación el día que planeas ir?",
+      "receivedAt": "2025-07-01T22:45:44.118Z",
+      "responseTime": 4487,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "Sí, por favor. ¿Tienes el número de teléfono de La Familiar para hacer la reserva y consultar la animación?",
+      "sentAt": "2025-07-01T22:45:48.513Z",
+      "response": "¡Por supuesto! Aquí tienes el teléfono de La Familiar para reservas y consultas:\n\n• 📞 913 586 017\n\nTe recomiendo llamar para confirmar la animación infantil el día que planeas ir y reservar trona o espacio para carrito si lo necesitas.\n\n¿Te gustaría que te recomiende algún otro restaurante familiar por si no encuentras mesa?",
+      "receivedAt": "2025-07-01T22:45:54.318Z",
+      "responseTime": 5805,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "¿Sabes si en La Familiar la zona de juegos está a la vista de las mesas o hay que acompañar a los niños mientras juegan?",
+      "sentAt": "2025-07-01T22:45:58.104Z",
+      "response": "¡Muy buena pregunta! En La Familiar, la zona de juegos está situada cerca del comedor y es visible desde muchas mesas, lo que permite vigilar a los niños mientras disfrutas de la comida. Sin embargo, dependiendo de la ubicación de tu mesa, puede haber zonas con menor visibilidad, así que al reservar puedes pedir mesa cerca de la zona de juegos para mayor tranquilidad.\n\n¿Te gustaría más detalles sobre el ambiente o recomendaciones de otros restaurantes con zonas de juegos a la vista?",
+      "receivedAt": "2025-07-01T22:46:02.762Z",
+      "responseTime": 4658,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "¿Sabes si la zona de juegos de La Familiar está adaptada para niños pequeños, como de 3 o 4 años, o es más para niños mayores?",
+      "sentAt": "2025-07-01T22:46:06.901Z",
+      "response": "¡Sí! La zona de juegos de La Familiar está pensada para peques de distintas edades, incluyendo niños de 3 o 4 años:\n\n• Dispone de juegos y juguetes seguros y adaptados para los más pequeños.  \n• El espacio es acolchado y supervisado, ideal para que los peques jueguen tranquilos.  \n• También hay actividades para niños mayores, pero los más pequeños tienen su propio rincón.\n\n¿Te gustaría saber si hay monitores presentes en la zona de juegos o buscas recomendaciones similares en otras zonas de Madrid?",
+      "receivedAt": "2025-07-01T22:46:12.253Z",
+      "responseTime": 5352,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "¿Sabes si hay límite de tiempo para que los niños estén en la zona de juegos o pueden usarla durante toda la comida?",
+      "sentAt": "2025-07-01T22:46:16.289Z",
+      "response": "¡Buena pregunta! En La Familiar, los niños pueden usar la zona de juegos durante toda la comida sin un límite de tiempo estricto, siempre que haya buen comportamiento y aforo suficiente. Si hay mucha demanda, pueden organizar turnos, pero normalmente los peques disfrutan del espacio mientras los adultos comen tranquilos.\n\n¿Te gustaría recomendaciones de otros restaurantes con zonas de juegos amplias o buscas algo más específico para tu próxima salida?",
+      "receivedAt": "2025-07-01T22:46:21.292Z",
+      "responseTime": 5003,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-07-01T22:46:21.292Z",
+  "duration": 150583
+}

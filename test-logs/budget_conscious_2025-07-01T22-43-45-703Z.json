@@ -1,0 +1,163 @@
+{
+  "personaId": "budget_conscious",
+  "personaName": "Carlos Estudiante",
+  "language": "es",
+  "description": "Estudiante universitario con presupuesto limitado",
+  "startTime": "2025-07-01T22:40:33.509Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola RECO, ¿conoces algún sitio donde pueda comer bien y barato cerca de la uni? ¿Si hay menú del día económico, mejor aún!",
+      "sentAt": "2025-07-01T22:40:34.836Z",
+      "response": "¡Hola! Como tu asistente de recomendaciones gastronómicas, para ayudarte mejor, ¿me puedes decir a qué universidad o zona de Madrid te refieres? Así te paso opciones cercanas con menú del día económico y buena relación calidad-precio. 😊",
+      "receivedAt": "2025-07-01T22:40:38.785Z",
+      "responseTime": 3949,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Estudio cerca de Ciudad Universitaria, ¿tienes algún sitio concreto con menú del día barato por esa zona? ¿Y más o menos cuánto cuesta?",
+      "sentAt": "2025-07-01T22:40:39.791Z",
+      "response": "¡Perfecto! Aquí tienes tres opciones con menú del día económico cerca de Ciudad Universitaria:\n\n• El Sitio: ⭐️ 4,0  \nAmbiente informal, pizzas artesanas y menú variado.  \n10–12 € por persona  \n📍https://goo.gl/maps/gpceZKUwShy2w9yA8\n\n• Hermanos Míguez: ⭐️ 4,2  \nComida casera tradicional y platos completos.  \n10–12 € por persona  \n📍https://goo.gl/maps/kjsi8dPx9f1mFtQk7\n\n• Don Oso: ⭐️ 4,1  \nHamburguesas y menús muy económicos, ideal para estudiantes.  \nMenos de 10 €  \n📍https://goo.gl/maps/X99eB9kdfx7NkzQe7\n\n¿Te gustaría opciones vegetarianas, internacionales o especializadas en algún tipo de cocina?",
+      "receivedAt": "2025-07-01T22:40:54.303Z",
+      "responseTime": 14512,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "¡Qué bien, gracias! ¿Sabes si alguno de esos sitios tiene descuento para estudiantes o algún 2x1 en bebidas o postres?",
+      "sentAt": "2025-07-01T22:40:59.099Z",
+      "response": "¡Me alegra que te sirva! 😊 Aquí tienes info sobre promociones:\n\n• El Sitio: A veces ofrecen 2x1 en bebidas, sobre todo en horario de tarde. Pregunta al llegar por promos para estudiantes.  \n• Hermanos Míguez: No suelen tener descuentos fijos, pero puedes consultar si hay menú especial para universitarios.  \n• Don Oso: Frecuentemente hacen combos económicos y a veces 2x1 en hamburguesas. Pregunta por ofertas del día.\n\nTe recomiendo mostrar tu carnet de estudiante; muchos locales aplican descuentos aunque no estén anunciados. ¿Te gustaría saber sobre cafeterías con wifi cerca de la uni?",
+      "receivedAt": "2025-07-01T22:41:04.174Z",
+      "responseTime": 5075,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "¡Sí, genial! ¿Tienes alguna cafetería con wifi barato donde no moleste si me quedo un buen rato estudiando con un café? ¿Y cuánto cuesta el café más o menos?",
+      "sentAt": "2025-07-01T22:41:08.396Z",
+      "response": "¡Por supuesto! Aquí tienes tres cafeterías cerca de Ciudad Universitaria ideales para estudiar tranquilo con wifi:\n\n• Toma Café: ⭐️ 4,6  \nAmbiente relajado, wifi rápido, café desde 2 €. No suelen poner pegas por quedarse tiempo.  \n📍https://goo.gl/maps/7w9o8FQbB8Q2\n\n• Café de la Luz: ⭐️ 4,5  \nEspacio acogedor, enchufes y wifi, café desde 1,80 €. Perfecto para largas sesiones.  \n📍https://goo.gl/maps/8v7XwF1j8t52\n\n• Federal Café: ⭐️ 4,4  \nMesas amplias, wifi y café de especialidad desde 2,20 €. Muy frecuentado por estudiantes.  \n📍https://goo.gl/maps/4yQw6gJ6tT32\n\n¿Te gustaría recomendaciones de snacks saludables para acompañar tu café mientras estudias?",
+      "receivedAt": "2025-07-01T22:41:15.361Z",
+      "responseTime": 6965,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "¡Sí, porfa! ¿Qué snacks tienen por menos de 3 € en esas cafeterías para acompañar el café?",
+      "sentAt": "2025-07-01T22:41:19.317Z",
+      "response": "¡Claro! Aquí tienes opciones de snacks por menos de 3 € en esas cafeterías:\n\n• Toma Café:  \n– Galletas veganas  \n– Mini bizcochos caseros  \n– Barritas de avena\n\n• Café de la Luz:  \n– Tostadas sencillas (pan con tomate o mermelada)  \n– Magdalenas  \n– Fruta fresca\n\n• Federal Café:  \n– Energy balls (bolitas de frutos secos)  \n– Galletas artesanas  \n– Tostadas pequeñas\n\n¿Te gustaría saber si tienen opciones sin gluten o veganas en concreto?",
+      "receivedAt": "2025-07-01T22:41:24.567Z",
+      "responseTime": 5250,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "¿Sabes si en alguno ponen refill de café gratis o alguna promo de café + snack a precio cerrado?",
+      "sentAt": "2025-07-01T22:41:28.635Z",
+      "response": "¡Buena pregunta! Aquí tienes info sobre promos de café en esas cafeterías:\n\n• Toma Café: No suelen ofrecer refill gratis, pero a veces hay combo de café + galleta por unos 3 €.  \n• Café de la Luz: Ocasionalmente tienen promo de café + magdalena o tostada por 2,80 €.  \n• Federal Café: No hay refill, pero sí combos de café + snack desde 3,50 €.  \n\nLas promos pueden variar según el día, así que pregunta al llegar. ¿Te gustaría saber de algún sitio con refill ilimitado o buscas más opciones económicas para estudiar?",
+      "receivedAt": "2025-07-01T22:41:33.850Z",
+      "responseTime": 5215,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "¿Conoces algún sitio en Madrid donde sí tengan refill ilimitado de café, aunque sea tipo buffet o más rollo americano? ¿Y cuánto cuesta más o menos?",
+      "sentAt": "2025-07-01T22:41:37.887Z",
+      "response": "¡Buena pregunta! En Madrid no es común el refill ilimitado de café al estilo americano, pero hay algunas opciones parecidas:\n\n• Buffet Ilimitado (lugar no especificado):  \nBuffet por 9,95 €, incluye café, leche, zumo, chocolate y té ilimitados.  \n📍No disponible (el local no está identificado, pero existen buffets similares en la ciudad).\n\n• Ha-Long by Café Saigon:  \nBrunch buffet ilimitado, pregunta si el café es refill.  \nPrecio variable (evento temporal, consulta antes de ir).  \n📍https://maps.google.com/?q=Calle+de+Velázquez,+87,+28006+Madrid\n\n• Pum Pum Café:  \nBrunch con café incluido, pero no refill ilimitado.  \n10 € por persona  \n📍https://maps.google.com/?q=Calle+Tribulete,+6,+28012+Madrid\n\n• Toma Café 1:  \nCafé de especialidad, sin refill ilimitado, pero excelente calidad.  \nCafé desde 2 €  \n📍https://maps.google.com/?q=Toma+Café,+Calle+de+la+Paz,+11,+28012+Madrid\n\nResumen:  \nEl refill ilimitado tipo diner americano es muy raro en Madrid. Lo más parecido son algunos brunch buffet donde el café puede estar incluido sin límite, pero conviene preguntar antes. Si quieres, puedo buscarte buffets de hotel o brunch internacionales que se acerquen a esa experiencia. ¿Te gustaría que lo haga?",
+      "receivedAt": "2025-07-01T22:41:59.266Z",
+      "responseTime": 21379,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "Sí, búscame algún buffet libre en Madrid que incluya café ilimitado y que esté bien de precio para un estudiante, ¿tienes alguno cerca del centro?",
+      "sentAt": "2025-07-01T22:42:03.272Z",
+      "response": "¡Por supuesto! Aquí tienes opciones de buffet libre en Madrid con café ilimitado y precios asequibles cerca del centro:\n\n• All You Can Eat (AUCE): ⭐️ 4.1  \nBuffet céntrico (Montera y Tetuán), desayuno buffet con café ilimitado por 7,95 €. Gran variedad y ambiente informal.  \n📍https://goo.gl/maps/KnKpJWT9wGZ4LMWw5  \n📍https://goo.gl/maps/qQyVwUvUkUy3uDaE6\n\n• Orient Buffet Madrid: ⭐️ 4.0  \nBuffet asiático económico, bebida y postre incluidos según promoción (consulta si el café entra en el buffet).  \n15,80 € por persona  \n📍https://goo.gl/maps/hwCu8KboAwtn2bRa9\n\n• SUMO Buffet Libre: ⭐️ 4.2  \nBuffet asiático con más de 100 platos, céntrico. El café puede estar incluido en menú brunch, pregunta al llegar.  \n15–18 € por persona  \n📍https://goo.gl/maps/C9FVgRkXhY2mycRKA\n\nConsejo: El café ilimitado está garantizado en AUCE durante desayunos. En los demás, consulta en el local si está incluido en el buffet de mediodía o cena.\n\n¿Te gustaría recomendaciones de buffets brunch baratos con café ilimitado?",
+      "receivedAt": "2025-07-01T22:42:31.270Z",
+      "responseTime": 27998,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "¿El AUCE solo tiene buffet de desayuno o también hay buffet de comida por un precio parecido? ¿Qué suelen incluir en el desayuno?",
+      "sentAt": "2025-07-01T22:42:35.409Z",
+      "response": "¡Genial pregunta! AUCE (All You Can Eat) ofrece principalmente buffet de desayuno económico:\n\n• Buffet de desayuno:  \n– Café ilimitado, infusiones y zumos  \n– Bollería, tostadas, mermeladas  \n– Cereales, fruta fresca  \n– Embutidos, quesos y huevos (según local)  \n– Alguna opción vegana y sin gluten (consulta en el local)\n\n• Buffet de comida:  \n– En AUCE suelen centrarse en desayunos; para buffet de comida, el precio sube (12–15 €) y la variedad es mayor (ensaladas, pastas, carnes, pescados, postres).\n\nEl desayuno es la opción más barata (7,95 €), ideal para estudiantes. ¿Te gustaría saber horarios o buscas buffets de comida con opciones veganas y saludables?",
+      "receivedAt": "2025-07-01T22:42:42.392Z",
+      "responseTime": 6983,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "¿Sabes hasta qué hora sirven el buffet de desayuno en AUCE y si hace falta reservar o puedo llegar directamente?",
+      "sentAt": "2025-07-01T22:42:46.754Z",
+      "response": "¡Claro! En AUCE:\n\n• El buffet de desayuno suele servirse hasta las 11:30 h o 12:00 h, según el local.  \n• No es obligatorio reservar; puedes llegar directamente, aunque en fines de semana puede haber más gente.  \n• Si vas en grupo, mejor reservar para asegurar sitio.\n\n¿Te gustaría recomendaciones de buffets con opciones veganas o saludables para desayunar?",
+      "receivedAt": "2025-07-01T22:42:51.513Z",
+      "responseTime": 4759,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "¿Sabes si en AUCE hacen algún descuento especial para estudiantes si llevo el carnet, o algún día más barato durante la semana?",
+      "sentAt": "2025-07-01T22:42:55.853Z",
+      "response": "¡Buena pregunta! En AUCE:\n\n• No suelen tener descuento fijo para estudiantes, pero algunos locales pueden aplicar promociones puntuales si muestras el carnet.  \n• Entre semana, el precio suele ser el mismo, pero a veces hay ofertas especiales según temporada o eventos.\n\nTe recomiendo preguntar al llegar o llamar antes, ya que las promociones pueden variar por local. ¿Te gustaría info sobre otros sitios económicos con descuentos para estudiantes en Madrid?",
+      "receivedAt": "2025-07-01T22:43:02.046Z",
+      "responseTime": 6193,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "Sí, dime algún otro sitio en Madrid centro donde hagan descuento de estudiante y se coma bien por menos de 10 €. ¿Tienes alguno favorito?",
+      "sentAt": "2025-07-01T22:43:06.997Z",
+      "response": "¡Por supuesto! Aquí tienes opciones céntricas con descuento para estudiantes y buena comida por menos de 10 €:\n\n• 100 Montaditos: ⭐️ 4.0  \nDescuento con carnet universitario ciertos días, montaditos y bebida desde 2 €.  \n📍https://goo.gl/maps/8pY4B1j6h2v\n\n• Rodilla: ⭐️ 4.1  \nMenú universitario con bocadillo, bebida y postre por unos 5–6 €.  \n📍https://goo.gl/maps/8k4tS4v8d6C2\n\n• Tierra Burrito Bar: ⭐️ 4.3  \nDescuento de estudiante en menú burrito o bowl, desde 7,50 €.  \n📍https://goo.gl/maps/9v9V3J2w5wD2\n\nMi favorito para algo sano y saciante es Tierra Burrito Bar. ¿Te gustaría recomendaciones de sitios con opciones veganas o internacionales?",
+      "receivedAt": "2025-07-01T22:43:13.560Z",
+      "responseTime": 6563,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "¡Qué bien! ¿En Tierra Burrito Bar el descuento de estudiante es solo en menú o también en burritos sueltos? ¿Y sabes si lo aplican todo el día o solo en horario de comidas?",
+      "sentAt": "2025-07-01T22:43:21.244Z",
+      "response": "¡Muy buena elección! En Tierra Burrito Bar:\n\n• El descuento de estudiante suele aplicarse tanto en menú como en burritos sueltos, mostrando el carnet.  \n• Normalmente está disponible todo el día, pero puede variar según local y promociones vigentes.  \n• Te recomiendo preguntar al pedir para asegurarte de la oferta en ese momento.\n\n¿Quieres saber opciones veganas y picantes en su carta? ¡Encantado de ayudarte como tu amigo foodie!",
+      "receivedAt": "2025-07-01T22:43:26.155Z",
+      "responseTime": 4911,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "¡Sí, cuéntame qué opciones veganas tienen en Tierra Burrito Bar y si cuestan lo mismo que las normales!",
+      "sentAt": "2025-07-01T22:43:30.099Z",
+      "response": "¡Por supuesto! En Tierra Burrito Bar:\n\n• Opción vegana: burrito o bowl con base de arroz, frijoles, verduras asadas, guacamole, pico de gallo y salsa picante.  \n• Puedes añadir jalapeños y salsa extra picante.  \n• El precio es igual al de los burritos normales, sin recargo por ser vegano.\n\n¿Te gustaría que te recomiende combinaciones picantes o saber los valores nutricionales aproximados?",
+      "receivedAt": "2025-07-01T22:43:35.193Z",
+      "responseTime": 5094,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "Sí, dime tu combinación picante favorita en Tierra Burrito Bar para pedir algo diferente la próxima vez.",
+      "sentAt": "2025-07-01T22:43:39.219Z",
+      "response": "¡Con mucho gusto! Como tu amigo foodie, te sugiero una combinación vegana y bien picante en Tierra Burrito Bar:\n\n• Base: arroz integral y frijoles negros  \n• Verduras asadas y pico de gallo  \n• Guacamole extra  \n• Jalapeños frescos  \n• Salsa chipotle y salsa habanero (¡pide ambas para subir el nivel!)  \n• Topping de cilantro y lima\n\n¡Explosión de sabor y picante! ¿Te animas a probarla? Si quieres, cuéntame más sobre tus gustos para afinar futuras recomendaciones.",
+      "receivedAt": "2025-07-01T22:43:45.703Z",
+      "responseTime": 6484,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-07-01T22:43:45.703Z",
+  "duration": 192194
+}

@@ -1,0 +1,823 @@
+{
+  "timestamp": "2025-08-08T13:03:07.027Z",
+  "totalPersonas": 5,
+  "totalQuestions": 75,
+  "totalResponses": 75,
+  "testResults": [
+    {
+      "personaId": "health_conscious",
+      "personaName": "María Fitness",
+      "language": "es",
+      "description": "Usuario consciente de la salud que busca opciones nutritivas",
+      "startTime": "2025-08-08T12:48:35.264Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "¡Hola RECO! ¿Conoces algún restaurante vegano y orgánico cerca del centro que tenga opciones sin gluten?",
+          "sentAt": "2025-08-08T12:48:37.618Z",
+          "response": "¡Hola! Claro, aquí tienes algunas opciones cerca del centro que pueden interesarte:\n\n• Vegamo: Restaurante vegano con opciones de hamburguesas, pizzas y desayunos. Ideal para quienes buscan opciones saludables y variadas.  \nhttps://www.google.com/maps/place/?q=place_id:ChIJw7OQuyr_0YURSik_5eRXJHs\n\n• El Mejor del Centro: Restaurante vegano y vegetariano con toque mexicano.  \nhttps://www.google.com/maps/place/?q=place_id:ChIJgfUMSdX-0YURTIt5N318460\n\n• Senza Gluten by Jemiko - 100% Gluten Free Cafe & Bakery: Café y panadería 100% libre de gluten, perfecto si buscas opciones seguras y deliciosas.  \nhttps://www.google.com/maps/place/?q=place_id:ChIJM95IwLZZwokRpZhaBV9TlYY\n\n¿Te gustaría saber más sobre el ambiente o los platillos de alguno?",
+          "receivedAt": "2025-08-08T12:48:51.429Z",
+          "responseTime": 13811,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "¡Gracias! Me interesa Vegamo. ¿Sabes si usan ingredientes orgánicos y qué opciones de proteínas vegetales tienen en su menú?",
+          "sentAt": "2025-08-08T12:48:53.097Z",
+          "response": "¡Con gusto! Vegamo suele priorizar ingredientes frescos y locales, aunque no siempre todos son orgánicos. Sus opciones de proteínas vegetales incluyen:\n\n• Tofu y tempeh en varios platillos  \n• Hamburguesas de lentejas y garbanzos  \n• Falafel y quinoa  \n\n¿Te gustaría que traduzca su menú o te ayude a elegir un platillo picante? Si tienes alguna otra preferencia, ¡cuéntame!",
+          "receivedAt": "2025-08-08T12:48:59.666Z",
+          "responseTime": 6569,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "¿Tienen opciones de smoothies o ensaladas que sean ricos en proteína vegetal?",
+          "sentAt": "2025-08-08T12:49:04.154Z",
+          "response": "¡Sí! Vegamo suele ofrecer:\n\n• Smoothies con proteína vegetal (puedes pedirlos con proteína de chícharo o soya)  \n• Ensaladas con tofu, garbanzos o quinoa, ideales para un extra de proteína  \n\n¿Te gustaría recomendaciones específicas de smoothies o ensaladas picantes?",
+          "receivedAt": "2025-08-08T12:49:09.009Z",
+          "responseTime": 4855,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "¿Los smoothies llevan endulzantes artificiales o usan frutas naturales para darle dulzor?",
+          "sentAt": "2025-08-08T12:49:13.666Z",
+          "response": "Generalmente, en Vegamo los smoothies se endulzan con frutas naturales como plátano o mango. Si prefieres sin azúcar añadida o sin endulzantes artificiales, puedes pedirlo al ordenar. ¿Quieres que te sugiera un smoothie específico?",
+          "receivedAt": "2025-08-08T12:49:17.481Z",
+          "responseTime": 3815,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "¿Tienen opciones de toppings saludables, como semillas de chía, hemp o frutos secos, para agregar a los smoothies?",
+          "sentAt": "2025-08-08T12:49:21.557Z",
+          "response": "¡Sí! Vegamo suele ofrecer toppings saludables como semillas de chía, hemp y mix de frutos secos para agregar a tus smoothies o bowls. Estos toppings aportan proteínas, grasas saludables y textura. ¿Te gustaría saber los beneficios de alguno?",
+          "receivedAt": "2025-08-08T12:49:34.413Z",
+          "responseTime": 12856,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "¿Las ensaladas tienen aderezos caseros y puedes elegir opciones bajas en grasa o sin aceite?",
+          "sentAt": "2025-08-08T12:49:38.551Z",
+          "response": "¡Exacto! Las ensaladas de Vegamo suelen tener aderezos caseros. Puedes pedir opciones bajas en grasa o sin aceite, como vinagreta de limón o yogur vegetal. ¿Te gustaría recomendaciones de ensaladas frescas y picantes?",
+          "receivedAt": "2025-08-08T12:49:43.128Z",
+          "responseTime": 4577,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "¿El yogur vegetal que usan en los aderezos es casero o comprado, y de qué está hecho?",
+          "sentAt": "2025-08-08T12:49:47.662Z",
+          "response": "Por lo general, el yogur vegetal en Vegamo es comprado y suele ser de coco o soya. Si prefieres casero, puedes preguntar al ordenar, ya que a veces lo preparan en casa. ¿Te gustaría opciones de aderezos sin yogur?",
+          "receivedAt": "2025-08-08T12:49:52.745Z",
+          "responseTime": 5083,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "Sí, ¿qué aderezos sin yogur ofrecen que sean bajos en azúcares añadidos?",
+          "sentAt": "2025-08-08T12:49:57.378Z",
+          "response": "¡Perfecto! En Vegamo puedes encontrar aderezos sin yogur y bajos en azúcares añadidos, como:\n\n• Salsa de aguacate con cilantro, limón y chile  \n• Vinagreta de aceite de oliva, mostaza y hierbas  \n• Salsa tahini con ajo y limón  \n\n¿Te gustaría saber cuál combina mejor con mariscos vegetales o alguna ensalada picante?",
+          "receivedAt": "2025-08-08T12:50:11.715Z",
+          "responseTime": 14337,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "¿La salsa tahini la preparan sin azúcar, y sabes si usan tahini orgánico?",
+          "sentAt": "2025-08-08T12:50:15.696Z",
+          "response": "La salsa tahini de Vegamo normalmente se prepara sin azúcar añadida, solo con tahini, limón, ajo y especias. El tahini suele ser de buena calidad, pero no siempre orgánico. Puedes pedir que te confirmen al ordenar. ¿Te gustaría recomendaciones de platillos donde usarla?",
+          "receivedAt": "2025-08-08T12:50:20.689Z",
+          "responseTime": 4993,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "¿Tienen wraps o bowls donde pueda pedir la salsa tahini como aderezo principal?",
+          "sentAt": "2025-08-08T12:50:24.855Z",
+          "response": "¡Sí! En Vegamo puedes pedir bowls y wraps donde la salsa tahini es una excelente opción de aderezo principal. Combina muy bien con falafel, tofu, garbanzos y vegetales frescos. ¿Te gustaría sugerencias de combinaciones picantes o con mariscos vegetales?",
+          "receivedAt": "2025-08-08T12:50:29.613Z",
+          "responseTime": 4758,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "¿Tienen opciones de wraps sin gluten, y qué ingredientes usan para la base?",
+          "sentAt": "2025-08-08T12:50:33.479Z",
+          "response": "¡Claro! Vegamo suele ofrecer wraps sin gluten hechos con tortillas de maíz, nopal o lechuga. Son ideales para quienes buscan opciones ligeras y saludables. ¿Quieres recomendaciones de rellenos picantes o con proteína vegetal?",
+          "receivedAt": "2025-08-08T12:50:40.417Z",
+          "responseTime": 6938,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "¿Cuál de las bases sin gluten recomiendas más para un wrap que sea saciante y alto en proteína vegetal?",
+          "sentAt": "2025-08-08T12:50:44.501Z",
+          "response": "Como tu foodie friend, te recomiendo la base de tortilla de nopal: es saciante, baja en calorías y rica en fibra. Combínala con tofu, garbanzos o falafel para un wrap alto en proteína vegetal. ¿Te gustaría ideas de combinaciones picantes?",
+          "receivedAt": "2025-08-08T12:50:49.430Z",
+          "responseTime": 4929,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "¿El falafel que preparan es horneado o frito, y sabes si usan aceite de buena calidad?",
+          "sentAt": "2025-08-08T12:50:54.039Z",
+          "response": "En Vegamo, el falafel suele ser frito, pero con aceite vegetal de buena calidad (como girasol o canola). Si prefieres horneado, puedes preguntar si lo preparan así. ¿Quieres opciones de wraps picantes con falafel?",
+          "receivedAt": "2025-08-08T12:50:58.321Z",
+          "responseTime": 4282,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "¿Tienen opción de agregar más vegetales o germinados frescos al wrap de falafel para hacerlo aún más nutritivo?",
+          "sentAt": "2025-08-08T12:51:02.430Z",
+          "response": "¡Sí! Puedes agregar más vegetales frescos como espinaca, jitomate, pepino, zanahoria y germinados al wrap de falafel. Así lo haces más nutritivo, colorido y saciante. ¿Te gustaría sugerencias de combinaciones picantes?",
+          "receivedAt": "2025-08-08T12:51:07.925Z",
+          "responseTime": 5495,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "¿Los germinados que usan son orgánicos y de qué tipo suelen tener disponibles?",
+          "sentAt": "2025-08-08T12:51:11.998Z",
+          "response": "Generalmente, los germinados en Vegamo son frescos y a veces orgánicos, según disponibilidad. Suelen tener germinados de alfalfa, lenteja y brócoli. Puedes preguntar por la opción orgánica al ordenar. ¿Te gustaría saber los beneficios de algún germinado?",
+          "receivedAt": "2025-08-08T12:51:16.921Z",
+          "responseTime": 4923,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T12:51:16.922Z",
+      "duration": 161658
+    },
+    {
+      "personaId": "budget_conscious",
+      "personaName": "Carlos Estudiante",
+      "language": "es",
+      "description": "Estudiante universitario con presupuesto limitado",
+      "startTime": "2025-08-08T12:51:21.926Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, ¿sabes de algún sitio por aquí donde tengan menú del día barato? Estoy buscando algo que no me deje la cartera temblando.",
+          "sentAt": "2025-08-08T12:51:23.200Z",
+          "response": "¡Hola! Te recomiendo estas opciones económicas cerca del centro:\n\n*Mamacitas*  \n• Restaurante casual con menú variado  \n• Costo promedio bajo  \n• https://www.google.com/maps/place/?q=place_id:ChIJB5VTq-lZ54YRpOGp-feJpMU\n\n*El Jacalito Restaurant*  \n• Mexicano, ideal para desayunos y comidas  \n• Precios accesibles  \n• https://www.google.com/maps/place/?q=place_id:ChIJywRdOaBZ54YRyknSQQMIWJE\n\n¿Prefieres comida picante, vegetariana o algún tipo específico? ¡Cuéntame para afinar la recomendación!",
+          "receivedAt": "2025-08-08T12:51:30.328Z",
+          "responseTime": 7128,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "Gracias, tienen buena pinta. ¿Sabes si alguno de estos sitios tiene menú del día con bebida incluida? ¿Y cuánto cuesta exactamente?",
+          "sentAt": "2025-08-08T12:51:31.491Z",
+          "response": "¡Con gusto! Ambos suelen ofrecer menú del día económico, a menudo con bebida incluida (agua fresca o refresco). El precio ronda los $90-$120 MXN. Te sugiero preguntar al llegar, ya que puede variar. ¿Te gustaría recomendaciones de platillos picantes o con mariscos?",
+          "receivedAt": "2025-08-08T12:51:40.161Z",
+          "responseTime": 8670,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "¡Perfecto! ¿Sabes si aceptan tarjeta o solo efectivo? Porque a veces solo traigo la tarjeta y no quiero quedarme a lavar platos.",
+          "sentAt": "2025-08-08T12:51:44.389Z",
+          "response": "¡Buena pregunta! Mamacitas suele aceptar tarjeta y efectivo, mientras que El Jacalito a veces solo efectivo. Te recomiendo confirmar antes de ordenar. ¿Te gustaría que te sugiera platillos picantes para probar?",
+          "receivedAt": "2025-08-08T12:51:52.204Z",
+          "responseTime": 7815,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "¡Sí, me late probar algo picante! ¿Qué platillo picante del menú recomiendas y qué tan picante está?",
+          "sentAt": "2025-08-08T12:51:56.313Z",
+          "response": "¡Genial! En Mamacitas, prueba los tacos de camarón al chipotle: son picantes, pero tolerables para quienes disfrutan el picante. En El Jacalito, la cochinita pibil con salsa habanera es intensa, ¡ideal si te gusta el picor fuerte! ¿Te animas con alguno?",
+          "receivedAt": "2025-08-08T12:52:01.500Z",
+          "responseTime": 5187,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "¡Uf, la cochinita con habanero suena potente! ¿Sabes si el menú del día incluye postre o hay que pagarlo aparte?",
+          "sentAt": "2025-08-08T12:52:05.866Z",
+          "response": "Normalmente, el menú del día incluye postre sencillo (como gelatina o arroz con leche), pero a veces es extra, según el lugar. Te sugiero preguntar al ordenar. ¿Te gustaría recomendaciones de postres ligeros o picantes para probar?",
+          "receivedAt": "2025-08-08T12:52:09.894Z",
+          "responseTime": 4028,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "Gracias por el dato. Y si voy con amigos, ¿tienen alguna promo de 2x1 o descuento para grupos de estudiantes?",
+          "sentAt": "2025-08-08T12:52:17.989Z",
+          "response": "¡De nada! A veces Mamacitas lanza promos de 2x1 en bebidas o tacos, y El Jacalito suele tener descuentos para grupos o estudiantes, especialmente entre semana. Te recomiendo preguntar al llegar. ¿Quieres tips para compartir platillos picantes en grupo?",
+          "receivedAt": "2025-08-08T12:52:25.570Z",
+          "responseTime": 7581,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "Sí, pásate esos tips para compartir, pero dime también si tienen opción de refill en bebidas o solo es un vaso. ¡Eso ayuda a ahorrar!",
+          "sentAt": "2025-08-08T12:52:29.583Z",
+          "response": "¡Claro!  \n• En Mamacitas, a veces hay refill en aguas frescas; pregunta al ordenar.  \n• El Jacalito suele dar solo un vaso, pero puedes pedir extra con costo bajo.  \nTips: pide platillos al centro, como guacamole, salsas y tacos variados para compartir y probar más sabores picantes. ¿Te gustaría más ideas para compartir mariscos o algo vegetariano?",
+          "receivedAt": "2025-08-08T12:52:36.266Z",
+          "responseTime": 6683,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "¡Gracias! Y ya que mencionas mariscos, ¿qué opción de mariscos es la más barata en esos menús? Porque a veces se suben mucho con el precio.",
+          "sentAt": "2025-08-08T12:52:40.605Z",
+          "response": "¡Buen punto! La opción más económica suele ser el ceviche de pescado o coctel de camarón en ambos lugares. Son frescos, ligeros y no tan caros como otros mariscos. ¿Te gustaría saber con qué bebida combinan mejor?",
+          "receivedAt": "2025-08-08T12:52:55.805Z",
+          "responseTime": 15200,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "¡Sí, dime con qué bebida sale mejor el ceviche! Y si hay happy hour en alguno, avísame, que eso siempre ayuda al bolsillo.",
+          "sentAt": "2025-08-08T12:53:04.658Z",
+          "response": "¡Por supuesto! El ceviche va perfecto con agua de limón, jamaica o una cerveza clara bien fría. Mamacitas a veces tiene happy hour en cervezas por la tarde; pregunta por la promo al llegar. ¿Te gustaría más tips para maridar platillos picantes?",
+          "receivedAt": "2025-08-08T12:53:10.106Z",
+          "responseTime": 5448,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "¡Va! ¿Sabes a qué hora empieza el happy hour en Mamacitas y si hay límite de tiempo o mínimo de consumo?",
+          "sentAt": "2025-08-08T12:53:14.030Z",
+          "response": "Generalmente, el happy hour en Mamacitas inicia entre 4 y 7 pm, con duración de 2 a 3 horas. Suele no requerir consumo mínimo, pero pregunta al llegar por detalles y promociones vigentes. ¿Te gustaría más sugerencias para aprovechar tu visita?",
+          "receivedAt": "2025-08-08T12:53:22.152Z",
+          "responseTime": 8122,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "¡Sí, recomiéndame otro sitio barato con happy hour por la zona! Así comparo antes de decidir.",
+          "sentAt": "2025-08-08T12:53:28.456Z",
+          "response": "¡Por supuesto! Aquí tienes otra opción económica con happy hour cerca del centro:\n\n*La Diosa Taqueria Calle 8*  \n• Restaurante mexicano casual, ideal para botanear y probar salsas picantes  \n• Happy hour en cervezas y margaritas por la tarde  \n• https://www.google.com/maps/place/?q=place_id:ChIJ_W-cb3q32YgRnC8uPM2I2do\n\n¿Te gustaría saber qué platillos picantes o de mariscos ofrecen aquí?",
+          "receivedAt": "2025-08-08T12:53:35.042Z",
+          "responseTime": 6586,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "¡Sí, cuéntame cuáles son los mariscos más baratos que tienen en La Diosa Taqueria, y si esos entran en happy hour o solo aplica a las bebidas!",
+          "sentAt": "2025-08-08T12:53:39.866Z",
+          "response": "En La Diosa Taqueria, los mariscos más baratos suelen ser los tacos de camarón y ceviche de pescado. El happy hour aplica solo a bebidas (cervezas y margaritas), pero puedes acompañar tus mariscos con estas promos. ¿Quieres tips para pedirlos bien picantes?",
+          "receivedAt": "2025-08-08T12:53:46.502Z",
+          "responseTime": 6636,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "¡Claro! ¿Y esos tacos de camarón vienen bien servidos o son de esos que traen poquito relleno? Porque no quiero quedarme con hambre.",
+          "sentAt": "2025-08-08T12:53:50.782Z",
+          "response": "¡Buena pregunta! En La Diosa Taqueria los tacos de camarón suelen estar bien servidos, con camarones frescos y buena cantidad de vegetales. Si prefieres más relleno, puedes pedir doble camarón por un costo extra. ¿Te gustaría ideas para combinarlos con salsas picantes?",
+          "receivedAt": "2025-08-08T12:53:56.861Z",
+          "responseTime": 6079,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "Sí, dime cuáles salsas picantes recomiendas ahí, y si cobran extra por pedir varias.",
+          "sentAt": "2025-08-08T12:54:02.138Z",
+          "response": "¡Perfecto! En La Diosa Taqueria te recomiendo probar:\n\n• Salsa de habanero (muy picante)  \n• Salsa verde de chile serrano  \n• Salsa de chipotle ahumado  \n\nNormalmente no cobran extra por pedir varias salsas. ¿Te gustaría saber cuál combina mejor con los tacos de camarón?",
+          "receivedAt": "2025-08-08T12:54:09.318Z",
+          "responseTime": 7180,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "Sí, dime cuál de esas salsas queda mejor con los tacos de camarón, y si tienes algún tip para que no me enchile tanto, se agradece.",
+          "sentAt": "2025-08-08T12:54:13.709Z",
+          "response": "¡Claro! Para los tacos de camarón, la salsa de chipotle ahumado es ideal: resalta el sabor sin opacar el marisco y tiene picor moderado. Tip: pide la salsa aparte y agrega poco a poco, así controlas el nivel de picante. ¿Te gustaría más tips para disfrutar la comida picante?",
+          "receivedAt": "2025-08-08T12:54:19.105Z",
+          "responseTime": 5396,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T12:54:19.105Z",
+      "duration": 177179
+    },
+    {
+      "personaId": "family_kids",
+      "personaName": "Ana Familia",
+      "language": "es",
+      "description": "Madre de familia con dos niños pequeños",
+      "startTime": "2025-08-08T12:54:24.109Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, ¿me puedes recomendar un restaurante en la ciudad que tenga zona de juegos para niños pequeños?",
+          "sentAt": "2025-08-08T12:54:25.291Z",
+          "response": "¡Hola! Te recomiendo Nervous Nellie's:  \n• Restaurante de mariscos y comida americana  \n• Ambiente familiar y suele contar con zona de juegos para niños  \n• https://www.google.com/maps/place/?q=place_id:ChIJS3D1VII724gR9FOkROyTlxI\n\n¿Te gustaría sugerencias de platillos para niños o recomendaciones saludables del menú?",
+          "receivedAt": "2025-08-08T12:54:32.304Z",
+          "responseTime": 7013,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "¿Tienen tronas y cambiador de pañales en los baños? Eso es importante cuando voy con mis hijos pequeños.",
+          "sentAt": "2025-08-08T12:54:33.875Z",
+          "response": "¡Buena pregunta! Nervous Nellie's suele contar con tronas para niños y área familiar. El cambiador de pañales está disponible en los baños principales, pero te sugiero confirmar al llegar. ¿Te gustaría tips para elegir platillos saludables para los peques?",
+          "receivedAt": "2025-08-08T12:54:40.337Z",
+          "responseTime": 6462,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "¿El restaurante tiene algún área al aire libre o espacio cerrado para que los niños jueguen, especialmente si hace mal tiempo?",
+          "sentAt": "2025-08-08T12:54:44.930Z",
+          "response": "¡Sí! Nervous Nellie's cuenta con área al aire libre y también espacios cerrados, así los niños pueden jugar sin importar el clima. ¿Te gustaría recomendaciones de platillos aptos para niños y fáciles de comer?",
+          "receivedAt": "2025-08-08T12:54:51.152Z",
+          "responseTime": 6222,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "¿Tienen menú infantil con opciones como pollo a la plancha o verduras, o solo ofrecen lo típico como nuggets y papas?",
+          "sentAt": "2025-08-08T12:54:55.743Z",
+          "response": "¡Buena elección! Nervous Nellie's ofrece menú infantil variado:  \n• Pollo a la plancha  \n• Verduras al vapor  \n• Opciones clásicas como nuggets y papas  \n\n¿Te gustaría recomendaciones saludables o ideas para combinar platillos para los peques?",
+          "receivedAt": "2025-08-08T12:55:01.107Z",
+          "responseTime": 5364,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "¿Las bebidas incluidas en el menú infantil son jugos naturales o solo refrescos? Prefiero algo sin tanta azúcar para mis hijos.",
+          "sentAt": "2025-08-08T12:55:05.087Z",
+          "response": "¡Excelente decisión! El menú infantil suele incluir jugos naturales y agua, además de refrescos. Puedes pedir específicamente jugo natural o agua para evitar exceso de azúcar. ¿Te gustaría sugerencias de snacks saludables para niños?",
+          "receivedAt": "2025-08-08T12:55:09.375Z",
+          "responseTime": 4288,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "¿El restaurante suele estar muy lleno a la hora de la comida o recomiendas hacer reservación si voy con niños?",
+          "sentAt": "2025-08-08T12:55:13.691Z",
+          "response": "¡Buena pregunta! Nervous Nellie’s suele llenarse a la hora de la comida, sobre todo fines de semana. Te recomiendo hacer reservación si vas con niños para asegurar mesa y zona de juegos. ¿Te gustaría más tips para una visita cómoda en familia?",
+          "receivedAt": "2025-08-08T12:55:19.077Z",
+          "responseTime": 5386,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "¿La zona de juegos está a la vista desde las mesas o es necesario acompañar a los niños todo el tiempo?",
+          "sentAt": "2025-08-08T12:55:23.306Z",
+          "response": "¡Gran duda! La zona de juegos en Nervous Nellie’s suele estar cerca de las mesas familiares y es visible, así puedes vigilar a los niños mientras comes. Aun así, siempre es bueno supervisar a los más pequeños. ¿Te gustaría más recomendaciones para comer tranquilo con niños?",
+          "receivedAt": "2025-08-08T12:55:28.456Z",
+          "responseTime": 5150,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "¿Hay actividades o entretenimiento especial para niños, como pinta caritas o globoflexia, los fines de semana?",
+          "sentAt": "2025-08-08T12:55:32.845Z",
+          "response": "¡Qué buena idea! En Nervous Nellie’s, los fines de semana a veces hay actividades especiales como pinta caritas y globoflexia, sobre todo en temporada alta o días festivos. Te sugiero preguntar al reservar. ¿Te gustaría tips para aprovechar al máximo la visita con tus hijos?",
+          "receivedAt": "2025-08-08T12:55:38.988Z",
+          "responseTime": 6143,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "¿El restaurante tiene estacionamiento propio o hay que buscar lugar en la calle? Me interesa porque siempre llevo muchas cosas con los niños.",
+          "sentAt": "2025-08-08T12:55:43.468Z",
+          "response": "¡Te entiendo perfecto! Nervous Nellie’s cuenta con estacionamiento propio, lo que facilita mucho la visita en familia. Así puedes bajar todo con calma y comodidad. ¿Te gustaría recomendaciones de otros lugares familiares en la ciudad?",
+          "receivedAt": "2025-08-08T12:55:47.439Z",
+          "responseTime": 3971,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "¿El restaurante tiene algún tipo de descuento o promoción para familias o para niños los fines de semana?",
+          "sentAt": "2025-08-08T12:55:51.510Z",
+          "response": "¡Buena pregunta! Nervous Nellie’s suele tener promociones para familias, como menú infantil a precio especial o descuentos en combos los fines de semana. Te recomiendo preguntar por las promos vigentes al llegar. ¿Te gustaría más tips para ahorrar en tu visita?",
+          "receivedAt": "2025-08-08T12:55:57.785Z",
+          "responseTime": 6275,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "¿El restaurante acepta pago con tarjeta o solo efectivo? Porque a veces no llevo mucho efectivo cuando salgo con los niños.",
+          "sentAt": "2025-08-08T12:56:02.529Z",
+          "response": "¡Tranquila! Nervous Nellie’s acepta pago con tarjeta y efectivo, así que puedes pagar cómodamente como prefieras. ¿Te gustaría más recomendaciones de restaurantes familiares o tips para comer fuera con niños?",
+          "receivedAt": "2025-08-08T12:56:06.221Z",
+          "responseTime": 3692,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "¿El restaurante ofrece sillas elevadoras o cojines para niños más grandes que ya no usan trona pero todavía necesitan un poco de altura en la mesa?",
+          "sentAt": "2025-08-08T12:56:10.575Z",
+          "response": "¡Sí! Nervous Nellie’s suele tener sillas elevadoras y cojines para niños más grandes, así que tus peques estarán cómodos en la mesa. ¿Te gustaría más consejos para una comida familiar agradable?",
+          "receivedAt": "2025-08-08T12:56:14.830Z",
+          "responseTime": 4255,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "¿El ambiente del restaurante es tranquilo o suele haber mucha gente y ruido, especialmente en la zona familiar? Me gustaría que mis hijos puedan disfrutar sin agobiarse.",
+          "sentAt": "2025-08-08T12:56:19.322Z",
+          "response": "¡Excelente pregunta! El ambiente en Nervous Nellie’s suele ser familiar y relajado, aunque en horas pico puede haber algo de ruido. Si prefieres más tranquilidad, te recomiendo ir temprano o entre semana. ¿Te gustaría sugerencias de horarios ideales para familias?",
+          "receivedAt": "2025-08-08T12:56:24.317Z",
+          "responseTime": 4995,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "¿El restaurante tiene acceso para carriolas o espacio suficiente para dejarlas cerca de la mesa? A veces voy con la carriola y necesito saber si es cómodo moverme con ella.",
+          "sentAt": "2025-08-08T12:56:29.527Z",
+          "response": "¡Por supuesto! Nervous Nellie’s tiene acceso para carriolas y espacio suficiente para dejarlas cerca de la mesa, facilitando la movilidad con niños pequeños. ¿Te gustaría más tips para salir a comer con bebés o niños pequeños?",
+          "receivedAt": "2025-08-08T12:56:33.660Z",
+          "responseTime": 4133,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "¿Me podrías recomendar algún otro restaurante similar en la ciudad, que también tenga zona de juegos y buenas facilidades para familias?",
+          "sentAt": "2025-08-08T12:56:37.900Z",
+          "response": "¡Con gusto! Aquí tienes otra opción familiar en la ciudad:\n\n*MILAGROS FARM*  \n• Restaurante con ambiente familiar y zona de juegos  \n• Espacio amplio y cómodo para familias  \n• https://www.google.com/maps/place/?q=place_id:ChIJl2S_W9Lr2YgRtdR9_YtEUHU\n\n¿Te gustaría saber sobre su menú infantil o tips para disfrutar la visita con niños?",
+          "receivedAt": "2025-08-08T12:56:44.654Z",
+          "responseTime": 6754,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T12:56:44.655Z",
+      "duration": 140546
+    },
+    {
+      "personaId": "international_tourist",
+      "personaName": "James British",
+      "language": "en",
+      "description": "British tourist visiting Spain for the first time",
+      "startTime": "2025-08-08T12:56:49.658Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hi there! I’ve just arrived in Madrid and I’d love to try some authentic Spanish food—could you recommend a good place for tapas that’s friendly to tourists like me?",
+          "sentAt": "2025-08-08T12:56:50.729Z",
+          "response": "Welcome to Madrid! Here are some great tapas spots popular with both locals and tourists:\n\n*Tapa Tapa Montera*  \n• Lively bar/restaurant with classic tapas and a friendly vibe  \n• https://www.google.com/maps/place/?q=place_id:ChIJ3wNHbIcoQg0RV3XOURPqLNA\n\n*Taberna El Sur*  \n• Cozy Spanish restaurant/bar, known for authentic flavors  \n• https://www.google.com/maps/place/?q=place_id:ChIJiTGJRSomQg0RTD1MZa1RTnE\n\nWould you like suggestions for specific tapas dishes to try?",
+          "receivedAt": "2025-08-08T12:57:00.219Z",
+          "responseTime": 9490,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "Thanks! Do these places usually have English menus, or will I need to muddle through with my rusty Spanish?",
+          "sentAt": "2025-08-08T12:57:01.469Z",
+          "response": "Most popular tapas spots like Tapa Tapa Montera and Taberna El Sur usually offer English menus or have staff who can help in English. You’ll feel comfortable ordering! Want tips on must-try dishes or menu translations?",
+          "receivedAt": "2025-08-08T12:57:08.088Z",
+          "responseTime": 6619,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "That’s reassuring, thanks! I’d love to know which tapas dishes are absolute must-tries for a first-timer like me—any personal favourites you recommend?",
+          "sentAt": "2025-08-08T12:57:12.542Z",
+          "response": "Absolutely! As your foodie friend, here are must-try tapas for a true Madrid experience:\n\n• Patatas bravas (crispy potatoes with spicy sauce)  \n• Gambas al ajillo (garlic shrimp)  \n• Tortilla española (Spanish omelette)  \n• Croquetas (creamy fried bites, often with ham or mushrooms)  \n• Pulpo a la gallega (Galician-style octopus)  \n\nWould you like help choosing something spicy or seafood-focused?",
+          "receivedAt": "2025-08-08T12:57:20.239Z",
+          "responseTime": 7697,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "Those all sound delicious! I do enjoy a bit of seafood—would you say pulpo a la gallega is a good choice for someone new to octopus, or is there another seafood tapa you’d recommend for beginners?",
+          "sentAt": "2025-08-08T12:57:24.847Z",
+          "response": "Great question! Pulpo a la gallega is tender, flavorful, and not too “fishy”—perfect for octopus beginners. If you want something milder, try gambas al ajillo (garlic shrimp)—super tasty and always a hit! Want more seafood suggestions or tips on what to pair them with?",
+          "receivedAt": "2025-08-08T12:57:30.534Z",
+          "responseTime": 5687,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "Both sound brilliant! If I go for the gambas al ajillo, is there a particular drink you’d recommend pairing with it—something local, perhaps?",
+          "sentAt": "2025-08-08T12:57:34.865Z",
+          "response": "Excellent choice! Gambas al ajillo pairs perfectly with:\n\n• A crisp Spanish white wine like Albariño or Verdejo  \n• Or a refreshing glass of local vermouth (“vermut”) on ice  \n\nBoth enhance the garlic and seafood flavors. Want more pairing tips or dessert ideas?",
+          "receivedAt": "2025-08-08T12:57:42.246Z",
+          "responseTime": 7381,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "I’ve never tried Spanish vermouth before—what’s it like, and is it commonly served as an aperitif in Madrid?",
+          "sentAt": "2025-08-08T12:57:46.588Z",
+          "response": "Spanish vermouth (“vermut”) is aromatic, slightly sweet, and infused with herbs and spices. In Madrid, it’s a classic aperitif—often served over ice with an orange slice or olive. Locals love it before lunch or with tapas! Want tips on where to try the best vermut?",
+          "receivedAt": "2025-08-08T12:57:52.198Z",
+          "responseTime": 5610,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "That sounds right up my street! Is there a particular bar or spot near those tapas places you mentioned where the vermut is especially good?",
+          "sentAt": "2025-08-08T12:57:56.412Z",
+          "response": "Absolutely! Near those tapas spots, try:\n\n*Vermutería Black Bolita*  \n• Bar/restaurant known for excellent vermut and a cozy vibe  \n• https://www.google.com/maps/place/?q=place_id:ChIJb5hlJdYnQg0R2dMfg-r2vK4\n\n*The Hour of the Vermouth, San Miguel Market*  \n• Great spot inside the famous market, perfect for tasting local vermut  \n• https://www.google.com/maps/place/?q=place_id:ChIJ4WbaIXkoQg0Rok-nMDWkvbw\n\nWould you like tips on pairing vermut with tapas or info on the best time to visit?",
+          "receivedAt": "2025-08-08T12:58:04.470Z",
+          "responseTime": 8058,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "The San Miguel Market sounds fascinating! Is it mostly tourists, or do locals go there for their vermut and tapas as well?",
+          "sentAt": "2025-08-08T12:58:08.825Z",
+          "response": "San Miguel Market is a lively mix—lots of tourists, but locals also visit for quality vermut and tapas, especially on weekends. It’s a great spot to sample many flavors in one place! Want tips on must-try stalls or when it’s less crowded?",
+          "receivedAt": "2025-08-08T12:58:15.705Z",
+          "responseTime": 6880,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "That’s helpful to know—are there any particular stalls or dishes inside San Miguel Market that you’d say I absolutely shouldn’t miss?",
+          "sentAt": "2025-08-08T12:58:20.112Z",
+          "response": "Definitely! Inside San Miguel Market, don’t miss:\n\n• Arzábal: Famous for croquetas and Spanish classics  \n• El Señor Martín: Fresh seafood tapas, especially oysters and grilled prawns  \n• Mozheart: Delicious Spanish cheeses and cured meats  \n• Paella y Olé: Authentic paella portions  \n\nGo early for fewer crowds and fresher options! Want help translating any menu items or more seafood suggestions?",
+          "receivedAt": "2025-08-08T12:58:29.189Z",
+          "responseTime": 9077,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "Those sound fantastic! At Paella y Olé, do they offer a few different types of paella, and is there one you’d recommend for someone trying it for the first time?",
+          "sentAt": "2025-08-08T12:58:33.765Z",
+          "response": "Yes! Paella y Olé usually offers several types, like:\n\n• Paella de mariscos (seafood paella)  \n• Paella mixta (seafood & meat)  \n• Paella valenciana (traditional with chicken, rabbit, veggies)  \n\nFor a first-timer, seafood paella is a classic, flavorful choice—perfect for your love of seafood! Want tips on what to pair with your paella?",
+          "receivedAt": "2025-08-08T12:58:44.270Z",
+          "responseTime": 10505,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "Seafood paella sounds brilliant! Is it usually made to order, or will I find it ready-prepared at the market stalls?",
+          "sentAt": "2025-08-08T12:58:48.347Z",
+          "response": "At San Miguel Market, seafood paella is usually ready-prepared in large pans and served by the portion—so you can enjoy it quickly and fresh. Perfect for sampling! Want suggestions for a drink to pair with your paella?",
+          "receivedAt": "2025-08-08T12:58:53.393Z",
+          "responseTime": 5046,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "That sounds perfect for a quick bite! Is there a particular Spanish wine or perhaps a local beer that pairs especially well with seafood paella?",
+          "sentAt": "2025-08-08T12:58:58.828Z",
+          "response": "Great question! Seafood paella pairs wonderfully with:\n\n• Albariño or Verdejo (crisp Spanish white wines)  \n• Mahou or Estrella Galicia (popular local beers)  \n\nBoth enhance the seafood flavors. Would you like dessert suggestions to finish your meal?",
+          "receivedAt": "2025-08-08T12:59:03.554Z",
+          "responseTime": 4726,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "Both sound lovely! If I opt for a beer, is it common to order a small one—a caña—or do most people go for a full pint in Madrid?",
+          "sentAt": "2025-08-08T12:59:08.635Z",
+          "response": "In Madrid, it’s very common to order a small beer called a “caña” (about 200ml). Locals love it for staying cold and fresh! You can always order another if you want more. Want tips on classic Spanish desserts to try after your meal?",
+          "receivedAt": "2025-08-08T12:59:19.882Z",
+          "responseTime": 11247,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "I’d love a dessert recommendation! Is there a classic Spanish sweet I shouldn’t miss while I’m in Madrid, especially after tapas or paella?",
+          "sentAt": "2025-08-08T12:59:24.107Z",
+          "response": "Absolutely! After tapas or paella, try:\n\n• Churros con chocolate—crispy dough sticks with thick hot chocolate for dipping  \n• Tarta de Santiago—almond cake, light and naturally gluten-free  \n\nBoth are Madrid favorites! Want to know where to find the best churros nearby?",
+          "receivedAt": "2025-08-08T12:59:29.732Z",
+          "responseTime": 5625,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "I’ve heard a bit about churros con chocolate—are there any particular cafés or chocolaterías near the market that are especially famous for them?",
+          "sentAt": "2025-08-08T12:59:37.028Z",
+          "response": "Yes! Near San Miguel Market, don’t miss:\n\n*Chocolatería San Ginés*  \n• Legendary spot for churros con chocolate, open since 1894  \n• https://www.google.com/maps/place/?q=place_id:ChIJR1y2n3koQg0R8F3WJqQn7rQ\n\nIt’s a must-visit for locals and tourists alike! Would you like tips on the best time to go or how to order like a local?",
+          "receivedAt": "2025-08-08T12:59:43.794Z",
+          "responseTime": 6766,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T12:59:43.794Z",
+      "duration": 174136
+    },
+    {
+      "personaId": "foodie_adventurous",
+      "personaName": "Diego Gourmet",
+      "language": "es",
+      "description": "Foodie aventurero que busca experiencias gastronómicas únicas",
+      "startTime": "2025-08-08T12:59:48.800Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, estoy buscando un restaurante en la CDMX que ofrezca un menú degustación innovador, ¿tienes alguna recomendación donde el chef experimente con ingredientes poco convencionales?",
+          "sentAt": "2025-08-08T12:59:50.374Z",
+          "response": "¡Hola! Te recomiendo estos lugares en CDMX donde el menú degustación es innovador y los chefs suelen experimentar con ingredientes poco convencionales:\n\n*Pujol*  \n• Restaurante mexicano de autor, famoso por su creatividad y uso de ingredientes únicos  \n• https://www.google.com/maps/place/?q=place_id:ChIJWZ2zdav40YURFvsU_rU3uaE\n\n*Quintonil*  \n• Alta cocina mexicana, menú degustación con propuestas originales y productos poco habituales  \n• https://www.google.com/maps/place/?q=place_id:ChIJbS8EZf8B0oURwwD8B0MpqK0\n\n¿Te gustaría saber el rango de precios o detalles sobre la experiencia en alguno?",
+          "receivedAt": "2025-08-08T12:59:59.495Z",
+          "responseTime": 9121,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "Gracias, RECO. ¿Podrías contarme un poco más sobre la experiencia de maridaje en Quintonil? Me interesa saber si proponen un maridaje creativo que complemente el menú degustación.",
+          "sentAt": "2025-08-08T13:00:01.332Z",
+          "response": "¡Por supuesto! En Quintonil, la experiencia de maridaje es muy cuidada y creativa. Ofrecen maridaje con vinos nacionales e internacionales, y a veces incluyen mezcales, cervezas artesanales o infusiones para resaltar cada platillo. El equipo sommelier te guía para que cada bebida complemente los sabores únicos del menú degustación. ¿Te gustaría saber el costo aproximado o reservar con anticipación?",
+          "receivedAt": "2025-08-08T13:00:09.586Z",
+          "responseTime": 8254,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "Me encanta la idea de maridar con infusiones y mezcales, suena bastante original. ¿Tienes alguna referencia sobre algún platillo del menú degustación que utilice ingredientes exóticos o poco comunes?",
+          "sentAt": "2025-08-08T13:00:13.974Z",
+          "response": "¡Sí! En Quintonil suelen sorprender con ingredientes poco convencionales, como:\n\n• Hojas y flores silvestres mexicanas  \n• Escamoles (larvas de hormiga)  \n• Chicatana (hormiga voladora)  \n• Vegetales fermentados y raíces nativas  \n\nEstos ingredientes aportan sabores únicos y resaltan la creatividad del chef. ¿Te gustaría saber cómo reservar o tips para aprovechar la experiencia al máximo?",
+          "receivedAt": "2025-08-08T13:00:20.101Z",
+          "responseTime": 6127,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "Excelente selección de ingredientes, justo lo que busco. ¿Sabes si el chef Jorge Vallejo suele salir a saludar durante el servicio o si existe la posibilidad de una visita guiada a la cocina?",
+          "sentAt": "2025-08-08T13:00:24.817Z",
+          "response": "¡Qué buena pregunta! En Quintonil, el chef Jorge Vallejo y su equipo suelen estar muy presentes, pero los saludos personales o visitas guiadas a la cocina no siempre están garantizados. Sin embargo, en restaurantes de este nivel a veces ofrecen experiencias especiales si las solicitas al reservar. Te recomiendo contactar directamente a Quintonil a través de su sitio web o redes sociales para preguntar por la disponibilidad de estas experiencias exclusivas. ¿Te gustaría tips para hacer tu reservación o recomendaciones de otros lugares similares?",
+          "receivedAt": "2025-08-08T13:00:40.150Z",
+          "responseTime": 15333,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "Agradezco el consejo, RECO. ¿Tienes algún tip sobre el mejor horario para reservar en Quintonil si busco una experiencia más tranquila y personalizada, quizás evitando los momentos de mayor afluencia?",
+          "sentAt": "2025-08-08T13:00:44.673Z",
+          "response": "¡Con gusto! Para una experiencia más tranquila y personalizada en Quintonil, te recomiendo reservar en horario de comida entre semana, alrededor de la 1:30 pm. Así evitas el rush y el ambiente es más relajado. Las noches de martes o miércoles también suelen ser menos concurridas. ¿Te gustaría recomendaciones para complementar tu visita, como bares cercanos o postres imperdibles?",
+          "receivedAt": "2025-08-08T13:00:52.674Z",
+          "responseTime": 8001,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "Excelente sugerencia, RECO. ¿Hay algún bar cercano donde recomiendes continuar la experiencia, especialmente alguno que ofrezca coctelería creativa con destilados mexicanos?",
+          "sentAt": "2025-08-08T13:00:56.733Z",
+          "response": "¡Claro! Aquí tienes una excelente opción cerca de Quintonil para seguir la experiencia con coctelería creativa:\n\n*Handshake Speakeasy*: ⭐️ 4.7  \n• Bar de autor reconocido internacionalmente, especializado en cocteles innovadores con destilados mexicanos  \n• Costo promedio por persona: $400-$600 MXN  \n• https://www.google.com/maps/place/?q=place_id:ChIJk6mQZfUB0oURnP7y7p5jT3I\n\n¿Te gustaría recomendaciones de cocteles picantes o con mezcal para probar ahí?",
+          "receivedAt": "2025-08-08T13:01:11.307Z",
+          "responseTime": 14574,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "¡Interesante opción! ¿Tienes alguna recomendación de coctel con mezcal en Handshake Speakeasy que destaque por su creatividad o por la incorporación de ingredientes inusuales?",
+          "sentAt": "2025-08-08T13:01:15.791Z",
+          "response": "¡Por supuesto! En Handshake Speakeasy te recomiendo pedir cocteles como:\n\n• “Mezcal Negroni” con infusiones de especias mexicanas  \n• Cocteles con mezcal, chile, piña asada o ingredientes como hoja santa y sal de gusano  \n• Pregunta por creaciones de temporada, suelen sorprender con ingredientes poco comunes y presentaciones originales\n\n¿Te gustaría tips para maridar estos cocteles con algún snack o botana del bar?",
+          "receivedAt": "2025-08-08T13:01:22.817Z",
+          "responseTime": 7026,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "Definitivamente me interesa, RECO. ¿Cuál botana o snack del menú de Handshake Speakeasy recomendarías para acompañar un coctel con mezcal y chile, buscando un equilibrio de sabores sin opacar al destilado?",
+          "sentAt": "2025-08-08T13:01:27.971Z",
+          "response": "¡Excelente elección! Para acompañar un coctel con mezcal y chile en Handshake Speakeasy, te sugiero:\n\n• Tostadas de atún o mariscos: frescura y un toque cítrico equilibran el picante y el ahumado  \n• Guacamole con totopos artesanales: sabor suave que realza el mezcal  \n• Frutos secos especiados: aportan textura sin opacar el destilado\n\n¿Te gustaría más recomendaciones de maridaje o tips para pedir botanas ligeras y sabrosas?",
+          "receivedAt": "2025-08-08T13:01:35.303Z",
+          "responseTime": 7332,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "Gracias, RECO, muy buenas sugerencias. ¿Sabes si Handshake Speakeasy suele renovar su menú de botanas con ingredientes de temporada o si ofrecen opciones fuera de carta para quienes buscan algo diferente?",
+          "sentAt": "2025-08-08T13:01:40.254Z",
+          "response": "¡Con gusto! Handshake Speakeasy suele renovar su menú de botanas según la temporada, incorporando ingredientes frescos y propuestas originales. Además, el staff es flexible y a veces puede sugerir opciones fuera de carta si buscas algo especial. Te recomiendo preguntar por recomendaciones del día al llegar. ¿Te gustaría tips para aprovechar al máximo la experiencia en un speakeasy?",
+          "receivedAt": "2025-08-08T13:01:51.645Z",
+          "responseTime": 11391,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "Me parece una excelente estrategia, RECO. ¿Sabes si es necesario reservar con anticipación en Handshake Speakeasy, o se puede acceder fácilmente llegando sin reserva, especialmente entre semana?",
+          "sentAt": "2025-08-08T13:01:56.263Z",
+          "response": "¡Excelente pregunta! En Handshake Speakeasy es muy recomendable reservar con anticipación, incluso entre semana, ya que es un bar muy popular y el acceso suele ser limitado. Así aseguras tu lugar y una mejor experiencia. ¿Te gustaría tips para hacer tu reserva o recomendaciones de otros bares creativos en la zona?",
+          "receivedAt": "2025-08-08T13:02:02.379Z",
+          "responseTime": 6116,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "Gracias, RECO. Ya que mencionas otros bares creativos en la zona, ¿podrías recomendarme algún lugar adicional donde la mixología destaque por el uso de ingredientes autóctonos o técnicas innovadoras?",
+          "sentAt": "2025-08-08T13:02:06.816Z",
+          "response": "¡Por supuesto! Aquí tienes otra excelente opción cerca de Quintonil:\n\n*Limantour Polanco*: ⭐️ 4.6  \n• Bar galardonado internacionalmente, famoso por su mixología con ingredientes autóctonos y técnicas creativas  \n• Costo promedio por persona: $350-$600 MXN  \n• https://www.google.com/maps/place/?q=place_id:ChIJw6VQZfUB0oURXk0QbQ5kYwY\n\n¿Te gustaría recomendaciones de cocteles con sabores mexicanos o tips para pedir algo fuera de lo común?",
+          "receivedAt": "2025-08-08T13:02:13.959Z",
+          "responseTime": 7143,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "Suena fascinante, RECO. ¿Podrías recomendarme algún coctel de Limantour Polanco que destaque por el uso de ingredientes autóctonos, ideal para quienes apreciamos sabores complejos y equilibrados?",
+          "sentAt": "2025-08-08T13:02:19.020Z",
+          "response": "¡Con mucho gusto! En Limantour Polanco te recomiendo probar:\n\n• “Mezcal Stalk” – Mezcal, licor de chile ancho, hoja santa y cítricos, con un perfil ahumado y herbal  \n• “Mr. Pink” – Gin, jugo de toronja, licor de chile y jarabe de jamaica, fresco y ligeramente picante  \n• Pregunta por cocteles de temporada con ingredientes como xoconostle, cacao o maíz azul\n\n¿Te gustaría tips para maridar alguno de estos cocteles con botanas del lugar?",
+          "receivedAt": "2025-08-08T13:02:26.496Z",
+          "responseTime": 7476,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "Gran selección de cocteles, RECO. ¿Tienes alguna sugerencia de botana en Limantour Polanco que resalte las notas herbales y ahumadas de un trago como el Mezcal Stalk?",
+          "sentAt": "2025-08-08T13:02:31.050Z",
+          "response": "¡Por supuesto! Para resaltar las notas herbales y ahumadas del Mezcal Stalk en Limantour Polanco, te sugiero:\n\n• Tacos de camarón con salsa de chile seco  \n• Guacamole con totopos de maíz azul  \n• Queso de cabra con hierbas frescas y tostadas\n\nEstas botanas equilibran y realzan los sabores del coctel sin opacarlo. ¿Te gustaría más recomendaciones para maridar cocteles con mariscos o algo picante?",
+          "receivedAt": "2025-08-08T13:02:40.359Z",
+          "responseTime": 9309,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "Excelentes opciones, RECO. ¿Sabes si en Limantour Polanco ofrecen alguna botana fuera de carta recomendada por el chef, o si el staff suele sugerir maridajes personalizados según el coctel elegido?",
+          "sentAt": "2025-08-08T13:02:44.854Z",
+          "response": "¡Me alegra que te gusten las opciones! En Limantour Polanco, el staff es muy atento y suele sugerir maridajes personalizados según el coctel que elijas. Ocasionalmente, el chef ofrece botanas fuera de carta con ingredientes de temporada. Te recomiendo preguntar por recomendaciones especiales al ordenar. ¿Te gustaría más tips para disfrutar la experiencia o recomendaciones de otros bares creativos?",
+          "receivedAt": "2025-08-08T13:02:51.207Z",
+          "responseTime": 6353,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "Perfecto, RECO. Para cerrar la experiencia, ¿me recomendarías visitar Limantour Polanco antes o después de cenar en Quintonil para disfrutar al máximo tanto la mixología como la comida?",
+          "sentAt": "2025-08-08T13:02:55.581Z",
+          "response": "¡Excelente pregunta! Para disfrutar al máximo, te recomiendo visitar Limantour Polanco después de cenar en Quintonil. Así podrás saborear la cena sin prisas y luego relajarte con cocteles creativos, permitiendo que los sabores de ambos lugares brillen por separado. Además, el ambiente en Limantour suele ser más animado por la noche. ¿Te gustaría tips para reservar o sugerencias de digestivos mexicanos para cerrar la noche?",
+          "receivedAt": "2025-08-08T13:03:02.023Z",
+          "responseTime": 6442,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T13:03:02.023Z",
+      "duration": 193223
+    }
+  ]
+}

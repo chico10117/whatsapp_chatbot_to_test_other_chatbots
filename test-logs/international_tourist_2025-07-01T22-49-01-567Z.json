@@ -1,0 +1,163 @@
+{
+  "personaId": "international_tourist",
+  "personaName": "James British",
+  "language": "en",
+  "description": "British tourist visiting Spain for the first time",
+  "startTime": "2025-07-01T22:46:26.303Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hi there! I’ve just arrived in Madrid and I’m looking for a place to try some authentic Spanish tapas. Could you recommend somewhere that’s good for a first-timer?",
+      "sentAt": "2025-07-01T22:46:27.342Z",
+      "response": "Welcome to Madrid! As your foodie friend, here are top spots for authentic tapas—perfect for first-timers:\n\n• Bodega de la Ardosa: ⭐️ 4.5  \nClassic tavern, famous for tortilla and vermouth.  \n€15–20 per person  \n📍https://goo.gl/maps/4p8QyJ6vZB72\n\n• El Sur: ⭐️ 4.6  \nFriendly vibe, generous tapas with each drink.  \n€12–18 per person  \n📍https://goo.gl/maps/8rQZq9w1Z8A2\n\n• Taberna La Concha: ⭐️ 4.5  \nTraditional tapas, great for trying local wines.  \n€15–20 per person  \n📍https://goo.gl/maps/3q9r6k9v4kB2\n\nWould you like tips on what to order, or are you interested in a specific neighborhood?",
+      "receivedAt": "2025-07-01T22:46:33.758Z",
+      "responseTime": 6416,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "These all sound brilliant! Could you tell me which one is the most popular with locals rather than just tourists?",
+      "sentAt": "2025-07-01T22:46:34.661Z",
+      "response": "Absolutely! As your RECO, here’s the scoop:\n\n• Bodega de la Ardosa is especially beloved by locals—authentic vibe, classic Madrid crowd, and a real neighborhood feel.  \n• El Sur and La Concha are also great but tend to attract more tourists.\n\nIf you want a true local experience, Bodega de la Ardosa is your spot! Want tips on what to order there?",
+      "receivedAt": "2025-07-01T22:46:40.041Z",
+      "responseTime": 5380,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "Yes please, I’d love some tips on what to order at Bodega de la Ardosa—are there any must-try dishes or drinks?",
+      "sentAt": "2025-07-01T22:46:45.188Z",
+      "response": "Of course! At Bodega de la Ardosa, don’t miss:\n\n• Tortilla de patatas (Spanish omelette)—famous and super juicy  \n• Salmorejo (cold tomato soup with ham and egg)  \n• Croquetas caseras (homemade croquettes)  \n• Ensaladilla rusa (creamy potato salad)  \n• Vermouth on tap—classic Madrid aperitif\n\nPerfect for a real local tapas experience! Would you like tips on pairing drinks or info on vegetarian options?",
+      "receivedAt": "2025-07-01T22:46:50.787Z",
+      "responseTime": 5599,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "That sounds delicious! I’m curious—do they have an English menu, or will I need to muddle through with my very basic Spanish?",
+      "sentAt": "2025-07-01T22:46:54.829Z",
+      "response": "Great question! Bodega de la Ardosa mainly has menus in Spanish, but the staff are used to visitors and are friendly—happy to help you out. If you’d like, I can translate the main menu items for you so you feel more confident ordering!\n\nWould you like a quick translation of typical tapas you’ll find there?",
+      "receivedAt": "2025-07-01T22:46:59.400Z",
+      "responseTime": 4571,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "That would be really helpful, thank you! Could you also let me know if they get very busy in the evenings, or is it best to go at a certain time to avoid the crowds?",
+      "sentAt": "2025-07-01T22:47:03.666Z",
+      "response": "Absolutely! Here’s a quick guide for you:\n\n• Evenings (especially after 8 PM) and weekends get very busy—expect crowds and standing room only.  \n• For a quieter experience, go on weekday afternoons or right at opening time.\n\nQuick menu translation:  \n• Tortilla de patatas – Spanish omelette  \n• Salmorejo – Chilled tomato soup  \n• Croquetas caseras – Homemade croquettes  \n• Ensaladilla rusa – Potato salad  \n• Vermut de grifo – Vermouth on tap\n\nLet me know if you want more translations or tips for your visit!",
+      "receivedAt": "2025-07-01T22:47:15.267Z",
+      "responseTime": 11601,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "That’s really useful, thanks! If I end up going in the evening when it’s busy, is it the sort of place where you need to make a reservation, or do you just show up and hope for the best?",
+      "sentAt": "2025-07-01T22:47:19.572Z",
+      "response": "You’re welcome! At Bodega de la Ardosa, it’s classic Madrid style—no reservations, just show up and squeeze in! It’s part of the fun and atmosphere. Arrive early if you want a spot at the bar or a small table.\n\nNeed tips for other tapas bars if it’s too crowded, or want advice on bar etiquette?",
+      "receivedAt": "2025-07-01T22:47:24.095Z",
+      "responseTime": 4523,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "Bar etiquette sounds interesting—are there any customs or things I should know before I go so I don’t stick out as a clueless tourist?",
+      "sentAt": "2025-07-01T22:47:28.031Z",
+      "response": "Great question! Here are some quick bar etiquette tips for Madrid tapas bars:\n\n• Stand at the bar—most locals eat and drink standing, especially when it’s busy.  \n• Order drinks first—tapas often come free with your drink, or you can order extra.  \n• Share plates—tapas are for sharing, so try a bit of everything.  \n• Pay at the end—just ask for “la cuenta” when you’re done.  \n• Be friendly—greet staff with “hola” and thank them with “gracias.”\n\nYou’ll fit right in! Want more tips or recommendations for other local spots?",
+      "receivedAt": "2025-07-01T22:47:34.192Z",
+      "responseTime": 6161,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "That’s brilliant advice, cheers! Out of curiosity, are there any tapas bars nearby that are a bit quieter or maybe have more seating, just in case I fancy a more relaxed evening?",
+      "sentAt": "2025-07-01T22:47:39.698Z",
+      "response": "Absolutely! Here are some quieter tapas bars in central Madrid with more seating and a relaxed vibe:\n\n• Taberna El Tempranillo: ⭐️ 4.4  \nChill atmosphere, great wine selection, plenty of tables.  \n€18–25 per person  \n📍https://goo.gl/maps/5n8X3cVw7iB2\n\n• Casa Lucas: ⭐️ 4.5  \nCosy, modern twist on classic tapas, good for sitting down.  \n€20–25 per person  \n📍https://goo.gl/maps/3uQn4y4g8bA2\n\n• La Musa: ⭐️ 4.4  \nTrendy, creative tapas, spacious and not too loud.  \n€18–25 per person  \n📍https://goo.gl/maps/4v3uQy8n9yA2\n\nWould you like suggestions for specific dishes at any of these, or maybe tips for pairing tapas with Spanish wines?",
+      "receivedAt": "2025-07-01T22:47:46.482Z",
+      "responseTime": 6784,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "Casa Lucas sounds right up my street—do you know if they take reservations, or is it walk-in only like the others?",
+      "sentAt": "2025-07-01T22:47:50.557Z",
+      "response": "Great choice! Casa Lucas does accept reservations, especially for dinner. It’s recommended if you want to guarantee a table, as it’s popular but more relaxed than the busiest spots. You can book by phone or sometimes online.\n\nWould you like their phone number or help with what to order there?",
+      "receivedAt": "2025-07-01T22:47:56.213Z",
+      "responseTime": 5656,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "Yes please, I’d appreciate some suggestions on what to order at Casa Lucas—are there any standout dishes or local specialities I shouldn’t miss?",
+      "sentAt": "2025-07-01T22:48:00.320Z",
+      "response": "Of course! At Casa Lucas, don’t miss these standout dishes:\n\n• Tosta de solomillo con cebolla confitada – Beef sirloin toast with caramelized onion (house classic)  \n• Tosta de foie con manzana – Foie gras toast with apple  \n• Croquetas caseras – Homemade croquettes  \n• Bacalao confitado – Confit cod with vegetables  \n• Salmorejo – Chilled tomato soup with ham and egg\n\nPair with a glass of Rioja or Ribera del Duero wine for the full experience. Want tips on vegetarian options or dessert recommendations?",
+      "receivedAt": "2025-07-01T22:48:06.516Z",
+      "responseTime": 6196,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "Those all sound fantastic! I do enjoy a good dessert—do you know if Casa Lucas has any traditional Spanish puddings or sweets worth trying?",
+      "sentAt": "2025-07-01T22:48:13.572Z",
+      "response": "Absolutely! Casa Lucas usually offers delicious homemade desserts. Look out for:\n\n• Tarta de queso – Creamy Spanish-style cheesecake  \n• Flan casero – Classic caramel custard  \n• Tarta de chocolate – Rich chocolate cake\n\nDesserts may vary, so ask for “postres caseros” (homemade desserts) when you visit. Perfect way to end your meal! Would you like more tips for sweet treats around Madrid?",
+      "receivedAt": "2025-07-01T22:48:19.003Z",
+      "responseTime": 5431,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "I’d love some more tips—are there any bakeries or cafés nearby that are especially good for traditional Spanish pastries, maybe for breakfast or an afternoon treat?",
+      "sentAt": "2025-07-01T22:48:22.952Z",
+      "response": "Absolutely! Here are some top spots near the city centre for traditional Spanish pastries and a great café vibe:\n\n• La Mallorquina: ⭐️ 4.3  \nIconic bakery on Puerta del Sol, famous for napolitanas (chocolate-filled pastry) and ensaimadas.  \n€2–4 per pastry  \n📍https://goo.gl/maps/8Q6yGkQ2y5w\n\n• Pastelería El Riojano: ⭐️ 4.5  \nHistoric café, try their rosquillas (Spanish doughnuts) and bartolillos (custard-filled pastries).  \n€2–5 per pastry  \n📍https://goo.gl/maps/2b1nq9v3k8C2\n\n• Chocolatería San Ginés: ⭐️ 4.4  \nLegendary for churros with thick hot chocolate—perfect for breakfast or merienda.  \n€4–6 per person  \n📍https://goo.gl/maps/5jv8w9n8yA2\n\nWould you like tips on what to order at any of these, or info on opening hours?",
+      "receivedAt": "2025-07-01T22:48:31.742Z",
+      "responseTime": 8790,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "Chocolatería San Ginés sounds brilliant—do you know if it gets very crowded in the mornings, or is there a quieter time to go for churros and hot chocolate?",
+      "sentAt": "2025-07-01T22:48:35.613Z",
+      "response": "Great choice! Chocolatería San Ginés is famous and can get quite crowded, especially:\n\n• Mornings (9–11 AM) and late evenings (after 8 PM) are busiest.  \n• For a quieter visit, go mid-morning (11:30 AM–1 PM) or mid-afternoon (4–6 PM).  \n• They’re open 24h, so you can even go late at night for a peaceful treat!\n\nWould you like tips on how to order, or suggestions for other spots with great churros?",
+      "receivedAt": "2025-07-01T22:48:41.979Z",
+      "responseTime": 6366,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "That’s handy to know, thanks! Out of curiosity, is San Ginés cash only, or do they accept card payments as well?",
+      "sentAt": "2025-07-01T22:48:46.161Z",
+      "response": "You’re welcome! Chocolatería San Ginés accepts both cash and card payments, so you can pay however you prefer—no worries. Enjoy your churros and chocolate!\n\nWant tips on other must-try Madrid treats or hidden cafés?",
+      "receivedAt": "2025-07-01T22:48:50.446Z",
+      "responseTime": 4285,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "I wouldn’t say no to a hidden café or two—are there any cosy spots nearby where I could relax with a coffee and maybe do a bit of people-watching?",
+      "sentAt": "2025-07-01T22:48:54.457Z",
+      "response": "Absolutely! Here are some cosy, lesser-known cafés near the city centre—perfect for relaxing and people-watching:\n\n• HanSo Café: ⭐️ 4.6  \nTrendy, relaxed vibe, specialty coffee, great pastries, big windows for people-watching.  \n€2–4 per coffee  \n📍https://goo.gl/maps/4nQn8y4y9kA2\n\n• Café de la Luz: ⭐️ 4.5  \nCharming, vintage décor, comfy sofas, ideal for a quiet break or reading.  \n€2–3 per coffee  \n📍https://goo.gl/maps/8v7XwF1j8t52\n\n• Toma Café: ⭐️ 4.6  \nLocal favourite, excellent coffee, laid-back atmosphere, perfect for a chill afternoon.  \n€2–3 per coffee  \n📍https://goo.gl/maps/7w9o8FQbB8Q2\n\nWould you like recommendations for snacks or pastries to try at these cafés?",
+      "receivedAt": "2025-07-01T22:49:01.567Z",
+      "responseTime": 7110,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-07-01T22:49:01.567Z",
+  "duration": 155264
+}

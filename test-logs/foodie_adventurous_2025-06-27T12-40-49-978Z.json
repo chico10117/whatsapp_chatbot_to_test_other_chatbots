@@ -1,0 +1,24 @@
+{
+  "personaId": "foodie_adventurous",
+  "personaName": "Diego Gourmet",
+  "language": "es",
+  "description": "Foodie aventurero que busca experiencias gastronómicas únicas",
+  "startTime": "2025-06-27T12:40:48.493Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola RECO, ¿puedes recomendarme algún restaurante en la ciudad que ofrezca menús degustación con técnicas de cocina molecular?",
+      "sentAt": "2025-06-27T12:40:49.962Z",
+      "response": null,
+      "receivedAt": null,
+      "responseTime": null,
+      "analysis": {},
+      "error": "Connection Closed",
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-06-27T12:40:49.978Z",
+  "duration": 1485
+}

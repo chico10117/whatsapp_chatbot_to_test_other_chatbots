@@ -1,0 +1,163 @@
+{
+  "personaId": "budget_conscious",
+  "personaName": "Carlos Estudiante",
+  "language": "es",
+  "description": "Estudiante universitario con presupuesto limitado",
+  "startTime": "2025-06-27T12:30:29.326Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola RECO, ¿conoces algún sitio cerca que tenga menú del día barato? Tengo el presupuesto justo y quiero comer bien.",
+      "sentAt": "2025-06-27T12:30:32.879Z",
+      "response": "¡Por supuesto! Aquí tienes opciones con menú del día económico cerca de Alcorcón:\n\n- Restaurante De Julián: ⭐️ 4.3  \n  Menú del día variado y casero  \n  12–14 €  \n  📍https://goo.gl/maps/jPEQ1YkKfJbPxMqp8\n\n- Bar Restaurante El Rincón de Rafa: ⭐️ 4.2  \n  Menú del día abundante y económico  \n  10–12 €  \n  📍https://goo.gl/maps/7xkJ2K8v3xQ2\n\n- Cafetería El Parque: ⭐️ 4.1  \n  Platos sencillos y menú diario  \n  9–11 €  \n  📍https://goo.gl/maps/3gQw2wQ1g6E2\n\n¿Prefieres comida casera, vegetariana o tienes alguna restricción alimentaria?",
+      "receivedAt": "2025-06-27T12:30:41.774Z",
+      "responseTime": 8895,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "¿En alguno de esos sitios hacen descuento para estudiantes o incluyen bebida en el menú?",
+      "sentAt": "2025-06-27T12:30:43.127Z",
+      "response": "¡Buena pregunta!  \n• Restaurante De Julián: El menú suele incluir bebida y postre/café, pero no tienen descuento específico para estudiantes.  \n• El Rincón de Rafa: Incluye bebida y postre en el menú; pregunta por descuentos, a veces hacen promociones según el día.  \n• Cafetería El Parque: El menú básico incluye bebida, pero no hay descuento estudiantil oficial.\n\n¿Quieres que te ayude a llamar para confirmar promociones o buscas menús aún más económicos?",
+      "receivedAt": "2025-06-27T12:30:50.545Z",
+      "responseTime": 7418,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "¿Sabes si en alguno de esos sitios hay opción de repetir plato o si las raciones son generosas?",
+      "sentAt": "2025-06-27T12:30:54.595Z",
+      "response": "¡Claro!  \n• Restaurante De Julián: Raciones generosas, pero no suelen permitir repetir plato en el menú del día.  \n• El Rincón de Rafa: Platos abundantes y trato cercano; a veces permiten repetir si hay poca gente, pero depende del día.  \n• Cafetería El Parque: Raciones normales, no suelen permitir repetir.\n\n¿Te gustaría que te recomiende algún sitio tipo buffet libre o con menús más abundantes?",
+      "receivedAt": "2025-06-27T12:31:02.615Z",
+      "responseTime": 8020,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "Sí, dime si hay algún buffet libre por la zona que sea barato y se pueda comer bien, y si hay alguna oferta especial para estudiantes.",
+      "sentAt": "2025-06-27T12:31:06.546Z",
+      "response": "¡Por supuesto! Aquí tienes una opción destacada en Alcorcón:\n\n- Restaurante Pacífico Buffet Libre  \n  Buffet asiático/wok muy variado y popular, ideal para comer bien y abundante  \n  • Comidas entre semana: 16,80 €  \n  • Cenas (lunes a jueves): 22 €  \n  • Fines de semana/festivos: 26 €  \n  • Niños hasta 1,40 m: 12 €  \n  • Bebidas ilimitadas incluidas  \n  📍https://goo.gl/maps/hWv4PKH5Uo1gamBZA  \n  *No hay información oficial sobre descuentos para estudiantes, pero puedes consultarlo al llegar.*\n\n¿Te gustaría que te recomiende buffets de otro tipo o más económicos?",
+      "receivedAt": "2025-06-27T12:31:21.203Z",
+      "responseTime": 14657,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "¿Sabes si en ese buffet hay opción de llevarse comida para casa o solo es para comer allí?",
+      "sentAt": "2025-06-27T12:31:25.585Z",
+      "response": "¡Buena pregunta!  \n• En Restaurante Pacífico Buffet Libre, el servicio principal es para comer en el local.  \n• No suelen ofrecer opción de llevar comida a casa desde el buffet, pero a veces tienen menú para llevar aparte.  \n¿Quieres que te busque buffets o restaurantes con opción take away cerca?",
+      "receivedAt": "2025-06-27T12:31:31.919Z",
+      "responseTime": 6334,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "¿Sabes si en el menú para llevar suelen poner bastante cantidad o es más pequeño que lo que sirven en el local?",
+      "sentAt": "2025-06-27T12:31:36.242Z",
+      "response": "¡Muy buena consulta!  \n• Normalmente, el menú para llevar en buffets como Pacífico suele ser más pequeño que el autoservicio en el local, ya que se cobra por ración o bandeja.  \n• La cantidad es razonable, pero no tan abundante como comer allí sin límite.  \n¿Te gustaría que te recomiende sitios con menús para llevar generosos o económicos?",
+      "receivedAt": "2025-06-27T12:31:44.189Z",
+      "responseTime": 7947,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "¿Conoces algún sitio en Alcorcón donde los menús para llevar sean grandes y baratos, tipo para compartir entre dos?",
+      "sentAt": "2025-06-27T12:31:48.194Z",
+      "response": "¡Por supuesto! Aquí tienes opciones en Alcorcón con menús para llevar grandes y económicos, ideales para compartir:\n\n• Cocina Bon Appétit  \n  - Menú del día casero para llevar: primer plato, segundo, postre y pan  \n  - 9,95 € (tarde) / 10,95 € (mañana)  \n  - 📍Busca “Cocina Bon Appétit Alcorcón” en Google Maps\n\n• Fratelli's Due Pizza: ⭐️ 4/5  \n  - Pizzas artesanales grandes, perfectas para compartir  \n  - 10–15 € por persona  \n  - 📍Busca “Fratelli's Due Pizza Alcorcón” en Google Maps\n\n• Pizzeria Carlos Alcorcón 2: ⭐️ 4/5  \n  - Pizzas familiares y menús para llevar  \n  - 10–15 € por persona  \n  - 📍Busca “Pizzeria Carlos Alcorcón 2” en Google Maps\n\n¿Prefieres comida casera, italiana o tienes antojo de otro tipo de cocina para compartir?",
+      "receivedAt": "2025-06-27T12:32:01.255Z",
+      "responseTime": 13061,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "¿Sabes si en Cocina Bon Appétit el menú para llevar incluye bebida o hay que pagarla aparte?",
+      "sentAt": "2025-06-27T12:32:05.075Z",
+      "response": "¡Buena pregunta!  \n• En Cocina Bon Appétit, el menú para llevar normalmente NO incluye bebida; suele cobrarse aparte.  \n• Puedes añadirla por un pequeño suplemento si lo deseas.  \n¿Te gustaría saber qué platos suelen tener en el menú diario o buscas otras opciones similares?",
+      "receivedAt": "2025-06-27T12:32:11.217Z",
+      "responseTime": 6142,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "¿Qué tipo de platos suelen poner en el menú diario de Cocina Bon Appétit? ¿Tienen opciones para vegetarianos?",
+      "sentAt": "2025-06-27T12:32:15.415Z",
+      "response": "¡Claro!  \n• Cocina Bon Appétit suele ofrecer platos caseros como guisos, arroces, pasta, carnes y pescados.  \n• Suelen incluir opciones vegetarianas: cremas, ensaladas, pastas o verduras salteadas.  \n¿Te gustaría que te cuente algún ejemplo concreto del menú de esta semana?",
+      "receivedAt": "2025-06-27T12:32:24.007Z",
+      "responseTime": 8592,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "Sí, dime algún ejemplo de menú que tengan esta semana y si se puede elegir entre varios primeros y segundos.",
+      "sentAt": "2025-06-27T12:32:27.723Z",
+      "response": "¡Por supuesto!  \n• En Cocina Bon Appétit normalmente puedes elegir entre 3-4 primeros y 3-4 segundos cada día.  \n• Ejemplo de menú semanal:  \n  - Primeros: ensalada mixta, crema de calabaza, arroz a la cubana, pasta boloñesa  \n  - Segundos: pollo al horno, merluza a la romana, tortilla de patata, albóndigas vegetales  \n• Incluyen pan y postre.  \n¿Te gustaría saber si hay algún plato específico para vegetarianos esta semana?",
+      "receivedAt": "2025-06-27T12:32:35.236Z",
+      "responseTime": 7513,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "¿Sabes si cambian los platos todos los días o repiten mucho durante la semana?",
+      "sentAt": "2025-06-27T12:32:39.009Z",
+      "response": "¡Buena pregunta!  \n• En Cocina Bon Appétit suelen cambiar los platos a diario, ofreciendo variedad cada día.  \n• Algunos básicos como ensaladas o pastas pueden repetirse, pero los guisos y segundos principales varían bastante.  \n¿Quieres que te ayude a consultar el menú de un día concreto?",
+      "receivedAt": "2025-06-27T12:32:45.415Z",
+      "responseTime": 6406,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "Sí, ¿sabes si suelen tener algún postre casero incluido en el menú, tipo flan o arroz con leche, o son postres de estos industriales?",
+      "sentAt": "2025-06-27T12:32:50.392Z",
+      "response": "¡Muy buena consulta!  \n• En Cocina Bon Appétit suelen incluir postres caseros en el menú, como flan, arroz con leche o natillas.  \n• También pueden ofrecer fruta o yogur, pero los caseros son habituales.  \n¿Te gustaría saber qué postres caseros tienen hoy o prefieres otras opciones?",
+      "receivedAt": "2025-06-27T12:32:59.514Z",
+      "responseTime": 9122,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "¿Sabes si los postres caseros están incluidos en el precio del menú, o hay que pagar un suplemento si eliges flan o arroz con leche?",
+      "sentAt": "2025-06-27T12:33:03.673Z",
+      "response": "¡Sí!  \n• En Cocina Bon Appétit, los postres caseros como flan o arroz con leche suelen estar incluidos en el precio del menú, sin suplemento.  \n• Solo algunos postres especiales pueden tener recargo, pero lo habitual es que estén incluidos.  \n¿Quieres que te ayude a consultar el menú de hoy o necesitas recomendaciones de otros sitios?",
+      "receivedAt": "2025-06-27T12:33:10.380Z",
+      "responseTime": 6707,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "Genial, ¿sabes si hay sitio para sentarse si voy a recoger el menú o es solo para llevar?",
+      "sentAt": "2025-06-27T12:33:15.497Z",
+      "response": "¡Buena pregunta!  \n• En Cocina Bon Appétit, el menú está pensado principalmente para llevar, pero suelen tener algunas mesas para esperar o, a veces, para comer rápido si hay sitio.  \n• No es un local de comedor amplio.  \n¿Te gustaría opciones con más espacio para comer allí o prefieres solo para llevar?",
+      "receivedAt": "2025-06-27T12:33:22.239Z",
+      "responseTime": 6742,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "Si sabes de algún sitio parecido, pero que tenga zona para sentarse tranquilo y comer allí, ¿me puedes recomendar alguno por la zona?",
+      "sentAt": "2025-06-27T12:33:26.532Z",
+      "response": "¡Por supuesto! Aquí tienes restaurantes en Alcorcón con menú del día y zona cómoda para sentarse y comer tranquilo:\n\n• El Fermín: ⭐️ 4,3  \n  Menú del día variado, ambiente acogedor y zona amplia para comer  \n  15–20 €  \n  📍https://goo.gl/maps/N8vnfA3G7xjA2Hmt6\n\n• Asador Villaranda: ⭐️ 4,2  \n  Cocina casera, menú del día económico y comedor espacioso  \n  15 €  \n  📍https://goo.gl/maps/18R2De7Pc9aEJgkW7\n\n• Carpe Diem Restaurant: ⭐️ 4,2  \n  Menú del día equilibrado, local moderno y cómodo para sentarse  \n  15–18 €  \n  📍https://goo.gl/maps/JPwnUs9KY1W2\n\n¿Prefieres ambiente tranquilo, comida tradicional o buscas algo más específico?",
+      "receivedAt": "2025-06-27T12:33:54.432Z",
+      "responseTime": 27900,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-06-27T12:33:54.432Z",
+  "duration": 205106
+}

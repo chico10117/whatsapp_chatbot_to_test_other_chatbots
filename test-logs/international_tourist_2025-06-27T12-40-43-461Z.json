@@ -1,0 +1,53 @@
+{
+  "personaId": "international_tourist",
+  "personaName": "James British",
+  "language": "en",
+  "description": "British tourist visiting Spain for the first time",
+  "startTime": "2025-06-27T12:37:14.997Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hi there! I’ve just arrived in Madrid and I’m really keen to try some authentic Spanish food. Could you recommend a good place for my first dinner?",
+      "sentAt": "2025-06-27T12:37:15.724Z",
+      "response": "Welcome to Madrid! 🇪🇸 Here are top spots for authentic Spanish food:\n\n• Restaurante Botín: ⭐️ 4.5  \n  World’s oldest restaurant, famous for roast suckling pig & lamb  \n  €40–€60  \n  📍https://maps.app.goo.gl/Jkf7e9r3JfUQFhNY9\n\n• Casa Lucio: ⭐️ 4.3  \n  Legendary “huevos rotos” and classic Spanish dishes  \n  €35–€50  \n  📍https://maps.app.goo.gl/ZK4Q1CxYCDfWfVcS9\n\n• La Bola Taberna: ⭐️ 4.5  \n  Famous for cocido madrileño (traditional stew)  \n  €20–€35  \n  📍https://maps.app.goo.gl/oAVeZVQ6Uxy5WNTXA\n\nWould you like more options or details about any of these?",
+      "receivedAt": "2025-06-27T12:37:41.539Z",
+      "responseTime": 25815,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "These all sound brilliant! Does Restaurante Botín have an English menu, and do I need to book a table in advance?",
+      "sentAt": "2025-06-27T12:37:42.692Z",
+      "response": "Great choice!  \n• Restaurante Botín does have an English menu—just ask the staff, they’re used to international guests.  \n• Booking in advance is highly recommended, especially for dinner, as it’s very popular.  \nWould you like help with the reservation or tips on what to order?",
+      "receivedAt": "2025-06-27T12:37:49.118Z",
+      "responseTime": 6426,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "That’s really helpful, thank you! What would you say are the absolute must-try dishes at Botín, especially for a first-timer like me?",
+      "sentAt": "2025-06-27T12:37:53.741Z",
+      "response": "You’re welcome! At Botín, don’t miss these classics:  \n• Cochinillo asado (roast suckling pig) – their signature dish  \n• Cordero asado (roast lamb) – tender and flavorful  \n• Sopa de ajo (garlic soup with egg and ham) – a local favorite starter  \n• Tarta de la casa (house cake) – for dessert\n\nWould you like wine pairing suggestions or info on portion sizes?",
+      "receivedAt": "2025-06-27T12:38:00.535Z",
+      "responseTime": 6794,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "Those sound delicious! Would you happen to know if the portion sizes are quite large, or is it possible to share a main dish, especially the roast pig or lamb?",
+      "sentAt": "2025-06-27T12:38:04.801Z",
+      "response": null,
+      "receivedAt": null,
+      "responseTime": null,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-06-27T12:40:43.461Z",
+  "duration": 208464
+}

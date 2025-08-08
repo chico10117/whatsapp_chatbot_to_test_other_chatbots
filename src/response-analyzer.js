@@ -54,8 +54,11 @@ export default class ResponseAnalyzer {
         }
       `;
 
+      const analysisModel = process.env.ANALYSIS_MODEL || 'gpt-5-thinking';
+      const analysisMaxTokens = process.env.ANALYSIS_MAX_TOKENS ? Number(process.env.ANALYSIS_MAX_TOKENS) : 10000;
+
       const gptResponse = await this.openaiClient.chat.completions.create({
-        model: process.env.ANALYSIS_MODEL || 'gpt-4.1',
+        model: analysisModel,
         messages: [
           { 
             role: "system", 
@@ -63,8 +66,11 @@ export default class ResponseAnalyzer {
           },
           { role: "user", content: analysisPrompt }
         ],
-        max_tokens: 1000,
-        temperature: 0.3,
+        // NOTE: The following parameters are not supported by reasoning models like gpt-5/gpt-5-thinking.
+        // They are kept here commented out for readers migrating from non-reasoning models.
+        // max_tokens: analysisMaxTokens,
+        // temperature: 0.2,
+        reasoning_effort: "high",
         response_format: { type: "json_object" }
       });
 

@@ -1,0 +1,163 @@
+{
+  "personaId": "budget_conscious",
+  "personaName": "Carlos Estudiante",
+  "language": "es",
+  "description": "Estudiante universitario con presupuesto limitado",
+  "startTime": "2025-08-08T13:50:13.339Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "¡Hey RECO! Busco menús del día bien baratos por mi zona; ¿dónde hay opciones por menos de 10€ con buena ración y si puede ser con descuento estudiante?",
+      "sentAt": "2025-08-08T13:50:15.651Z",
+      "response": "¡Hola! Aquí tienes opciones económicas cerca:\n\n*El Económico*  \n• Restaurante/café con menú del día abundante y precios bajos  \n• https://www.google.com/maps/place/?q=place_id:ChIJEanfjismQg0R1RKPqpSDtQE\n\n*Restaurante Vivares*  \n• Cocina mediterránea, menú del día asequible y buenas raciones  \n• https://www.google.com/maps/place/?q=place_id:ChIJjfCmO4YoQg0Row8wkv_0_8M\n\nAmbos suelen tener menú por menos de 10 € y a veces ofrecen descuento para estudiantes. ¿Te gustaría recomendaciones de platillos veganos o saludables?",
+      "receivedAt": "2025-08-08T13:50:26.681Z",
+      "responseTime": 11030,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "¡Bien! ¿Sabes qué días aplican el descuento de estudiante y cuánto se queda el menú en El Económico y en Vivares?",
+      "sentAt": "2025-08-08T13:50:29.080Z",
+      "response": "¡Claro! El Económico suele ofrecer descuento de estudiante de lunes a viernes, dejando el menú en unos 8 € aprox. En Vivares, el descuento es similar y también aplica entre semana, menú desde 9 €. Te sugiero mostrar tu credencial al llegar. ¿Quieres tips para elegir opciones veganas o saludables del menú?",
+      "receivedAt": "2025-08-08T13:50:39.896Z",
+      "responseTime": 10816,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "Perfecto, ¿tienen refill de pan/bebida incluido y cuál es la ración más contundente del menú por ese precio?",
+      "sentAt": "2025-08-08T13:50:44.536Z",
+      "response": "¡Buena pregunta!  \n• El Económico: suele incluir pan y agua o refresco, pero el refill depende del día; pregunta al ordenar.  \n• Vivares: pan incluido, bebida básica, refill no siempre disponible.  \nLas raciones más contundentes suelen ser los guisos de legumbres o arroces. ¿Te gustaría recomendaciones veganas y saciantes del menú?",
+      "receivedAt": "2025-08-08T13:50:54.121Z",
+      "responseTime": 9585,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "Genial, ¿a qué hora conviene ir para pillar las mejores raciones (y que no se acaben los guisos) en El Económico y Vivares?",
+      "sentAt": "2025-08-08T13:50:59.216Z",
+      "response": "¡Tip de foodie! Ve entre 1:00 pm y 2:00 pm; así encuentras las mejores raciones y más variedad de guisos antes de que se agoten. ¿Te gustaría recomendaciones de platillos veganos y saciantes para ese horario?",
+      "receivedAt": "2025-08-08T13:51:05.700Z",
+      "responseTime": 6484,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "Sí, pásame 2-3 opciones veganas bien saciantes en esos menús y sus precios con descuento, porfa.",
+      "sentAt": "2025-08-08T13:51:10.958Z",
+      "response": "¡Por supuesto! Opciones veganas saciantes:\n\n*El Económico*  \n• Lentejas estofadas  \n• Arroz con verduras  \n• Guiso de garbanzos  \nPrecio con descuento: aprox. 8 €\n\n*Vivares*  \n• Paella de verduras  \n• Pisto manchego  \n• Ensalada de legumbres  \nPrecio con descuento: aprox. 9 €\n\n¿Te gustaría tips para complementar el menú con snacks saludables?",
+      "receivedAt": "2025-08-08T13:51:25.774Z",
+      "responseTime": 14816,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "¿Alguno de los dos tiene opción de repetir primer plato sin coste o por poco extra, y hay 2x1 o happy hour en bebidas entre semana para estudiantes?",
+      "sentAt": "2025-08-08T13:51:31.181Z",
+      "response": "¡Buena duda!  \n• El Económico: a veces permite repetir primer plato sin coste, pregunta al ordenar.  \n• Vivares: suelen cobrar un pequeño extra por repetir.  \nAmbos pueden tener promos de 2x1 en bebidas entre semana para estudiantes, especialmente en refrescos o cerveza. ¡Pregunta por la promo vigente al llegar! ¿Te gustaría recomendaciones de postres veganos ligeros?",
+      "receivedAt": "2025-08-08T13:51:40.355Z",
+      "responseTime": 9174,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "¿Sabes si aceptan tickets restaurante o pago con bizum/tarjeta sin mínimo, y si hay algún combo menú+postre vegano por el mismo precio del descuento?",
+      "sentAt": "2025-08-08T13:51:45.917Z",
+      "response": "¡Claro!  \n• Ambos suelen aceptar tickets restaurante y pago con tarjeta o bizum, sin mínimo.  \n• Los combos menú+postre vegano por el precio del descuento no son comunes, pero a veces hay promos especiales; pregunta al ordenar. ¿Quieres tips para identificar postres veganos en el menú?",
+      "receivedAt": "2025-08-08T13:51:54.041Z",
+      "responseTime": 8124,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "Vale, ¿alguno ofrece café incluido en el menú con el descuento estudiantil, y si no, cuánto cuesta añadirlo?",
+      "sentAt": "2025-08-08T13:51:59.446Z",
+      "response": "¡Buena pregunta!  \n• El Económico: a veces incluye café en el menú con descuento, pero depende del día.  \n• Vivares: normalmente el café no está incluido; añadirlo cuesta entre 1 € y 1,50 €.  \n¿Te gustaría recomendaciones de cafés veganos cerca para un postre o bebida extra?",
+      "receivedAt": "2025-08-08T13:52:05.886Z",
+      "responseTime": 6440,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "Perfecto, última duda práctica: ¿requieren reserva para el menú del día en horas pico o puedo caer sin avisar y aún así pillar el descuento estudiante?",
+      "sentAt": "2025-08-08T13:52:14.125Z",
+      "response": "¡Tranquilo! Normalmente puedes llegar sin reserva y aún así obtener el descuento de estudiante, aunque en horas pico puede haber espera. Si prefieres evitar filas, reserva o llega temprano. ¿Te gustaría más tips para comer barato y saludable por la zona?",
+      "receivedAt": "2025-08-08T13:52:21.588Z",
+      "responseTime": 7463,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "Sí, dame 2-3 sitios alternativos igual de baratos (≤10€) cerca con buenas raciones y descuento estudiante, con links y horarios del menú, porfa.",
+      "sentAt": "2025-08-08T13:52:27.272Z",
+      "response": "¡Con gusto! Aquí tienes opciones económicas cerca:\n\n*B13 Bar Vegano*: ⭐️ 4.6  \n• Tapas y platos veganos, raciones generosas, menú del día barato  \n• Descuento estudiante disponible  \n• Menú: 13:00-16:00  \n• https://www.google.com/maps/place/?q=place_id:ChIJG5Q3QxEmQg0R1ZyQkNw8n3U\n\n*La Encomienda*: ⭐️ 4.5  \n• Cocina vegana creativa, menú del día asequible  \n• Descuento estudiante ocasional  \n• Menú: 13:30-16:00  \n• https://www.google.com/maps/place/?q=place_id:ChIJUQjQqR4mQg0R3uJ0w3wK9s8\n\n*Distrito Vegano*: ⭐️ 4.5  \n• Platos veganos, menú del día con buenas raciones  \n• Menú: 13:00-16:00  \n• https://www.google.com/maps/place/?q=place_id:ChIJQw1k3B4mQg0Rz9v6p4KqKkE\n\n¿Te gustaría recomendaciones de platillos veganos saciantes en alguno de estos lugares?",
+      "receivedAt": "2025-08-08T13:52:42.708Z",
+      "responseTime": 15436,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "¿Cuál de esos tres mantiene el menú por ≤10€ con descuento estudiante real (no “desde”) y qué plato rinde más por ese precio?",
+      "sentAt": "2025-08-08T13:52:48.097Z",
+      "response": "¡Buena elección!  \n• *B13 Bar Vegano* suele mantener el menú completo por ≤10 € con descuento estudiante real.  \n• El plato más rendidor: guiso de legumbres o hamburguesa vegana con patatas, ambos muy saciantes.  \n¿Te gustaría tips para aprovechar el menú o recomendaciones de postres veganos ahí?",
+      "receivedAt": "2025-08-08T13:52:56.340Z",
+      "responseTime": 8243,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "¿En B13 el agua o refil de bebida y el pan están incluidos con el descuento estudiante, y cuánto cuesta añadir café o postre barato?",
+      "sentAt": "2025-08-08T13:53:01.017Z",
+      "response": "¡Claro! En B13 Bar Vegano:  \n• Agua y pan suelen estar incluidos en el menú con descuento estudiante.  \n• El refill de bebida depende del día, pregunta al ordenar.  \n• Café o postre barato cuesta entre 1 € y 2 € extra.  \n¿Te gustaría recomendaciones de postres veganos ligeros para acompañar tu comida?",
+      "receivedAt": "2025-08-08T13:53:11.366Z",
+      "responseTime": 10349,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "Perfecto, para cuadrar presupuesto: ¿tienen algún combo en B13 de menú + café o postre por 10€ redondos con carnet estudiante, o algo tipo 2x1 en bebida entre semana?",
+      "sentAt": "2025-08-08T13:53:19.479Z",
+      "response": "¡Buena estrategia! En B13 Bar Vegano, ocasionalmente hay combo de menú + café o postre por 10 € con carnet estudiante, pero depende del día y la promo vigente. El 2x1 en bebida suele aplicarse entre semana en refrescos o cerveza. Te recomiendo preguntar al llegar por la promo actual. ¿Te gustaría tips para aprovechar al máximo tu visita o recomendaciones de snacks veganos económicos?",
+      "receivedAt": "2025-08-08T13:53:27.952Z",
+      "responseTime": 8473,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "Genial, última confirmación: ¿aceptan mostrar el carnet de estudiante digital en el móvil para aplicar el combo de 10€ o el 2x1 de bebidas?",
+      "sentAt": "2025-08-08T13:53:33.176Z",
+      "response": "¡Sí! En B13 Bar Vegano suelen aceptar el carnet de estudiante digital en el móvil para aplicar el combo de 10 € o el 2x1 en bebidas. Solo muéstralo al pedir y listo. ¿Te gustaría más consejos para ahorrar en tus comidas veganas por la zona?",
+      "receivedAt": "2025-08-08T13:53:41.805Z",
+      "responseTime": 8629,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "Perfecto, última: ¿me reservas hoy a las 13:15 en B13 para 1 persona con combo estudiante (menú + café por 10€) y me confirmas si hay 2x1 en bebida?",
+      "sentAt": "2025-08-08T13:53:47.816Z",
+      "response": "¡Me encantaría ayudarte, pero como tu asistente gastronómico no puedo hacer reservas directas! Te sugiero llamar o escribirles por redes sociales para reservar tu lugar y confirmar promos. ¿Quieres que te pase el teléfono o redes de B13 para facilitarte el contacto?",
+      "receivedAt": "2025-08-08T13:53:56.923Z",
+      "responseTime": 9107,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T13:53:56.923Z",
+  "duration": 223584
+}

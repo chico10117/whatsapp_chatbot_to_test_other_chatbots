@@ -1,0 +1,823 @@
+{
+  "timestamp": "2025-07-01T22:52:20.120Z",
+  "totalPersonas": 5,
+  "totalQuestions": 75,
+  "totalResponses": 75,
+  "testResults": [
+    {
+      "personaId": "health_conscious",
+      "personaName": "María Fitness",
+      "language": "es",
+      "description": "Usuario consciente de la salud que busca opciones nutritivas",
+      "startTime": "2025-07-01T22:36:56.473Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "¡Hola, RECO! ¿Me puedes recomendar algún restaurante vegano por la zona que use ingredientes orgánicos?",
+          "sentAt": "2025-07-01T22:36:58.181Z",
+          "response": "¡Hola! 😊  \nComo tu amigo foodie, te comparto algunos consejos para encontrar restaurantes veganos con ingredientes orgánicos en tu zona:\n\n• Busca en Google Maps: \"restaurante vegano ingredientes orgánicos\" y revisa valoraciones (lo ideal: 4.0-4.7/5).  \n• Verifica la carta: suelen indicar si usan productos orgánicos y de temporada.  \n• Pregunta por el origen de los ingredientes: los buenos restaurantes estarán encantados de contártelo.  \n• Ejemplo internacional:  \nMy Organic Corner: ⭐️ 4.5  \nRestaurante vegano con ingredientes siempre orgánicos y frescos.  \nGasto medio: rango medio  \n📍https://goo.gl/maps/qx2PGNWBUrF2\n\n¿Me dices en qué ciudad o barrio buscas? Así te paso opciones exactas con valoración, precio y enlace directo.",
+          "receivedAt": "2025-07-01T22:37:19.961Z",
+          "responseTime": 21780,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "¡Perfecto! Estoy en Madrid. ¿Tienes algún restaurante recomendado aquí que tenga buenas opciones sin gluten además de ser vegano y orgánico?",
+          "sentAt": "2025-07-01T22:37:21.254Z",
+          "response": "¡Por supuesto! Aquí tienes tres opciones top en Madrid que cumplen con lo que buscas:\n\n• Superchulo: ⭐️ 4.4  \nRestaurante moderno y alegre, cocina vegana creativa, todo sin gluten y apto para celíacos.  \n20–30 € por persona  \n📍https://goo.gl/maps/bvS7b3z1nhtpWyJD9\n\n• La Encomienda: ⭐️ 4.5  \nVegano y ecológico en Lavapiés, platos de temporada y ambiente acogedor. Consulta en el local las opciones 100% sin gluten.  \n18–25 € por persona  \n📍https://goo.gl/maps/6kYx3p9FkQmEYqAM8\n\n• Bloved Veggie Corner: ⭐️ 4.5  \nEspacio 100% vegetal en Gran Vía, cocina refinada y postres gourmet. Confirma en el local las opciones sin gluten.  \n30–35 € por persona  \n📍https://goo.gl/maps/p2XzTnPzCv5tmNmt8\n\n¿Te gustaría saber más sobre alguno o buscas algo aún más específico?",
+          "receivedAt": "2025-07-01T22:37:40.018Z",
+          "responseTime": 18764,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "Me llama la atención Superchulo porque todo es sin gluten. ¿Sabes si tienen buenas opciones de proteínas vegetales, como tofu, tempeh o legumbres en sus platos principales?",
+          "sentAt": "2025-07-01T22:37:44.782Z",
+          "response": "¡Genial elección! Superchulo destaca por:\n\n• Platos principales con proteínas vegetales: tofu, tempeh y legumbres como base.\n• Carnes veganas hechas de guisantes, soja y alubias.\n• Cocina creativa y saludable, ideal si buscas variedad y sabor.\n\n¿Quieres que te recomiende algún plato concreto de su carta o necesitas info sobre alérgenos?",
+          "receivedAt": "2025-07-01T22:37:56.807Z",
+          "responseTime": 12025,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "¿Tienen opciones de ensaladas completas con proteína vegetal? Me interesa que incluyan semillas o frutos secos para un aporte extra.",
+          "sentAt": "2025-07-01T22:38:01.869Z",
+          "response": "¡Sí! Superchulo ofrece ensaladas completas con:\n\n• Base de hojas frescas y vegetales variados  \n• Toppings de tofu, legumbres o tempeh  \n• Semillas (chía, sésamo, calabaza) y frutos secos (nueces, almendras)  \n• Aliños caseros y opciones sin gluten\n\nPerfectas para un aporte extra de proteínas y grasas saludables. ¿Te gustaría saber el contenido nutricional aproximado o prefieres recomendaciones de otros platos?",
+          "receivedAt": "2025-07-01T22:38:08.032Z",
+          "responseTime": 6163,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "¿Sabes si los aliños caseros de las ensaladas son 100% veganos y sin azúcares añadidos?",
+          "sentAt": "2025-07-01T22:38:11.945Z",
+          "response": "¡Buena pregunta! En Superchulo:\n\n• Los aliños caseros son 100% veganos (como alioli vegano y vinagretas vegetales).  \n• No especifican claramente la ausencia total de azúcares añadidos, pero su filosofía es saludable y suelen evitarlos.  \n• Si necesitas restricción absoluta de azúcar, mejor consulta directamente en el local.\n\n¿Te gustaría que te ayude a preguntarles o buscas otra recomendación?",
+          "receivedAt": "2025-07-01T22:38:23.571Z",
+          "responseTime": 11626,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "¿Sabes si Superchulo tiene opciones de smoothies o batidos veganos en su carta?",
+          "sentAt": "2025-07-01T22:38:28.476Z",
+          "response": "¡Sí! Superchulo Madrid ofrece smoothies y batidos aptos para veganos:\n\n• Todos alineados con su cocina plant based y saludable  \n• Puedes pedirlos 100% veganos (confírmalo al pedir)  \n• Ideales para un desayuno o merienda colorida  \n• Ingredientes frescos y naturales, sin lácteos\n\n¿Te gustaría saber más sobre sabores o buscas otra bebida saludable?",
+          "receivedAt": "2025-07-01T22:38:41.694Z",
+          "responseTime": 13218,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "¿Sabes si los smoothies llevan algún tipo de endulzante? Prefiero opciones que solo usen frutas para endulzar.",
+          "sentAt": "2025-07-01T22:38:45.959Z",
+          "response": "¡Buena elección! En Superchulo:\n\n• Sus smoothies suelen endulzarse solo con fruta fresca.  \n• No suelen añadir azúcares ni siropes, siguiendo su filosofía natural.  \n• Si prefieres que no lleven ningún endulzante extra, puedes pedirlo al hacer tu pedido.\n\n¿Te gustaría recomendaciones de combinaciones de frutas o prefieres explorar otras opciones veganas en Madrid?",
+          "receivedAt": "2025-07-01T22:38:51.281Z",
+          "responseTime": 5322,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "¿Tienen smoothies con ingredientes como espirulina, chlorella u otras superfoods? Me gusta añadir ese extra nutritivo.",
+          "sentAt": "2025-07-01T22:38:55.233Z",
+          "response": "¡Sí! Superchulo suele incluir superfoods en sus smoothies:\n\n• Puedes encontrar opciones con espirulina, chlorella, açai o maca.  \n• Su carta varía según temporada, pero siempre hay algún batido con “extra” nutritivo.  \n• Puedes pedir añadir superfoods a tu smoothie favorito.\n\n¿Te gustaría saber más sobre otros locales con smoothies de superfoods en Madrid? Si quieres, cuéntame más sobre tus gustos para afinar futuras recomendaciones.",
+          "receivedAt": "2025-07-01T22:38:59.596Z",
+          "responseTime": 4363,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "Me interesa, ¿conoces algún otro sitio en Madrid donde los smoothies de superfoods sean su especialidad y usen ingredientes ecológicos?",
+          "sentAt": "2025-07-01T22:39:04.473Z",
+          "response": "¡Por supuesto! Aquí tienes varios locales en Madrid especializados en smoothies de superfoods y con ingredientes ecológicos:\n\n• Pomona Club Healthy Bar: ⭐️ 4.6  \nSmoothies con productos de temporada y opciones ecológicas.  \n8–12 €/persona  \n📍https://maps.google.com/?q=Calle+de+Serrano+100,+Madrid\n\n• SESĒNROOM: ⭐️ 4.8  \nBarra de colágeno, smoothies funcionales, sin aditivos, puedes añadir superfoods.  \n7–10 €/persona  \n📍https://maps.google.com/?q=Calle+Fernando+el+Santo+21,+Madrid\n\n• Forbidden Fruit Bar: ⭐️ 4.7  \nEspecialistas en smoothies y bowls con acai, pitaya, espirulina, etc.  \n7–10 €/persona  \n📍https://maps.google.com/?q=Calle+de+la+Libertad+37,+Madrid\n\n¿Te gustaría info sobre alguno en concreto o buscas una zona específica?",
+          "receivedAt": "2025-07-01T22:39:20.239Z",
+          "responseTime": 15766,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "Forbidden Fruit Bar me llama la atención por la variedad de superfoods. ¿Sabes si sus bowls y smoothies también son sin gluten y usan bases vegetales como leche de almendras o avena?",
+          "sentAt": "2025-07-01T22:39:24.771Z",
+          "response": "¡Excelente elección! Forbidden Fruit Bar destaca por:\n\n• Bowls y smoothies 100% plant based, con opciones de leche de almendras, avena o coco.  \n• La mayoría de sus recetas son sin gluten, pero siempre es recomendable avisar si tienes intolerancia.  \n• Usan superfoods como base: açai, pitaya, espirulina, semillas y frutos secos ecológicos.\n\n¿Quieres recomendaciones de combinaciones o prefieres info nutricional aproximada?",
+          "receivedAt": "2025-07-01T22:39:29.687Z",
+          "responseTime": 4916,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "¿Tienen opciones de toppings proteicos, como granola sin gluten, semillas de cáñamo o crema de frutos secos para los bowls?",
+          "sentAt": "2025-07-01T22:39:34.155Z",
+          "response": "¡Sí! Forbidden Fruit Bar ofrece toppings proteicos para sus bowls:\n\n• Granola sin gluten (confirma al pedir)  \n• Semillas de cáñamo, chía y calabaza  \n• Cremas de frutos secos (almendra, cacahuete, anacardo)  \n• Fruta fresca y superfoods adicionales\n\n¿Te gustaría que te recomiende una combinación concreta o buscas info sobre alérgenos?",
+          "receivedAt": "2025-07-01T22:39:39.362Z",
+          "responseTime": 5207,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "¿Sabes si preparan la granola en el local y si está endulzada solo con fruta o miel, o llevan algún azúcar añadido?",
+          "sentAt": "2025-07-01T22:39:43.792Z",
+          "response": "¡Muy buena pregunta! En Forbidden Fruit Bar:\n\n• Suelen preparar la granola en el local, priorizando ingredientes naturales.  \n• Normalmente la endulzan solo con fruta deshidratada o miel, evitando azúcares refinados.  \n• Si prefieres sin miel (solo fruta), puedes consultarlo al pedir para asegurarte.\n\n¿Quieres que te ayude a preguntarles directamente o te gustaría explorar otras opciones de desayuno saludable en Madrid?",
+          "receivedAt": "2025-07-01T22:39:48.337Z",
+          "responseTime": 4545,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "¿Tienen opciones de desayuno salado, tipo tostadas o bowls con aguacate y proteína vegetal? Me interesa equilibrar dulce y salado en mis comidas.",
+          "sentAt": "2025-07-01T22:39:52.735Z",
+          "response": "¡Claro! En Forbidden Fruit Bar también puedes encontrar desayunos salados:\n\n• Tostadas de pan sin gluten con aguacate, tomate y semillas  \n• Opciones con hummus, tofu marinado o crema de frutos secos  \n• Bowls salados con base vegetal, verduras frescas y toppings proteicos\n\nPerfecto para equilibrar dulce y salado. ¿Te gustaría recomendaciones de combinaciones o buscas otro tipo de desayuno saludable en Madrid?",
+          "receivedAt": "2025-07-01T22:39:57.290Z",
+          "responseTime": 4555,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "¿Sabes si el pan sin gluten que usan es casero o de qué tipo de harinas lo preparan? Me interesa evitar ultraprocesados.",
+          "sentAt": "2025-07-01T22:40:01.968Z",
+          "response": "¡Gran pregunta! En Forbidden Fruit Bar:\n\n• El pan sin gluten suele ser artesanal, pero no siempre casero; a veces lo adquieren de obradores locales especializados.  \n• Suelen usar harinas de arroz, maíz y/o trigo sarraceno, evitando ultraprocesados.  \n• Si prefieres pan 100% casero y ecológico, te recomiendo consultarlo al pedir para asegurarte.\n\n¿Quieres que te sugiera algún sitio en Madrid donde el pan sin gluten sea siempre casero y ecológico?",
+          "receivedAt": "2025-07-01T22:40:08.919Z",
+          "responseTime": 6951,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "Sí, me interesaría mucho saber de algún sitio en Madrid donde preparen pan sin gluten casero y ecológico, ¿tienes alguno que recomiendes?",
+          "sentAt": "2025-07-01T22:40:14.318Z",
+          "response": "¡Por supuesto! Aquí tienes excelentes opciones en Madrid para pan sin gluten casero y ecológico:\n\n• Leon The Baker: ⭐️ 4.7  \nPanadería especializada, pan de trigo sarraceno ecológico, fermentación lenta.  \n4,68 € por pieza  \n📍https://goo.gl/maps/Rsivq9pTLdb8XReM8\n\n• Escorza sin gluten: ⭐️ 5.0  \nPanadería artesana y ecológica, todo sin gluten y sin lactosa, masa madre y sin aditivos.  \n5–8 € por pan  \n📍https://goo.gl/maps/EkSBenLvNrRxCqGW8\n\n• Celicioso: ⭐️ 4.5  \nPanadería y cafetería 100% sin gluten, opciones ecológicas y artesanas.  \n4–7 € por pieza  \n📍https://goo.gl/maps/5wJHeeyPYbkti7G78\n\n¿Te gustaría recomendaciones de bollería sin gluten o buscas algo más específico?",
+          "receivedAt": "2025-07-01T22:40:28.504Z",
+          "responseTime": 14186,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-07-01T22:40:28.504Z",
+      "duration": 212031
+    },
+    {
+      "personaId": "budget_conscious",
+      "personaName": "Carlos Estudiante",
+      "language": "es",
+      "description": "Estudiante universitario con presupuesto limitado",
+      "startTime": "2025-07-01T22:40:33.509Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, ¿conoces algún sitio donde pueda comer bien y barato cerca de la uni? ¿Si hay menú del día económico, mejor aún!",
+          "sentAt": "2025-07-01T22:40:34.836Z",
+          "response": "¡Hola! Como tu asistente de recomendaciones gastronómicas, para ayudarte mejor, ¿me puedes decir a qué universidad o zona de Madrid te refieres? Así te paso opciones cercanas con menú del día económico y buena relación calidad-precio. 😊",
+          "receivedAt": "2025-07-01T22:40:38.785Z",
+          "responseTime": 3949,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "Estudio cerca de Ciudad Universitaria, ¿tienes algún sitio concreto con menú del día barato por esa zona? ¿Y más o menos cuánto cuesta?",
+          "sentAt": "2025-07-01T22:40:39.791Z",
+          "response": "¡Perfecto! Aquí tienes tres opciones con menú del día económico cerca de Ciudad Universitaria:\n\n• El Sitio: ⭐️ 4,0  \nAmbiente informal, pizzas artesanas y menú variado.  \n10–12 € por persona  \n📍https://goo.gl/maps/gpceZKUwShy2w9yA8\n\n• Hermanos Míguez: ⭐️ 4,2  \nComida casera tradicional y platos completos.  \n10–12 € por persona  \n📍https://goo.gl/maps/kjsi8dPx9f1mFtQk7\n\n• Don Oso: ⭐️ 4,1  \nHamburguesas y menús muy económicos, ideal para estudiantes.  \nMenos de 10 €  \n📍https://goo.gl/maps/X99eB9kdfx7NkzQe7\n\n¿Te gustaría opciones vegetarianas, internacionales o especializadas en algún tipo de cocina?",
+          "receivedAt": "2025-07-01T22:40:54.303Z",
+          "responseTime": 14512,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "¡Qué bien, gracias! ¿Sabes si alguno de esos sitios tiene descuento para estudiantes o algún 2x1 en bebidas o postres?",
+          "sentAt": "2025-07-01T22:40:59.099Z",
+          "response": "¡Me alegra que te sirva! 😊 Aquí tienes info sobre promociones:\n\n• El Sitio: A veces ofrecen 2x1 en bebidas, sobre todo en horario de tarde. Pregunta al llegar por promos para estudiantes.  \n• Hermanos Míguez: No suelen tener descuentos fijos, pero puedes consultar si hay menú especial para universitarios.  \n• Don Oso: Frecuentemente hacen combos económicos y a veces 2x1 en hamburguesas. Pregunta por ofertas del día.\n\nTe recomiendo mostrar tu carnet de estudiante; muchos locales aplican descuentos aunque no estén anunciados. ¿Te gustaría saber sobre cafeterías con wifi cerca de la uni?",
+          "receivedAt": "2025-07-01T22:41:04.174Z",
+          "responseTime": 5075,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "¡Sí, genial! ¿Tienes alguna cafetería con wifi barato donde no moleste si me quedo un buen rato estudiando con un café? ¿Y cuánto cuesta el café más o menos?",
+          "sentAt": "2025-07-01T22:41:08.396Z",
+          "response": "¡Por supuesto! Aquí tienes tres cafeterías cerca de Ciudad Universitaria ideales para estudiar tranquilo con wifi:\n\n• Toma Café: ⭐️ 4,6  \nAmbiente relajado, wifi rápido, café desde 2 €. No suelen poner pegas por quedarse tiempo.  \n📍https://goo.gl/maps/7w9o8FQbB8Q2\n\n• Café de la Luz: ⭐️ 4,5  \nEspacio acogedor, enchufes y wifi, café desde 1,80 €. Perfecto para largas sesiones.  \n📍https://goo.gl/maps/8v7XwF1j8t52\n\n• Federal Café: ⭐️ 4,4  \nMesas amplias, wifi y café de especialidad desde 2,20 €. Muy frecuentado por estudiantes.  \n📍https://goo.gl/maps/4yQw6gJ6tT32\n\n¿Te gustaría recomendaciones de snacks saludables para acompañar tu café mientras estudias?",
+          "receivedAt": "2025-07-01T22:41:15.361Z",
+          "responseTime": 6965,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "¡Sí, porfa! ¿Qué snacks tienen por menos de 3 € en esas cafeterías para acompañar el café?",
+          "sentAt": "2025-07-01T22:41:19.317Z",
+          "response": "¡Claro! Aquí tienes opciones de snacks por menos de 3 € en esas cafeterías:\n\n• Toma Café:  \n– Galletas veganas  \n– Mini bizcochos caseros  \n– Barritas de avena\n\n• Café de la Luz:  \n– Tostadas sencillas (pan con tomate o mermelada)  \n– Magdalenas  \n– Fruta fresca\n\n• Federal Café:  \n– Energy balls (bolitas de frutos secos)  \n– Galletas artesanas  \n– Tostadas pequeñas\n\n¿Te gustaría saber si tienen opciones sin gluten o veganas en concreto?",
+          "receivedAt": "2025-07-01T22:41:24.567Z",
+          "responseTime": 5250,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "¿Sabes si en alguno ponen refill de café gratis o alguna promo de café + snack a precio cerrado?",
+          "sentAt": "2025-07-01T22:41:28.635Z",
+          "response": "¡Buena pregunta! Aquí tienes info sobre promos de café en esas cafeterías:\n\n• Toma Café: No suelen ofrecer refill gratis, pero a veces hay combo de café + galleta por unos 3 €.  \n• Café de la Luz: Ocasionalmente tienen promo de café + magdalena o tostada por 2,80 €.  \n• Federal Café: No hay refill, pero sí combos de café + snack desde 3,50 €.  \n\nLas promos pueden variar según el día, así que pregunta al llegar. ¿Te gustaría saber de algún sitio con refill ilimitado o buscas más opciones económicas para estudiar?",
+          "receivedAt": "2025-07-01T22:41:33.850Z",
+          "responseTime": 5215,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "¿Conoces algún sitio en Madrid donde sí tengan refill ilimitado de café, aunque sea tipo buffet o más rollo americano? ¿Y cuánto cuesta más o menos?",
+          "sentAt": "2025-07-01T22:41:37.887Z",
+          "response": "¡Buena pregunta! En Madrid no es común el refill ilimitado de café al estilo americano, pero hay algunas opciones parecidas:\n\n• Buffet Ilimitado (lugar no especificado):  \nBuffet por 9,95 €, incluye café, leche, zumo, chocolate y té ilimitados.  \n📍No disponible (el local no está identificado, pero existen buffets similares en la ciudad).\n\n• Ha-Long by Café Saigon:  \nBrunch buffet ilimitado, pregunta si el café es refill.  \nPrecio variable (evento temporal, consulta antes de ir).  \n📍https://maps.google.com/?q=Calle+de+Velázquez,+87,+28006+Madrid\n\n• Pum Pum Café:  \nBrunch con café incluido, pero no refill ilimitado.  \n10 € por persona  \n📍https://maps.google.com/?q=Calle+Tribulete,+6,+28012+Madrid\n\n• Toma Café 1:  \nCafé de especialidad, sin refill ilimitado, pero excelente calidad.  \nCafé desde 2 €  \n📍https://maps.google.com/?q=Toma+Café,+Calle+de+la+Paz,+11,+28012+Madrid\n\nResumen:  \nEl refill ilimitado tipo diner americano es muy raro en Madrid. Lo más parecido son algunos brunch buffet donde el café puede estar incluido sin límite, pero conviene preguntar antes. Si quieres, puedo buscarte buffets de hotel o brunch internacionales que se acerquen a esa experiencia. ¿Te gustaría que lo haga?",
+          "receivedAt": "2025-07-01T22:41:59.266Z",
+          "responseTime": 21379,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "Sí, búscame algún buffet libre en Madrid que incluya café ilimitado y que esté bien de precio para un estudiante, ¿tienes alguno cerca del centro?",
+          "sentAt": "2025-07-01T22:42:03.272Z",
+          "response": "¡Por supuesto! Aquí tienes opciones de buffet libre en Madrid con café ilimitado y precios asequibles cerca del centro:\n\n• All You Can Eat (AUCE): ⭐️ 4.1  \nBuffet céntrico (Montera y Tetuán), desayuno buffet con café ilimitado por 7,95 €. Gran variedad y ambiente informal.  \n📍https://goo.gl/maps/KnKpJWT9wGZ4LMWw5  \n📍https://goo.gl/maps/qQyVwUvUkUy3uDaE6\n\n• Orient Buffet Madrid: ⭐️ 4.0  \nBuffet asiático económico, bebida y postre incluidos según promoción (consulta si el café entra en el buffet).  \n15,80 € por persona  \n📍https://goo.gl/maps/hwCu8KboAwtn2bRa9\n\n• SUMO Buffet Libre: ⭐️ 4.2  \nBuffet asiático con más de 100 platos, céntrico. El café puede estar incluido en menú brunch, pregunta al llegar.  \n15–18 € por persona  \n📍https://goo.gl/maps/C9FVgRkXhY2mycRKA\n\nConsejo: El café ilimitado está garantizado en AUCE durante desayunos. En los demás, consulta en el local si está incluido en el buffet de mediodía o cena.\n\n¿Te gustaría recomendaciones de buffets brunch baratos con café ilimitado?",
+          "receivedAt": "2025-07-01T22:42:31.270Z",
+          "responseTime": 27998,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "¿El AUCE solo tiene buffet de desayuno o también hay buffet de comida por un precio parecido? ¿Qué suelen incluir en el desayuno?",
+          "sentAt": "2025-07-01T22:42:35.409Z",
+          "response": "¡Genial pregunta! AUCE (All You Can Eat) ofrece principalmente buffet de desayuno económico:\n\n• Buffet de desayuno:  \n– Café ilimitado, infusiones y zumos  \n– Bollería, tostadas, mermeladas  \n– Cereales, fruta fresca  \n– Embutidos, quesos y huevos (según local)  \n– Alguna opción vegana y sin gluten (consulta en el local)\n\n• Buffet de comida:  \n– En AUCE suelen centrarse en desayunos; para buffet de comida, el precio sube (12–15 €) y la variedad es mayor (ensaladas, pastas, carnes, pescados, postres).\n\nEl desayuno es la opción más barata (7,95 €), ideal para estudiantes. ¿Te gustaría saber horarios o buscas buffets de comida con opciones veganas y saludables?",
+          "receivedAt": "2025-07-01T22:42:42.392Z",
+          "responseTime": 6983,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "¿Sabes hasta qué hora sirven el buffet de desayuno en AUCE y si hace falta reservar o puedo llegar directamente?",
+          "sentAt": "2025-07-01T22:42:46.754Z",
+          "response": "¡Claro! En AUCE:\n\n• El buffet de desayuno suele servirse hasta las 11:30 h o 12:00 h, según el local.  \n• No es obligatorio reservar; puedes llegar directamente, aunque en fines de semana puede haber más gente.  \n• Si vas en grupo, mejor reservar para asegurar sitio.\n\n¿Te gustaría recomendaciones de buffets con opciones veganas o saludables para desayunar?",
+          "receivedAt": "2025-07-01T22:42:51.513Z",
+          "responseTime": 4759,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "¿Sabes si en AUCE hacen algún descuento especial para estudiantes si llevo el carnet, o algún día más barato durante la semana?",
+          "sentAt": "2025-07-01T22:42:55.853Z",
+          "response": "¡Buena pregunta! En AUCE:\n\n• No suelen tener descuento fijo para estudiantes, pero algunos locales pueden aplicar promociones puntuales si muestras el carnet.  \n• Entre semana, el precio suele ser el mismo, pero a veces hay ofertas especiales según temporada o eventos.\n\nTe recomiendo preguntar al llegar o llamar antes, ya que las promociones pueden variar por local. ¿Te gustaría info sobre otros sitios económicos con descuentos para estudiantes en Madrid?",
+          "receivedAt": "2025-07-01T22:43:02.046Z",
+          "responseTime": 6193,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "Sí, dime algún otro sitio en Madrid centro donde hagan descuento de estudiante y se coma bien por menos de 10 €. ¿Tienes alguno favorito?",
+          "sentAt": "2025-07-01T22:43:06.997Z",
+          "response": "¡Por supuesto! Aquí tienes opciones céntricas con descuento para estudiantes y buena comida por menos de 10 €:\n\n• 100 Montaditos: ⭐️ 4.0  \nDescuento con carnet universitario ciertos días, montaditos y bebida desde 2 €.  \n📍https://goo.gl/maps/8pY4B1j6h2v\n\n• Rodilla: ⭐️ 4.1  \nMenú universitario con bocadillo, bebida y postre por unos 5–6 €.  \n📍https://goo.gl/maps/8k4tS4v8d6C2\n\n• Tierra Burrito Bar: ⭐️ 4.3  \nDescuento de estudiante en menú burrito o bowl, desde 7,50 €.  \n📍https://goo.gl/maps/9v9V3J2w5wD2\n\nMi favorito para algo sano y saciante es Tierra Burrito Bar. ¿Te gustaría recomendaciones de sitios con opciones veganas o internacionales?",
+          "receivedAt": "2025-07-01T22:43:13.560Z",
+          "responseTime": 6563,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "¡Qué bien! ¿En Tierra Burrito Bar el descuento de estudiante es solo en menú o también en burritos sueltos? ¿Y sabes si lo aplican todo el día o solo en horario de comidas?",
+          "sentAt": "2025-07-01T22:43:21.244Z",
+          "response": "¡Muy buena elección! En Tierra Burrito Bar:\n\n• El descuento de estudiante suele aplicarse tanto en menú como en burritos sueltos, mostrando el carnet.  \n• Normalmente está disponible todo el día, pero puede variar según local y promociones vigentes.  \n• Te recomiendo preguntar al pedir para asegurarte de la oferta en ese momento.\n\n¿Quieres saber opciones veganas y picantes en su carta? ¡Encantado de ayudarte como tu amigo foodie!",
+          "receivedAt": "2025-07-01T22:43:26.155Z",
+          "responseTime": 4911,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "¡Sí, cuéntame qué opciones veganas tienen en Tierra Burrito Bar y si cuestan lo mismo que las normales!",
+          "sentAt": "2025-07-01T22:43:30.099Z",
+          "response": "¡Por supuesto! En Tierra Burrito Bar:\n\n• Opción vegana: burrito o bowl con base de arroz, frijoles, verduras asadas, guacamole, pico de gallo y salsa picante.  \n• Puedes añadir jalapeños y salsa extra picante.  \n• El precio es igual al de los burritos normales, sin recargo por ser vegano.\n\n¿Te gustaría que te recomiende combinaciones picantes o saber los valores nutricionales aproximados?",
+          "receivedAt": "2025-07-01T22:43:35.193Z",
+          "responseTime": 5094,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "Sí, dime tu combinación picante favorita en Tierra Burrito Bar para pedir algo diferente la próxima vez.",
+          "sentAt": "2025-07-01T22:43:39.219Z",
+          "response": "¡Con mucho gusto! Como tu amigo foodie, te sugiero una combinación vegana y bien picante en Tierra Burrito Bar:\n\n• Base: arroz integral y frijoles negros  \n• Verduras asadas y pico de gallo  \n• Guacamole extra  \n• Jalapeños frescos  \n• Salsa chipotle y salsa habanero (¡pide ambas para subir el nivel!)  \n• Topping de cilantro y lima\n\n¡Explosión de sabor y picante! ¿Te animas a probarla? Si quieres, cuéntame más sobre tus gustos para afinar futuras recomendaciones.",
+          "receivedAt": "2025-07-01T22:43:45.703Z",
+          "responseTime": 6484,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-07-01T22:43:45.703Z",
+      "duration": 192194
+    },
+    {
+      "personaId": "family_kids",
+      "personaName": "Ana Familia",
+      "language": "es",
+      "description": "Madre de familia con dos niños pequeños",
+      "startTime": "2025-07-01T22:43:50.709Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, ¿me puedes recomendar un restaurante en la ciudad que tenga zona de juegos para niños pequeños?",
+          "sentAt": "2025-07-01T22:43:51.655Z",
+          "response": "¡Hola! 😊 Como tu asistente de recomendaciones gastronómicas, ¿me puedes decir en qué ciudad buscas el restaurante con zona de juegos para niños pequeños? Así te paso opciones ideales para familias.",
+          "receivedAt": "2025-07-01T22:43:55.567Z",
+          "responseTime": 3912,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "¡Claro! Estoy en Madrid. ¿Tienes opciones con menú infantil y tronas, además de la zona de juegos?",
+          "sentAt": "2025-07-01T22:43:56.666Z",
+          "response": "¡Por supuesto! Aquí tienes opciones en Madrid ideales para familias con peques:\n\n• Restaurante La Excéntrica: ⭐️ 4.2  \nZona infantil con piscina de bolas y talleres, menú infantil y tronas.  \n20–30 € por persona  \n📍https://maps.google.com/?cid=15541056008136753730\n\n• Lamucca (Plaza de España): ⭐️ 4.3  \nPiscina de bolas, monitores los findes, menú infantil y tronas.  \n20–25 € por persona  \n📍https://maps.google.com/?cid=12767745634665511059\n\n• Mamá Campo: ⭐️ 4.3  \nJunto a parque infantil vallado, menú infantil, cocina casera y tronas.  \n20–25 € por persona  \n📍https://maps.google.com/?cid=18145271868413585436\n\n¿Te gustaría más opciones o buscas en alguna zona concreta de Madrid?",
+          "receivedAt": "2025-07-01T22:44:12.750Z",
+          "responseTime": 16084,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "¿Sabes si en alguno de estos restaurantes hay cambiador en el baño o facilidades para bebés?",
+          "sentAt": "2025-07-01T22:44:16.698Z",
+          "response": "¡Sí! Te detallo:\n\n• La Excéntrica: dispone de cambiador en el baño y espacio para carritos.  \n• Lamucca (Plaza de España): tiene cambiador y tronas, ambiente muy family-friendly.  \n• Mamá Campo: cuenta con cambiador, tronas y espacio cómodo para familias con bebés.\n\n¿Te gustaría saber si ofrecen menús especiales para alergias o intolerancias?",
+          "receivedAt": "2025-07-01T22:44:21.406Z",
+          "responseTime": 4708,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "Sí, por favor. ¿Sabes si los menús infantiles incluyen opciones sin gluten o sin lactosa?",
+          "sentAt": "2025-07-01T22:44:25.274Z",
+          "response": "¡Buena pregunta! En estos restaurantes:\n\n• La Excéntrica: ofrece opciones sin gluten y sin lactosa en el menú infantil, pero es recomendable avisar al reservar.  \n• Lamucca: dispone de platos adaptados para niños sin gluten o sin lactosa, consulta al camarero al llegar.  \n• Mamá Campo: menú infantil con opciones sin gluten y sin lactosa, ingredientes ecológicos y flexibilidad para adaptar platos.\n\n¿Te gustaría recomendaciones de platos infantiles saludables o necesitas info sobre otros alérgenos?",
+          "receivedAt": "2025-07-01T22:44:31.397Z",
+          "responseTime": 6123,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "¿Tienes idea si en alguno de estos sitios hay animadores o actividades organizadas para niños durante la comida, sobre todo los fines de semana?",
+          "sentAt": "2025-07-01T22:44:36.170Z",
+          "response": "¡Sí! Te cuento:\n\n• La Excéntrica: suele tener animadores y talleres infantiles los fines de semana, especialmente en horario de comidas.  \n• Lamucca (Plaza de España): ofrece monitores y actividades para niños los sábados y domingos a mediodía.  \n• Mamá Campo: a veces organiza talleres o cuentacuentos, sobre todo en fechas especiales; consulta su agenda.\n\n¿Quieres que te recomiende algún sitio con animación infantil garantizada todos los fines de semana?",
+          "receivedAt": "2025-07-01T22:44:42.401Z",
+          "responseTime": 6231,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "Sí, por favor. ¿Hay alguno que tenga terraza o espacio exterior donde los niños puedan jugar mientras los adultos comen?",
+          "sentAt": "2025-07-01T22:44:46.345Z",
+          "response": "¡Claro! Aquí tienes opciones en Madrid con terraza o espacio exterior para que los peques jueguen mientras los adultos disfrutan:\n\n• El Jardín de Alma: ⭐️ 4.4  \nGran terraza ajardinada, zona de juegos infantil y animación los fines de semana.  \n25–35 € por persona  \n📍https://goo.gl/maps/1r6Qb5R8g5n1k9dN7\n\n• El Jardín Secreto de Salvador Bachiller: ⭐️ 4.3  \nTerraza temática, espacio exterior y menú infantil. Zona de juegos pequeña, ideal para peques.  \n20–30 € por persona  \n📍https://goo.gl/maps/2nX4Ew8rQbC2\n\n• Mamá Campo (Plaza de Olavide): ⭐️ 4.3  \nTerraza junto a parque infantil vallado, ideal para vigilar a los niños mientras comes.  \n20–25 € por persona  \n📍https://goo.gl/maps/8v5n8u5X5Zy\n\n¿Te gustaría saber si alguno ofrece animación infantil garantizada todos los fines de semana?",
+          "receivedAt": "2025-07-01T22:44:53.286Z",
+          "responseTime": 6941,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "¿Sabes si hace falta reservar con mucha antelación en estos restaurantes para asegurar mesa en la terraza los fines de semana?",
+          "sentAt": "2025-07-01T22:44:57.907Z",
+          "response": "¡Sí! En estos restaurantes, especialmente con terraza y zona infantil, es muy recomendable reservar con antelación para los fines de semana:\n\n• El Jardín de Alma y El Jardín Secreto de Salvador Bachiller: suelen llenarse rápido, reserva al menos con 3–5 días de antelación.  \n• Mamá Campo (Plaza de Olavide): también aconsejable reservar con varios días de margen, sobre todo si quieres mesa cerca del parque.\n\n¿Te ayudo con los teléfonos de reserva o prefieres recomendaciones de restaurantes menos concurridos pero family-friendly?",
+          "receivedAt": "2025-07-01T22:45:08.487Z",
+          "responseTime": 10580,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "¿En estos restaurantes suelen tener tronas suficientes y espacio para dejar carritos, o es mejor avisar al reservar?",
+          "sentAt": "2025-07-01T22:45:13.086Z",
+          "response": "¡Muy buena pregunta! En estos restaurantes:\n\n• Suelen disponer de varias tronas y espacio para carritos, pero en fines de semana pueden agotarse rápido.  \n• Es recomendable avisar al reservar si necesitas trona y espacio para carrito, así te lo aseguran y preparan la mesa adecuada.\n\n¿Te gustaría que te recomiende algún restaurante menos concurrido pero igualmente cómodo para familias?",
+          "receivedAt": "2025-07-01T22:45:17.897Z",
+          "responseTime": 4811,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "¿Tienes alguna recomendación de restaurante menos concurrido, pero que también tenga zona de juegos o algún entretenimiento para niños?",
+          "sentAt": "2025-07-01T22:45:21.899Z",
+          "response": "¡Por supuesto! Aquí tienes una opción menos concurrida, ideal para familias y con entretenimiento infantil:\n\n• La Familiar: ⭐️ 4.2  \nRestaurante amplio en Las Tablas, zona de juegos interior, menú infantil, tronas y espacio para carritos. Ambiente tranquilo, perfecto para familias que buscan comodidad.  \n18–25 € por persona  \n📍https://goo.gl/maps/4a6L6F7Qw9k\n\n¿Te gustaría más opciones fuera del centro o buscas en alguna zona concreta de Madrid?",
+          "receivedAt": "2025-07-01T22:45:27.001Z",
+          "responseTime": 5102,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "¿La Familiar tiene cambiador en el baño y opciones en el menú infantil para niños con alergias o intolerancias?",
+          "sentAt": "2025-07-01T22:45:30.712Z",
+          "response": "¡Sí! En La Familiar:\n\n• Disponen de cambiador en el baño y espacio cómodo para familias.  \n• El menú infantil ofrece opciones adaptadas para alergias o intolerancias (sin gluten, sin lactosa, etc.), pero es recomendable avisar al reservar para que lo tengan en cuenta.\n\n¿Te gustaría recomendaciones de platos infantiles saludables o info sobre otros restaurantes family-friendly?",
+          "receivedAt": "2025-07-01T22:45:35.393Z",
+          "responseTime": 4681,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "¿Sabes si en La Familiar organizan algún tipo de actividad o animación para niños los fines de semana, como talleres o juegos dirigidos?",
+          "sentAt": "2025-07-01T22:45:39.631Z",
+          "response": "¡Sí! En La Familiar suelen organizar actividades y animación para niños los fines de semana:\n\n• Talleres creativos, juegos dirigidos y animadores durante las comidas de sábado y domingo.  \n• Consulta su agenda o llama antes, ya que las actividades pueden variar según la fecha.\n\n¿Te gustaría que te ayude a contactarles para confirmar la animación el día que planeas ir?",
+          "receivedAt": "2025-07-01T22:45:44.118Z",
+          "responseTime": 4487,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "Sí, por favor. ¿Tienes el número de teléfono de La Familiar para hacer la reserva y consultar la animación?",
+          "sentAt": "2025-07-01T22:45:48.513Z",
+          "response": "¡Por supuesto! Aquí tienes el teléfono de La Familiar para reservas y consultas:\n\n• 📞 913 586 017\n\nTe recomiendo llamar para confirmar la animación infantil el día que planeas ir y reservar trona o espacio para carrito si lo necesitas.\n\n¿Te gustaría que te recomiende algún otro restaurante familiar por si no encuentras mesa?",
+          "receivedAt": "2025-07-01T22:45:54.318Z",
+          "responseTime": 5805,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "¿Sabes si en La Familiar la zona de juegos está a la vista de las mesas o hay que acompañar a los niños mientras juegan?",
+          "sentAt": "2025-07-01T22:45:58.104Z",
+          "response": "¡Muy buena pregunta! En La Familiar, la zona de juegos está situada cerca del comedor y es visible desde muchas mesas, lo que permite vigilar a los niños mientras disfrutas de la comida. Sin embargo, dependiendo de la ubicación de tu mesa, puede haber zonas con menor visibilidad, así que al reservar puedes pedir mesa cerca de la zona de juegos para mayor tranquilidad.\n\n¿Te gustaría más detalles sobre el ambiente o recomendaciones de otros restaurantes con zonas de juegos a la vista?",
+          "receivedAt": "2025-07-01T22:46:02.762Z",
+          "responseTime": 4658,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "¿Sabes si la zona de juegos de La Familiar está adaptada para niños pequeños, como de 3 o 4 años, o es más para niños mayores?",
+          "sentAt": "2025-07-01T22:46:06.901Z",
+          "response": "¡Sí! La zona de juegos de La Familiar está pensada para peques de distintas edades, incluyendo niños de 3 o 4 años:\n\n• Dispone de juegos y juguetes seguros y adaptados para los más pequeños.  \n• El espacio es acolchado y supervisado, ideal para que los peques jueguen tranquilos.  \n• También hay actividades para niños mayores, pero los más pequeños tienen su propio rincón.\n\n¿Te gustaría saber si hay monitores presentes en la zona de juegos o buscas recomendaciones similares en otras zonas de Madrid?",
+          "receivedAt": "2025-07-01T22:46:12.253Z",
+          "responseTime": 5352,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "¿Sabes si hay límite de tiempo para que los niños estén en la zona de juegos o pueden usarla durante toda la comida?",
+          "sentAt": "2025-07-01T22:46:16.289Z",
+          "response": "¡Buena pregunta! En La Familiar, los niños pueden usar la zona de juegos durante toda la comida sin un límite de tiempo estricto, siempre que haya buen comportamiento y aforo suficiente. Si hay mucha demanda, pueden organizar turnos, pero normalmente los peques disfrutan del espacio mientras los adultos comen tranquilos.\n\n¿Te gustaría recomendaciones de otros restaurantes con zonas de juegos amplias o buscas algo más específico para tu próxima salida?",
+          "receivedAt": "2025-07-01T22:46:21.292Z",
+          "responseTime": 5003,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-07-01T22:46:21.292Z",
+      "duration": 150583
+    },
+    {
+      "personaId": "international_tourist",
+      "personaName": "James British",
+      "language": "en",
+      "description": "British tourist visiting Spain for the first time",
+      "startTime": "2025-07-01T22:46:26.303Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hi there! I’ve just arrived in Madrid and I’m looking for a place to try some authentic Spanish tapas. Could you recommend somewhere that’s good for a first-timer?",
+          "sentAt": "2025-07-01T22:46:27.342Z",
+          "response": "Welcome to Madrid! As your foodie friend, here are top spots for authentic tapas—perfect for first-timers:\n\n• Bodega de la Ardosa: ⭐️ 4.5  \nClassic tavern, famous for tortilla and vermouth.  \n€15–20 per person  \n📍https://goo.gl/maps/4p8QyJ6vZB72\n\n• El Sur: ⭐️ 4.6  \nFriendly vibe, generous tapas with each drink.  \n€12–18 per person  \n📍https://goo.gl/maps/8rQZq9w1Z8A2\n\n• Taberna La Concha: ⭐️ 4.5  \nTraditional tapas, great for trying local wines.  \n€15–20 per person  \n📍https://goo.gl/maps/3q9r6k9v4kB2\n\nWould you like tips on what to order, or are you interested in a specific neighborhood?",
+          "receivedAt": "2025-07-01T22:46:33.758Z",
+          "responseTime": 6416,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "These all sound brilliant! Could you tell me which one is the most popular with locals rather than just tourists?",
+          "sentAt": "2025-07-01T22:46:34.661Z",
+          "response": "Absolutely! As your RECO, here’s the scoop:\n\n• Bodega de la Ardosa is especially beloved by locals—authentic vibe, classic Madrid crowd, and a real neighborhood feel.  \n• El Sur and La Concha are also great but tend to attract more tourists.\n\nIf you want a true local experience, Bodega de la Ardosa is your spot! Want tips on what to order there?",
+          "receivedAt": "2025-07-01T22:46:40.041Z",
+          "responseTime": 5380,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "Yes please, I’d love some tips on what to order at Bodega de la Ardosa—are there any must-try dishes or drinks?",
+          "sentAt": "2025-07-01T22:46:45.188Z",
+          "response": "Of course! At Bodega de la Ardosa, don’t miss:\n\n• Tortilla de patatas (Spanish omelette)—famous and super juicy  \n• Salmorejo (cold tomato soup with ham and egg)  \n• Croquetas caseras (homemade croquettes)  \n• Ensaladilla rusa (creamy potato salad)  \n• Vermouth on tap—classic Madrid aperitif\n\nPerfect for a real local tapas experience! Would you like tips on pairing drinks or info on vegetarian options?",
+          "receivedAt": "2025-07-01T22:46:50.787Z",
+          "responseTime": 5599,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "That sounds delicious! I’m curious—do they have an English menu, or will I need to muddle through with my very basic Spanish?",
+          "sentAt": "2025-07-01T22:46:54.829Z",
+          "response": "Great question! Bodega de la Ardosa mainly has menus in Spanish, but the staff are used to visitors and are friendly—happy to help you out. If you’d like, I can translate the main menu items for you so you feel more confident ordering!\n\nWould you like a quick translation of typical tapas you’ll find there?",
+          "receivedAt": "2025-07-01T22:46:59.400Z",
+          "responseTime": 4571,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "That would be really helpful, thank you! Could you also let me know if they get very busy in the evenings, or is it best to go at a certain time to avoid the crowds?",
+          "sentAt": "2025-07-01T22:47:03.666Z",
+          "response": "Absolutely! Here’s a quick guide for you:\n\n• Evenings (especially after 8 PM) and weekends get very busy—expect crowds and standing room only.  \n• For a quieter experience, go on weekday afternoons or right at opening time.\n\nQuick menu translation:  \n• Tortilla de patatas – Spanish omelette  \n• Salmorejo – Chilled tomato soup  \n• Croquetas caseras – Homemade croquettes  \n• Ensaladilla rusa – Potato salad  \n• Vermut de grifo – Vermouth on tap\n\nLet me know if you want more translations or tips for your visit!",
+          "receivedAt": "2025-07-01T22:47:15.267Z",
+          "responseTime": 11601,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "That’s really useful, thanks! If I end up going in the evening when it’s busy, is it the sort of place where you need to make a reservation, or do you just show up and hope for the best?",
+          "sentAt": "2025-07-01T22:47:19.572Z",
+          "response": "You’re welcome! At Bodega de la Ardosa, it’s classic Madrid style—no reservations, just show up and squeeze in! It’s part of the fun and atmosphere. Arrive early if you want a spot at the bar or a small table.\n\nNeed tips for other tapas bars if it’s too crowded, or want advice on bar etiquette?",
+          "receivedAt": "2025-07-01T22:47:24.095Z",
+          "responseTime": 4523,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "Bar etiquette sounds interesting—are there any customs or things I should know before I go so I don’t stick out as a clueless tourist?",
+          "sentAt": "2025-07-01T22:47:28.031Z",
+          "response": "Great question! Here are some quick bar etiquette tips for Madrid tapas bars:\n\n• Stand at the bar—most locals eat and drink standing, especially when it’s busy.  \n• Order drinks first—tapas often come free with your drink, or you can order extra.  \n• Share plates—tapas are for sharing, so try a bit of everything.  \n• Pay at the end—just ask for “la cuenta” when you’re done.  \n• Be friendly—greet staff with “hola” and thank them with “gracias.”\n\nYou’ll fit right in! Want more tips or recommendations for other local spots?",
+          "receivedAt": "2025-07-01T22:47:34.192Z",
+          "responseTime": 6161,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "That’s brilliant advice, cheers! Out of curiosity, are there any tapas bars nearby that are a bit quieter or maybe have more seating, just in case I fancy a more relaxed evening?",
+          "sentAt": "2025-07-01T22:47:39.698Z",
+          "response": "Absolutely! Here are some quieter tapas bars in central Madrid with more seating and a relaxed vibe:\n\n• Taberna El Tempranillo: ⭐️ 4.4  \nChill atmosphere, great wine selection, plenty of tables.  \n€18–25 per person  \n📍https://goo.gl/maps/5n8X3cVw7iB2\n\n• Casa Lucas: ⭐️ 4.5  \nCosy, modern twist on classic tapas, good for sitting down.  \n€20–25 per person  \n📍https://goo.gl/maps/3uQn4y4g8bA2\n\n• La Musa: ⭐️ 4.4  \nTrendy, creative tapas, spacious and not too loud.  \n€18–25 per person  \n📍https://goo.gl/maps/4v3uQy8n9yA2\n\nWould you like suggestions for specific dishes at any of these, or maybe tips for pairing tapas with Spanish wines?",
+          "receivedAt": "2025-07-01T22:47:46.482Z",
+          "responseTime": 6784,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "Casa Lucas sounds right up my street—do you know if they take reservations, or is it walk-in only like the others?",
+          "sentAt": "2025-07-01T22:47:50.557Z",
+          "response": "Great choice! Casa Lucas does accept reservations, especially for dinner. It’s recommended if you want to guarantee a table, as it’s popular but more relaxed than the busiest spots. You can book by phone or sometimes online.\n\nWould you like their phone number or help with what to order there?",
+          "receivedAt": "2025-07-01T22:47:56.213Z",
+          "responseTime": 5656,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "Yes please, I’d appreciate some suggestions on what to order at Casa Lucas—are there any standout dishes or local specialities I shouldn’t miss?",
+          "sentAt": "2025-07-01T22:48:00.320Z",
+          "response": "Of course! At Casa Lucas, don’t miss these standout dishes:\n\n• Tosta de solomillo con cebolla confitada – Beef sirloin toast with caramelized onion (house classic)  \n• Tosta de foie con manzana – Foie gras toast with apple  \n• Croquetas caseras – Homemade croquettes  \n• Bacalao confitado – Confit cod with vegetables  \n• Salmorejo – Chilled tomato soup with ham and egg\n\nPair with a glass of Rioja or Ribera del Duero wine for the full experience. Want tips on vegetarian options or dessert recommendations?",
+          "receivedAt": "2025-07-01T22:48:06.516Z",
+          "responseTime": 6196,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "Those all sound fantastic! I do enjoy a good dessert—do you know if Casa Lucas has any traditional Spanish puddings or sweets worth trying?",
+          "sentAt": "2025-07-01T22:48:13.572Z",
+          "response": "Absolutely! Casa Lucas usually offers delicious homemade desserts. Look out for:\n\n• Tarta de queso – Creamy Spanish-style cheesecake  \n• Flan casero – Classic caramel custard  \n• Tarta de chocolate – Rich chocolate cake\n\nDesserts may vary, so ask for “postres caseros” (homemade desserts) when you visit. Perfect way to end your meal! Would you like more tips for sweet treats around Madrid?",
+          "receivedAt": "2025-07-01T22:48:19.003Z",
+          "responseTime": 5431,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "I’d love some more tips—are there any bakeries or cafés nearby that are especially good for traditional Spanish pastries, maybe for breakfast or an afternoon treat?",
+          "sentAt": "2025-07-01T22:48:22.952Z",
+          "response": "Absolutely! Here are some top spots near the city centre for traditional Spanish pastries and a great café vibe:\n\n• La Mallorquina: ⭐️ 4.3  \nIconic bakery on Puerta del Sol, famous for napolitanas (chocolate-filled pastry) and ensaimadas.  \n€2–4 per pastry  \n📍https://goo.gl/maps/8Q6yGkQ2y5w\n\n• Pastelería El Riojano: ⭐️ 4.5  \nHistoric café, try their rosquillas (Spanish doughnuts) and bartolillos (custard-filled pastries).  \n€2–5 per pastry  \n📍https://goo.gl/maps/2b1nq9v3k8C2\n\n• Chocolatería San Ginés: ⭐️ 4.4  \nLegendary for churros with thick hot chocolate—perfect for breakfast or merienda.  \n€4–6 per person  \n📍https://goo.gl/maps/5jv8w9n8yA2\n\nWould you like tips on what to order at any of these, or info on opening hours?",
+          "receivedAt": "2025-07-01T22:48:31.742Z",
+          "responseTime": 8790,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "Chocolatería San Ginés sounds brilliant—do you know if it gets very crowded in the mornings, or is there a quieter time to go for churros and hot chocolate?",
+          "sentAt": "2025-07-01T22:48:35.613Z",
+          "response": "Great choice! Chocolatería San Ginés is famous and can get quite crowded, especially:\n\n• Mornings (9–11 AM) and late evenings (after 8 PM) are busiest.  \n• For a quieter visit, go mid-morning (11:30 AM–1 PM) or mid-afternoon (4–6 PM).  \n• They’re open 24h, so you can even go late at night for a peaceful treat!\n\nWould you like tips on how to order, or suggestions for other spots with great churros?",
+          "receivedAt": "2025-07-01T22:48:41.979Z",
+          "responseTime": 6366,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "That’s handy to know, thanks! Out of curiosity, is San Ginés cash only, or do they accept card payments as well?",
+          "sentAt": "2025-07-01T22:48:46.161Z",
+          "response": "You’re welcome! Chocolatería San Ginés accepts both cash and card payments, so you can pay however you prefer—no worries. Enjoy your churros and chocolate!\n\nWant tips on other must-try Madrid treats or hidden cafés?",
+          "receivedAt": "2025-07-01T22:48:50.446Z",
+          "responseTime": 4285,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "I wouldn’t say no to a hidden café or two—are there any cosy spots nearby where I could relax with a coffee and maybe do a bit of people-watching?",
+          "sentAt": "2025-07-01T22:48:54.457Z",
+          "response": "Absolutely! Here are some cosy, lesser-known cafés near the city centre—perfect for relaxing and people-watching:\n\n• HanSo Café: ⭐️ 4.6  \nTrendy, relaxed vibe, specialty coffee, great pastries, big windows for people-watching.  \n€2–4 per coffee  \n📍https://goo.gl/maps/4nQn8y4y9kA2\n\n• Café de la Luz: ⭐️ 4.5  \nCharming, vintage décor, comfy sofas, ideal for a quiet break or reading.  \n€2–3 per coffee  \n📍https://goo.gl/maps/8v7XwF1j8t52\n\n• Toma Café: ⭐️ 4.6  \nLocal favourite, excellent coffee, laid-back atmosphere, perfect for a chill afternoon.  \n€2–3 per coffee  \n📍https://goo.gl/maps/7w9o8FQbB8Q2\n\nWould you like recommendations for snacks or pastries to try at these cafés?",
+          "receivedAt": "2025-07-01T22:49:01.567Z",
+          "responseTime": 7110,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-07-01T22:49:01.567Z",
+      "duration": 155264
+    },
+    {
+      "personaId": "foodie_adventurous",
+      "personaName": "Diego Gourmet",
+      "language": "es",
+      "description": "Foodie aventurero que busca experiencias gastronómicas únicas",
+      "startTime": "2025-07-01T22:49:06.579Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "¡Hola RECO! Estoy buscando un restaurante en la ciudad que ofrezca un menú degustación innovador, con ingredientes poco convencionales y técnicas de cocina creativas. ¿Tienes alguna recomendación interesante?",
+          "sentAt": "2025-07-01T22:49:07.950Z",
+          "response": "¡Hola! Como tu amigo foodie, aquí tienes opciones top en Madrid para un menú degustación innovador y creativo:\n\n• Basque Madrid (Eneko Atxa):  \nPropuesta vasca moderna, ingredientes de calidad y presentaciones sorprendentes.  \n50 € por persona  \n📍https://maps.google.com/?q=Basque+Restaurant,+Calle+Atocha,+123,+Madrid\n\n• Gofio by Cícero Canary:  \nAlta cocina canaria reinterpretada, productos y vinos únicos del archipiélago.  \n95–185 € por persona  \n📍https://maps.google.com/?q=Gofio,+Calle+del+Caballero+de+Gracia,+20,+Madrid\n\n• La Tasquería:  \nCasquería creativa y transgresora, menú degustación con técnicas modernas.  \n59–98 € por persona  \n📍https://maps.google.com/?q=La+Tasquería,+Calle+del+Duque+de+Sesto,+48,+Madrid\n\n• Gaytán:  \nAlta cocina de autor, platos elaborados en directo y técnicas innovadoras.  \n79,95 € por persona  \n📍https://maps.google.com/?q=Gaytán,+Calle+de+Príncipe+de+Vergara,+205,+Madrid\n\n• Oribu Brasas Japocastizas:  \nFusión japonesa-madrileña, brasas y técnicas asiáticas originales.  \nPrecio variable  \n📍https://maps.google.com/?q=Oribu,+Calle+Barquillo,+10,+Madrid\n\n¿Te gustaría saber más sobre algún menú, platos con mariscos o nivel de picante? ¡Cuéntame tus gustos para afinar la recomendación!",
+          "receivedAt": "2025-07-01T22:49:22.412Z",
+          "responseTime": 14462,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "¡Qué propuestas tan sugerentes! Me llama la atención Gofio por su reinterpretación de la cocina canaria—¿podrías contarme más sobre los ingredientes exóticos que suelen emplear en su menú degustación?",
+          "sentAt": "2025-07-01T22:49:23.721Z",
+          "response": "¡Por supuesto! En Gofio by Cícero Canary, el menú degustación destaca por su uso de ingredientes canarios poco habituales en la península y técnicas creativas. Suelen emplear:\n\n• Gofio (harina de cereales tostados, base de la cocina canaria)  \n• Pescados atlánticos como vieja, cherne o cabracho  \n• Quesos artesanos de cabra y oveja de las islas  \n• Papas antiguas de variedades autóctonas  \n• Mojo picón y otras salsas tradicionales reinterpretadas  \n• Frutas tropicales (plátano, papaya, mango, guayabo)  \n• Miel de palma y almogrote (pasta de queso y pimiento)  \n• Mariscos locales y algas atlánticas  \n• Hierbas y flores silvestres de Canarias\n\nEl menú cambia según temporada, pero siempre sorprende con productos únicos y presentaciones vanguardistas. ¿Te gustaría saber si pueden adaptar el menú a preferencias picantes o marinas?",
+          "receivedAt": "2025-07-01T22:49:32.422Z",
+          "responseTime": 8701,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "¡Me fascina la variedad de productos autóctonos que emplean! ¿Podrías detallarme cómo integran las algas atlánticas o los mariscos locales en sus platos principales del menú degustación?",
+          "sentAt": "2025-07-01T22:49:36.656Z",
+          "response": "¡Con mucho gusto! En Gofio, las algas atlánticas y los mariscos locales son protagonistas en varios pases del menú degustación:\n\n• Integran algas como cochayuyo, lechuga de mar o espagueti de mar en fondos, cremas y como guarnición crujiente para aportar sabor umami y textura marina.  \n• Los mariscos (lapas, burgados, camarones, pulpo canario) se presentan en platos principales, a menudo marinados, a la brasa o en tartar, acompañados de mojos o emulsiones de algas.  \n• Es habitual encontrar combinaciones como vieira con salsa de algas y cítricos, o tartar de camarón canario sobre crema de gofio y chips de lechuga de mar.  \n• También pueden reinterpretar clásicos como el caldo de pescado con espuma de algas y mariscos frescos.\n\n¿Te gustaría que te ayude a consultar si pueden adaptar el menú a un nivel de picante o a tus preferencias de mariscos?",
+          "receivedAt": "2025-07-01T22:49:44.157Z",
+          "responseTime": 7501,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "Me parece fascinante cómo realzan el umami marino; ¿sabes si ofrecen maridajes de vinos canarios para acompañar estos platos, y qué tipo de vinos suelen seleccionar para armonizar con los sabores oceánicos?",
+          "sentAt": "2025-07-01T22:49:48.816Z",
+          "response": "¡Totalmente! En Gofio ofrecen maridaje con vinos canarios, una experiencia muy recomendable para potenciar los sabores marinos de su menú:\n\n• Seleccionan blancos volcánicos (Malvasía, Listán Blanco) con acidez y mineralidad, ideales para mariscos y algas.  \n• Incluyen tintos ligeros de Listán Negro o Vijariego, perfectos para platos con pescados grasos o salsas intensas.  \n• A veces proponen vinos dulces o semisecos (Malvasía aromática) para armonizar con notas tropicales o salsas picantes.  \n• El equipo suele explicar cada vino y su relación con el plato, haciendo el maridaje muy didáctico y especial.\n\n¿Te gustaría saber precios del maridaje o recomendaciones de vinos canarios para comprar aparte?",
+          "receivedAt": "2025-07-01T22:49:55.672Z",
+          "responseTime": 6856,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "Me encantaría saber el precio aproximado del maridaje en Gofio, y si suelen incluir algún vino canario realmente raro o de producción limitada en la selección.",
+          "sentAt": "2025-07-01T22:49:59.817Z",
+          "response": "¡Por supuesto! En Gofio, el maridaje de vinos canarios suele tener un precio aproximado de 45–60 € por persona, dependiendo del número de pases y la selección de vinos.\n\n• Incluyen referencias singulares y, a menudo, vinos de producción limitada de pequeñas bodegas canarias, difíciles de encontrar fuera de las islas.  \n• Es habitual que sorprendan con etiquetas de variedades autóctonas poco conocidas, como Marmajuelo, Baboso Negro o Vijariego Blanco.  \n• El sumiller explica cada vino y su historia, haciendo la experiencia aún más especial.\n\n¿Te gustaría recomendaciones de bodegas canarias para visitar o vinos para llevarte de recuerdo?",
+          "receivedAt": "2025-07-01T22:50:06.060Z",
+          "responseTime": 6243,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "¡Qué interesante la selección de variedades autóctonas! ¿Suelen ofrecer algún maridaje alternativo con sidras, cervezas artesanas canarias o incluso cócteles de autor para quienes buscan experiencias distintas al vino?",
+          "sentAt": "2025-07-01T22:50:10.438Z",
+          "response": "¡Pregunta fantástica! En Gofio, aunque el maridaje principal es con vinos canarios, ocasionalmente sorprenden con:\n\n• Sidras artesanas canarias, especialmente en platos frescos o con frutas tropicales.  \n• Cervezas artesanas de las islas (como Jaira, Agüita o Isla Verde) para acompañar entrantes o platos con sabores intensos.  \n• En algunos menús especiales, han incluido cócteles de autor con ingredientes canarios (como ron miel, frutas tropicales o hierbas locales) para armonizar con ciertos pases.\n\nSi prefieres una alternativa al vino, puedes consultarlo al reservar y suelen adaptarse encantados para ofrecer una experiencia diferente y personalizada.\n\n¿Te gustaría recomendaciones de cervezas o cócteles canarios para probar fuera del restaurante?",
+          "receivedAt": "2025-07-01T22:50:17.712Z",
+          "responseTime": 7274,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "Me atrae mucho la idea de cócteles de autor con ingredientes canarios; ¿podrías darme algún ejemplo de cóctel que hayan servido en maridaje, o recomendarme un bar en Madrid donde pueda probar mixología inspirada en Canarias?",
+          "sentAt": "2025-07-01T22:50:22.206Z",
+          "response": "¡Qué buena elección! En Gofio han servido cócteles de autor como parte de maridajes especiales, por ejemplo:\n\n• Cóctel de ron miel, lima y espuma de maracuyá  \n• Gin tonic con ginebra canaria, piel de plátano y toque de gofio  \n• Mojito de hierbas canarias y fruta tropical  \n• Spritz de vino Malvasía seco, soda y piel de naranja\n\nSi buscas mixología inspirada en Canarias en Madrid, te recomiendo:\n\n• Salmon Guru: ⭐️ 4.6  \nCoctelería creativa, a veces incluyen ingredientes exóticos y tropicales en sus cartas.  \n12–18 € por cóctel  \n📍https://goo.gl/maps/8p9A1wTj6qk\n\n• Macera TallerBar: ⭐️ 4.4  \nDestilados y macerados propios, puedes pedir cócteles personalizados con frutas tropicales o especias.  \n9–12 € por cóctel  \n📍https://goo.gl/maps/4Q6GqJ1wYwH2\n\n¿Te gustaría sugerencias de cócteles sin alcohol o recomendaciones para maridar con comida canaria?",
+          "receivedAt": "2025-07-01T22:50:29.636Z",
+          "responseTime": 7430,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "Excelentes opciones, RECO. Me interesa especialmente Salmon Guru; ¿sabes si suelen colaborar con chefs para crear cócteles inspirados en menús degustación, o si han realizado algún evento gastronómico canario recientemente?",
+          "sentAt": "2025-07-01T22:50:33.688Z",
+          "response": "¡Gran elección! Salmon Guru es referente en coctelería creativa en Madrid y destaca por:\n\n• Colaboraciones puntuales con chefs de renombre para crear cócteles inspirados en menús degustación, sobre todo durante eventos gastronómicos y semanas temáticas.  \n• Han realizado “guest shifts” y maridajes con chefs de cocina fusión y, en ocasiones, han presentado cócteles con guiños a ingredientes canarios (ron miel, frutas tropicales, especias isleñas).  \n• No consta un evento canario reciente, pero suelen renovar su carta y organizar experiencias colaborativas, así que merece la pena seguirles en redes o consultar su agenda.\n\n¿Te gustaría que te ayude a contactarles para preguntar por próximos eventos o te recomiendo otros bares con espíritu viajero y creativo?",
+          "receivedAt": "2025-07-01T22:50:40.721Z",
+          "responseTime": 7033,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "Agradezco mucho la información, RECO. ¿Podrías recomendarme algún otro bar en Madrid que destaque por coctelería de autor con enfoque en ingredientes exóticos o colaboraciones con chefs, donde realmente sorprendan con la creatividad?",
+          "sentAt": "2025-07-01T22:50:45.415Z",
+          "response": "¡Por supuesto! Aquí tienes bares en Madrid donde la creatividad y los ingredientes exóticos son protagonistas, y que destacan por colaboraciones con chefs o propuestas sorprendentes:\n\n• 1862 Dry Bar: ⭐️ 4.7  \nCoctelería clásica y de autor, carta en constante evolución, ingredientes poco convencionales y presentaciones originales.  \n10–14 € por cóctel  \n📍https://goo.gl/maps/8e6kZ3r4v9y\n\n• Angelita Madrid: ⭐️ 4.7  \nBar de cócteles y vinos, colaboraciones frecuentes con chefs, cócteles con verduras, hierbas frescas y destilados caseros.  \n12–15 € por cóctel  \n📍https://goo.gl/maps/8y7Q6wZ8k6y\n\n• The Passenger: ⭐️ 4.5  \nAmbiente único (simula un vagón de tren), carta de autor con guiños a sabores internacionales y eventos temáticos.  \n10–12 € por cóctel  \n📍https://goo.gl/maps/2y8Qn8v4gAq\n\n• Viva Madrid: ⭐️ 4.6  \nHistórico, renovado por Diego Cabrera (Salmon Guru), cócteles de autor con ingredientes exóticos y colaboraciones gastronómicas.  \n12–16 € por cóctel  \n📍https://goo.gl/maps/3v9Qn7y8wAq\n\n¿Te gustaría recomendaciones de cócteles estrella en alguno de estos bares o info sobre sus próximos eventos creativos?",
+          "receivedAt": "2025-07-01T22:50:55.775Z",
+          "responseTime": 10360,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "Angelita Madrid me intriga por su enfoque en cócteles con verduras y colaboraciones con chefs; ¿podrías recomendarme algún cóctel emblemático de su carta actual que destaque por su uso creativo de ingredientes vegetales?",
+          "sentAt": "2025-07-01T22:51:00.910Z",
+          "response": "¡Excelente elección! Angelita Madrid es famoso por su mixología vegetal y creatividad. Entre sus cócteles emblemáticos destacan:\n\n• “Huerta en Primavera”: gin infusionado con apio, cordial de pepino, lima y albahaca, decorado con brotes frescos.  \n• “Bloody Mary Angelita”: reinterpretación con tomate ecológico, zanahoria, apio y especias, servido con chips de verduras.  \n• “Verde que te quiero verde”: tequila, licor de hierbas, zumo de espinaca y manzana verde, toque de menta y albahaca.\n\nLa carta cambia según temporada, pero siempre sorprenden con ingredientes frescos de su propia huerta urbana. ¿Te gustaría recomendaciones de maridaje con su cocina o info sobre próximos eventos colaborativos?",
+          "receivedAt": "2025-07-01T22:51:08.004Z",
+          "responseTime": 7094,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "Qué maravilla el concepto de huerta urbana y mixología verde. ¿Sabes si Angelita ofrece menús degustación en colaboración con chefs invitados, donde los cócteles de autor acompañen cada plato?",
+          "sentAt": "2025-07-01T22:51:12.319Z",
+          "response": "¡Sí! Angelita Madrid es pionero en experiencias de maridaje entre cocina y coctelería de autor:\n\n• Organizan cenas y menús degustación en colaboración con chefs invitados, donde cada plato se acompaña de un cóctel diseñado específicamente para realzar sus sabores.  \n• Estas experiencias suelen anunciarse en sus redes sociales y tienen plazas limitadas, ya que buscan un ambiente exclusivo y personalizado.  \n• El menú varía según el chef y la temporada, y los cócteles suelen integrar ingredientes frescos de su huerta urbana y destilados caseros.\n\n¿Te gustaría que te ayude a contactarles para saber las próximas fechas o prefieres recomendaciones de otros bares con maridaje creativo en Madrid?",
+          "receivedAt": "2025-07-01T22:51:19.447Z",
+          "responseTime": 7128,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "Me encantaría que me ayudes a contactarles para consultar las próximas fechas de cenas con maridaje creativo; ¿sabes si suelen adaptar el menú y los cócteles para comensales vegetarianos o con intolerancias alimentarias?",
+          "sentAt": "2025-07-01T22:51:24.475Z",
+          "response": "¡Por supuesto! Angelita Madrid es muy flexible y atento con las necesidades de sus clientes:\n\n• Suelen adaptar tanto el menú degustación como los cócteles para comensales vegetarianos o con intolerancias alimentarias, siempre que se avise al hacer la reserva.  \n• Los chefs y bartenders colaboran para crear alternativas igual de creativas y sabrosas, manteniendo la experiencia especial.  \n• Te recomiendo contactarles directamente para consultar próximas fechas y comunicar tus preferencias o restricciones.\n\nPuedes reservar o pedir información en el teléfono: +34 915 21 66 78  \nO a través de sus redes sociales y web.\n\n¿Te gustaría que te ayude a redactar un mensaje para contactarles o prefieres más recomendaciones de maridajes creativos en Madrid?",
+          "receivedAt": "2025-07-01T22:51:39.084Z",
+          "responseTime": 14609,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "Agradezco mucho la ayuda, RECO. ¿Podrías recomendarme algún maridaje especialmente original que hayan servido en Angelita, donde el cóctel aporte matices inesperados al plato?",
+          "sentAt": "2025-07-01T22:51:43.481Z",
+          "response": "¡Con mucho gusto! En Angelita Madrid han sorprendido con maridajes realmente originales donde el cóctel eleva y transforma el plato. Un ejemplo destacado:\n\n• Tartar de tomate ecológico y fresas con cóctel de gin infusionado con albahaca, cordial de pepino y un toque de vinagre balsámico: el cóctel realza la frescura y acidez del plato, aportando notas herbáceas y un final refrescante e inesperado.\n\nOtro maridaje memorable:\n\n• Ravioli de calabaza y queso ahumado acompañado de cóctel con ron especiado, puré de zanahoria, zumo de naranja y sirope de jengibre: el cóctel potencia los matices dulces y terrosos del plato, añadiendo calidez y un punto picante.\n\nAngelita destaca por buscar armonías poco convencionales, jugando con texturas, temperaturas y aromas en cada pase.\n\n¿Te gustaría inspiración para crear tu propio maridaje en casa o prefieres recomendaciones de otros bares con propuestas similares?",
+          "receivedAt": "2025-07-01T22:51:50.357Z",
+          "responseTime": 6876,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "Me inspiran mucho esos maridajes, RECO. Si quisiera experimentar en casa, ¿me recomendarías alguna técnica para infusionar destilados con hierbas frescas o verduras, logrando ese perfil vegetal que caracteriza a los cócteles de Angelita?",
+          "sentAt": "2025-07-01T22:51:55.226Z",
+          "response": "¡Por supuesto! Aquí tienes una técnica sencilla y efectiva para infusionar destilados con hierbas frescas o verduras y lograr ese perfil vegetal tan especial, al estilo Angelita:\n\n• Elige un destilado neutro (vodka, gin o tequila blanco).  \n• Añade hierbas frescas (albahaca, menta, romero, cilantro) o verduras (pepino, apio, zanahoria) bien lavadas y troceadas.  \n• Coloca todo en un tarro de cristal hermético.  \n• Infusiona en frío, en la nevera, durante 12–24 h (prueba cada pocas horas para ajustar intensidad).  \n• Filtra con un colador fino o filtro de café antes de usar.\n\nTruco RECO:  \n• Para un perfil aún más fresco, añade piel de cítricos o unas gotas de vinagre de manzana.  \n• Si buscas matices ahumados, prueba con hierbas ligeramente tostadas antes de infusionar.\n\n¿Te gustaría ideas de combinaciones concretas o consejos para equilibrar el sabor vegetal en tus cócteles?",
+          "receivedAt": "2025-07-01T22:52:03.392Z",
+          "responseTime": 8166,
+          "analysis": {},
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "Excelente, RECO. ¿Podrías sugerirme una combinación de hierbas y verduras poco convencionales para infusionar gin, que aporte matices sorprendentes y se aleje de lo habitual?",
+          "sentAt": "2025-07-01T22:52:07.687Z",
+          "response": "¡Por supuesto! Aquí tienes una combinación original y poco convencional para infusionar gin y lograr matices sorprendentes:\n\n• Hinojo fresco (bulbo y hojas): aporta notas anisadas y frescas.  \n• Apio nabo (troceado): da un fondo terroso y ligeramente dulce.  \n• Hoja de lima kaffir: aroma cítrico exótico e intenso.  \n• Eneldo fresco: refuerza el perfil herbal y añade un toque marino.  \n• Unas bayas de enebro extra (para potenciar el carácter del gin).\n\nInfusiona en frío 18–24 h, filtra y disfruta en cócteles con tónica, pepino y un twist de limón.\n\n¿Te gustaría ideas para un cóctel creativo usando este gin infusionado?",
+          "receivedAt": "2025-07-01T22:52:15.115Z",
+          "responseTime": 7428,
+          "analysis": {},
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-07-01T22:52:15.115Z",
+      "duration": 188536
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "personaId": "international_tourist",
+  "personaName": "James British",
+  "language": "en",
+  "description": "British tourist visiting Spain for the first time",
+  "startTime": "2025-08-08T12:56:49.658Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hi there! I’ve just arrived in Madrid and I’d love to try some authentic Spanish food—could you recommend a good place for tapas that’s friendly to tourists like me?",
+      "sentAt": "2025-08-08T12:56:50.729Z",
+      "response": "Welcome to Madrid! Here are some great tapas spots popular with both locals and tourists:\n\n*Tapa Tapa Montera*  \n• Lively bar/restaurant with classic tapas and a friendly vibe  \n• https://www.google.com/maps/place/?q=place_id:ChIJ3wNHbIcoQg0RV3XOURPqLNA\n\n*Taberna El Sur*  \n• Cozy Spanish restaurant/bar, known for authentic flavors  \n• https://www.google.com/maps/place/?q=place_id:ChIJiTGJRSomQg0RTD1MZa1RTnE\n\nWould you like suggestions for specific tapas dishes to try?",
+      "receivedAt": "2025-08-08T12:57:00.219Z",
+      "responseTime": 9490,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Thanks! Do these places usually have English menus, or will I need to muddle through with my rusty Spanish?",
+      "sentAt": "2025-08-08T12:57:01.469Z",
+      "response": "Most popular tapas spots like Tapa Tapa Montera and Taberna El Sur usually offer English menus or have staff who can help in English. You’ll feel comfortable ordering! Want tips on must-try dishes or menu translations?",
+      "receivedAt": "2025-08-08T12:57:08.088Z",
+      "responseTime": 6619,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "That’s reassuring, thanks! I’d love to know which tapas dishes are absolute must-tries for a first-timer like me—any personal favourites you recommend?",
+      "sentAt": "2025-08-08T12:57:12.542Z",
+      "response": "Absolutely! As your foodie friend, here are must-try tapas for a true Madrid experience:\n\n• Patatas bravas (crispy potatoes with spicy sauce)  \n• Gambas al ajillo (garlic shrimp)  \n• Tortilla española (Spanish omelette)  \n• Croquetas (creamy fried bites, often with ham or mushrooms)  \n• Pulpo a la gallega (Galician-style octopus)  \n\nWould you like help choosing something spicy or seafood-focused?",
+      "receivedAt": "2025-08-08T12:57:20.239Z",
+      "responseTime": 7697,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "Those all sound delicious! I do enjoy a bit of seafood—would you say pulpo a la gallega is a good choice for someone new to octopus, or is there another seafood tapa you’d recommend for beginners?",
+      "sentAt": "2025-08-08T12:57:24.847Z",
+      "response": "Great question! Pulpo a la gallega is tender, flavorful, and not too “fishy”—perfect for octopus beginners. If you want something milder, try gambas al ajillo (garlic shrimp)—super tasty and always a hit! Want more seafood suggestions or tips on what to pair them with?",
+      "receivedAt": "2025-08-08T12:57:30.534Z",
+      "responseTime": 5687,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "Both sound brilliant! If I go for the gambas al ajillo, is there a particular drink you’d recommend pairing with it—something local, perhaps?",
+      "sentAt": "2025-08-08T12:57:34.865Z",
+      "response": "Excellent choice! Gambas al ajillo pairs perfectly with:\n\n• A crisp Spanish white wine like Albariño or Verdejo  \n• Or a refreshing glass of local vermouth (“vermut”) on ice  \n\nBoth enhance the garlic and seafood flavors. Want more pairing tips or dessert ideas?",
+      "receivedAt": "2025-08-08T12:57:42.246Z",
+      "responseTime": 7381,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "I’ve never tried Spanish vermouth before—what’s it like, and is it commonly served as an aperitif in Madrid?",
+      "sentAt": "2025-08-08T12:57:46.588Z",
+      "response": "Spanish vermouth (“vermut”) is aromatic, slightly sweet, and infused with herbs and spices. In Madrid, it’s a classic aperitif—often served over ice with an orange slice or olive. Locals love it before lunch or with tapas! Want tips on where to try the best vermut?",
+      "receivedAt": "2025-08-08T12:57:52.198Z",
+      "responseTime": 5610,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "That sounds right up my street! Is there a particular bar or spot near those tapas places you mentioned where the vermut is especially good?",
+      "sentAt": "2025-08-08T12:57:56.412Z",
+      "response": "Absolutely! Near those tapas spots, try:\n\n*Vermutería Black Bolita*  \n• Bar/restaurant known for excellent vermut and a cozy vibe  \n• https://www.google.com/maps/place/?q=place_id:ChIJb5hlJdYnQg0R2dMfg-r2vK4\n\n*The Hour of the Vermouth, San Miguel Market*  \n• Great spot inside the famous market, perfect for tasting local vermut  \n• https://www.google.com/maps/place/?q=place_id:ChIJ4WbaIXkoQg0Rok-nMDWkvbw\n\nWould you like tips on pairing vermut with tapas or info on the best time to visit?",
+      "receivedAt": "2025-08-08T12:58:04.470Z",
+      "responseTime": 8058,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "The San Miguel Market sounds fascinating! Is it mostly tourists, or do locals go there for their vermut and tapas as well?",
+      "sentAt": "2025-08-08T12:58:08.825Z",
+      "response": "San Miguel Market is a lively mix—lots of tourists, but locals also visit for quality vermut and tapas, especially on weekends. It’s a great spot to sample many flavors in one place! Want tips on must-try stalls or when it’s less crowded?",
+      "receivedAt": "2025-08-08T12:58:15.705Z",
+      "responseTime": 6880,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "That’s helpful to know—are there any particular stalls or dishes inside San Miguel Market that you’d say I absolutely shouldn’t miss?",
+      "sentAt": "2025-08-08T12:58:20.112Z",
+      "response": "Definitely! Inside San Miguel Market, don’t miss:\n\n• Arzábal: Famous for croquetas and Spanish classics  \n• El Señor Martín: Fresh seafood tapas, especially oysters and grilled prawns  \n• Mozheart: Delicious Spanish cheeses and cured meats  \n• Paella y Olé: Authentic paella portions  \n\nGo early for fewer crowds and fresher options! Want help translating any menu items or more seafood suggestions?",
+      "receivedAt": "2025-08-08T12:58:29.189Z",
+      "responseTime": 9077,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "Those sound fantastic! At Paella y Olé, do they offer a few different types of paella, and is there one you’d recommend for someone trying it for the first time?",
+      "sentAt": "2025-08-08T12:58:33.765Z",
+      "response": "Yes! Paella y Olé usually offers several types, like:\n\n• Paella de mariscos (seafood paella)  \n• Paella mixta (seafood & meat)  \n• Paella valenciana (traditional with chicken, rabbit, veggies)  \n\nFor a first-timer, seafood paella is a classic, flavorful choice—perfect for your love of seafood! Want tips on what to pair with your paella?",
+      "receivedAt": "2025-08-08T12:58:44.270Z",
+      "responseTime": 10505,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "Seafood paella sounds brilliant! Is it usually made to order, or will I find it ready-prepared at the market stalls?",
+      "sentAt": "2025-08-08T12:58:48.347Z",
+      "response": "At San Miguel Market, seafood paella is usually ready-prepared in large pans and served by the portion—so you can enjoy it quickly and fresh. Perfect for sampling! Want suggestions for a drink to pair with your paella?",
+      "receivedAt": "2025-08-08T12:58:53.393Z",
+      "responseTime": 5046,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "That sounds perfect for a quick bite! Is there a particular Spanish wine or perhaps a local beer that pairs especially well with seafood paella?",
+      "sentAt": "2025-08-08T12:58:58.828Z",
+      "response": "Great question! Seafood paella pairs wonderfully with:\n\n• Albariño or Verdejo (crisp Spanish white wines)  \n• Mahou or Estrella Galicia (popular local beers)  \n\nBoth enhance the seafood flavors. Would you like dessert suggestions to finish your meal?",
+      "receivedAt": "2025-08-08T12:59:03.554Z",
+      "responseTime": 4726,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "Both sound lovely! If I opt for a beer, is it common to order a small one—a caña—or do most people go for a full pint in Madrid?",
+      "sentAt": "2025-08-08T12:59:08.635Z",
+      "response": "In Madrid, it’s very common to order a small beer called a “caña” (about 200ml). Locals love it for staying cold and fresh! You can always order another if you want more. Want tips on classic Spanish desserts to try after your meal?",
+      "receivedAt": "2025-08-08T12:59:19.882Z",
+      "responseTime": 11247,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "I’d love a dessert recommendation! Is there a classic Spanish sweet I shouldn’t miss while I’m in Madrid, especially after tapas or paella?",
+      "sentAt": "2025-08-08T12:59:24.107Z",
+      "response": "Absolutely! After tapas or paella, try:\n\n• Churros con chocolate—crispy dough sticks with thick hot chocolate for dipping  \n• Tarta de Santiago—almond cake, light and naturally gluten-free  \n\nBoth are Madrid favorites! Want to know where to find the best churros nearby?",
+      "receivedAt": "2025-08-08T12:59:29.732Z",
+      "responseTime": 5625,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "I’ve heard a bit about churros con chocolate—are there any particular cafés or chocolaterías near the market that are especially famous for them?",
+      "sentAt": "2025-08-08T12:59:37.028Z",
+      "response": "Yes! Near San Miguel Market, don’t miss:\n\n*Chocolatería San Ginés*  \n• Legendary spot for churros con chocolate, open since 1894  \n• https://www.google.com/maps/place/?q=place_id:ChIJR1y2n3koQg0R8F3WJqQn7rQ\n\nIt’s a must-visit for locals and tourists alike! Would you like tips on the best time to go or how to order like a local?",
+      "receivedAt": "2025-08-08T12:59:43.794Z",
+      "responseTime": 6766,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T12:59:43.794Z",
+  "duration": 174136
+}

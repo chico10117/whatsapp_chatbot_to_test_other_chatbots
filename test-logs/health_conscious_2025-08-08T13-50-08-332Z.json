@@ -1,0 +1,163 @@
+{
+  "personaId": "health_conscious",
+  "personaName": "María Fitness",
+  "language": "es",
+  "description": "Usuario consciente de la salud que busca opciones nutritivas",
+  "startTime": "2025-08-08T13:46:39.294Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola RECO, ¿me recomiendas un restaurante vegano u orgánico con opciones sin gluten y buenas proteínas vegetales cerca de Roma Norte?",
+      "sentAt": "2025-08-08T13:46:41.624Z",
+      "response": "¡Hola! Aquí tienes opciones en Roma Norte ideales para ti:\n\n*La Pitahaya Vegana*  \n• Restaurante vegano con opciones sin gluten y proteínas como tofu, garbanzos y quinoa  \n• https://www.google.com/maps/place/?q=place_id:ChIJJR4eqjv_0YUR6Vp6yrU9Ers\n\n*Vegetal*  \n• Cocina vegana y vegetariana, opciones frescas y saludables  \n• https://www.google.com/maps/place/?q=place_id:ChIJje8GHgn_0YURZaMT-qB9sxc\n\n¿Te gustaría sugerencias de platillos altos en proteína o tips para elegir tu menú?",
+      "receivedAt": "2025-08-08T13:46:53.025Z",
+      "responseTime": 11401,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Gracias, suenan bien. ¿Qué platillos altos en proteína recomiendas en La Pitahaya Vegana y cuáles son sus opciones 100% sin gluten?",
+      "sentAt": "2025-08-08T13:46:55.332Z",
+      "response": "¡Con gusto! En La Pitahaya Vegana te recomiendo:\n\n• Tacos de jaca con tortillas de maíz (sin gluten y ricos en proteína vegetal)  \n• Ensalada de quinoa con garbanzos  \n• Bowl de tofu marinado  \n\nTodos son opciones 100% sin gluten y altos en proteína. ¿Te gustaría tips para combinar sabores o información sobre postres saludables?",
+      "receivedAt": "2025-08-08T13:47:05.515Z",
+      "responseTime": 10183,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "Perfecto, ¿qué postres saludables sin gluten manejan ahí y si usan endulzantes naturales como dátil o monk fruit?",
+      "sentAt": "2025-08-08T13:47:10.724Z",
+      "response": "¡Excelente elección! En La Pitahaya Vegana suelen tener brownies y cheesecakes veganos sin gluten, endulzados con dátil, monk fruit o azúcar de coco. Pregunta por el postre del día, ¡siempre hay opciones deliciosas y naturales! ¿Te gustaría recomendaciones de bebidas saludables para acompañar?",
+      "receivedAt": "2025-08-08T13:47:24.200Z",
+      "responseTime": 13476,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "Sí, ¿qué bebidas sin azúcar añadida recomiendas ahí—tienen smoothies verdes con proteína vegetal o kombucha artesanal?",
+      "sentAt": "2025-08-08T13:47:29.321Z",
+      "response": "¡Claro! En La Pitahaya Vegana puedes pedir:\n\n• Smoothies verdes con espinaca, pepino, manzana y proteína vegetal (puedes pedirlos sin azúcar añadida)  \n• Kombucha artesanal, ideal para acompañar platillos frescos  \n\n¿Te gustaría sugerencias para combinar tu bebida con algún platillo?",
+      "receivedAt": "2025-08-08T13:47:36.645Z",
+      "responseTime": 7324,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "Sí, recomiéndame una combinación: ¿qué smoothie verde va mejor con el bowl de tofu marinado, y tienen opción de proteína vegetal sin soya?",
+      "sentAt": "2025-08-08T13:47:42.517Z",
+      "response": "¡Perfecto! Un smoothie verde con espinaca, pepino y manzana combina muy bien con el bowl de tofu marinado, ya que refresca y equilibra sabores. Puedes pedir proteína de chícharo si prefieres evitar soya. ¿Te gustaría más ideas para tu próxima visita?",
+      "receivedAt": "2025-08-08T13:47:49.762Z",
+      "responseTime": 7245,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "¿Podrías darme el rango de precios del bowl de tofu y del smoothie con proteína de chícharo, y si manejan porciones grandes?",
+      "sentAt": "2025-08-08T13:47:55.419Z",
+      "response": "¡Claro! El bowl de tofu ronda los $120-$150 MXN y el smoothie con proteína de chícharo, entre $70-$90 MXN. Las porciones suelen ser generosas y satisfactorias. ¿Te gustaría recomendaciones de snacks veganos para llevar?",
+      "receivedAt": "2025-08-08T13:48:01.698Z",
+      "responseTime": 6279,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "Sí, ¿qué snacks veganos para llevar recomiendas ahí que sean sin gluten y con al menos 8-10 g de proteína por porción?",
+      "sentAt": "2025-08-08T13:48:07.018Z",
+      "response": "¡Excelente elección! En La Pitahaya Vegana puedes encontrar:\n\n• Barras energéticas de semillas y proteína vegetal (8-10 g de proteína)  \n• Galletas de avena y chía sin gluten  \n• Mix de frutos secos y garbanzos tostados  \n\n¿Te gustaría tips para combinarlos o saber su aporte calórico aproximado?",
+      "receivedAt": "2025-08-08T13:48:14.321Z",
+      "responseTime": 7303,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "Sí, dame el aporte calórico aproximado de cada snack y si las barras usan endulzantes naturales sin azúcar refinada.",
+      "sentAt": "2025-08-08T13:48:19.567Z",
+      "response": "¡Por supuesto!  \n• Barras energéticas: 180-220 kcal, endulzadas con dátil o agave, sin azúcar refinada  \n• Galletas de avena y chía: 120-150 kcal por pieza, suelen usar plátano o monk fruit  \n• Mix de frutos secos y garbanzos: 160-200 kcal por porción  \n\n¿Te gustaría recomendaciones para una comida completa y balanceada?",
+      "receivedAt": "2025-08-08T13:48:28.857Z",
+      "responseTime": 9290,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "Sí, suena bien; para una comida completa ahí, ¿podrías armarme un menú vegano sin gluten con ~30 g de proteína y bajo en azúcar añadida?",
+      "sentAt": "2025-08-08T13:48:34.318Z",
+      "response": "¡Claro! Aquí tienes una opción de menú en La Pitahaya Vegana:\n\n• Bowl de tofu marinado (18 g proteína aprox.)  \n• Smoothie verde con proteína de chícharo, sin azúcar añadida (12 g proteína aprox.)  \n• Snack: barra energética de semillas, endulzada con dátil (8 g proteína aprox., puedes compartirla o guardar la mitad)\n\nTotal: ~30-38 g de proteína, bajo en azúcar añadida. ¿Te gustaría más ideas para variar tu menú en futuras visitas?",
+      "receivedAt": "2025-08-08T13:48:43.101Z",
+      "responseTime": 8783,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "Genial, ¿sabes si La Pitahaya Vegana maneja reserva o lista de espera en horas pico y cuál es su horario más tranquilo para ir?",
+      "sentAt": "2025-08-08T13:48:48.492Z",
+      "response": "¡Sí! La Pitahaya Vegana acepta reservas y suele tener lista de espera en horas pico (fines de semana y tardes). El horario más tranquilo es entre semana antes de las 2 pm. ¿Te gustaría recomendaciones de otros lugares veganos tranquilos en la zona?",
+      "receivedAt": "2025-08-08T13:48:56.080Z",
+      "responseTime": 7588,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "Sí, ¿qué otro lugar vegano tranquilo en Roma Norte recomiendas con opciones sin gluten y buenas proteínas vegetales?",
+      "sentAt": "2025-08-08T13:49:01.326Z",
+      "response": "¡Perfecto! Te recomiendo:\n\n*Forever Vegano*  \n• Ambiente relajado, opciones sin gluten y proteínas como tempeh, garbanzos y quinoa  \n• https://www.google.com/maps/place/?q=place_id:ChIJQX1nK0r_0YURv1Qy9yFfK7w\n\n¿Te gustaría sugerencias de platillos altos en proteína o tips para evitar horas concurridas?",
+      "receivedAt": "2025-08-08T13:49:09.890Z",
+      "responseTime": 8564,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "Gracias, suena bien; en Forever Vegano, ¿qué platillos altos en proteína y 100% sin gluten recomiendas, y usan tempeh orgánico?",
+      "sentAt": "2025-08-08T13:49:16.650Z",
+      "response": "¡Con gusto! En Forever Vegano te recomiendo:\n\n• Bowl de tempeh orgánico (rico en proteína y sin gluten)  \n• Ensalada de quinoa y garbanzos  \n• Tacos de portobello en tortilla de maíz  \n\nEl tempeh suele ser orgánico y las opciones son frescas y balanceadas. ¿Te gustaría tips para combinar sabores o recomendaciones de bebidas saludables?",
+      "receivedAt": "2025-08-08T13:49:24.427Z",
+      "responseTime": 7777,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "¿Cuál es el rango de precios del bowl de tempeh orgánico y la ensalada de quinoa y garbanzos, y si pueden prepararlos sin aceites refinados?",
+      "sentAt": "2025-08-08T13:49:30.419Z",
+      "response": "¡Claro! El bowl de tempeh orgánico cuesta entre $140-$170 MXN y la ensalada de quinoa y garbanzos, $110-$140 MXN. Puedes pedirlos sin aceites refinados, usando solo aceite de oliva o al natural. ¿Te gustaría sugerencias de postres saludables sin gluten?",
+      "receivedAt": "2025-08-08T13:49:44.801Z",
+      "responseTime": 14382,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "Sí, ¿manejan postres sin gluten endulzados con dátil o monk fruit en Forever Vegano y cuáles recomendarías bajos en azúcar?",
+      "sentAt": "2025-08-08T13:49:49.609Z",
+      "response": "¡Sí! En Forever Vegano suelen tener brownies y pastelitos sin gluten, endulzados con dátil o monk fruit. Te recomiendo el brownie de cacao y la tarta de frutos rojos, ambos bajos en azúcar y deliciosos. ¿Te gustaría recomendaciones de bebidas para acompañar tu postre?",
+      "receivedAt": "2025-08-08T13:49:56.692Z",
+      "responseTime": 7083,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "Sí, para cerrar: ¿Forever Vegano acepta reservación y cuál es su horario más tranquilo entre semana para ir sin fila?",
+      "sentAt": "2025-08-08T13:50:02.160Z",
+      "response": "¡Claro! Forever Vegano acepta reservaciones y el horario más tranquilo es entre semana antes de la 1:30 pm o después de las 5 pm. Así evitas filas y disfrutas con calma. ¿Te gustaría que te ayude a reservar o más tips para tu próxima visita?",
+      "receivedAt": "2025-08-08T13:50:08.331Z",
+      "responseTime": 6171,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T13:50:08.331Z",
+  "duration": 209037
+}
