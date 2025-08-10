@@ -1,0 +1,2686 @@
+{
+  "timestamp": "2025-08-09T00:37:25.576Z",
+  "duration": 3462859,
+  "testResults": [
+    {
+      "personaId": "health_conscious",
+      "personaName": "María Fitness",
+      "language": "es",
+      "description": "Usuario consciente de la salud que busca opciones nutritivas",
+      "startTime": "2025-08-08T23:39:42.731Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, ¿me recomiendas un restaurante vegano u orgánico con opciones sin gluten y buenas proteínas vegetales cerca de mi zona?",
+          "sentAt": "2025-08-08T23:39:44.526Z",
+          "response": "¡Claro! Cerca de Madrid, vegano/orgánico con opciones sin gluten y buena proteína vegetal (confirma trazas y frutos secos al llegar):\n\n- Levél Veggie Bistro (Retiro): ⭐️ 4.6\n• Vegano creativo; muchas “GF”; tofu/tempeh >20 g proteína\n• 25–30€ p.p.\n• https://goo.gl/maps/ef7yY1L9kNt\n\n- Vega (Malasaña): ⭐️ 4.5\n• Vegano; varios “GF”; tofu+garbanzo ~22–24 g\n• 18–25€ p.p.\n• https://goo.gl/maps/5V5t2C1c8k32\n\n- Distrito Vegano (Lavapiés): ⭐️ 4.6\n• Bistró vegano; heura/tempeh 25–28 g; opciones “GF”\n• 20–25€ p.p.\n• https://goo.gl/maps/Fx8i2o6x9mK2\n\n¿Buscas terraza sin humo y menú infantil sin frutos secos? Te lo afino.",
+          "receivedAt": "2025-08-08T23:39:55.660Z",
+          "responseTime": 11134,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 3,
+            "errors": [
+              "No solicita la ubicación exacta del usuario; 'cerca de mi zona' no queda personalizado",
+              "Uso de 'GF' en lugar de 'sin gluten', potencialmente ambiguo para algunos usuarios",
+              "Ningún restaurante se indica explícitamente como orgánico/certificado pese a mencionarlo",
+              "Estimaciones de proteína sin referencia a platos concretos o fuente",
+              "Enlaces acortados poco transparentes y sin dirección/ contacto visibles"
+            ],
+            "strengths": [
+              "Ofrece recomendaciones concretas con nombre, barrio y rango de precios",
+              "Alineado con la petición: opciones veganas y con alternativas sin gluten con foco en proteína vegetal",
+              "Incluye valoración aproximada y un aviso responsable sobre trazas y frutos secos",
+              "Tono claro, conciso y proactivo al ofrecer afinar según preferencias"
+            ],
+            "suggestions": [
+              "Solicitar barrio o código postal para asegurar proximidad real a la zona del usuario",
+              "Añadir al menos un sitio explícitamente orgánico o aclarar que las opciones propuestas son veganas pero no necesariamente orgánicas",
+              "Escribir 'sin gluten' completo y detallar si hay control de contaminación cruzada",
+              "Citar platos concretos altos en proteína con cifras aproximadas y, si es posible, fuente o base del cálculo",
+              "Incluir dirección exacta, teléfono o enlace oficial de reservas en lugar de enlaces acortados",
+              "Incorporar términos relevantes para el perfil (p. ej., 'saludable', 'proteico') si el usuario los valora"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "Gracias, suenan bien; ¿cuál de estos tiene mejor opción sin gluten para cena alta en proteína (tempeh/heura) y terraza tranquila?",
+          "sentAt": "2025-08-08T23:39:58.152Z",
+          "response": "- Levél Veggie Bistro (Retiro): mejor para GF y cena proteica; tempeh/tofu >20 g; terraza acogedora (pide mesa tranquila).  \n- Distrito Vegano (Lavapiés): heura/tempeh 25–28 g; terraza en calle calma.  \n- Vega (Malasaña): buenas opciones GF; terraza pequeña.  \n¿Reservo texto?",
+          "receivedAt": "2025-08-08T23:40:10.120Z",
+          "responseTime": 11968,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 3,
+            "errors": [
+              "Uso de abreviatura 'GF' en lugar de 'sin gluten'",
+              "Cifras de proteína (20–28 g) sin fuente pueden ser inexactas",
+              "Cierre '¿Reservo texto?' suena antinatural",
+              "No menciona riesgo de contaminación cruzada para celíacos",
+              "Incluye tofu cuando el usuario solicitó tempeh/heura"
+            ],
+            "strengths": [
+              "Ofrece 3 restaurantes concretos con ubicación por barrio",
+              "Señala cuál es mejor para sin gluten y alto en proteína",
+              "Incluye tempeh/heura y detalles de terraza tranquila",
+              "Respuesta breve y accionable"
+            ],
+            "suggestions": [
+              "Escribir 'sin gluten' completo y, si aplica, indicar opciones certificadas o seguras para celíacos",
+              "Evitar cifras exactas de proteína o marcarlas como aproximadas por ración",
+              "Reformular el cierre a algo natural: '¿Quieres que haga la reserva?'",
+              "Advertir sobre posibles contaminaciones cruzadas y sugerir avisar al restaurante",
+              "Mantener consistencia con tempeh/heura en todos los ejemplos y añadir más contexto útil (horarios, ruido según día)"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "Perfecto, ¿podrías decirme en Levél alguna cena concreta sin gluten con tempeh o tofu que ronde 25–30 g de proteína y si aceptan reserva para terraza?",
+          "sentAt": "2025-08-08T23:40:13.352Z",
+          "response": "- En Levél: prueba las “láminas de calabacín” con tempeh o el bowl templado de tofu+quinoa+garbanzos (≈25–30 g proteína; pide sin panes/salsas con gluten).  \n- Aceptan reserva y suelen ofrecer mesa en terraza; solicita zona tranquila y confirma trazas al llegar.",
+          "receivedAt": "2025-08-08T23:40:24.509Z",
+          "responseTime": 11157,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 5,
+            "containsExpectedKeywords": false,
+            "responseQuality": "good",
+            "recommendationCount": 2,
+            "errors": [
+              "No utiliza explícitamente palabras clave esperadas como 'sin gluten', 'vegano' o 'proteico'.",
+              "Afirmaciones sobre reserva y terraza sin verificación o fuente.",
+              "No confirma si los platos son 100% aptos para celíacos (posibles trazas).",
+              "Menú y disponibilidad de platos no verificados."
+            ],
+            "strengths": [
+              "Ofrece platos concretos en el restaurante solicitado.",
+              "Incluye estimación de proteína alineada con el rango pedido.",
+              "Responde a la consulta sobre reserva y terraza.",
+              "Incluye una advertencia práctica sobre salsas/panes con gluten y trazas."
+            ],
+            "suggestions": [
+              "Mencionar explícitamente 'sin gluten', 'vegano' y 'proteico' para alinear con las palabras clave esperadas.",
+              "Aclarar que la proteína es una estimación y puede variar según porciones/preparación.",
+              "Recomendar confirmar con el restaurante si los platos son 100% aptos para celíacos y si la terraza admite reserva en la fecha deseada.",
+              "Verificar o indicar que el menú puede cambiar y que los platos propuestos son ejemplos basados en la oferta típica."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "Genial, ¿tienen opciones de postre veganas sin gluten con bajo azúcar en Levél, y alguna alternativa similar en Distrito Vegano por si no hay mesa?",
+          "sentAt": "2025-08-08T23:40:28.181Z",
+          "response": "- Levél Veggie Bistro\n• Postres VG sin gluten: cheesecake crudo de coco/limón sin azúcar refinado o brownie GF con poco azúcar (confirma edulcorantes).\n• Suelen tener opción “sin azúcar añadido”.\n\n- Distrito Vegano\n• Mousse de cacao 85% GF o tarta de queso vegana GF baja en azúcar (según día).\n¿Reservo texto?",
+          "receivedAt": "2025-08-08T23:40:38.020Z",
+          "responseTime": 9839,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 2,
+            "errors": [
+              "Abreviaturas poco claras (VG/GF) sin explicar",
+              "Cierre confuso: '¿Reservo texto?'",
+              "Posible falta de verificación del menú (depende del día)",
+              "No incorpora varias palabras clave esperadas (saludable, orgánico, proteico, keto, bajo en calorías)"
+            ],
+            "strengths": [
+              "Ofrece opciones concretas de postres veganos sin gluten y bajos en azúcar en ambos restaurantes",
+              "Respuesta concisa y en español, con aviso de confirmar edulcorantes"
+            ],
+            "suggestions": [
+              "Aclarar las abreviaturas y el tipo de edulcorantes utilizados; indicar si es sin azúcar añadido o bajo en azúcar",
+              "Mejorar el cierre (p. ej., '¿Quieres que llame para confirmar y reservar?') y añadir una alternativa extra por si ninguno tiene mesa",
+              "Incluir más palabras clave de salud (saludable, orgánico, proteico, bajo en calorías) cuando corresponda"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "Sí, por favor; ¿puedes reservar para Levél en terraza tranquila a las 21:00 y, si no hay, dejarme en lista y proponerme el mejor horario en Distrito Vegano?",
+          "sentAt": "2025-08-08T23:40:41.561Z",
+          "response": "No puedo reservar por ti, pero te dejo texto listo para WhatsApp/DM:\n\n- Levél Veggie Bistro\n• Hola, ¿mesa en terraza tranquila para 2 hoy a las 21:00? Alergia a frutos secos; opciones sin gluten y cena con tempeh/tofu. Si no hay, ¿me dejáis en lista de espera? Gracias.\n\n- Distrito Vegano (alternativa)\n• Hola, si no hay mesa en Levél, ¿tenéis terraza tranquila para 2? ¿Qué horario disponible más cercano a 21:00 (20:30–22:00)? Buscamos opciones sin gluten y sin frutos secos. Gracias.",
+          "receivedAt": "2025-08-08T23:40:55.753Z",
+          "responseTime": 14192,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 2,
+            "errors": [
+              "No propone un horario concreto para Distrito Vegano; solo solicita disponibilidad",
+              "No incluye datos de contacto o enlaces de reserva",
+              "Limitación explícita: no puede ejecutar la reserva solicitada"
+            ],
+            "strengths": [
+              "Responde en español claro y con tono útil",
+              "Proporciona mensajes listos para enviar y contempla lista de espera",
+              "Incluye preferencias de terraza tranquila y restricciones (sin gluten, frutos secos)"
+            ],
+            "suggestions": [
+              "Proponer directamente uno o dos horarios alternativos recomendados en Distrito Vegano (p. ej., 20:45 o 22:00) en lugar de preguntar",
+              "Añadir teléfonos/enlaces de reserva y reforzar el enfoque saludable con palabras clave como saludable, orgánico o proteico y sugerencias de platos"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "Gracias, ¿algún plato salado en Levél o Distrito que sea sin gluten y bajo en sodio, ideal post-entreno, con al menos 25 g de proteína vegetal?",
+          "sentAt": "2025-08-08T23:40:58.802Z",
+          "response": "- Levél: bowl tofu salteado + quinoa + garbanzos, sin salsa de soja, con aceite de oliva y limón. ≈28–32 g proteína, GF y bajo sodio si pides sin sal añadida.  \n- Distrito Vegano: chile de tempeh + quinoa, sin salsas saladas. ≈26–30 g proteína, GF.",
+          "receivedAt": "2025-08-08T23:41:09.801Z",
+          "responseTime": 10999,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": false,
+            "responseQuality": "good",
+            "recommendationCount": 2,
+            "errors": [
+              "Uso de la abreviatura 'GF' en lugar de 'sin gluten'.",
+              "No menciona explícitamente que sea 'ideal post-entreno'.",
+              "Posible inexactitud del menú (los platos propuestos podrían no existir tal cual en Levél/Distrito).",
+              "Riesgo de contaminación cruzada y de gluten en tempeh/salsas no aclarado.",
+              "Estimaciones proteicas sin fuente o desglose."
+            ],
+            "strengths": [
+              "Ofrece opciones específicas para los dos restaurantes solicitados.",
+              "Incluye ajustes para mantener bajo el sodio (sin salsa de soja, sin sal añadida).",
+              "Indica rangos de proteína vegetal que cumplen el mínimo requerido.",
+              "Respuesta breve y clara en español."
+            ],
+            "suggestions": [
+              "Usar palabras clave esperadas como 'sin gluten', 'vegano' y 'proteico'.",
+              "Verificar que los platos existen en el menú actual o explicar cómo pedirlos al personal.",
+              "Aclarar el tema de contaminación cruzada y confirmar que tempeh/salsas sean certificados sin gluten.",
+              "Vincular explícitamente con el objetivo post-entreno (p. ej., proteína + carbohidratos de recuperación, grasas saludables)."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "Perfecto, ¿en Levél podrían cambiar la quinoa por mijo o arroz integral para variar carbohidrato sin gluten y mantener el perfil bajo en sodio?",
+          "sentAt": "2025-08-08T23:41:12.684Z",
+          "response": "Sí. En Levél suelen permitir cambiar quinoa por mijo o arroz integral. Pídelo “GF y bajo en sodio”: sin salsa de soja, sin sal añadida, solo AOVE y limón. Confirma cocción en agua sin caldo y utensilios limpios por la alergia a frutos secos.",
+          "receivedAt": "2025-08-08T23:41:23.514Z",
+          "responseTime": 10830,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": false,
+            "responseQuality": "good",
+            "recommendationCount": 1,
+            "errors": [
+              "Asume alergia a frutos secos sin que el usuario lo haya mencionado",
+              "Afirmación no verificada sobre la política de sustituciones de Levél",
+              "Uso de la sigla 'GF' en lugar de 'sin gluten', puede ser ambiguo"
+            ],
+            "strengths": [
+              "Responde directamente a la consulta sobre cambiar quinoa por mijo o arroz integral",
+              "Da pautas concretas para mantener bajo el sodio (sin salsa de soja, sin sal añadida, AOVE y limón)",
+              "Sugiere confirmar método de cocción en agua sin caldo"
+            ],
+            "suggestions": [
+              "Reemplazar 'GF' por 'sin gluten' y añadir palabras clave relevantes para el perfil del usuario (p. ej., saludable, natural)",
+              "Evitar asumir alergias; preguntar o invitar al usuario a precisarlas",
+              "Aconsejar confirmar con el restaurante si la sustitución está disponible ese día y proponer alternativas si no lo está"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "Genial, ¿hay algún smoothie o bebida proteica baja en azúcar en Levél o Distrito para acompañar, sin gluten y sin frutos secos?",
+          "sentAt": "2025-08-08T23:41:26.285Z",
+          "response": "- Levél: batido verde con espinaca, pepino, limón y proteína de guisante sin azúcar (pídelo con agua o bebida de avena sin gluten; sin frutos secos).  \n- Distrito Vegano: smoothie de frutos rojos + proteína de guisante, sin azúcar añadido.  \nConfirma trazas.",
+          "receivedAt": "2025-08-08T23:41:37.211Z",
+          "responseTime": 10926,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 2,
+            "errors": [
+              "No especifica claramente la opción sin gluten y sin frutos secos para Distrito Vegano.",
+              "Posible suposición sobre la disponibilidad de smoothies/batidos en Distrito Vegano.",
+              "Afirmación de 'sin frutos secos' en Levél sin matizar el riesgo de contaminación cruzada."
+            ],
+            "strengths": [
+              "Recomendaciones concretas para los dos restaurantes solicitados.",
+              "Enfoque en bajo contenido de azúcar y uso de proteína de guisante.",
+              "Incluye aviso para confirmar posibles trazas."
+            ],
+            "suggestions": [
+              "Verificar en carta o por teléfono la disponibilidad real de smoothies en ambos locales y ofrecer alternativas si no existen (p. ej., batido con agua o bebida vegetal certificada sin gluten).",
+              "Uniformar la información de alérgenos para ambas opciones: indicar base sin gluten certificada, evitar afirmaciones absolutas sobre 'sin frutos secos' y resaltar que son opciones veganas y proteicas."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "Perfecto, ¿sabes si la bebida de avena en Levél es certificada sin gluten o mejor pedir el batido con agua para evitar trazas?",
+          "sentAt": "2025-08-08T23:41:40.686Z",
+          "response": "- En Levél, la avena no siempre es certificada GF; varía por lote/marca.\n- Mejor opción segura: pide el batido con agua o bebida de arroz certificada GF.\n- Confirma in situ: “¿bebida de avena certificada sin gluten y sin trazas de frutos secos?”",
+          "receivedAt": "2025-08-08T23:41:49.180Z",
+          "responseTime": 8494,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": true,
+            "relevanceScore": 5,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 0,
+            "errors": [
+              "No incluye recomendaciones de restaurantes",
+              "Uso de la sigla 'GF' en lugar de 'sin gluten' en español"
+            ],
+            "strengths": [
+              "Respuesta concisa y directamente enfocada en la duda sobre certificación y trazas",
+              "Propone alternativa segura (agua o bebida de arroz certificada sin gluten) y sugiere confirmar in situ"
+            ],
+            "suggestions": [
+              "Aclarar que la certificación depende de la marca y pedir verificar la etiqueta o logotipo oficial sin gluten, indicando la marca concreta si es posible",
+              "Ofrecer, si el usuario lo desea, locales en Madrid con bebidas vegetales certificadas sin gluten y mantener el término 'sin gluten' en español en lugar de 'GF'"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "Perfecto, ¿alguna opción de entrante en Levél o Distrito que sea 100% vegana, sin gluten, baja en aceite y con buena fibra para empezar ligera?",
+          "sentAt": "2025-08-08T23:41:52.237Z",
+          "response": "- Levél: ensalada de hojas verdes con crudités y legumbres (garbanzo/edamame), sin croutons ni salsas; pide limón y AOVE aparte. Fibra alta, GF y baja en aceite.  \n- Distrito Vegano: crema de verduras sin nata ni roux + ensalada de temporada; aderezo al lado.  \n¿Te paso texto para pedirlo así?",
+          "receivedAt": "2025-08-08T23:42:02.961Z",
+          "responseTime": 10724,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 2,
+            "errors": [
+              "No explicita '100% vegana' ni 'sin gluten'; usa la sigla 'GF'.",
+              "La crema de verduras podría llevar sofrito/roux; no se garantiza bajo en aceite ni SG.",
+              "No incluye varias palabras clave esperadas (saludable, orgánico, proteico, bajo en calorías).",
+              "No advierte sobre posible contaminación cruzada con gluten."
+            ],
+            "strengths": [
+              "Ofrece recomendaciones concretas por restaurante y plato.",
+              "Instrucciones prácticas para minimizar aceite y controlar aderezos.",
+              "Se enfoca en fibra y opciones ligeras acordes a la petición.",
+              "Tono claro y directo en español."
+            ],
+            "suggestions": [
+              "Explicitar que las opciones sean 100% veganas y sin gluten; usar 'sin gluten' en lugar de 'GF'.",
+              "Confirmar con el local la ausencia de roux/harinas y pedir preparación sin sofrito para la crema.",
+              "Añadir una opción alta en fibra en Distrito (p. ej., ensalada con legumbres) y señalarla como baja en aceite.",
+              "Incluir palabras clave de salud (saludable, natural, bajo en calorías) y advertir sobre contaminación cruzada."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "Sí, pásame el texto para pedirlo tal cual y añade nota de utensilios limpios por alergia a frutos secos, ¿vale?",
+          "sentAt": "2025-08-08T23:42:06.043Z",
+          "response": "• Hola, ¿podéis preparar de entrante una ensalada de hojas y crudités con garbanzo (sin croutons), aliño de limón y AOVE aparte?  \n• Utensilios y superficies limpios por alergia a frutos secos.  \n• Si hay crema de verduras: sin nata/roux, por favor.",
+          "receivedAt": "2025-08-08T23:42:14.863Z",
+          "responseTime": 8820,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": true,
+            "relevanceScore": 5,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 0,
+            "errors": [
+              "No proporciona recomendaciones específicas de restaurantes",
+              "Apenas incluye palabras clave esperadas (solo 'ensalada')",
+              "La nota de alergia no menciona evitar contaminación cruzada ni trazas"
+            ],
+            "strengths": [
+              "Está en español claro y natural",
+              "Entrega un texto listo para copiar y pegar",
+              "Incluye la nota sobre utensilios y superficies limpios por alergia",
+              "Solicita modificaciones concretas y saludables (aliño aparte, sin croutons, sin nata/roux)"
+            ],
+            "suggestions": [
+              "Añade más palabras clave relevantes: vegano, saludable, sin gluten, proteico, natural",
+              "Refuerza la nota de alergia: indicar 'sin frutos secos ni trazas' y 'evitar contaminación cruzada con utensilios y superficies exclusivas'",
+              "Opcional: ofrece una alternativa de plato principal o pide confirmación de disponibilidad",
+              "Si procede, sugiere restaurantes en Madrid con opciones veganas y sin gluten"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "¿Alguna opción de plato caliente estacional en Levél o Distrito que sea vegana, sin gluten, bajo en aceite y llegue a ~25 g de proteína, ideal para días frescos?",
+          "sentAt": "2025-08-08T23:42:18.661Z",
+          "response": "- Levél: guiso templado de tempeh con verduras de temporada + quinoa/arroz integral; pide sin salsa de soja, sin sal añadida y con AOVE mínimo. ≈25–30 g proteína.  \n- Distrito Vegano: chili de tempeh con calabaza + quinoa; mismo ajuste bajo aceite. ≈26–30 g. ¿Te reservo texto?",
+          "receivedAt": "2025-08-08T23:42:30.141Z",
+          "responseTime": 11480,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 5,
+            "containsExpectedKeywords": false,
+            "responseQuality": "good",
+            "recommendationCount": 2,
+            "errors": [
+              "No menciona explícitamente 'sin gluten'; solo sugiere evitar salsa de soja.",
+              "Posible error tipográfico: '¿Te reservo texto?' (debería ser 'mesa' o 'reserva').",
+              "Asume platos sin confirmar en carta actual/estacional.",
+              "No usa varias palabras clave esperadas (saludable, proteico, sin gluten, orgánico, etc.)."
+            ],
+            "strengths": [
+              "Recomendaciones concretas para Levél y Distrito Vegano.",
+              "Ajustes claros para bajo en aceite y sodio.",
+              "Estimaciones de proteína alineadas con el objetivo (~25 g).",
+              "Referencia estacional (verduras de temporada, calabaza)."
+            ],
+            "suggestions": [
+              "Menciona explícitamente 'sin gluten' y ofrece alternativa de 'tamari sin gluten'.",
+              "Verifica disponibilidad real en carta/diaria y marca los platos como estacionales.",
+              "Corrige la despedida: '¿Te reservo mesa?' o '¿Hago una reserva?'.",
+              "Incluye palabras clave relevantes (vegano, saludable, proteico, bajo en calorías) de forma natural.",
+              "Sugiere raciones para alcanzar ~25 g de proteína (p. ej., 100–120 g de tempeh) y opción de quinoa certificada sin gluten."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "Sí, pásame el texto para pedir ese guiso/chili con los ajustes bajos en aceite y sin gluten, incluyendo nota por alergia a frutos secos.",
+          "sentAt": "2025-08-08T23:42:34.233Z",
+          "response": "• Plato principal: guiso/chili de tempeh con verduras de temporada + quinoa/arroz integral.  \n• Ajustes: sin salsa de soja, sin sal añadida, muy poco AOVE.  \n• Sin gluten.  \n• Alergia: utensilios/superficies limpios y sin trazas de frutos secos, por favor.",
+          "receivedAt": "2025-08-08T23:42:53.706Z",
+          "responseTime": 19473,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 0,
+            "errors": [
+              "No ofrece recomendaciones de restaurantes.",
+              "No menciona evitar contaminación cruzada de gluten explícitamente.",
+              "Usa la abreviatura 'AOVE', que puede no ser clara.",
+              "No incluye palabras clave esperadas como 'vegano' o 'saludable'."
+            ],
+            "strengths": [
+              "Está en español y es claro.",
+              "Muy relevante: proporciona un texto práctico para pedir el plato con ajustes.",
+              "Incluye nota de alergia a frutos secos.",
+              "Indica 'sin gluten' y bajo en aceite."
+            ],
+            "suggestions": [
+              "Añadir mención explícita a la contaminación cruzada: 'sin gluten, por favor eviten contaminación cruzada; utensilios y superficies dedicados'.",
+              "Sustituir 'AOVE' por 'aceite de oliva virgen extra' y añadir tono más cordial con confirmación: '¿Podrían confirmarme si es posible?'.",
+              "Incluir palabras clave útiles como 'vegano', 'saludable' o 'proteico' si aplica."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "Perfecto, y para cerrar, ¿algún vino o kombucha baja en azúcar que maride bien con ese guiso/chili y sea apta sin gluten?",
+          "sentAt": "2025-08-08T23:42:56.866Z",
+          "response": "- Vino: tinto joven Tempranillo (seco, sin azúcar añadido; apto sin gluten).  \n- Alternativa: kombucha natural sin saborizantes, “dry/0 azúcar añadido”.  \n- Pídelo frío y confirma: sin malta/cerveza en mezcla y sin siropes. ¿Te sugiero marcas locales?",
+          "receivedAt": "2025-08-08T23:43:12.765Z",
+          "responseTime": 15899,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 0,
+            "errors": [
+              "No ofrece recomendaciones específicas de restaurantes o lugares en Madrid.",
+              "No aporta marcas o etiquetas concretas de vino o kombucha.",
+              "El Tempranillo joven puede resultar algo tánico para chili picante y acentuar el calor."
+            ],
+            "strengths": [
+              "Respuesta clara y en español.",
+              "Considera salud: bajo en azúcar, sin gluten y evita siropes/malta.",
+              "Ofrece alternativa sin alcohol (kombucha) y sugiere confirmar detalles."
+            ],
+            "suggestions": [
+              "Proponer estilos más adecuados para picante: Garnacha joven de baja tanicidad, Mencía, rosado seco o espumoso brut nature; para kombucha, versiones realmente secas.",
+              "Dar marcas/etiquetas locales y puntos de Madrid donde encontrarlas (p. ej., kombuchas Komvida o Mūn Ferments; vinotecas como Lavinia o La Tintorería).",
+              "Incluir claims relevantes al perfil: apto vegano, orgánico y, si procede, bajo en calorías/keto."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "Sí, sugiéreme marcas locales de kombucha “dry” en Madrid que sean bajas en azúcar y certificadas sin gluten, y dime dónde encontrarlas cerca de Retiro.",
+          "sentAt": "2025-08-08T23:43:16.314Z",
+          "response": "- Komvida Dry (0 azúcares añadidos, GF) • Disponible en El Corte Inglés Goya y Carrefour Market Ibiza\n- Flax & Kale Kombucha Dry (GF) • Tienda Flax & Kale y EcoCentro\n- Vitae Kombucha “Original Dry” (GF) • Herbolarios Navarro y Naturasí Retiro\n¿Te paso tiendas exactas?",
+          "receivedAt": "2025-08-08T23:43:27.516Z",
+          "responseTime": 11202,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": false,
+            "responseQuality": "good",
+            "recommendationCount": 3,
+            "errors": [
+              "No ofrece recomendaciones de restaurantes.",
+              "No confirma la certificación sin gluten; usa 'GF' sin fuente ni sello.",
+              "Exactitud de disponibilidad/ubicación dudosa (p. ej., EcoCentro no está cerca de Retiro; Naturasí Retiro puede no existir).",
+              "No incluye la mayoría de palabras clave esperadas ni datos de azúcar por 100 ml.",
+              "No aporta direcciones exactas ni radios de distancia al Retiro."
+            ],
+            "strengths": [
+              "Respuesta concisa y en español con marcas concretas.",
+              "Incluye puntos de venta potencialmente cercanos a Retiro y ofrece continuar con detalles."
+            ],
+            "suggestions": [
+              "Verificar y citar la certificación sin gluten (p. ej., sello FACE) y el contenido de azúcar por 100 ml de cada marca/variante 'dry'.",
+              "Priorizar tiendas dentro del área de Retiro (Ibiza/Narváez/O'Donnell) con direcciones exactas, horarios y disponibilidad confirmada; añadir palabras clave de salud (vegano, orgánico, bajo en calorías)."
+            ]
+          },
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T23:43:27.517Z",
+      "duration": 224786
+    },
+    {
+      "personaId": "budget_conscious",
+      "personaName": "Carlos Estudiante",
+      "language": "es",
+      "description": "Estudiante universitario con presupuesto limitado",
+      "startTime": "2025-08-08T23:43:32.525Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, ¿dónde puedo comer hoy un menú del día barato (máx 10-12€) cerca del centro y si hay descuento de estudiante?",
+          "sentAt": "2025-08-08T23:43:34.344Z",
+          "response": "¡Vamos a por chollo de menú!\n\n- Bar La Ideal (Sol): ⭐️4.2\n• Menú 9–10€; a veces bebida incluida\n• 13:00–16:00\n• Tel: +34 915 22 84 64\n\n- Casa Labra (Sol): ⭐️4.2\n• Plato del día 8–12€\n• 13:00–15:30\n• Tel: +34 915 31 00 81\n\nPregunta hoy por “descuento estudiante”. ¿Zona exacta?",
+          "receivedAt": "2025-08-08T23:43:46.144Z",
+          "responseTime": 11800,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 2,
+            "errors": [
+              "No confirma si hay descuento de estudiante en los sitios sugeridos.",
+              "No asegura disponibilidad hoy ni si el menú del día aplica fines de semana.",
+              "Los datos de precios/menú pueden estar desactualizados o ser inexactos."
+            ],
+            "strengths": [
+              "Ofrece recomendaciones concretas y céntricas (zona Sol).",
+              "Precios dentro del presupuesto indicado (9–12€).",
+              "Incluye horarios y teléfonos, útil para verificar.",
+              "Pide aclaración de la zona, favoreciendo personalización."
+            ],
+            "suggestions": [
+              "Verificar y mencionar explícitamente si cada lugar ofrece descuento de estudiante, con condiciones y documentación requerida.",
+              "Ampliar a más opciones económicas cerca del centro (p. ej., Callao, Gran Vía, Lavapiés, Malasaña) para mayor variedad.",
+              "Incluir dirección exacta y, si es posible, enlace a mapa o reseñas recientes.",
+              "Aclarar si el menú del día está disponible hoy y qué incluye (bebida, postre o café)."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "Estoy por Sol/Callao. ¿Cuál de esos hoy incluye bebida y acepta descuento de estudiante, y a qué hora conviene llegar para pillar sitio?",
+          "sentAt": "2025-08-08T23:43:48.081Z",
+          "response": "- Bar La Ideal (Sol)\n• Suele incluir bebida en menú 9–10€; descuento estudiante ocasional\n• Mejor llegar 13:00–13:30\n\n- Casa Labra (Sol)\n• Plato del día 8–12€; bebida a veces incluida; descuento no fijo\n• Llega antes de 13:15\n\nTe paso texto para llamar y confirmar si quieres.",
+          "receivedAt": "2025-08-08T23:43:57.546Z",
+          "responseTime": 9465,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 3,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 2,
+            "errors": [
+              "No confirma qué locales incluyen bebida y aceptan descuento de estudiante hoy",
+              "Ambigüedad con 'de esos' sin referencia explícita al listado previo",
+              "No especifica condiciones del descuento de estudiante (horarios, requisitos) ni si es aplicable hoy"
+            ],
+            "strengths": [
+              "Ofrece restaurantes concretos cerca de Sol",
+              "Incluye rangos de precios en euros y mención a bebida incluida",
+              "Aconseja horas específicas para llegar y encontrar sitio"
+            ],
+            "suggestions": [
+              "Confirmar en tiempo real si hoy incluyen bebida y aceptan descuento de estudiante, aportando teléfonos o enlaces para llamar",
+              "Detallar las condiciones del descuento (días, horarios, tipo de acreditación) y si se puede combinar con el menú del día",
+              "Ampliar con opciones en Callao y resaltar ofertas claras para estudiantes (menú del día barato/económico, 2x1, bebida gratis) usando ese vocabulario"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "Pásame el texto para llamar, porfa. ¿Alguna alternativa por Callao con menú 8–10€ y bebida incluida fijo?",
+          "sentAt": "2025-08-08T23:44:00.206Z",
+          "response": "• Texto para llamar:\n“Hola, ¿hoy el menú (8–12€) incluye bebida? ¿Hacéis descuento de estudiante al mediodía? ¿Horario y si hay que llegar antes para sitio? Gracias.”\n\n• Alternativa en Callao:\n- Cafetería Nebraska (Callao): ⭐️4.1\n• Menú 9–10€ con bebida (suele ser fijo)\n• https://goo.gl/maps/nebraskacallao",
+          "receivedAt": "2025-08-08T23:44:10.037Z",
+          "responseTime": 9831,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 1,
+            "errors": [
+              "Solo ofrece una alternativa en Callao",
+              "No proporciona teléfono ni datos de contacto",
+              "No garantiza que la bebida esté incluida de forma fija (solo 'suele ser')",
+              "El guion menciona 8–12€ en lugar de ceñirse a 8–10€",
+              "Enlace acortado/no verificado a la ubicación"
+            ],
+            "strengths": [
+              "Está en español y se ajusta al tono de estudiante con presupuesto",
+              "Incluye un guion útil que pregunta por descuento de estudiante, bebida y horarios"
+            ],
+            "suggestions": [
+              "Añadir 2–3 alternativas más en la zona de Callao con menú 8–10€ y bebida incluida confirmada",
+              "Incluir teléfono, horario y confirmación explícita de bebida incluida para cada sitio",
+              "Ajustar el guion a 8–10€ y pedir confirmación de 'bebida incluida fijo'",
+              "Usar enlaces y datos de ubicación verificables (sin acortadores) y, si es posible, reseñas recientes"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "¿Nebraska tiene algún combo 2x1 o descuento de estudiante al mediodía, y a qué hora hay menos cola?",
+          "sentAt": "2025-08-08T23:44:12.759Z",
+          "response": "- Nebraska (Callao)\n• Promos: 2x1 puntuales; descuento estudiante no fijo (pregunta hoy).\n• Menos cola: 13:00–13:20 o después de 15:30.\n¿Te paso texto corto para preguntar por 2x1/estudiante y mesa rápida?",
+          "receivedAt": "2025-08-08T23:44:21.261Z",
+          "responseTime": 8502,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 1,
+            "errors": [
+              "Falta precisión sobre si las promos aplican al mediodía.",
+              "Información ambigua/no verificada: '2x1 puntuales' y 'descuento estudiante no fijo' sin fechas ni condiciones.",
+              "No incluye precios orientativos en euros ni menciona menú del día.",
+              "Se centra en una sola sucursal (Callao) sin aclarar si varía en otras."
+            ],
+            "strengths": [
+              "Responde directamente a las dos partes de la pregunta (promos y horas con menos cola).",
+              "Conciso y en buen español.",
+              "Incluye palabras clave relevantes como '2x1', 'descuento' y 'estudiante'.",
+              "Ofrece franjas horarias concretas para evitar colas."
+            ],
+            "suggestions": [
+              "Especificar si el 2x1 o el descuento de estudiante aplica al mediodía, en qué días y con qué condiciones.",
+              "Añadir precios aproximados en euros y si hay menú del día barato/económico.",
+              "Aclarar si la info aplica a todas las sucursales de Nebraska o solo a Callao y, si es posible, enlazar o indicar cómo verificar hoy."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "Sí, pásame el texto corto, porfa. ¿Y alguna otra opción cerca con menú 9–10€ y bebida segura?",
+          "sentAt": "2025-08-08T23:44:24.412Z",
+          "response": "• Texto para Nebraska:\n“Hola, ¿hoy tenéis 2x1 al mediodía o descuento estudiante? ¿El menú (9–10€) incluye bebida? ¿A qué hora hay menos cola? Gracias.”\n\nAlternativas con bebida incluida (confírmalo hoy):\n- Bar La Ideal (Sol): ⭐️4.2 • 9–10€ • 13:00–16:00 • +34 915 22 84 64\n- Cafetería Miau (Las Letras): ⭐️4.1 • 9–10€ • 13:00–16:00 • +34 914 29 67 03",
+          "receivedAt": "2025-08-08T23:44:34.607Z",
+          "responseTime": 10195,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 2,
+            "errors": [
+              "No garantiza que la bebida esté incluida pese a la solicitud de 'bebida segura'.",
+              "No especifica direcciones o distancia para justificar que están 'cerca'.",
+              "No usa explícitamente la expresión 'menú del día'."
+            ],
+            "strengths": [
+              "Incluye un texto corto claro y útil para contactar con Nebraska.",
+              "Proporciona dos alternativas específicas con precio 9–10€ y datos prácticos (horario y teléfono).",
+              "Emplea términos relevantes para un estudiante con presupuesto (2x1, descuento, 9–10€)."
+            ],
+            "suggestions": [
+              "Confirmar y declarar explícitamente que la bebida está incluida en las alternativas, o seleccionar opciones donde sea seguro.",
+              "Añadir dirección exacta o indicar distancia/tiempo a pie para cumplir el 'cerca'.",
+              "Usar 'menú del día' y, si es posible, indicar fecha de verificación de precios y condiciones."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "¿Entre La Ideal y Miau, cuál suele dar ración más generosa por 9–10€ y confirmas si hoy incluyen bebida y algún descuento estudiante?",
+          "sentAt": "2025-08-08T23:44:37.786Z",
+          "response": "- La Ideal: raciones más generosas por 9–10€. Suele incluir bebida algunos días.\n- Miau: porción correcta; bebida a veces incluida.\n\nNo puedo confirmarlo en tiempo real. Texto para llamar:\n“¿Hoy menú 9–10€ incluye bebida? ¿Descuento estudiante al mediodía?”",
+          "receivedAt": "2025-08-08T23:44:47.556Z",
+          "responseTime": 9770,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 2,
+            "errors": [
+              "No confirma si hoy incluyen bebida ni detalla descuentos para estudiantes.",
+              "Afirmaciones vagas sin fuente ni días/horarios específicos (p. ej., 'suele incluir bebida').",
+              "No utiliza varias palabras clave esperadas como 'barato', 'económico', 'oferta', '2x1' o 'gratis'."
+            ],
+            "strengths": [
+              "Comparación directa y específica entre los dos locales; indica que La Ideal suele dar raciones más generosas por 9–10€.",
+              "Respuesta concisa y útil; ofrece un guion para verificar en tiempo real."
+            ],
+            "suggestions": [
+              "Añade datos concretos: tamaño aproximado de ración, ejemplos de platos y precios del menú del día.",
+              "Especifica si la bebida está incluida y detalla políticas de descuento para estudiantes (porcentaje, horarios y requisitos).",
+              "Incorpora palabras clave relevantes para el perfil del usuario: barato, económico, oferta, 2x1, bebida gratis.",
+              "Cita cómo y dónde verificar (teléfono, web, Google Maps, redes sociales) e indica horarios de comida."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "Genial, entonces voy a La Ideal: ¿algún truco de qué pedir del primero/segundo para llenar más por 9–10€ y llegar sobre 13:00 vale?",
+          "sentAt": "2025-08-08T23:44:50.592Z",
+          "response": "- Llega 13:00 para sitio y menú completo.\n- Elige legumbre o paella de primero (sacia mucho).\n- De segundo, pollo a la plancha o estofado con patatas/arroces.\n- Pide pan y cambia postre por café si prefieres.\n- Pregunta si la bebida está incluida hoy.",
+          "receivedAt": "2025-08-08T23:45:00.700Z",
+          "responseTime": 10108,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": false,
+            "responseQuality": "good",
+            "recommendationCount": 0,
+            "errors": [
+              "Asume que hay menú del día y platos concretos en La Ideal sin confirmarlo",
+              "No aborda explícitamente el presupuesto de 9–10€",
+              "No incluye palabras clave relacionadas (barato, económico, oferta, estudiante, euros, 2x1, gratis)"
+            ],
+            "strengths": [
+              "Consejos prácticos y concisos para saciar más (legumbres/paella, guisos, pan)",
+              "Responde en buen español y trata el tema de la hora de llegada y la bebida incluida"
+            ],
+            "suggestions": [
+              "Verificar si La Ideal ofrece menú del día y adaptar las recomendaciones a su carta real",
+              "Mencionar precios aproximados y si se puede comer por 9–10€; incluir palabras como barato/económico/menú del día",
+              "Explorar si hay descuentos para estudiante u ofertas (p. ej., bebida incluida, 2x1) o alternativas económicas (bocadillo + bebida)"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "¿Y si La Ideal está a tope, cuál es tu plan B más cerca de Sol/Callao con menú 9–10€ y bebida incluida hoy?",
+          "sentAt": "2025-08-08T23:45:03.916Z",
+          "response": "- Plan B cerca de Sol/Callao:\n• Cafetería Nebraska (Callao): ⭐️4.1 • Menú 9–10€ con bebida (suele ser fijo) • https://goo.gl/maps/nebraskacallao\n• Casa Labra (Sol): ⭐️4.2 • Plato del día 8–12€; bebida a veces • https://goo.gl/maps/casalabra\n\n- Texto para confirmar: “¿Hoy menú 9–10€ con bebida incluida?”",
+          "receivedAt": "2025-08-08T23:45:13.830Z",
+          "responseTime": 9914,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "fair",
+            "recommendationCount": 2,
+            "errors": [
+              "Enlaces de Google Maps parecen no válidos/abreviados incorrectamente",
+              "Casa Labra no suele ofrecer menú del día con bebida incluida",
+              "No confirma disponibilidad y precio de hoy",
+              "Afirmaciones de precios y bebida incluidas sin fuente/verificación"
+            ],
+            "strengths": [
+              "Ofrece opciones específicas cerca de Sol/Callao",
+              "Incluye rango de precio alineado con la petición",
+              "Sugiere texto para confirmar disponibilidad",
+              "Respuesta breve y clara"
+            ],
+            "suggestions": [
+              "Usar enlaces de Maps correctos con dirección exacta",
+              "Verificar hoy mismo precios y si la bebida está incluida antes de recomendar",
+              "Sustituir lugares sin menú del día garantizado por restaurantes con menú 9–10€ cerca de Sol/Callao",
+              "Incluir lenguaje de ahorro para estudiantes (barato, económico, ofertas) y horario del menú del día"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "De lujo; entre Nebraska y Casa Labra, ¿cuál suele llenar más por 9–10€ hoy y a qué hora exacta me recomiendas caer para evitar cola?",
+          "sentAt": "2025-08-08T23:45:17.521Z",
+          "response": "- Nebraska: su menú por 9–10€ suele ser más completo y saciante (bebida incluida). Ve 13:00–13:15 para evitar cola.\n- Casa Labra: raciones ricas pero más irregulares a ese precio. Llega antes de 13:15. \n¿Te paso texto para confirmar bebida incluida hoy?",
+          "receivedAt": "2025-08-08T23:45:26.446Z",
+          "responseTime": 8925,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": false,
+            "responseQuality": "good",
+            "recommendationCount": 2,
+            "errors": [
+              "No usa palabras clave esperadas (barato, económico, oferta, estudiante, 2x1, menú del día).",
+              "No da una hora exacta para Casa Labra; solo 'antes de 13:15'.",
+              "Afirma 'bebida incluida' como habitual sin verificarlo para hoy."
+            ],
+            "strengths": [
+              "Compara claramente entre Nebraska y Casa Labra con foco en saciedad por 9–10€.",
+              "Propone franjas tempranas para evitar cola y ofrece confirmar detalles."
+            ],
+            "suggestions": [
+              "Incluye palabras clave y posibles descuentos/ofertas para estudiantes y menciona 'menú del día' si aplica.",
+              "Da una hora exacta recomendada para cada sitio (por ejemplo, 13:00 en punto) y aclara que puede variar según el día."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "Sí, pásame el texto y, si falla Nebraska, ¿algún sitio cerca con happy hour o 2x1 en bebidas para acompañar el menú barato?",
+          "sentAt": "2025-08-08T23:45:29.298Z",
+          "response": "- Texto para llamar: “Hola, ¿hoy el menú 9–10€ incluye bebida? ¿Horario exacto y hay cola sobre 13:00–13:15? Gracias.”\n\nPlan C con promos cerca:\n- Museo del Jamón (Gran Vía): caña ≤2€ y tapa básica\n- 100 Montaditos (Gran Vía): Euromanía (mié/jue) cañas ~1–1,5€",
+          "receivedAt": "2025-08-08T23:45:39.498Z",
+          "responseTime": 10200,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 3,
+            "containsExpectedKeywords": false,
+            "responseQuality": "fair",
+            "recommendationCount": 2,
+            "errors": [
+              "No indica ofertas concretas de 2x1 o happy hour ni sus horarios",
+              "No confirma la cercanía exacta a Nebraska ni aporta direcciones",
+              "No detalla si las alternativas incluyen menú del día barato",
+              "Posible imprecisión en los días de Euromanía (indica mié/jue)"
+            ],
+            "strengths": [
+              "Incluye un texto de llamada claro y accionable",
+              "Ofrece dos alternativas económicas y conocidas en Gran Vía",
+              "Respuesta breve y en el idioma esperado"
+            ],
+            "suggestions": [
+              "Añadir locales cercanos con 2x1 o happy hour confirmados e indicar días/horarios",
+              "Especificar distancia y dirección desde Nebraska para asegurar la cercanía",
+              "Indicar si tienen menú del día económico y su precio aproximado",
+              "Usar palabras clave como oferta, 2x1, barato o estudiante para alinear con la consulta"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "Perfecto, ¿algún buffet libre barato por Gran Vía/Sol (máx 10–12€) donde pueda hincharme y con bebida incluida o refill?",
+          "sentAt": "2025-08-08T23:45:43.891Z",
+          "response": "¡A tope por Gran Vía/Sol! Buffets ≤12€ (confírmalo hoy) con bebida/refill:\n\n- Wok Garden (Callao): ⭐️4.0\n• Buffet asiático; mediodía laborable 9,9–12€; a veces incluye agua/refill\n• 13:00–16:00\n• https://goo.gl/maps/4wokgarden\n\n- Museo del Jamón (Gran Vía) – autoservicio\n• 8–12€; suele incluir agua/caña\n• 12:30–16:00\n• https://goo.gl/maps/museojamon\n\n¿Te paso texto para confirmar bebida y refill antes de ir?",
+          "receivedAt": "2025-08-08T23:45:54.577Z",
+          "responseTime": 10686,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 2,
+            "errors": [
+              "Clasifica Museo del Jamón como opción de buffet/autoservicio cuando no es buffet libre.",
+              "Afirmaciones sobre bebida incluida/refill son vagas y no verificadas.",
+              "Enlaces de Google Maps parecen placeholders y podrían no funcionar.",
+              "Horarios/precios no especifican condiciones (laborables vs. fines de semana/noche)."
+            ],
+            "strengths": [
+              "Ofrece lugares concretos en la zona pedida con rangos de precio.",
+              "Se ajusta al presupuesto máximo del usuario.",
+              "Incluye horarios aproximados y sugiere confirmar detalles clave.",
+              "Tono cercano y directo, útil para un estudiante con presupuesto limitado."
+            ],
+            "suggestions": [
+              "Recomendar solo buffets libres reales y aclarar si alguna opción no lo es.",
+              "Verificar y explicitar si la bebida está incluida y si existe refill (aclarar que el refill es raro en Madrid).",
+              "Añadir más opciones económicas en Gran Vía/Sol dentro de 10–12€.",
+              "Incorporar términos como barato, económico, estudiante, menú del día, ofertas o 2x1 si aplican.",
+              "Proporcionar enlaces/direcciones precisas y condiciones por día y horario."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "Sí, pásame el texto, porfa. ¿Entre Wok Garden y Museo del Jamón, cuál llena más por 10–12€ y suele incluir bebida/refill seguro al mediodía?",
+          "sentAt": "2025-08-08T23:45:58.191Z",
+          "response": "• Texto para preguntar:\n“Hola, ¿hoy buffet al mediodía por 10–12€ con bebida o refill incluido? ¿Horario exacto y si aplica en terraza? Gracias.”\n\n• Para saciar más: Wok Garden suele llenar más por variedad caliente; bebida/refill no siempre incluido. Museo del Jamón incluye bebida más a menudo.",
+          "receivedAt": "2025-08-08T23:46:07.306Z",
+          "responseTime": 9115,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": false,
+            "responseQuality": "good",
+            "recommendationCount": 2,
+            "errors": [
+              "No confirma con certeza si la bebida/refill está incluido 'seguro'.",
+              "Faltan precios y condiciones concretas por sucursal y horario.",
+              "No incluye palabras clave esperadas (barato, económico, descuento, oferta, menú del día, estudiante, euros, gratis, 2x1).",
+              "No aporta fuentes, enlaces o teléfonos para verificar."
+            ],
+            "strengths": [
+              "Incluye un texto claro y útil para llamar y confirmar.",
+              "Compara de forma directa saciedad y frecuencia de bebida incluida.",
+              "Respuesta breve y en buen español."
+            ],
+            "suggestions": [
+              "Confirmar precios reales de mediodía (10–12€) y si la bebida/refill está incluida en cada local específico de Madrid.",
+              "Citar sucursales y horarios exactos (buffet o menú del día) y si aplica en terraza.",
+              "Usar palabras clave de ahorro: barato, económico, descuento, oferta, menú del día, estudiante, euros, gratis, 2x1.",
+              "Dar una recomendación clara según la prioridad: si buscas bebida incluida con más probabilidad, inclinarse por Museo del Jamón; si buscas saciarte por variedad caliente, Wok Garden, aclarando que el refill ilimitado es raro.",
+              "Añadir enlaces o teléfonos oficiales para que el usuario verifique al momento."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "Guay, entonces ¿me recomiendas caer primero al Wok Garden a las 13:00 y si no hay bebida incluida tirar luego al Museo del Jamón, o al revés para maximizar bebida por el precio?",
+          "sentAt": "2025-08-08T23:46:11.405Z",
+          "response": "- Si priorizas bebida incluida: ve primero a Museo del Jamón (12:30–13:15 suele incluir caña/agua).  \n- Si priorizas cantidad/variedad: entra primero en Wok Garden a las 13:00; si hoy no incluyen bebida/refill, cambia a Museo del Jamón.  \n¿Te paso texto para llamar?",
+          "receivedAt": "2025-08-08T23:46:21.221Z",
+          "responseTime": 9816,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 5,
+            "containsExpectedKeywords": false,
+            "responseQuality": "good",
+            "recommendationCount": 2,
+            "errors": [
+              "No incluye palabras clave esperadas (barato, económico, oferta, menú del día, 2x1, gratis, euros).",
+              "Afirmación específica no verificada sobre franja 12:30–13:15 con bebida incluida.",
+              "No aporta precios aproximados ni opciones de menú del día o descuentos para estudiantes."
+            ],
+            "strengths": [
+              "Responde directamente a la duda y ofrece un orden claro según prioridad (bebida vs. cantidad).",
+              "Incluye horario y un plan de respaldo entre dos restaurantes concretos.",
+              "Tono cercano y adecuado para un estudiante."
+            ],
+            "suggestions": [
+              "Añadir precios aproximados en euros y si hay menú del día, ofertas o descuentos para estudiantes (usar términos como barato, económico, 2x1, gratis).",
+              "Verificar o suavizar la afirmación sobre la bebida incluida en ese horario y proponer confirmarlo llamando o revisando la web.",
+              "Explicar una estrategia concreta para maximizar bebida por el precio (p. ej., preguntar por refill/menú del día con bebida incluida y comparar coste total)."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "Sí, pásame el texto para llamar, porfa. ¿Algún truco dentro de Wok Garden para llenar más por el mismo precio (platos que cundan, horas con menos cola)?",
+          "sentAt": "2025-08-08T23:46:24.325Z",
+          "response": "• Texto: “Hola, ¿hoy el buffet es 10–12€ con bebida/refill incluido? ¿Horario exacto y si aplica en terraza? ¿Hay mucha cola a las 13:00? Gracias.”\n\nTrucos Wok Garden:\n• Ve 13:00 o 15:00 (menos cola)\n• Prioriza plancha: pollo/tofu+verduras+arroz\n• Evita fritos/panes\n• Pide agua del grifo si no hay bebida incluida",
+          "receivedAt": "2025-08-08T23:46:34.593Z",
+          "responseTime": 10268,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": true,
+            "relevanceScore": 5,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 0,
+            "errors": [
+              "No ofrece recomendaciones de restaurantes adicionales en Madrid",
+              "Asume un rango de precio (10–12€) sin contexto ni fuente",
+              "No menciona posibles descuentos/ofertas para estudiantes o menú del día"
+            ],
+            "strengths": [
+              "Texto para llamar claro y útil, con preguntas clave (precio, bebida, horario, cola)",
+              "Consejos prácticos para evitar colas y maximizar cantidad por precio dentro de Wok Garden",
+              "Enfoque acorde a presupuesto: prioriza plancha y sugiere agua del grifo"
+            ],
+            "suggestions": [
+              "Añadir si hay descuentos/ofertas (estudiante, 2x1, menú del día) y en qué horarios",
+              "Personalizar por sucursal de Wok Garden en Madrid con teléfono/horarios para mayor precisión",
+              "Evitar suposiciones de precio; invitar a confirmar rango y condiciones (terraza, refill) en la llamada",
+              "Incluir más trucos de valor: rotación de plancha, pedir raciones pequeñas y repetir, elegir guarniciones que cundan (arroz/fideos), y evitar bebidas de pago"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "Perfecto, última: ¿algún sitio por Sol/Callao con tapas baratas tipo 1–2€ la caña con tapa o combo caña+pincho por ≤3€ hoy?",
+          "sentAt": "2025-08-08T23:46:37.469Z",
+          "response": "¡Plan low-cost por Sol/Callao hoy!\n\n- Museo del Jamón (Gran Vía): ⭐️4.1\n• Caña 1,5–2€ con tapa básica\n• https://goo.gl/maps/museojamon\n\n- El Tigre Montera: ⭐️4.0\n• Caña ~2–2,5€ con tapón generoso; combos ≤3€ a veces\n• https://goo.gl/maps/eltigremontera\n\n- La Ideal (Sol): ⭐️4.2\n• Caña ~2€ con tapa simple\n• +34 915 22 84 64\n\nTexto para confirmar: “¿Hoy caña 1–2€ con tapa o combo caña+pincho ≤3€? ¿Horario y si aplica en terraza?” ¿Te anoto gustos para afinar tu perfil?",
+          "receivedAt": "2025-08-08T23:46:52.727Z",
+          "responseTime": 15258,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": false,
+            "responseQuality": "good",
+            "recommendationCount": 3,
+            "errors": [
+              "Enlaces de Google Maps parecen genéricos/no válidos",
+              "Posible desactualización de precios y ofertas",
+              "El Tigre Montera puede no existir en esa ubicación o haber cambiado de local",
+              "Afirmación de tapa incluida en La Ideal es discutible",
+              "No se especifica si los precios aplican en barra o terraza",
+              "Error tipográfico: 'tapón' en lugar de 'tapa'"
+            ],
+            "strengths": [
+              "Da recomendaciones concretas cerca de Sol/Callao",
+              "Incluye rangos de precios alineados con presupuesto bajo",
+              "Sugiere texto para confirmar condiciones en tiempo real",
+              "Formato claro y fácil de escanear"
+            ],
+            "suggestions": [
+              "Verificar y actualizar precios de hoy y si la tapa está incluida (barra vs terraza)",
+              "Sustituir los enlaces por URLs reales de Google Maps y añadir direcciones exactas",
+              "Usar palabras clave esperadas: barato, económico, oferta, euros, 2x1, estudiante",
+              "Aclarar si existen combos caña+pincho por ≤3€ y en qué horarios",
+              "Corregir el typo ('tapa' en vez de 'tapón') y evitar afirmaciones dudosas sobre La Ideal",
+              "Añadir 1–2 alternativas adicionales por la zona con reputación actual por tapas económicas"
+            ]
+          },
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T23:46:52.727Z",
+      "duration": 200202
+    },
+    {
+      "personaId": "family_kids",
+      "personaName": "Ana Familia",
+      "language": "es",
+      "description": "Madre de familia con dos niños pequeños",
+      "startTime": "2025-08-08T23:46:57.731Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, ¿me recomiendas restaurantes en Madrid con zona de juegos, tronas y menú infantil, ideales para mis peques de 4 y 7 años?",
+          "sentAt": "2025-08-08T23:47:03.170Z",
+          "response": "¡Claro! Opciones family-friendly en Madrid (terraza tranquila y sin humo cuando sea posible):\n\n- Kilómetros de Pizza: ⭐️4.3\n• Tronas, menú kids, a veces rincón de juegos\n• 15–22€ p.p.\n• https://maps.app.goo.gl/4LwQnB3P4oX\n\n- VIPS Menéndez Pelayo: ⭐️4.0\n• Tronas, kids corner\n• 12–18€ p.p.\n• https://maps.app.goo.gl/9yXbK7P1H5k\n\n- Ginos Retiro: ⭐️4.0\n• Tronas, menú pasta/pollo sin frutos secos\n• 12–20€ p.p.\n• https://maps.app.goo.gl/7vXv8tQn1rN\n\n¿Te reservo texto pidiendo 2 tronas, cambiador y terraza sin humo?",
+          "receivedAt": "2025-08-08T23:47:15.994Z",
+          "responseTime": 12824,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 3,
+            "errors": [
+              "Uso de anglicismos en lugar de términos esperados en español (p. ej., 'kids' en vez de 'menú infantil' o 'niños').",
+              "La existencia de zona de juegos es ambigua en al menos un caso ('a veces rincón de juegos').",
+              "No se confirma por local la disponibilidad de cambiador y terraza sin humo; se menciona de forma general.",
+              "Cobertura limitada (solo 3 opciones, mayormente cadenas) y sin detallar barrios u horarios.",
+              "Cierre confuso: '¿Te reservo texto...?' resulta poco natural."
+            ],
+            "strengths": [
+              "Ofrece recomendaciones concretas con nombre, valoración, rango de precio y enlace.",
+              "Incluye facilidades clave para familias (tronas, zona de juegos, menú para peques) y menciona terraza sin humo.",
+              "Tono proactivo y orientado a ayudar con la reserva y necesidades de la familia."
+            ],
+            "suggestions": [
+              "Usar términos en español y palabras clave esperadas (niños, menú infantil, familia) y mencionar seguridad/entorno seguro.",
+              "Confirmar y especificar por cada restaurante: zona de juegos fija, número de tronas, cambiador, terraza sin humo y detalles del menú infantil (incluyendo alérgenos).",
+              "Ampliar el abanico con 1–2 opciones adicionales no solo de cadenas, indicando barrio y si aceptan celebraciones de cumpleaños o actividades para peques.",
+              "Adaptar la recomendación a edades 4 y 7 (espacios adecuados, pinturas/kit de actividades) y proponer mesa cercana a la zona infantil."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "Gracias, suena bien. ¿Cuál de esos tiene rincón de juegos activo los fines de semana y terraza realmente sin humo?",
+          "sentAt": "2025-08-08T23:47:17.516Z",
+          "response": "- Kilómetros de Pizza (Retiro): suele activar rincón de juegos en finde; terraza amplia. Confirma “zona 100% sin humo”.\n- VIPS Menéndez Pelayo: algunos fines de semana tienen kids corner; terraza variable.\n- Ginos Retiro: sin rincón fijo; terraza pequeña.\n\n¿Te paso texto para confirmar 2 tronas, cambiador y sin humo?",
+          "receivedAt": "2025-08-08T23:47:28.029Z",
+          "responseTime": 10513,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 3,
+            "containsExpectedKeywords": true,
+            "responseQuality": "fair",
+            "recommendationCount": 3,
+            "errors": [
+              "No responde de forma directa qué locales cumplen ambos requisitos (juegos en finde y terraza realmente sin humo).",
+              "Incluye una opción que no cumple los criterios (Ginos Retiro sin rincón fijo).",
+              "Uso de anglicismo innecesario (“kids corner”) en lugar de español.",
+              "Falta confirmación clara de terraza 100% sin humo; se sugiere confirmar pero no se aporta verificación."
+            ],
+            "strengths": [
+              "Ofrece recomendaciones específicas con nombres y ubicación aproximada.",
+              "Menciona la presencia de rincón de juegos y características de la terraza.",
+              "Considera necesidades familiares (tronas y cambiador)."
+            ],
+            "suggestions": [
+              "Filtra y marca claramente solo los locales que cumplan ambos criterios (rincón de juegos activo en fin de semana y terraza 100% sin humo).",
+              "Verifica y cita la política de terraza sin humo y los horarios/activación del rincón de juegos (teléfono, web o enlaces).",
+              "Usa terminología en español e incorpora palabras clave familiares útiles (niños, menú infantil, actividades) para la persona usuaria."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "Perfecto, ¿me puedes preparar el texto para Kilómetros de Pizza Retiro solicitando 2 tronas, cambiador y terraza 100% sin humo este sábado a las 13:30?",
+          "sentAt": "2025-08-08T23:47:30.809Z",
+          "response": "• Hola, ¿mesa este sábado 13:30 para 4 en terraza 100% sin humo?  \n• 2 tronas y acceso a baño con cambiador, por favor.  \n• Menú infantil sin frutos secos (pasta/pollo).  \n• ¿Rincón de juegos activo el finde? ¿Podéis confirmar? Gracias.",
+          "receivedAt": "2025-08-08T23:47:39.365Z",
+          "responseTime": 8556,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": true,
+            "relevanceScore": 3,
+            "containsExpectedKeywords": true,
+            "responseQuality": "fair",
+            "recommendationCount": 0,
+            "errors": [
+              "No menciona explícitamente 'Kilómetros de Pizza Retiro'.",
+              "Asume 'mesa para 4' sin que el usuario lo haya indicado.",
+              "Incluye peticiones no solicitadas (menú infantil sin frutos secos, rincón de juegos).",
+              "No especifica la fecha exacta (solo 'este sábado').",
+              "No incluye nombre de la persona de la reserva ni teléfono de contacto."
+            ],
+            "strengths": [
+              "Está en español claro y directo.",
+              "Cubre los puntos clave pedidos: 2 tronas, cambiador, terraza 100% sin humo y hora.",
+              "Formato breve y fácil de copiar/pegar."
+            ],
+            "suggestions": [
+              "Menciona el restaurante y la sucursal: 'Kilómetros de Pizza Retiro'.",
+              "Evita suposiciones sobre el número de comensales o confírmalo primero.",
+              "Limita el texto a lo solicitado por el usuario y omite extras no pedidos.",
+              "Incluye la fecha completa (día/mes) para evitar ambigüedades.",
+              "Añade nombre de la persona de la reserva y teléfono de contacto para facilitar la confirmación."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "Genial, ¿puedes sugerirme una alternativa cercana por si no confirman la terraza 100% sin humo, también con tronas y menú infantil?",
+          "sentAt": "2025-08-08T23:47:43.016Z",
+          "response": "- VIPS Menéndez Pelayo: ⭐️4.0\n• Tronas, kids corner, menú infantil\n• 12–18€ p.p.\n• https://maps.app.goo.gl/9yXbK7P1H5k\n\n- Ginos Retiro: ⭐️4.0\n• Tronas, menú pasta/pollo\n• 12–20€ p.p.\n• https://maps.app.goo.gl/7vXv8tQn1rN\n\n¿Te preparo texto para pedir terraza 100% sin humo y 2 tronas?",
+          "receivedAt": "2025-08-08T23:47:54.036Z",
+          "responseTime": 11020,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 2,
+            "errors": [
+              "No confirma si las terrazas propuestas son 100% sin humo",
+              "No aclara qué tan cercanas son respecto al punto de referencia del usuario",
+              "Faltan detalles prácticos (teléfono, horarios) y precisión sobre el menú infantil"
+            ],
+            "strengths": [
+              "Ofrece lugares específicos con valoración, rango de precio y enlace de mapa",
+              "Incluye servicios familiares relevantes (tronas, kids corner, menú infantil)",
+              "Tono proactivo ofreciendo redactar una solicitud para terraza sin humo"
+            ],
+            "suggestions": [
+              "Confirmar y indicar explícitamente la política de humo de cada terraza",
+              "Aportar la distancia/tiempo a pie desde el punto de referencia y añadir teléfono y horarios"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "Sí, por favor; para VIPS Menéndez Pelayo a las 13:30 del sábado: ¿puedes incluir 2 tronas, cambiador y confirmar si el kids corner estará activo?",
+          "sentAt": "2025-08-08T23:47:56.977Z",
+          "response": "• Hola, ¿mesa este sábado 13:30 para 4 en terraza 100% sin humo?  \n• 2 tronas y acceso a baño con cambiador, por favor.  \n• ¿El kids corner estará activo ese día?  \n• Menú infantil sin frutos secos (pasta/pollo). ¿Podéis confirmar? Gracias.",
+          "receivedAt": "2025-08-08T23:48:04.832Z",
+          "responseTime": 7855,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": true,
+            "relevanceScore": 3,
+            "containsExpectedKeywords": true,
+            "responseQuality": "fair",
+            "recommendationCount": 0,
+            "errors": [
+              "No ofrece recomendaciones de restaurantes.",
+              "No confirma ni gestiona la reserva solicitada.",
+              "Incluye supuestos no pedidos (4 personas, terraza, menú sin frutos secos).",
+              "No menciona el restaurante/ubicación exacta (VIPS Menéndez Pelayo).",
+              "Formato orientado a mensaje al local, no a una respuesta útil al usuario."
+            ],
+            "strengths": [
+              "Está en español y mantiene un tono cortés.",
+              "Recoge puntos clave para familias: tronas, cambiador y consulta sobre el kids corner.",
+              "Incluye términos relevantes como 'menú infantil' y 'terraza'."
+            ],
+            "suggestions": [
+              "Confirmar disponibilidad y tramitar la reserva indicando explícitamente VIPS Menéndez Pelayo y el horario.",
+              "Solicitar datos faltantes (número exacto de comensales, nombre, teléfono) y evitar suposiciones.",
+              "Eliminar suposiciones no solicitadas o presentarlas como opciones a confirmar.",
+              "Ofrecer información concreta sobre el kids corner (horarios/operativa) o indicar cómo confirmarlo con el local.",
+              "Si no puede reservar, proporcionar vías de contacto del restaurante y, opcionalmente, alternativas familiares cercanas."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "¿Puedes decirme cuál de los dos suele ser más tranquilo a la hora de comer con peques y si aceptan carrito en terraza?",
+          "sentAt": "2025-08-08T23:48:07.717Z",
+          "response": "- Kilómetros de Pizza Retiro: suele ser más tranquilo a mediodía; aceptan carrito en terraza si avisas.  \n- VIPS Menéndez Pelayo: más movimiento; aceptan carrito, pero espacio más justo.\n\n¿Reservo texto pidiendo sitio para carrito y 2 tronas?",
+          "receivedAt": "2025-08-08T23:48:17.319Z",
+          "responseTime": 9602,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 5,
+            "containsExpectedKeywords": false,
+            "responseQuality": "good",
+            "recommendationCount": 2,
+            "errors": [
+              "No incluye varias palabras clave esperadas (niños, familia, menú infantil, juegos, seguro).",
+              "Afirmaciones no verificadas sobre aceptación de carritos; faltan matices/condiciones.",
+              "Formulación ambigua: '¿Reservo texto...?' en lugar de ofrecer un texto listo para copiar."
+            ],
+            "strengths": [
+              "Responde directamente a las dos dudas (tranquilidad y carrito en terraza).",
+              "Cita restaurantes específicos y compara brevemente su ambiente y espacio.",
+              "Tono conciso y proactivo al ofrecer ayuda con la reserva."
+            ],
+            "suggestions": [
+              "Añadir detalles familiares (niños, familia, menú infantil, tronas, cambiador, zona de juegos) y mencionar si la terraza es segura y cómoda para carritos/bebés.",
+              "Sugerir confirmar por teléfono y proporcionar un texto de reserva listo para copiar solicitando mesa, espacio para carrito y 2 tronas, además de indicar horarios más tranquilos."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "Sí, para Kilómetros de Pizza Retiro: ¿puedes incluir en el texto que necesitamos sitio para un carrito además de 2 tronas y confirmar el rincón de juegos activo este sábado a las 13:30?",
+          "sentAt": "2025-08-08T23:48:20.183Z",
+          "response": "• Hola, ¿mesa este sábado 13:30 para 4 en terraza 100% sin humo?  \n• 2 tronas y espacio para un carrito.  \n• Baño con cambiador.  \n• ¿Rincón de juegos activo ese día?  \n• Menú infantil sin frutos secos (pasta/pollo). ¿Podéis confirmar? Gracias.",
+          "receivedAt": "2025-08-08T23:48:27.200Z",
+          "responseTime": 7017,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 0,
+            "errors": [
+              "No menciona el restaurante solicitado (Kilómetros de Pizza Retiro).",
+              "Incluye peticiones no solicitadas (terraza 100% sin humo, número de comensales, cambiador, menú sin frutos secos).",
+              "Formato en viñetas en lugar de un mensaje cohesionado.",
+              "La confirmación del rincón de juegos podría referirse explícitamente a las 13:30."
+            ],
+            "strengths": [
+              "En español claro y directo.",
+              "Incluye las necesidades clave: espacio para carrito y 2 tronas.",
+              "Pregunta por el rincón de juegos y menciona menú infantil.",
+              "Tono educado y conciso."
+            ],
+            "suggestions": [
+              "Nombrar explícitamente Kilómetros de Pizza Retiro en el texto.",
+              "Evitar añadir requisitos no solicitados o pedirlos como opcionales si aplican.",
+              "Unificar en un solo mensaje cortés con fecha y hora exactas (sábado a las 13:30) sin asumir número de comensales ni preferencia de terraza."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "Perfecto, ¿tienes alguna opción con terraza cubierta por si llueve, también con tronas y cambiador, cerca del Retiro?",
+          "sentAt": "2025-08-08T23:48:30.799Z",
+          "response": "- Kilómetros de Pizza Retiro: ⭐️4.3\n• Terraza cubierta parcial, tronas, cercano al parque\n• 15–22€ p.p.\n• https://maps.app.goo.gl/4LwQnB3P4oX\n\n- VIPS Menéndez Pelayo: ⭐️4.0\n• Terraza cubierta en varios locales, tronas, cambiador\n• 12–18€ p.p.\n• https://maps.app.goo.gl/9yXbK7P1H5k\n\n- Ginos Retiro: ⭐️4.0\n• Terraza con toldo, tronas; pregunta por cambiador\n• 12–20€ p.p.\n• https://maps.app.goo.gl/7vXv8tQn1rN\n\n¿Te preparo texto para pedir terraza cubierta, 2 tronas y cambiador sin frutos secos?",
+          "receivedAt": "2025-08-08T23:48:44.687Z",
+          "responseTime": 13888,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": false,
+            "responseQuality": "good",
+            "recommendationCount": 3,
+            "errors": [
+              "No confirma cambiador para dos de las tres opciones.",
+              "La cobertura de la terraza es parcial o no verificada para cada local.",
+              "Falta de palabras clave orientadas a familias (niños, menú infantil, bebés).",
+              "No indica distancia o tiempo exacto hasta el Parque del Retiro."
+            ],
+            "strengths": [
+              "Ofrece tres recomendaciones concretas con valoración, rango de precios y enlaces.",
+              "Incluye información clave sobre terraza cubierta/toldo y tronas.",
+              "Cierra con una propuesta proactiva para gestionar la reserva y requisitos."
+            ],
+            "suggestions": [
+              "Confirmar para cada local que la terraza es realmente cubierta y que disponen de cambiador (y cuántas tronas).",
+              "Añadir detalles familiares: menú infantil, espacio para carritos, microondas/calienta biberones, y accesibilidad.",
+              "Indicar distancia/tiempo desde el Retiro y si aceptan reserva en terraza cubierta.",
+              "Incluir al menos una opción con terraza totalmente cubierta y cambiador confirmado."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "Sí, para Kilómetros de Pizza Retiro: ¿puedes confirmar si la terraza cubierta es 100% sin humo y si tienen cambiador en el baño?",
+          "sentAt": "2025-08-08T23:48:47.915Z",
+          "response": "• Hola, ¿podéis confirmar si la terraza cubierta en KdP Retiro es 100% sin humo?  \n• ¿Tenéis baño con cambiador operativo?  \n• Somos 4 para este sábado 13:30, 2 tronas y espacio para carrito.  \n• Menú infantil sin frutos secos (pasta/pollo). ¿Confirmáis? Gracias.",
+          "receivedAt": "2025-08-08T23:48:54.638Z",
+          "responseTime": 6723,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": true,
+            "relevanceScore": 2,
+            "containsExpectedKeywords": true,
+            "responseQuality": "poor",
+            "recommendationCount": 0,
+            "errors": [
+              "No confirma si la terraza cubierta es 100% sin humo ni si hay cambiador; solo reitera la pregunta.",
+              "No ofrece ninguna recomendación de restaurantes ni alternativas.",
+              "Añade peticiones no solicitadas (reserva, tronas, carrito, menú) que desvían el foco.",
+              "Tono y formato orientados a contactar al restaurante, no a responder al usuario.",
+              "Carece de fuentes o datos verificables."
+            ],
+            "strengths": [
+              "Está en español correcto y claro.",
+              "Considera necesidades familiares (trona, carrito, menú infantil).",
+              "Tono educado y directo.",
+              "Incluye términos relevantes como 'terraza' y 'menú infantil'."
+            ],
+            "suggestions": [
+              "Responder directamente con la información solicitada (política de humo en la terraza cubierta y disponibilidad de cambiador) indicando la fuente o cómo se verificó.",
+              "Si no se puede confirmar, ofrecer un plan de acción: llamar al local, enlazar a su web/redes o realizar la gestión y devolver la confirmación.",
+              "Evitar añadir peticiones no solicitadas; centrarse en la pregunta del usuario.",
+              "Aportar alternativas cercanas y family-friendly con terraza sin humo y cambiador por si este local no cumple.",
+              "Incluir palabras clave orientadas a familias (niños, bebés, seguro) y detalles prácticos (accesibilidad, horarios)."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "Gracias, ¿puedes indicarme si aceptan reserva con antelación para la terraza cubierta y cuánto tiempo mantienen la mesa si llegamos con los peques?",
+          "sentAt": "2025-08-08T23:48:57.630Z",
+          "response": "• ¿Aceptáis reserva anticipada en terraza cubierta para este sábado 13:30?  \n• ¿Cuánto tiempo mantenéis la mesa en terraza si llegamos con peques (gracia de cortesía)?  \n• 2 tronas, espacio para carrito y cambiador, por favor.  \n• Sin frutos secos en menú infantil. ¿Confirmáis?",
+          "receivedAt": "2025-08-08T23:49:08.124Z",
+          "responseTime": 10494,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": true,
+            "relevanceScore": 2,
+            "containsExpectedKeywords": true,
+            "responseQuality": "fair",
+            "recommendationCount": 0,
+            "errors": [
+              "No proporciona información directa ni políticas sobre reservas o tiempos de espera",
+              "No ofrece recomendaciones específicas de restaurantes en Madrid",
+              "Formato de respuesta parece un mensaje para el restaurante, no una respuesta al usuario",
+              "Expresión poco natural: 'gracia de cortesía' (mejor 'tiempo de cortesía')"
+            ],
+            "strengths": [
+              "Está en español claro y es fácil de entender",
+              "Considera necesidades familiares: tronas, espacio para carrito, cambiador y menú infantil",
+              "Estructura concisa y orientada a los detalles relevantes (terraza cubierta, alergias)"
+            ],
+            "suggestions": [
+              "Proporcionar una respuesta directa sobre políticas típicas (p. ej., si suelen aceptar reserva de terraza y tiempos de cortesía habituales) o verificar la política del restaurante específico",
+              "Incluir 2-3 restaurantes familiares en Madrid con terraza cubierta que acepten reservas y detallar su política de retención de mesa",
+              "Ajustar el tono para responder al usuario y, si se necesita, después ofrecer un texto sugerido para contactar al restaurante",
+              "Incorporar más palabras clave explícitas como 'niños', 'familia' y 'seguro' si son pertinentes"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "Genial, mientras espero confirmación, ¿alguna opción cercana con menú infantil apto para alérgicos a frutos secos y terraza realmente sin humo como plan B?",
+          "sentAt": "2025-08-08T23:49:11.435Z",
+          "response": "- Ginos Retiro: ⭐️4.0\n• Menú infantil pasta/pollo sin frutos secos\n• Terraza; pide “zona 100% sin humo”\n• https://maps.app.goo.gl/7vXv8tQn1rN\n\n- VIPS Menéndez Pelayo: ⭐️4.0\n• Menú kids adaptable sin frutos secos\n• Terraza; solicita mesa “sin humo”\n• https://maps.app.goo.gl/9yXbK7P1H5k\n\n¿Prefieres que redacte el texto de reserva?",
+          "receivedAt": "2025-08-08T23:49:25.626Z",
+          "responseTime": 14191,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 2,
+            "errors": [
+              "No garantiza que la terraza sea realmente sin humo; solo sugiere pedir zona sin humo.",
+              "No verifica protocolos anti-alérgenos ni riesgo de trazas o contaminación cruzada.",
+              "No confirma la cercanía real respecto a la ubicación del usuario.",
+              "Uso limitado de palabras clave orientadas a familia/niños más allá de 'menú infantil'."
+            ],
+            "strengths": [
+              "Ofrece dos recomendaciones específicas con nombres y enlaces a Maps.",
+              "Incluye mención explícita a menú infantil sin frutos secos/adaptable.",
+              "Considera la preferencia de terraza e indica cómo solicitar zona sin humo.",
+              "Tono proactivo al ofrecer redactar el texto de reserva."
+            ],
+            "suggestions": [
+              "Confirmar por teléfono la política de terraza sin humo y los protocolos de alérgenos (sin trazas, manipulación segura).",
+              "Indicar la distancia/tiempo desde la ubicación del usuario para asegurar que sean opciones cercanas.",
+              "Añadir detalles útiles para familias (trona, espacio para carritos, cambiador, zona de juegos) y usar palabras como 'niños', 'familia', 'seguro'.",
+              "Ampliar a 1-2 alternativas adicionales por si las primeras no tienen disponibilidad."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "Sí, para Ginos Retiro: ¿puedes redactar el texto pidiendo terraza 100% sin humo, 2 tronas, espacio para carrito y confirmar menú infantil sin frutos secos este sábado a las 13:30?",
+          "sentAt": "2025-08-08T23:49:28.926Z",
+          "response": "• Hola, ¿mesa este sábado 13:30 para 4 en terraza 100% sin humo?  \n• 2 tronas y espacio para un carrito, por favor.  \n• ¿Confirmáis menú infantil sin frutos secos (pasta/pollo) y acceso a cambiador?  \n• Gracias.",
+          "receivedAt": "2025-08-08T23:49:36.706Z",
+          "responseTime": 7780,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": true,
+            "relevanceScore": 5,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 0,
+            "errors": [
+              "No proporciona recomendaciones de restaurantes.",
+              "No menciona explícitamente el nombre del restaurante (Ginos Retiro).",
+              "Asume 'mesa para 4' sin que el usuario lo haya indicado.",
+              "Incluye pocas de las palabras clave esperadas (faltan 'familia', 'niños', 'bebés', etc.)."
+            ],
+            "strengths": [
+              "Texto claro, conciso y en español, con formato fácil de enviar.",
+              "Cubre los puntos solicitados: terraza sin humo, 2 tronas, espacio para carrito y menú infantil sin frutos secos.",
+              "Tono educado y adecuado para contactar con el restaurante.",
+              "Añade de forma útil la petición de acceso a cambiador."
+            ],
+            "suggestions": [
+              "Mencionar explícitamente 'Ginos Retiro' y detallar número de adultos y niños para mayor claridad.",
+              "Reflejar la persona incluyendo términos como 'familia' o 'nuestros niños' y, si aplica, 'bebés'.",
+              "Pedir confirmación específica sobre ausencia de trazas de frutos secos y posibles alternativas del menú infantil."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "Perfecto, ¿sabes si en Ginos Retiro tienen vasos y cubiertos infantiles y si pueden adelantar platos de los peques para evitar esperas?",
+          "sentAt": "2025-08-08T23:49:40.000Z",
+          "response": "- Suelen tener vasos y cubiertos infantiles; pídelo al sentarte.\n- Pueden sacar primero los platos de los peques; solicita “prioridad niños”.\n- Recuerda anotar alergia a frutos secos en la reserva y al llegar. ¿Quieres texto para confirmarlo por WhatsApp?",
+          "receivedAt": "2025-08-08T23:49:50.459Z",
+          "responseTime": 10459,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 0,
+            "errors": [
+              "No confirma la información específica de Ginos Retiro; usa lenguaje genérico ('suelen tener').",
+              "Sugiere una política ('prioridad niños') sin verificar si existe en ese local.",
+              "No añade fuentes ni contacto para corroborar la información."
+            ],
+            "strengths": [
+              "Está en español y es clara y concisa.",
+              "Responde directamente a ambas partes de la pregunta (utensilios infantiles y adelantar platos).",
+              "Ofrece acciones concretas para solicitar en el local."
+            ],
+            "suggestions": [
+              "Confirmar la información con el restaurante (teléfono, web o Google Maps) y citar la fuente.",
+              "Incluir detalles familiares relevantes si aplica (menú infantil, tronas, cambiador, terraza) para una madre con niños pequeños.",
+              "Usar formulaciones condicionales cuando no haya certeza y ofrecer gestionar la verificación en nombre del usuario."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "Sí, por favor: ¿me preparas el texto de WhatsApp para Ginos Retiro incluyendo prioridad niños, vasos/cubiertos infantiles y recordando alergia a frutos secos?",
+          "sentAt": "2025-08-08T23:49:54.179Z",
+          "response": "• Hola, ¿mesa este sábado 13:30 para 4 en terraza 100% sin humo?  \n• 2 tronas y espacio para carrito.  \n• Alergia a frutos secos (sin trazas).  \n• ¿Menú infantil sin frutos secos (pasta/pollo)?  \n• ¿Vasos y cubiertos infantiles?  \n• ¿Podéis servir primero los platos de los peques? Gracias.",
+          "receivedAt": "2025-08-08T23:50:02.502Z",
+          "responseTime": 8323,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": true,
+            "relevanceScore": 5,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 0,
+            "errors": [
+              "No menciona explícitamente el restaurante (Ginos Retiro)",
+              "Tono excesivamente telegráfico en viñetas para un WhatsApp",
+              "Incluye supuestos no solicitados (hora concreta, 'terraza 100% sin humo')",
+              "Ligeras incorrecciones/rigidez en la redacción ('mesa este sábado 13:30')"
+            ],
+            "strengths": [
+              "Cubre bien las necesidades de familias con niños (tronas, espacio para carrito, servir primero a los peques)",
+              "Incluye y enfatiza la alergia a frutos secos",
+              "Pregunta por menú infantil y utensilios infantiles",
+              "Mensaje conciso y claro para la finalidad"
+            ],
+            "suggestions": [
+              "Mencionar 'Ginos Retiro' y añadir un saludo/cierre más cálido",
+              "Redactar en un solo mensaje fluido y natural: '¿Tenéis mesa para este sábado a las 13:30 para 4 en terraza?'",
+              "Evitar imponer detalles no pedidos (hora, '100% sin humo'); plantearlos como consulta si aplica",
+              "Especificar cuántos adultos y cuántos niños y reforzar la alergia como restricción estricta"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "Gracias, ¿puedes confirmar si Ginos Retiro dispone de sillas elevadoras además de tronas y si la terraza cubierta tiene mantas o calefactores por si refresca?",
+          "sentAt": "2025-08-08T23:50:05.865Z",
+          "response": "- Ginos Retiro suele tener tronas; sillas elevadoras no siempre (mejor confirmar).  \n- Terraza cubierta: suelen usar estufas/calefactores; mantas no garantizadas.  \nTexto para preguntar: “¿Tenéis sillas elevadoras y mantas/calefactores en terraza cubierta este sábado 13:30?”",
+          "receivedAt": "2025-08-08T23:50:13.960Z",
+          "responseTime": 8095,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": false,
+            "responseQuality": "good",
+            "recommendationCount": 0,
+            "errors": [
+              "No confirma la información solicitada; usa expresiones vagas como 'suelen' y 'no siempre'.",
+              "No incorpora el contexto de madre con dos niños (tono y necesidades familiares).",
+              "No incluye palabras clave relevantes como 'niños', 'familia' o 'menú infantil'.",
+              "No ofrece alternativas ni recomendaciones de otros restaurantes con terraza calefactada."
+            ],
+            "strengths": [
+              "Respuesta concisa y directa a los dos puntos consultados.",
+              "Incluye un texto útil para contactar y confirmar por teléfono.",
+              "Menciona explícitamente tronas, sillas elevadoras, calefactores y mantas.",
+              "Está en español claro y fácil de entender."
+            ],
+            "suggestions": [
+              "Intentar confirmar de forma proactiva (llamada rápida o enlace a la carta/FAQ del local) antes de responder.",
+              "Añadir información familiar: menú infantil, espacio para carritos, cambiadores y política para bebés.",
+              "Usar palabras clave como 'niños', 'familia', 'seguro' y 'terrazas' para alinearse con la persona.",
+              "Ofrecer 1-2 alternativas cercanas en Retiro con terraza cubierta y calefactores por si Ginos no cumple.",
+              "Preguntar por la fecha exacta y si necesitan trona o silla elevadora para cada niño para afinar la confirmación."
+            ]
+          },
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T23:50:13.960Z",
+      "duration": 196229
+    },
+    {
+      "personaId": "international_tourist",
+      "personaName": "James British",
+      "language": "en",
+      "description": "British tourist visiting Spain for the first time",
+      "startTime": "2025-08-08T23:50:18.963Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hi RECO, I’ve just arrived in Madrid—where would you recommend for authentic tapas with an English-friendly menu to ease me in?",
+          "sentAt": "2025-08-08T23:50:21.029Z",
+          "response": "Great to have you in Madrid! For authentic tapas with English-friendly menus:\n\n- Casa Labra (Sol): ⭐️ 4.2\n• Historic cod tapas; English menu available\n• €10–20 p.p.\n• https://goo.gl/maps/casalabra\n\n- Bodega de la Ardosa (Malasaña): ⭐️ 4.5\n• Classic tortillas, vermouth; staff helps in English\n• €12–20 p.p.\n• https://goo.gl/maps/ardosa\n\n- El Sur (Huertas): ⭐️ 4.5\n• Cozy, great croquetas/tortilla; English menu\n• €12–20 p.p.\n• https://goo.gl/maps/elsurhuertas\n\n- Taberna El Sur de Huertas: ⭐️ 4.5\n• Tapas/paella portions, friendly in English\n• €12–20 p.p.\n• https://goo.gl/maps/surdehuertas\n\n- Taberna La Dolores (Huertas): ⭐️ 4.4\n• Cold cuts, gildas; staff used to tourists\n• €10–18 p.p.\n• https://goo.gl/maps/ladolores\n\nWant terrace seating or nut-free recs for kids?",
+          "receivedAt": "2025-08-08T23:50:38.477Z",
+          "responseTime": 17448,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 5,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 5,
+            "errors": [
+              "Possible duplicate/overlap: 'El Sur (Huertas)' and 'Taberna El Sur de Huertas' may be the same group or too similar for one list.",
+              "Map links look generic/likely invalid short URLs (no unique place IDs).",
+              "Star ratings lack source or review counts, reducing trust."
+            ],
+            "strengths": [
+              "Specific, well-known tapas spots in central Madrid.",
+              "Directly addresses English-friendly menus/staff at each venue.",
+              "Useful context: neighborhoods, price ranges, and signature dishes.",
+              "Friendly tone with a follow-up question to personalize further."
+            ],
+            "suggestions": [
+              "Provide full, verifiable Google Maps links and exact addresses.",
+              "Attribute ratings (source and review count) or omit them; add booking/peak-time tips.",
+              "Avoid near-duplicates; diversify with one or two alternatives in other areas.",
+              "Set expectations (English menus may vary) and add a brief ordering tip.",
+              "Ask for location, terrace preference, and any dietary needs to refine choices."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "Thanks! Between Casa Labra and Ardosa, which feels less touristy in the early evening, and do I need to queue or book?",
+          "sentAt": "2025-08-08T23:50:40.787Z",
+          "response": "- Bodega de la Ardosa feels less touristy around 18:00–19:30. No bookings; small, so expect a short queue—arrive early and stand at the bar.\n- Casa Labra is busier/touristy near 18:00+. No bookings; quick-moving line. Go by 17:30–18:00 to snag space.",
+          "receivedAt": "2025-08-08T23:50:50.713Z",
+          "responseTime": 9926,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 5,
+            "containsExpectedKeywords": true,
+            "responseQuality": "excellent",
+            "recommendationCount": 2,
+            "errors": [
+              "Minor US English phrasing ('snag space', 'line') instead of fully British usage."
+            ],
+            "strengths": [
+              "Directly answers which spot feels less touristy in the early evening.",
+              "Clear guidance on bookings (none) and queuing expectations.",
+              "Actionable timing advice with specific windows.",
+              "Concise and easy to scan."
+            ],
+            "suggestions": [
+              "Use consistent British English (e.g., 'queue' and 'grab a spot' or 'get a space').",
+              "Add a brief expectation note that both are small, mostly standing-room, and crowds can vary by day."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "Brilliant—what should I definitely order at Ardosa for a first-timer, and is there a nearby spot for a sweet treat after?",
+          "sentAt": "2025-08-08T23:50:53.626Z",
+          "response": "- At Ardosa (first-timer musts):\n• Tortilla de patatas (juicy slice)\n• Salmorejo (cold tomato–bread cream)\n• Boquerones en vinagre + vermouth\n• Croquetas del día\n• Gilda (olive–anchovy–pepper skewer)\n\n- Sweet nearby:\n• La Mejor Tarta de Chocolate del Mundo (Gran Vía) • rich, not too sweet\n• San Ginés (churros con chocolate) • classic, open late\n• Moulin Chocolat (Salamanca) • macarons/pastries\n\nWant nut-free picks for kids?",
+          "receivedAt": "2025-08-08T23:51:05.568Z",
+          "responseTime": 11942,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 3,
+            "errors": [
+              "Moulin Chocolat (Salamanca) is not particularly close to La Ardosa, so 'nearby' may be misleading.",
+              "The reference to 'La Mejor Tarta de Chocolate del Mundo (Gran Vía)' is unclear/inexact; location may not be on Gran Vía."
+            ],
+            "strengths": [
+              "Specific, iconic dishes at La Ardosa that match house specialties (tortilla, salmorejo, boquerones, gilda).",
+              "Provides concrete dessert venues (San Ginés, La Mejor Tarta de Chocolate del Mundo, Moulin Chocolat).",
+              "Concise, readable list format with a friendly follow-up question for dietary needs."
+            ],
+            "suggestions": [
+              "Prioritize truly nearby dessert spots to Malasaña/Chueca (e.g., San Ginés is good; consider adding La Mallorquina, Celicioso, or Valor) and include approximate walking times.",
+              "Add brief practical tips (crowds/standing bar at Ardosa, best time to go, opening hours) and clarify translations for items like gilda/boquerones."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "That sounds perfect—roughly what wait times should I expect at Ardosa around 6:30 pm, and is San Ginés walkable from there?",
+          "sentAt": "2025-08-08T23:51:08.996Z",
+          "response": "- Ardosa at 6:30 pm: expect a 10–20 min wait; it’s small and fills fast. Arrive 6:00–6:15 pm to grab a spot at the bar.\n- San Ginés from Ardosa: yes, walkable. About 15–18 minutes (1.2 km) toward Sol/Opera. Great post-tapas stop.",
+          "receivedAt": "2025-08-08T23:51:18.388Z",
+          "responseTime": 9392,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 5,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 2,
+            "errors": [
+              "No disclaimer that wait times can vary by day/season (weekends, holidays).",
+              "Lacks brief walking directions or landmarks for a first-time visitor."
+            ],
+            "strengths": [
+              "Directly answers both the wait-time and walkability questions.",
+              "Provides specific, plausible estimates for wait and walking time/distance.",
+              "Includes a practical timing tip to arrive a bit earlier."
+            ],
+            "suggestions": [
+              "Add variability context (weekdays vs weekends) and suggest a backup plan if the queue is longer than expected.",
+              "Offer a simple route description (e.g., via Gran Vía toward Puerta del Sol) and a quick tip about queuing/ordering at San Ginés."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "Grand—could you suggest a good paella spot for tomorrow lunch that’s authentic but still comfortable for an English speaker, and should I reserve?",
+          "sentAt": "2025-08-08T23:51:21.322Z",
+          "response": "Absolutely! For a solid, authentic paella lunch with English-friendly service (reserve for tomorrow, 1–2 pm best):\n\n- La Barraca (Gran Vía): ⭐️ 4.4\n• Classic Valencian/seafood paellas; English menu; old-school icon\n• €25–35 p.p.\n• https://goo.gl/maps/labarraca\n\n- St. James (Castellana/Retiro): ⭐️ 4.5\n• “Arrocería” specialists; wide rice menu; staff speaks English\n• €25–40 p.p.\n• https://goo.gl/maps/stjamesarroces\n\n- Casa de Valencia (Nuevos Ministerios): ⭐️ 4.3\n• Traditional Valencian rice house; English-friendly\n• €22–35 p.p.\n• https://goo.gl/maps/casadevalencia\n\n- El Caldero (Huertas): ⭐️ 4.4\n• Murcia-style rice in cauldron; cozy, English menus\n• €20–30 p.p.\n• https://goo.gl/maps/elcaldero\n\n- Arrocería D’Valencia (Centro): ⭐️ 4.3\n• Paellas/black rice; helpful staff in English\n• €20–30 p.p.\n• https://goo.gl/maps/arroceriadvalencia\n\nTips:\n• Reserve and preselect rice (min 2 portions). \n• Aim for “paella valenciana,” “arroz del senyoret,” or “arroz negro.” \n• Rice takes 25–40 min—order starters while you wait.",
+          "receivedAt": "2025-08-08T23:51:37.663Z",
+          "responseTime": 16341,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 5,
+            "containsExpectedKeywords": true,
+            "responseQuality": "excellent",
+            "recommendationCount": 5,
+            "errors": [
+              "Includes Murcia-style 'arroz caldero' (El Caldero) rather than classic paella, slightly off-brief.",
+              "Map links look generic/shortened and may not reliably resolve; no official booking links provided.",
+              "Star ratings are given without source or date."
+            ],
+            "strengths": [
+              "Specific, well-chosen paella/arrocería recommendations in Madrid.",
+              "Directly addresses English-friendly service and the need to reserve, with time guidance.",
+              "Provides price ranges, dish suggestions, and realistic rice prep-time expectations.",
+              "Clear, scannable formatting."
+            ],
+            "suggestions": [
+              "Add official websites or phone numbers and reliable booking links for each restaurant.",
+              "Cite the source/date for star ratings or omit them.",
+              "Either clarify that El Caldero focuses on Murcia-style rice (not paella) or replace it with a paella-focused option.",
+              "Note lunch service windows and opening days; suggest an optimal reservation time (e.g., 1:30–2:30 pm) and a booking phrase in Spanish."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "Thanks—between La Barraca and St. James, which has the better socarrat and a quieter vibe at 1:30 pm, and any starter you’d recommend while the rice cooks?",
+          "sentAt": "2025-08-08T23:51:41.346Z",
+          "response": "- Better socarrat: St. James; more consistent and a bit quieter at 13:30 (reserve).  \n- La Barraca: classic, slightly busier.  \nStarters while rice cooks:  \n- Clams a la marinera  \n- Grilled octopus or cuttlefish  \n- Ensaladilla rusa (shareable)",
+          "receivedAt": "2025-08-08T23:51:53.423Z",
+          "responseTime": 12077,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 2,
+            "errors": [
+              "Does not specify which St. James branch in Madrid, which can affect noise and consistency",
+              "Overly terse; lacks brief context on rice waiting time and how to request socarrat"
+            ],
+            "strengths": [
+              "Directly compares La Barraca and St. James and answers the socarrat and quietness query",
+              "Provides practical starter suggestions while the rice cooks",
+              "Clear, concise English with a concrete recommendation (St. James) and a reservation tip"
+            ],
+            "suggestions": [
+              "Name a specific St. James location and note that 13:30 is typically quieter than after 14:00, especially on weekdays",
+              "Mention the usual rice wait (about 25–35 minutes) to set expectations",
+              "Add a first-timer tip: you can ask for a well-toasted socarrat and suggest familiar starters like croquetas or gambas al ajillo"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "Brilliant—at St. James, which rice would you pick for two first-timers: paella valenciana, arroz del senyoret, or arroz negro?",
+          "sentAt": "2025-08-08T23:51:56.308Z",
+          "response": "For two first‑timers at St. James: pick arroz del senyoret. It’s peeled seafood (easy to eat), great flavor, and reliable socarrat. If you like bolder, squid‑ink arroz negro is superb. Valencian is classic but less seafood-forward. Reserve and pre‑order.",
+          "receivedAt": "2025-08-08T23:52:06.638Z",
+          "responseTime": 10330,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": true,
+            "relevanceScore": 5,
+            "containsExpectedKeywords": true,
+            "responseQuality": "excellent",
+            "recommendationCount": 0,
+            "errors": [
+              "Uses the term 'socarrat' without explanation for first-time visitors"
+            ],
+            "strengths": [
+              "Gives a clear, specific pick (arroz del senyoret) with reasons tailored to first-timers",
+              "Concise comparison of the three dishes and an actionable tip to reserve/pre-order"
+            ],
+            "suggestions": [
+              "Briefly define 'socarrat' or note it is the crispy rice at the bottom to aid understanding",
+              "Add one practical detail (e.g., typical pre-order timing or portion size for two) to make the advice more actionable"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "Cheers—what time should I book St. James for the best vibe, and could you suggest a nearby spot for a pre-lunch vermouth?",
+          "sentAt": "2025-08-08T23:52:09.862Z",
+          "response": "- Book St. James for 13:15–13:30: lively but not loud, best chance for perfect socarrat. Ask to sit in a quieter corner.\n\nPre‑lunch vermouth nearby:\n- La Ardosa (Colón/Recoletos): ⭐️ 4.5\n• Classic vermouth on tap, small bite\n• https://goo.gl/maps/ardosa\n\n- Casa González (Huertas): ⭐️ 4.6\n• Vermouth + cheeses/anchovies\n• https://goo.gl/maps/casagonzalez\n\nWant a closer pick right by St. James (Castellana/Retiro)?",
+          "receivedAt": "2025-08-08T23:52:19.211Z",
+          "responseTime": 9349,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 2,
+            "errors": [
+              "Does not confirm which St. James branch; proximity can vary by location.",
+              "Suggested vermouth spots may not be truly nearby; no distance or travel time given.",
+              "Uses shortened/placeholder map links instead of precise addresses or direct links.",
+              "Ends with a follow-up question rather than providing at least one close option."
+            ],
+            "strengths": [
+              "Gives a clear booking time window with vibe context.",
+              "Provides two specific vermouth venues with concise, helpful descriptors.",
+              "English is clear and natural for a tourist.",
+              "Includes a practical seating tip and a dish-specific note (socarrat)."
+            ],
+            "suggestions": [
+              "Specify the exact St. James branch and add distance or walking time from it.",
+              "Include at least one genuinely close vermouth spot (e.g., Hermanos Vinagre on Narváez or La Castela) and note opening hours.",
+              "Provide full Google Maps links or exact street addresses instead of shortened links.",
+              "Add brief price guidance or whether a reservation is needed for the vermouth stop."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "Yes please—what’s a good vermouth bar within a 5–10 minute walk of the St. James in Castellana/Retiro, and any specific tapa to pair with it?",
+          "sentAt": "2025-08-08T23:52:22.329Z",
+          "response": "- Taberna La Elisa (Recoletos, 6–8 min)\n• Vermut de grifo\n• Pide gilda o boquerones en vinagre\n\n- La Taberna de El Pintxo (Serrano, 7–9 min)\n• Vermut y pintxos\n• Pide pintxo de tortilla o anchoa+piparra\n\nReserva St. James 13:15–13:30 para socarrat top.",
+          "receivedAt": "2025-08-08T23:52:32.555Z",
+          "responseTime": 10226,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": false,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "fair",
+            "recommendationCount": 2,
+            "errors": [
+              "Response is in Spanish, not English",
+              "Includes off-topic booking suggestion for St. James",
+              "Uses unexplained jargon (gilda, boquerones, pintxo)",
+              "No addresses or precise directions",
+              "Does not mention opening hours or reservation need"
+            ],
+            "strengths": [
+              "Provides two specific nearby venues",
+              "Includes walking-time estimates",
+              "Suggests tapa pairings with vermouth",
+              "Concise and focused on the request"
+            ],
+            "suggestions": [
+              "Answer in English tailored to a first-time British visitor",
+              "Translate and briefly explain key terms (e.g., vermouth on tap, gilda skewer)",
+              "Add addresses or map links and confirm distance from the specific St. James location",
+              "Remove unrelated booking advice and stick to vermouth-bar recommendations",
+              "Mention opening hours and whether reservations are recommended"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "Lovely—at Taberna La Elisa, roughly what does a vermut and a couple of gildas cost, and do they open early enough for a 12:30 stop?",
+          "sentAt": "2025-08-08T23:52:37.763Z",
+          "response": "Approx prices:\n- Vermut on tap: €3–4\n- Gildas: €2–3 each\n\nOpening: usually from 12:00–12:30 on weekends and around 12:00 on weekdays. Perfect for a 12:30 stop. Want me to suggest a quick second option nearby just in case?",
+          "receivedAt": "2025-08-08T23:52:48.926Z",
+          "responseTime": 11163,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": true,
+            "relevanceScore": 5,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 0,
+            "errors": [
+              "No specific alternative recommendation provided despite offering to suggest one",
+              "Opening times are vague and unsourced; no caveat that hours can change"
+            ],
+            "strengths": [
+              "Directly answers the price and opening-time parts of the question",
+              "Concise, clear, and in correct English",
+              "Helpful, proactive tone offering a backup option"
+            ],
+            "suggestions": [
+              "Add a quick total estimate (e.g., vermut plus two gildas ≈ €7–10) to make it easier for the user",
+              "Include a brief caveat or source for opening hours and note that hours can vary",
+              "Proactively name one nearby backup spot with hours in case Taberna La Elisa is crowded"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "Yes, please—what’s a reliable nearby backup within 5–10 minutes that also pours vermut de grifo and has English-friendly staff?",
+          "sentAt": "2025-08-08T23:52:56.490Z",
+          "response": "- La Dolores (Recoletos) – 6–8 min\n• Classic vermut de grifo, staff used to English\n• Order: vermut + boquerones en vinagre or a gilda\n• €3–4 vermut; €2–3 per tapa\n• https://goo.gl/maps/ladolores\n\nWant a quick text to call and confirm opening at 12:00–12:30?",
+          "receivedAt": "2025-08-08T23:53:07.338Z",
+          "responseTime": 10848,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 5,
+            "containsExpectedKeywords": true,
+            "responseQuality": "excellent",
+            "recommendationCount": 1,
+            "errors": [
+              "Uses a shortened maps URL without full destination details",
+              "Missing full address and phone number for quick calling"
+            ],
+            "strengths": [
+              "Directly satisfies constraints: 6–8 minutes away, vermut de grifo, English-friendly staff",
+              "Adds helpful context: prices, suggested order, and prompt to confirm opening",
+              "Clear, concise English tailored to a tourist"
+            ],
+            "suggestions": [
+              "Provide the full street address, phone number, and a non-shortened map link",
+              "Offer one additional nearby backup in case this spot is closed or crowded",
+              "Note typical opening hours or real-time status if available"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "Yes, please—could you draft a quick Spanish phrase I can use to call La Dolores and confirm they’re open at 12:00–12:30 and have vermut de grifo?",
+          "sentAt": "2025-08-08T23:53:10.654Z",
+          "response": "• Hola, ¿abrís hoy entre las 12:00 y 12:30?  \n• ¿Tenéis vermut de grifo disponible a esa hora?  \n• Gracias, sería para tomar un vermut y alguna gilda.",
+          "receivedAt": "2025-08-08T23:53:17.835Z",
+          "responseTime": 7181,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": false,
+            "relevanceScore": 5,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 0,
+            "errors": [
+              "language_mismatch_expected_English",
+              "lacks_formal_register_for_phone_call",
+              "does_not_explicitly_reference_restaurant_name"
+            ],
+            "strengths": [
+              "Directly addresses both queries (opening time and vermut de grifo).",
+              "Natural Peninsular Spanish suitable for Madrid.",
+              "Concise and easy to use on a call."
+            ],
+            "suggestions": [
+              "Match the expected language by adding an English translation or preface.",
+              "Provide a polite 'ustedes' version for calls (e.g., '¿Están abiertos de 12:00 a 12:30?' '¿Tienen vermut de grifo a esa hora?').",
+              "Start by confirming the venue (e.g., 'Buenos días, ¿es La Dolores?').",
+              "Combine into a single short script and refine the time phrasing to 'de 12:00 a 12:30' for clarity."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "Perfect—could you also give me a quick Spanish line to reserve at St. James for 13:15 for two and pre-order arroz del senyoret?",
+          "sentAt": "2025-08-08T23:53:21.111Z",
+          "response": "• Hola, ¿podrían reservar para dos mañana a las 13:15?  \n• Nos gustaría preordenar un arroz del senyoret para 2 raciones.  \n• ¿Lo pueden tener listo para esa hora? Muchas gracias.",
+          "receivedAt": "2025-08-08T23:53:29.352Z",
+          "responseTime": 8241,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": false,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 0,
+            "errors": [
+              "Language not in expected English",
+              "Assumes 'mañana' without user specifying a date",
+              "Provides multiple lines instead of one quick line",
+              "Does not mention the restaurant name 'St. James'"
+            ],
+            "strengths": [
+              "Addresses time, party size, and pre-order clearly",
+              "Polite and natural Spanish phrasing",
+              "Includes the specific dish and portion count"
+            ],
+            "suggestions": [
+              "Respond in English while supplying the Spanish sentence, as per the expected language",
+              "Remove 'mañana' or ask for/leave the date open if not specified",
+              "Condense into a single sentence and include the restaurant name",
+              "Use 'encargar' or 'tener preparado' instead of 'preordenar' for more natural Spain Spanish"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "Brilliant—any chance St. James can do half-and-half rice (senyoret and negro) for two, or is it strictly one paella per table?",
+          "sentAt": "2025-08-08T23:53:32.467Z",
+          "response": "- St. James suele ser “un arroz por mesa” (mín. 2 raciones iguales).  \n- A veces aceptan media y media solo en paellera grande (≥4 raciones).  \n- Mi consejo: pregunta al reservar y, si no, comparte senyoret y vuelve por el negro otro día. ¿Te paso texto corto?",
+          "receivedAt": "2025-08-08T23:53:42.758Z",
+          "responseTime": 10291,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": false,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "fair",
+            "recommendationCount": 0,
+            "errors": [
+              "Responded in Spanish instead of English",
+              "Tone not adapted for a first-time British tourist",
+              "No alternative restaurant options provided for half-and-half for two"
+            ],
+            "strengths": [
+              "Directly addresses St. James’ policy on one rice per table and minimum portions",
+              "Mentions half-and-half possibility and links it to larger paellas",
+              "Provides actionable guidance to ask when booking and a practical fallback"
+            ],
+            "suggestions": [
+              "Reply in English with a polite, British-friendly tone and include a short message the user can use when reserving",
+              "Offer specific alternatives or branches that might allow half-and-half for two, or clearly state it’s unlikely and why"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "Yes please—could you give me a short Spanish line to ask if they’ll allow half-and-half for two, and if not, we’ll stick to senyoret?",
+          "sentAt": "2025-08-08T23:53:45.913Z",
+          "response": "• Hola, ¿permitís hacer medio y medio (arroz del senyoret y arroz negro) para 2 raciones?  \n• Si no es posible, seguimos con 2 raciones de arroz del senyoret. ¿Podéis confirmarlo? Gracias.",
+          "receivedAt": "2025-08-08T23:53:52.975Z",
+          "responseTime": 7062,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": false,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 0,
+            "errors": [
+              "Wrong language per expected setting (English)",
+              "Assumes 'arroz negro' as the other half without user specifying",
+              "Spanish phrasing could be more natural/formal for a restaurant (prefer 'mitad y mitad' and a neutral/formal construction)"
+            ],
+            "strengths": [
+              "Directly provides the Spanish lines requested",
+              "Polite, concise, and asks for confirmation",
+              "Uses Spain-appropriate second-person plural (vosotros)"
+            ],
+            "suggestions": [
+              "Match the expected language by introducing/explaining in English and then provide the Spanish phrasing",
+              "Avoid assuming the second rice; keep it generic (e.g., 'mitad y mitad de dos arroces')",
+              "Use a more natural/formal phrasing: '¿Se puede hacer mitad y mitad para dos raciones? Si no es posible, dejamos dos raciones de arroz del senyoret. ¿Nos lo pueden confirmar, por favor?'"
+            ]
+          },
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T23:53:52.976Z",
+      "duration": 214013
+    },
+    {
+      "personaId": "foodie_adventurous",
+      "personaName": "Diego Gourmet",
+      "language": "es",
+      "description": "Foodie aventurero que busca experiencias gastronómicas únicas",
+      "startTime": "2025-08-08T23:53:57.980Z",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Hola RECO, ando antojado de un menú degustación vanguardista con toques de cocina molecular; ¿qué spots me recomendarías en mi ciudad para una experiencia de varios tiempos con maridaje creativo?",
+          "sentAt": "2025-08-08T23:54:00.435Z",
+          "response": "¡Planazo foodie! En Madrid, degustación vanguardista con guiños moleculares y maridajes creativos:\n\n- Dstage: ⭐️ 4.6\n• Alta cocina experimental de Diego Guerrero; maridaje top\n• 130–220€ p.p.\n• https://goo.gl/maps/3i3z3k7TQ2J2\n\n- DiverXO: ⭐️ 4.7\n• Vanguardia radical de Dabiz Muñoz; maridajes atrevidos\n• 250–365€ p.p.\n• https://goo.gl/maps/9Q3w8b2iCqN2\n\n- Smoked Room: ⭐️ 4.8\n• Brasas + técnica moderna, menú cerrado con maridaje\n• 140–220€ p.p.\n• https://goo.gl/maps/6hL2b1p3pLF2\n\n- Coque: ⭐️ 4.7\n• Pase por salas, técnicas contemporáneas y bodega espectacular\n• 180–280€ p.p.\n• https://goo.gl/maps/utbPp2vG1oS2\n\n- Paco Roncero Restaurante: ⭐️ 4.6\n• Técnica, toques de cocina molecular y maridaje creativo\n• 160–260€ p.p.\n• https://goo.gl/maps/1e5cEwq7mNX2\n\n¿Prefieres terraza o menús adaptados sin frutos secos? Te afino y gestiono texto de reserva.",
+          "receivedAt": "2025-08-08T23:54:21.744Z",
+          "responseTime": 21309,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 5,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 5,
+            "errors": [
+              "No menciona el estatus Michelin, pese a ser clave para este tipo de experiencia.",
+              "Usa enlaces acortados (goo.gl) poco confiables; faltan webs oficiales y ubicación precisa.",
+              "No todos los locales tienen enfoque claramente 'molecular' y no se justifica con ejemplos concretos."
+            ],
+            "strengths": [
+              "Lista concreta y acertada de restaurantes vanguardistas en Madrid.",
+              "Incluye rangos de precio y referencia a maridajes creativos.",
+              "Tono cercano y entusiasta acorde al perfil foodie.",
+              "Nombra a los chefs y da descriptores breves útiles."
+            ],
+            "suggestions": [
+              "Añadir estatus de estrellas Michelin y papel del chef en cada propuesta.",
+              "Incorporar enlaces oficiales de reserva, barrio/dirección y detalles del maridaje.",
+              "Explicar qué técnicas de cocina molecular o de vanguardia aplica cada restaurante (ejemplos de platos).",
+              "Ofrecer opciones alternativas por presupuesto/disponibilidad y pedir fecha/dietas/alergias para afinar."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 2,
+          "question": "¡Qué selección! Entre DiverXO y Dstage, ¿cuál ofrece un maridaje más provocador y con mayor presencia de fermentaciones o maceraciones poco convencionales?",
+          "sentAt": "2025-08-08T23:54:24.163Z",
+          "response": "- DiverXO: maridaje más provocador y rompedor; mayor uso de fermentaciones, maceraciones y vinos/saqués/oxidativos poco convencionales. Ideal si buscas shock creativo.  \n- Dstage: maridaje afinado y diverso, algo más equilibrado. Fermentados presentes, pero menos extremos.\n\n¿Te preparo texto para reservar y avisar alergia a frutos secos?",
+          "receivedAt": "2025-08-08T23:54:34.653Z",
+          "responseTime": 10490,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 5,
+            "containsExpectedKeywords": false,
+            "responseQuality": "good",
+            "recommendationCount": 2,
+            "errors": [
+              "No incluye palabras clave esperadas (molecular, gourmet, michelin, degustación, chef, fusión, autor, exótico, auténtico).",
+              "Faltan ejemplos concretos de fermentaciones/maceraciones o bebidas usadas en cada maridaje.",
+              "Ligera imprecisión terminológica: 'saqués' no es de uso común; mejor 'sakes' o 'sakés'."
+            ],
+            "strengths": [
+              "Comparación directa y clara entre DiverXO y Dstage.",
+              "Identifica cuál ofrece un maridaje más provocador (DiverXO) y justifica brevemente por qué.",
+              "Tono conciso y orientación práctica (ofrece ayuda para reserva y alergias)."
+            ],
+            "suggestions": [
+              "Añadir ejemplos específicos de fermentaciones o bebidas poco convencionales en cada maridaje (p. ej., kombuchas caseras, sakes naturales, vinos naranja u oxidativos) y, si procede, rango de precio/disponibilidad.",
+              "Incorporar palabras clave y contexto del perfil foodie (molecular, michelin, degustación, chef, fusión, autor, exótico, auténtico) para reforzar el tono y la adecuación al usuario."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 3,
+          "question": "Perfecto, vamos a por el shock creativo: ¿tienes detalles del maridaje actual de DiverXO (número de pases líquidos, tipo de fermentados y algún pairing icónico reciente)?",
+          "sentAt": "2025-08-08T23:54:37.543Z",
+          "response": "DiverXO cambia a menudo, pero su maridaje suele 8–12 pases: vinos oxidativos, jereces, sakes, sidras, kombuchas y maceraciones caseras. Pairings icónicos recientes: curry crab + sake yamahai; gyoza al vapor + oloroso; callos thai + sidra ancestral. Reservas: avisa alergia.",
+          "receivedAt": "2025-08-08T23:54:54.325Z",
+          "responseTime": 16782,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": false,
+            "responseQuality": "good",
+            "recommendationCount": 0,
+            "errors": [
+              "faltan palabras clave esperadas para la persona/estilo",
+              "ligero error gramatical: 'suele 8–12 pases' debería ser 'suele ser de 8–12 pases'",
+              "posibles ejemplos no verificados presentados como 'icónicos recientes'"
+            ],
+            "strengths": [
+              "Responde directamente al número de pases líquidos",
+              "Especifica tipos de fermentados y bebidas del maridaje",
+              "Incluye ejemplos concretos de pairing y advierte que el menú cambia"
+            ],
+            "suggestions": [
+              "Ajusta el tono al perfil foodie e incluye keywords como michelin, degustación, chef de autor, fusión, exótico y gourmet para alinearte con la expectativa",
+              "Añade precisión temporal o aclara que son ejemplos típicos (no garantizados) y sugiere confirmar con el sumiller; mejora la redacción a 'suele ser de 8–12 pases' e incorpora 1–2 pairings adicionales con detalles técnicos"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 4,
+          "question": "Suena brutal; ¿sabes cuánto está tardando la lista de espera en DiverXO y si el maridaje admite versión sin frutos secos sin perder esos fermentados atrevidos?",
+          "sentAt": "2025-08-08T23:54:58.262Z",
+          "response": "Suele haber lista de espera de 1–3 meses (a veces más fines de semana). El maridaje puede adaptarse sin frutos secos: avísalo al reservar y al llegar; mantienen fermentados atrevidos (sakes, jereces, kombuchas), ajustando snacks/bitters con trazas. ¿Te preparo texto?",
+          "receivedAt": "2025-08-08T23:55:11.696Z",
+          "responseTime": 13434,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": true,
+            "relevanceScore": 5,
+            "containsExpectedKeywords": false,
+            "responseQuality": "good",
+            "recommendationCount": 0,
+            "errors": [
+              "No incluye palabras clave esperadas para el perfil foodie (michelin, chef, degustación, etc.)",
+              "No advierte de forma explícita sobre riesgos de trazas y la necesidad de confirmación formal para alergias severas",
+              "No reconoce la variabilidad/actualización de los tiempos de espera ni sugiere fuente oficial",
+              "Uso de 'bitters' puede resultar poco claro en español"
+            ],
+            "strengths": [
+              "Responde directamente a ambas partes de la pregunta (lista de espera y maridaje sin frutos secos)",
+              "Proporciona un rango temporal concreto y útil",
+              "Aconseja comunicar restricciones al reservar y al llegar",
+              "Mantiene el foco en los fermentados atrevidos (sakes, jereces, kombuchas)"
+            ],
+            "suggestions": [
+              "Incluir palabras clave y contexto afines al perfil foodie (Michelin, chef, degustación, autor, fusión, gourmet, molecular)",
+              "Añadir una advertencia clara sobre alérgenos y posibles trazas; sugerir confirmación por escrito con el restaurante",
+              "Reconocer que los tiempos de espera varían y recomendar revisar el sistema de reservas oficial o llamar",
+              "Aclarar 'bitters' (por ejemplo, 'amargos/infusiones amargas')",
+              "Ofrecer alternativas de restaurantes de autor en Madrid con maridajes creativos por si la espera es larga",
+              "Proponer un texto listo para enviar a reservas, dado que el usuario lo solicita"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 5,
+          "question": "Sí, porfa: ¿puedes redactar un texto de reserva elegante para DiverXO indicando alergia a frutos secos y preferencia por maridaje provocador con fermentados (sakes, jereces, kombuchas) sin trazas?",
+          "sentAt": "2025-08-08T23:55:14.664Z",
+          "response": "• Hola, me gustaría reservar para 2 en DiverXO (fecha flexible).  \n• Alergia estricta a frutos secos (sin trazas).  \n• Preferimos maridaje provocador con fermentados (sakes, jereces, kombuchas) adaptado sin frutos secos.  \n• ¿Disponibilidad y tiempos de espera?",
+          "receivedAt": "2025-08-08T23:55:40.353Z",
+          "responseTime": 25689,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": false,
+            "responseQuality": "fair",
+            "recommendationCount": 0,
+            "errors": [
+              "Tono poco elegante; el formato en viñetas no cumple con 'texto de reserva elegante'.",
+              "No incorpora la voz de 'foodie aventurero'.",
+              "No incluye las palabras clave esperadas (molecular, gourmet, michelin, degustación, chef, fusión, autor, exótico, auténtico).",
+              "No ofrece recomendaciones de restaurantes.",
+              "Falta concreción de fecha y hora propuestas."
+            ],
+            "strengths": [
+              "Español claro y comprensible.",
+              "Incluye la alergia a frutos secos sin trazas y la preferencia por maridaje de fermentados.",
+              "Solicita disponibilidad y tiempos de espera de forma directa."
+            ],
+            "suggestions": [
+              "Redactar un mensaje fluido, formal y cortés en primera persona, evitando viñetas para un tono más elegante.",
+              "Incorporar la personalidad foodie aventurera y algunas palabras clave relevantes (p. ej., michelin, degustación, chef de autor, fusión).",
+              "Proponer una fecha y franja horaria concretas y añadir datos de contacto.",
+              "Pedir confirmación explícita sobre el manejo de alérgenos y la viabilidad del maridaje sin trazas."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 6,
+          "question": "Genial, ¿ves factible un pre-dinner en Madrid con barra de fermentados (sakes/kombuchas artesanas) cerca de DiverXO para calentar motores antes del servicio?",
+          "sentAt": "2025-08-08T23:55:43.716Z",
+          "response": "Sí, dos previas top cerca (NH Eurobuilding):\n\n- Angelita Madrid (Gran Vía, taxi corto): ⭐️4.7\n• Barra de vinos/fermentados; sakes y sidras\n• https://goo.gl/maps/Angelita\n\n- Sake Bar Han (Cuzco): ⭐️4.6\n• Sakes artesanos por copa; alguna kombucha\n• https://goo.gl/maps/sakebarhan\n\n¿Prefieres kombucha 100% artesanal?",
+          "receivedAt": "2025-08-08T23:55:55.363Z",
+          "responseTime": 11647,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 3,
+            "containsExpectedKeywords": false,
+            "responseQuality": "fair",
+            "recommendationCount": 2,
+            "errors": [
+              "Angelita Madrid no está realmente cerca de DiverXO (Gran Vía vs. NH Eurobuilding/Cuzco).",
+              "Posible establecimiento inexistente o mal nombrado: 'Sake Bar Han' en Madrid.",
+              "Enlaces de Google Maps genéricos/posiblemente inválidos.",
+              "No utiliza palabras clave esperadas (molecular, gourmet, michelin, degustación, chef, etc.).",
+              "Falta precisión sobre distancia/tiempo a pie o en taxi desde DiverXO.",
+              "Afirmaciones no verificadas sobre oferta de kombucha y sakes artesanos."
+            ],
+            "strengths": [
+              "Ofrece lugares concretos con descriptores breves y ratings.",
+              "Tono conciso y llamada a la acción con pregunta de preferencia (kombucha artesanal)."
+            ],
+            "suggestions": [
+              "Verificar nombres, direcciones y la oferta real de sakes/kombuchas; incluir enlaces correctos a mapas.",
+              "Priorizar opciones realmente cercanas al NH Eurobuilding (Cuzco) e indicar distancia/tiempos.",
+              "Incorporar lenguaje alineado con el perfil foodie (molecular, gourmet, michelin, degustación, chef) y contextualizar el pre-dinner antes de DiverXO.",
+              "Añadir 1-2 alternativas más y detalles prácticos (reservas, horarios de barra)."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 7,
+          "question": "Sí, me tienta la kombucha artesana: ¿tienes algún spot en Madrid con fermentación propia en casa y servicio por copa antes de cenar, idealmente a 15–20 min de DiverXO?",
+          "sentAt": "2025-08-08T23:56:02.273Z",
+          "response": "¡Plan kombuchero antes de DiverXO!\n\n- Angelita Madrid (Gran Vía): ⭐️ 4.7\n• Fermentados propios puntuales y selección craft por copa\n• €6–9 copa\n• https://goo.gl/maps/Angelita\n\n- La Hojaldrería (Sevilla): ⭐️ 4.4\n• A veces kombucha casera/pequeños productores\n• €5–8\n• https://goo.gl/maps/hojaldreria\n\n- Acid Café (Lavapiés): ⭐️ 4.5\n• Línea de kombucha artesanal rotativa por copa\n• €4–6\n• https://goo.gl/maps/acidcafe\n\n- Casa Neutrale (Salesas): ⭐️ 4.3\n• Marcas artesanas, lotes “dry”\n• €4–6\n• https://goo.gl/maps/neutralesalesas\n\nTip: pregunta “kombucha casera por copa hoy” y evita blends con siropes. ¿Te busco opciones con sake cerca de Cuzco también?",
+          "receivedAt": "2025-08-08T23:56:18.489Z",
+          "responseTime": 16216,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 2,
+            "containsExpectedKeywords": false,
+            "responseQuality": "fair",
+            "recommendationCount": 4,
+            "errors": [
+              "No respeta la restricción de proximidad (15–20 min de DiverXO/Cuzco)",
+              "Falla en el criterio clave de fermentación propia en casa (solo mención puntual y ambigua)",
+              "No garantiza servicio por copa en todos los casos",
+              "Enlaces de mapas genéricos/posiblemente inexactos",
+              "No incluye tiempos de desplazamiento ni direcciones",
+              "No incorpora palabras clave esperadas ni encuadre foodie/Michelin"
+            ],
+            "strengths": [
+              "Ofrece recomendaciones concretas con nombre, precio y valoración",
+              "Tono cercano y proactivo con un tip útil",
+              "Formato claro y fácil de escanear"
+            ],
+            "suggestions": [
+              "Priorizar locales dentro de 15–20 min de DiverXO (Cuzco/Chamartín/Tetuán) e indicar distancia/tiempo a pie/metro",
+              "Confirmar y destacar fermentación propia de kombucha en casa y disponibilidad por copa el mismo día",
+              "Sustituir enlaces genéricos por URLs precisas y añadir dirección/barrio",
+              "Incluir horario pre-cena y sugerir llamar para verificar rotaciones",
+              "Alinear el tono con la persona foodie (mencionar Michelin/DiverXO, gourmet, autor) sin forzar"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 8,
+          "question": "Sí, y para afinar el preámbulo: cerca de Cuzco, ¿qué izakaya o barra con sakes artesanos por copa y algún katsuobushi/encurtido casero recomiendas, ideal para 45 minutos antes de DiverXO?",
+          "sentAt": "2025-08-08T23:56:21.405Z",
+          "response": "- Sake Bar Han (Cuzco): ⭐️4.6\n• Sakes artesanos por copa; encurtidos caseros\n• €7–12 copa\n• https://goo.gl/maps/sakebarhan\n\n- Izakaya Hanakura (Bernabéu): ⭐️4.4\n• Sakes Junmai/Daiginjo por copa; tsukemono, katsuobushi en toppings\n• €6–11 copa\n• https://goo.gl/maps/hanakura\n\nReserva barra 45 min antes.",
+          "receivedAt": "2025-08-08T23:56:31.343Z",
+          "responseTime": 9938,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 5,
+            "containsExpectedKeywords": false,
+            "responseQuality": "good",
+            "recommendationCount": 2,
+            "errors": [
+              "No usa palabras clave esperadas ni tono foodie/aventurero",
+              "Posible alucinación o falta de verificación de locales y ratings; enlaces acortados genéricos",
+              "No provee direcciones exactas ni distancia/tiempo a DiverXO"
+            ],
+            "strengths": [
+              "Recomendaciones concretas y cercanas a Cuzco",
+              "Menciona sakes por copa, encurtidos y katsuobushi, alineado con la petición",
+              "Información útil de precio por copa y consejo de reservar barra"
+            ],
+            "suggestions": [
+              "Añadir tono gourmet/Michelin y palabras clave esperadas para conectar con el perfil del usuario",
+              "Incluir direcciones completas, distancia/tiempo a pie a DiverXO y horario para asegurar que encaje en 45 minutos",
+              "Evitar URLs acortadas y citar fuentes de ratings; verificar disponibilidad real de katsuobushi/encurtidos caseros",
+              "Sugerir 1–2 alternativas de respaldo y recomendaciones de sakes concretos (Junmai, Ginjo) por copa"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 9,
+          "question": "Entre Sake Bar Han e Izakaya Hanakura para esa previa de 45 minutos, ¿cuál maneja mejor una microdegustación de 3 sakes contrastados (acidez láctica, umami marcado y perfil oxidativo) con un bocado salino para limpiar paladar?",
+          "sentAt": "2025-08-08T23:56:37.634Z",
+          "response": "- Sake Bar Han: mejor para microdegustación guiada. Suelen servir 3 copas contrastadas (ej.: yamahai láctico, junmai umami marcado, koshu/kimoto con notas oxidativas) y acompañarlo con encurtidos/kombu o nori salino para limpiar paladar.\n\n- Hanakura: buena selección, pero menos focalizada en flights. Mejor pedir por copa.\n\nConsejo: pide “flight de 3 sakes contrastados: láctico (yamahai/kimoto), umami (junmai rico) y oxidativo (koshu) + bocado salino de encurtido/katsuobushi”. Reservar barra 45 min antes.",
+          "receivedAt": "2025-08-08T23:56:53.624Z",
+          "responseTime": 15990,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 5,
+            "containsExpectedKeywords": true,
+            "responseQuality": "excellent",
+            "recommendationCount": 2,
+            "errors": [
+              "Uso parcial de las palabras clave esperadas: solo aparece (micro)degustación; faltan gourmet/michelin/chef/fusión/autor/exótico/auténtico.",
+              "Ligera imprecisión técnica: kimoto no implica necesariamente perfil oxidativo; ese matiz aplica mejor a koshu (sake añejo)."
+            ],
+            "strengths": [
+              "Comparación directa entre los dos locales y recomendación clara a favor de Sake Bar Han para microdegustación.",
+              "Instrucciones de pedido prácticas y específicas (flight de 3 sakes con perfiles contrastados y bocado salino).",
+              "Alineación con la restricción de tiempo y formato de barra (menciona reservar y el encuadre de 45 minutos)."
+            ],
+            "suggestions": [
+              "Incluir 1-2 etiquetas concretas por perfil (p. ej., yamahai X para láctico, junmai Y para umami, koshu Z para oxidativo) y un rango de precios.",
+              "Refinar el lenguaje para el perfil: reservar ‘oxidativo’ para koshu y ubicar kimoto/yamahai como láctico/umami.",
+              "Integrar más vocabulario foodie esperado (gourmet, chef, autor, fusión, michelin) sin perder precisión técnica.",
+              "Proveer un plan B en Hanakura (mini-flight a demanda o selección guiada por copa) si la barra de Sake Bar Han está completa."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 10,
+          "question": "Perfecto, cierro la jugada: ¿me preparas un texto breve para Sake Bar Han pidiendo barra 45 min antes de DiverXO y ese flight de 3 sakes contrastados con bocado salino, indicando alergia estricta a frutos secos?",
+          "sentAt": "2025-08-08T23:57:01.781Z",
+          "response": "• Hola, ¿barra para 2, 45 min antes de nuestra cena en DiverXO (hora aproximada XX:XX)?  \n• Queremos un flight de 3 sakes contrastados: láctico (yamahai/kimoto), umami (junmai) y oxidativo (koshu), con bocado salino.  \n• Alergia estricta a frutos secos. ¿Confirmáis?",
+          "receivedAt": "2025-08-08T23:57:10.807Z",
+          "responseTime": 9026,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": true,
+            "relevanceScore": 5,
+            "containsExpectedKeywords": false,
+            "responseQuality": "good",
+            "recommendationCount": 0,
+            "errors": [
+              "assumed_party_size",
+              "anglicism_flight",
+              "bullet_point_format_for_message",
+              "missing_polite_closing_or_greeting",
+              "does_not_include_expected_keywords"
+            ],
+            "strengths": [
+              "addresses_request_directly",
+              "clear_and_concise",
+              "includes_allergy_notice",
+              "specifies_contrasting_sake_styles"
+            ],
+            "suggestions": [
+              "Redactar el texto como un mensaje único y fluido, no en viñetas.",
+              "Evitar asumir el número de comensales; dejarlo en blanco o pedir confirmación.",
+              "Sustituir 'flight' por 'cata' o 'selección de 3 sakes' para un español más natural.",
+              "Añadir saludo, por favor y cierre con nombre y contacto para mayor cortesía.",
+              "Si encaja con el tono foodie, mencionar 'degustación' o 'experiencia gourmet' sin forzar palabras clave."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 11,
+          "question": "De lujo; para rematar, ¿alguna recomendación de postcena cerca para un digestivo con perfil amargo/aromático (amaro, vermú artesano o highball de té ahumado) sin riesgo de frutos secos?",
+          "sentAt": "2025-08-08T23:57:14.077Z",
+          "response": "- Angelita Madrid (Gran Vía): ⭐️4.7\n• Amari y vermut artesanal por copa; pueden evitar frutos secos\n• €8–12\n• https://goo.gl/maps/Angelita\n\n- Salmon Guru (Huertas): ⭐️4.6\n• Highballs aromáticos (pídelo con té ahumado, sin siropes con frutos secos)\n• €12–15\n• https://goo.gl/maps/salmonguru\n\n- La Venencia (Huertas): ⭐️4.6\n• Jereces secos, perfil amargo/oxidativo, sin riesgo de frutos secos\n• €3–5\n• https://goo.gl/maps/lavenencia\n\nTexto para pedir: “Hola, ¿tenéis amaro/vermut artesanal o highball de té ahumado? Alergia estricta a frutos secos; sin siropes ni bitters con nuez, por favor.” ¿Te anoto más gustos para completar tu perfil?",
+          "receivedAt": "2025-08-08T23:57:27.071Z",
+          "responseTime": 12994,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": false,
+            "responseQuality": "good",
+            "recommendationCount": 3,
+            "errors": [
+              "Enlaces de mapas genéricos o potencialmente no funcionales",
+              "No incorpora las palabras clave esperadas (molecular, gourmet, michelin, degustación, chef, fusión, autor, exótico, auténtico)",
+              "No aclara el 'cerca' respecto a una ubicación concreta del usuario",
+              "Incluye una opción (La Venencia) fuera de las categorías exactas pedidas, aunque con perfil afín"
+            ],
+            "strengths": [
+              "Recomendaciones específicas y conocidas en Madrid, con precios orientativos",
+              "Atiende la alergia a frutos secos con un texto útil para comunicar restricciones",
+              "Alineación sólida con el perfil amargo/aromático (amaro, vermut, highball de té ahumado)"
+            ],
+            "suggestions": [
+              "Añade direcciones o enlaces de mapas verificados y, si es posible, horarios de apertura",
+              "Pide el punto de referencia para resolver el 'cerca' y/o segmenta por barrios",
+              "Integra palabras clave afines al perfil foodie (autor, gourmet, michelin) y resalta coctelería de autor",
+              "Amplía con 1–2 alternativas muy alineadas y detalla protocolos sin frutos secos en siropes/bitters"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 12,
+          "question": "Me atrae La Venencia por ese perfil oxidativo: ¿suelen tener horarios amplios postcena y alguna copa concreta de amontillado o palo cortado que recomiendes para cerrar sin azúcar ni frutos secos?",
+          "sentAt": "2025-08-08T23:57:31.347Z",
+          "response": "La Venencia cierra tarde (aprox. 23:30–00:00; confirma hoy). Pide:\n- Amontillado seco (punzante y salino)\n- Palo Cortado (más redondo y umami)\nAmbos sin azúcar añadido ni riesgo de frutos secos. Ideal 1–2 copas, sin hielo. ¿Quieres texto para llamar?",
+          "receivedAt": "2025-08-08T23:57:41.829Z",
+          "responseTime": 10482,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": false,
+            "responseQuality": "good",
+            "recommendationCount": 0,
+            "errors": [
+              "No ofrece recomendaciones concretas de copas (productor/solera) en La Venencia",
+              "Asegura 'sin riesgo de frutos secos' sin advertir sobre posibles alergias",
+              "No incorpora las palabras clave esperadas ni el tono de foodie aventurero",
+              "El horario es aproximado y puede ser inexacto sin fuente"
+            ],
+            "strengths": [
+              "Respuesta en español clara y concisa",
+              "Aborda la duda de horario y sugiere estilos secos adecuados (amontillado y palo cortado)",
+              "Incluye notas sensoriales útiles y consejo de servicio"
+            ],
+            "suggestions": [
+              "Citar copas más concretas habituales en La Venencia (p. ej., amontillado/palo cortado de bota específica o el más viejo de la casa) y matizar que depende de la disponibilidad",
+              "Evitar afirmaciones absolutas sobre alérgenos; aclarar que las notas a frutos secos son aromáticas y recomendar confirmar con el personal",
+              "Ajustar el tono al perfil gourmet/foodie e incorporar palabras clave relevantes; añadir un apunte sobre la experiencia auténtica del bar y confirmar horario con fuente actualizada"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 13,
+          "question": "Sí, por favor: ¿me redactas un texto breve para La Venencia solicitando llegada postcena, preguntando hora límite y confirmando disponibilidad de amontillado o palo cortado secos, sin riesgo de frutos secos?",
+          "sentAt": "2025-08-08T23:57:45.353Z",
+          "response": "• Hola, llegaremos postcena y queremos saber hora límite de cierre esta noche. ¿Tenéis amontillado o palo cortado secos por copa? Alergia estricta a frutos secos: sin riesgo de trazas. ¿Podéis confirmarlo? Gracias.",
+          "receivedAt": "2025-08-08T23:57:55.638Z",
+          "responseTime": 10285,
+          "analysis": {
+            "hasRecommendation": false,
+            "languageCorrect": true,
+            "relevanceScore": 5,
+            "containsExpectedKeywords": false,
+            "responseQuality": "good",
+            "recommendationCount": 0,
+            "errors": [
+              "No incluye palabras clave esperadas para la persona definida.",
+              "Tono algo telegráfico; falta cortesía y calidez.",
+              "Uso de viñeta inicial innecesaria.",
+              "No personaliza el mensaje con el nombre del local.",
+              "Podría especificar hora aproximada de llegada para mayor claridad."
+            ],
+            "strengths": [
+              "Está en español correcto y es claro.",
+              "Cumple la solicitud: llegada postcena, hora límite, disponibilidad de amontillado/palo cortado y verificación de alérgenos.",
+              "Conciso y listo para enviar.",
+              "Solicita confirmación explícita sobre riesgo de trazas."
+            ],
+            "suggestions": [
+              "Eliminar la viñeta inicial y empezar con un saludo que incluya el nombre del local (por ejemplo, 'Buenas noches, La Venencia').",
+              "Añadir hora aproximada de llegada y número de personas para facilitar la respuesta.",
+              "Suavizar el tono con 'por favor' y una despedida breve.",
+              "Para alinear con la persona, añadir una nota discreta de interés (p. ej., 'somos aficionados al jerez'), evitando jerga gourmet innecesaria.",
+              "Precisar la consulta sobre alérgenos indicando si desean evitar tapas con frutos secos y confirmar medidas frente al contacto cruzado."
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 14,
+          "question": "Perfecto, con todo cerrado: ¿ves alguna mesa chef’s counter en Madrid para otro día con menú degustación corto y enfoque de fermentaciones propias (garum, misos, koji) y maridaje no alcohólico elaborado?",
+          "sentAt": "2025-08-08T23:57:58.820Z",
+          "response": "¡Planazo! Chef’s counter en Madrid con fermentaciones y maridaje no alcohólico (confirma alergia a frutos secos):\n\n- Desde 1911: ⭐️ 4.7\n• Barra con pases de garums/curtidos; maridaje 0% muy trabajado\n• 80–120€ p.p.\n• https://goo.gl/maps/1911barra\n\n- OSA (barra): ⭐️ 4.8\n• Koji, misos y encurtidos caseros; opción pairing sin alcohol\n• 95–140€ p.p.\n• https://goo.gl/maps/OSAmadrid\n\n- CEBO (barra/mesa vista cocina): ⭐️ 4.6\n• Técnicas de fermentación puntuales; pairing 0%\n• 90–130€ p.p.\n• https://goo.gl/maps/cebomadrid\n\n¿Te redacto texto para reservar chef’s counter y maridaje sin alcohol?",
+          "receivedAt": "2025-08-08T23:58:18.375Z",
+          "responseTime": 19555,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 4,
+            "containsExpectedKeywords": true,
+            "responseQuality": "good",
+            "recommendationCount": 3,
+            "errors": [
+              "Enlaces de Google Maps parecen inventados o no verificables",
+              "Afirmaciones no verificadas sobre uso de garums/misos/koji y maridaje 0% en cada sitio",
+              "No especifica si hay menú degustación corto ni disponibilidad real en chef’s counter",
+              "No incorpora varias palabras clave esperadas (michelin, degustación, autor, etc.)"
+            ],
+            "strengths": [
+              "Ofrece tres recomendaciones concretas en Madrid alineadas con chef’s counter",
+              "Incluye rangos de precio y mención a maridaje sin alcohol y fermentaciones",
+              "Tono cercano y proactivo, con llamada a la acción para gestionar la reserva"
+            ],
+            "suggestions": [
+              "Verificar datos clave (existencia de barra/chef’s counter, menú degustación corto y pairing sin alcohol) y añadir enlaces oficiales o de reserva fiables",
+              "Incorporar palabras clave relevantes (Michelin, degustación, cocina de autor) y una breve descripción del estilo y de las fermentaciones propias de cada restaurante",
+              "Solicitar fecha, número de comensales y presupuesto para ajustar mejor la disponibilidad y las opciones"
+            ]
+          },
+          "isAIGenerated": true
+        },
+        {
+          "questionNumber": 15,
+          "question": "Sí, por favor: entre OSA y Desde 1911, ¿cuál tiene un maridaje 0% más técnico (kombuchas, kefires, hidromiel sin alcohol, kvass) y algún pase con garum o miso propio en barra?",
+          "sentAt": "2025-08-08T23:58:22.989Z",
+          "response": "- OSA: más técnico en 0% (kombuchas, kefires, destilados sin alcohol, a veces kvass); suelen usar koji/misos y algún garum propio en barra. Requiere avisar alergias.  \n- Desde 1911: 0% elegante pero menos “ferment freak”; garums/curtidos puntuales. ¿Te preparo texto de reserva para OSA?",
+          "receivedAt": "2025-08-08T23:58:35.280Z",
+          "responseTime": 12291,
+          "analysis": {
+            "hasRecommendation": true,
+            "languageCorrect": true,
+            "relevanceScore": 5,
+            "containsExpectedKeywords": false,
+            "responseQuality": "good",
+            "recommendationCount": 1,
+            "errors": [
+              "No incluye palabras clave esperadas (molecular, gourmet, michelin, degustación, chef, fusión, autor, exótico, auténtico).",
+              "No menciona explícitamente la hidromiel sin alcohol solicitada.",
+              "Tono algo coloquial con anglicismo (“ferment freak”) que puede restar precisión."
+            ],
+            "strengths": [
+              "Comparación directa y clara entre OSA y Desde 1911.",
+              "Responde específicamente sobre maridaje 0% y presencia de garum/miso en barra, ofreciendo una recomendación práctica (OSA)."
+            ],
+            "suggestions": [
+              "Incorporar palabras clave del perfil foodie (molecular, gourmet, michelin, degustación, chef de autor) para ajustar el tono.",
+              "Mencionar explícitamente la hidromiel sin alcohol y aportar 1-2 ejemplos concretos de pases/fermentos para sustentar la recomendación."
+            ]
+          },
+          "isAIGenerated": true
+        }
+      ],
+      "summary": {},
+      "conversationType": "AI_GENERATED",
+      "endTime": "2025-08-08T23:58:35.280Z",
+      "duration": 277300
+    }
+  ],
+  "analysisResults": {
+    "health_conscious": {
+      "overallScore": 4.266666666666667,
+      "responseRate": 100,
+      "recommendationRate": 66.66666666666666,
+      "languageConsistency": 100,
+      "keywordRelevance": 66.66666666666666,
+      "averageRelevance": 4.266666666666667,
+      "qualityDistribution": {
+        "excellent": 0,
+        "good": 15,
+        "fair": 0,
+        "poor": 0,
+        "no_response": 0,
+        "analysis_error": 0
+      },
+      "totalQuestions": 15,
+      "totalResponses": 15,
+      "totalRecommendations": 10
+    },
+    "budget_conscious": {
+      "overallScore": 4,
+      "responseRate": 100,
+      "recommendationRate": 86.66666666666667,
+      "languageConsistency": 100,
+      "keywordRelevance": 60,
+      "averageRelevance": 4,
+      "qualityDistribution": {
+        "excellent": 0,
+        "good": 13,
+        "fair": 2,
+        "poor": 0,
+        "no_response": 0,
+        "analysis_error": 0
+      },
+      "totalQuestions": 15,
+      "totalResponses": 15,
+      "totalRecommendations": 13
+    },
+    "family_kids": {
+      "overallScore": 3.7333333333333334,
+      "responseRate": 100,
+      "recommendationRate": 40,
+      "languageConsistency": 100,
+      "keywordRelevance": 80,
+      "averageRelevance": 3.7333333333333334,
+      "qualityDistribution": {
+        "excellent": 0,
+        "good": 10,
+        "fair": 4,
+        "poor": 1,
+        "no_response": 0,
+        "analysis_error": 0
+      },
+      "totalQuestions": 15,
+      "totalResponses": 15,
+      "totalRecommendations": 6
+    },
+    "international_tourist": {
+      "overallScore": 4.533333333333333,
+      "responseRate": 100,
+      "recommendationRate": 60,
+      "languageConsistency": 66.66666666666666,
+      "keywordRelevance": 100,
+      "averageRelevance": 4.533333333333333,
+      "qualityDistribution": {
+        "excellent": 4,
+        "good": 9,
+        "fair": 2,
+        "poor": 0,
+        "no_response": 0,
+        "analysis_error": 0
+      },
+      "totalQuestions": 15,
+      "totalResponses": 15,
+      "totalRecommendations": 9
+    },
+    "foodie_adventurous": {
+      "overallScore": 4.333333333333333,
+      "responseRate": 100,
+      "recommendationRate": 60,
+      "languageConsistency": 100,
+      "keywordRelevance": 20,
+      "averageRelevance": 4.333333333333333,
+      "qualityDistribution": {
+        "excellent": 1,
+        "good": 11,
+        "fair": 3,
+        "poor": 0,
+        "no_response": 0,
+        "analysis_error": 0
+      },
+      "totalQuestions": 15,
+      "totalResponses": 15,
+      "totalRecommendations": 9
+    }
+  },
+  "finalReport": "MENSAJE FINAL - REPORTE DE PRUEBA RECO BOT\n\n📈 MÉTRICAS GENERALES:\n- Total de preguntas: 75\n- Respuestas recibidas: 75/75\n- Tiempo promedio de respuesta: 11.42 segundos\n- Tasa de éxito: 100.0%\n\n🎯 PRECISIÓN DE RECOMENDACIONES (por persona):\n1. María Fitness: 4.3/5 ⭐⭐⭐⭐☆\n   📍 Respuestas: 100.0% | Recomendaciones: 66.7% | Idioma: 100.0%\n2. Carlos Estudiante: 4.0/5 ⭐⭐⭐⭐☆\n   📍 Respuestas: 100.0% | Recomendaciones: 86.7% | Idioma: 100.0%\n3. Ana Familia: 3.7/5 ⭐⭐⭐⭐☆\n   📍 Respuestas: 100.0% | Recomendaciones: 40.0% | Idioma: 100.0%\n4. James British: 4.5/5 ⭐⭐⭐⭐⭐\n   📍 Respuestas: 100.0% | Recomendaciones: 60.0% | Idioma: 66.7%\n5. Diego Gourmet: 4.3/5 ⭐⭐⭐⭐☆\n   📍 Respuestas: 100.0% | Recomendaciones: 60.0% | Idioma: 100.0%\n\n🗣️ CALIDAD DE LENGUAJE:\n- Consistencia en español: 100.0%\n- Consistencia en inglés: 66.7%\n- Errores gramaticales detectados: 0\n- Tono apropiado: ✓ Apropiado\n\n⚠️ MANEJO DE CASOS LÍMITE:\n- Preguntas ambiguas: 0/0 manejadas correctamente\n- Solicitudes especiales: 10/15 atendidas\n- Errores recuperados: 0\n\n🔄 FLUJO DE EXPERIENCIA:\n- Claridad en respuestas: 4.2/5\n- Facilidad de uso: 4/5\n- Información completa: 3/5\n- Sugerencias adicionales: 5/5\n\n💡 RECOMENDACIONES:\n• Incluir más recomendaciones específicas en las respuestas\n• Optimizar el tiempo de respuesta para mejor experiencia\n\n📊 RESUMEN EJECUTIVO:\n\nEl bot RECO obtuvo una calificación general de A (4.2/5.0).\nNivel de rendimiento: MUY BUENO\nTasa de éxito: 100.0% de respuestas recibidas\n47 recomendaciones específicas proporcionadas\nTiempo promedio de respuesta: 11.4 segundos\n\nRendimiento excelente. El bot maneja bien la mayoría de consultas.",
+  "summary": {
+    "averageScore": 4.173333333333333,
+    "averageResponseRate": 100,
+    "personasAnalyzed": 5,
+    "overallGrade": "B+"
+  }
+}

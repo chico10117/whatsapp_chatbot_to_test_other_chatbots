@@ -1,0 +1,163 @@
+{
+  "personaId": "international_tourist",
+  "personaName": "James British",
+  "language": "en",
+  "description": "British tourist visiting Spain for the first time",
+  "startTime": "2025-08-08T23:50:18.963Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hi RECO, I’ve just arrived in Madrid—where would you recommend for authentic tapas with an English-friendly menu to ease me in?",
+      "sentAt": "2025-08-08T23:50:21.029Z",
+      "response": "Great to have you in Madrid! For authentic tapas with English-friendly menus:\n\n- Casa Labra (Sol): ⭐️ 4.2\n• Historic cod tapas; English menu available\n• €10–20 p.p.\n• https://goo.gl/maps/casalabra\n\n- Bodega de la Ardosa (Malasaña): ⭐️ 4.5\n• Classic tortillas, vermouth; staff helps in English\n• €12–20 p.p.\n• https://goo.gl/maps/ardosa\n\n- El Sur (Huertas): ⭐️ 4.5\n• Cozy, great croquetas/tortilla; English menu\n• €12–20 p.p.\n• https://goo.gl/maps/elsurhuertas\n\n- Taberna El Sur de Huertas: ⭐️ 4.5\n• Tapas/paella portions, friendly in English\n• €12–20 p.p.\n• https://goo.gl/maps/surdehuertas\n\n- Taberna La Dolores (Huertas): ⭐️ 4.4\n• Cold cuts, gildas; staff used to tourists\n• €10–18 p.p.\n• https://goo.gl/maps/ladolores\n\nWant terrace seating or nut-free recs for kids?",
+      "receivedAt": "2025-08-08T23:50:38.477Z",
+      "responseTime": 17448,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Thanks! Between Casa Labra and Ardosa, which feels less touristy in the early evening, and do I need to queue or book?",
+      "sentAt": "2025-08-08T23:50:40.787Z",
+      "response": "- Bodega de la Ardosa feels less touristy around 18:00–19:30. No bookings; small, so expect a short queue—arrive early and stand at the bar.\n- Casa Labra is busier/touristy near 18:00+. No bookings; quick-moving line. Go by 17:30–18:00 to snag space.",
+      "receivedAt": "2025-08-08T23:50:50.713Z",
+      "responseTime": 9926,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "Brilliant—what should I definitely order at Ardosa for a first-timer, and is there a nearby spot for a sweet treat after?",
+      "sentAt": "2025-08-08T23:50:53.626Z",
+      "response": "- At Ardosa (first-timer musts):\n• Tortilla de patatas (juicy slice)\n• Salmorejo (cold tomato–bread cream)\n• Boquerones en vinagre + vermouth\n• Croquetas del día\n• Gilda (olive–anchovy–pepper skewer)\n\n- Sweet nearby:\n• La Mejor Tarta de Chocolate del Mundo (Gran Vía) • rich, not too sweet\n• San Ginés (churros con chocolate) • classic, open late\n• Moulin Chocolat (Salamanca) • macarons/pastries\n\nWant nut-free picks for kids?",
+      "receivedAt": "2025-08-08T23:51:05.568Z",
+      "responseTime": 11942,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "That sounds perfect—roughly what wait times should I expect at Ardosa around 6:30 pm, and is San Ginés walkable from there?",
+      "sentAt": "2025-08-08T23:51:08.996Z",
+      "response": "- Ardosa at 6:30 pm: expect a 10–20 min wait; it’s small and fills fast. Arrive 6:00–6:15 pm to grab a spot at the bar.\n- San Ginés from Ardosa: yes, walkable. About 15–18 minutes (1.2 km) toward Sol/Opera. Great post-tapas stop.",
+      "receivedAt": "2025-08-08T23:51:18.388Z",
+      "responseTime": 9392,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "Grand—could you suggest a good paella spot for tomorrow lunch that’s authentic but still comfortable for an English speaker, and should I reserve?",
+      "sentAt": "2025-08-08T23:51:21.322Z",
+      "response": "Absolutely! For a solid, authentic paella lunch with English-friendly service (reserve for tomorrow, 1–2 pm best):\n\n- La Barraca (Gran Vía): ⭐️ 4.4\n• Classic Valencian/seafood paellas; English menu; old-school icon\n• €25–35 p.p.\n• https://goo.gl/maps/labarraca\n\n- St. James (Castellana/Retiro): ⭐️ 4.5\n• “Arrocería” specialists; wide rice menu; staff speaks English\n• €25–40 p.p.\n• https://goo.gl/maps/stjamesarroces\n\n- Casa de Valencia (Nuevos Ministerios): ⭐️ 4.3\n• Traditional Valencian rice house; English-friendly\n• €22–35 p.p.\n• https://goo.gl/maps/casadevalencia\n\n- El Caldero (Huertas): ⭐️ 4.4\n• Murcia-style rice in cauldron; cozy, English menus\n• €20–30 p.p.\n• https://goo.gl/maps/elcaldero\n\n- Arrocería D’Valencia (Centro): ⭐️ 4.3\n• Paellas/black rice; helpful staff in English\n• €20–30 p.p.\n• https://goo.gl/maps/arroceriadvalencia\n\nTips:\n• Reserve and preselect rice (min 2 portions). \n• Aim for “paella valenciana,” “arroz del senyoret,” or “arroz negro.” \n• Rice takes 25–40 min—order starters while you wait.",
+      "receivedAt": "2025-08-08T23:51:37.663Z",
+      "responseTime": 16341,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "Thanks—between La Barraca and St. James, which has the better socarrat and a quieter vibe at 1:30 pm, and any starter you’d recommend while the rice cooks?",
+      "sentAt": "2025-08-08T23:51:41.346Z",
+      "response": "- Better socarrat: St. James; more consistent and a bit quieter at 13:30 (reserve).  \n- La Barraca: classic, slightly busier.  \nStarters while rice cooks:  \n- Clams a la marinera  \n- Grilled octopus or cuttlefish  \n- Ensaladilla rusa (shareable)",
+      "receivedAt": "2025-08-08T23:51:53.423Z",
+      "responseTime": 12077,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "Brilliant—at St. James, which rice would you pick for two first-timers: paella valenciana, arroz del senyoret, or arroz negro?",
+      "sentAt": "2025-08-08T23:51:56.308Z",
+      "response": "For two first‑timers at St. James: pick arroz del senyoret. It’s peeled seafood (easy to eat), great flavor, and reliable socarrat. If you like bolder, squid‑ink arroz negro is superb. Valencian is classic but less seafood-forward. Reserve and pre‑order.",
+      "receivedAt": "2025-08-08T23:52:06.638Z",
+      "responseTime": 10330,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "Cheers—what time should I book St. James for the best vibe, and could you suggest a nearby spot for a pre-lunch vermouth?",
+      "sentAt": "2025-08-08T23:52:09.862Z",
+      "response": "- Book St. James for 13:15–13:30: lively but not loud, best chance for perfect socarrat. Ask to sit in a quieter corner.\n\nPre‑lunch vermouth nearby:\n- La Ardosa (Colón/Recoletos): ⭐️ 4.5\n• Classic vermouth on tap, small bite\n• https://goo.gl/maps/ardosa\n\n- Casa González (Huertas): ⭐️ 4.6\n• Vermouth + cheeses/anchovies\n• https://goo.gl/maps/casagonzalez\n\nWant a closer pick right by St. James (Castellana/Retiro)?",
+      "receivedAt": "2025-08-08T23:52:19.211Z",
+      "responseTime": 9349,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "Yes please—what’s a good vermouth bar within a 5–10 minute walk of the St. James in Castellana/Retiro, and any specific tapa to pair with it?",
+      "sentAt": "2025-08-08T23:52:22.329Z",
+      "response": "- Taberna La Elisa (Recoletos, 6–8 min)\n• Vermut de grifo\n• Pide gilda o boquerones en vinagre\n\n- La Taberna de El Pintxo (Serrano, 7–9 min)\n• Vermut y pintxos\n• Pide pintxo de tortilla o anchoa+piparra\n\nReserva St. James 13:15–13:30 para socarrat top.",
+      "receivedAt": "2025-08-08T23:52:32.555Z",
+      "responseTime": 10226,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "Lovely—at Taberna La Elisa, roughly what does a vermut and a couple of gildas cost, and do they open early enough for a 12:30 stop?",
+      "sentAt": "2025-08-08T23:52:37.763Z",
+      "response": "Approx prices:\n- Vermut on tap: €3–4\n- Gildas: €2–3 each\n\nOpening: usually from 12:00–12:30 on weekends and around 12:00 on weekdays. Perfect for a 12:30 stop. Want me to suggest a quick second option nearby just in case?",
+      "receivedAt": "2025-08-08T23:52:48.926Z",
+      "responseTime": 11163,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "Yes, please—what’s a reliable nearby backup within 5–10 minutes that also pours vermut de grifo and has English-friendly staff?",
+      "sentAt": "2025-08-08T23:52:56.490Z",
+      "response": "- La Dolores (Recoletos) – 6–8 min\n• Classic vermut de grifo, staff used to English\n• Order: vermut + boquerones en vinagre or a gilda\n• €3–4 vermut; €2–3 per tapa\n• https://goo.gl/maps/ladolores\n\nWant a quick text to call and confirm opening at 12:00–12:30?",
+      "receivedAt": "2025-08-08T23:53:07.338Z",
+      "responseTime": 10848,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "Yes, please—could you draft a quick Spanish phrase I can use to call La Dolores and confirm they’re open at 12:00–12:30 and have vermut de grifo?",
+      "sentAt": "2025-08-08T23:53:10.654Z",
+      "response": "• Hola, ¿abrís hoy entre las 12:00 y 12:30?  \n• ¿Tenéis vermut de grifo disponible a esa hora?  \n• Gracias, sería para tomar un vermut y alguna gilda.",
+      "receivedAt": "2025-08-08T23:53:17.835Z",
+      "responseTime": 7181,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "Perfect—could you also give me a quick Spanish line to reserve at St. James for 13:15 for two and pre-order arroz del senyoret?",
+      "sentAt": "2025-08-08T23:53:21.111Z",
+      "response": "• Hola, ¿podrían reservar para dos mañana a las 13:15?  \n• Nos gustaría preordenar un arroz del senyoret para 2 raciones.  \n• ¿Lo pueden tener listo para esa hora? Muchas gracias.",
+      "receivedAt": "2025-08-08T23:53:29.352Z",
+      "responseTime": 8241,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "Brilliant—any chance St. James can do half-and-half rice (senyoret and negro) for two, or is it strictly one paella per table?",
+      "sentAt": "2025-08-08T23:53:32.467Z",
+      "response": "- St. James suele ser “un arroz por mesa” (mín. 2 raciones iguales).  \n- A veces aceptan media y media solo en paellera grande (≥4 raciones).  \n- Mi consejo: pregunta al reservar y, si no, comparte senyoret y vuelve por el negro otro día. ¿Te paso texto corto?",
+      "receivedAt": "2025-08-08T23:53:42.758Z",
+      "responseTime": 10291,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "Yes please—could you give me a short Spanish line to ask if they’ll allow half-and-half for two, and if not, we’ll stick to senyoret?",
+      "sentAt": "2025-08-08T23:53:45.913Z",
+      "response": "• Hola, ¿permitís hacer medio y medio (arroz del senyoret y arroz negro) para 2 raciones?  \n• Si no es posible, seguimos con 2 raciones de arroz del senyoret. ¿Podéis confirmarlo? Gracias.",
+      "receivedAt": "2025-08-08T23:53:52.975Z",
+      "responseTime": 7062,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T23:53:52.976Z",
+  "duration": 214013
+}

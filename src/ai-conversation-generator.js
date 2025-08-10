@@ -30,7 +30,7 @@ export default class AIConversationGenerator {
         
         // Add reasoning controls when explicitly enabled and supported
         if (!this.isCloudflareGateway && (process.env.ENABLE_REASONING || 'false') === 'true') {
-          responsesPayload.reasoning = { effort: 'medium' };
+          responsesPayload.reasoning = { effort: 'minimal' };
         }
         
         const response = await this.openai.responses.create(responsesPayload);

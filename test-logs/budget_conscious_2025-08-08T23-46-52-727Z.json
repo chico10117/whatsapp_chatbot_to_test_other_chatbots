@@ -1,0 +1,163 @@
+{
+  "personaId": "budget_conscious",
+  "personaName": "Carlos Estudiante",
+  "language": "es",
+  "description": "Estudiante universitario con presupuesto limitado",
+  "startTime": "2025-08-08T23:43:32.525Z",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Hola RECO, ¿dónde puedo comer hoy un menú del día barato (máx 10-12€) cerca del centro y si hay descuento de estudiante?",
+      "sentAt": "2025-08-08T23:43:34.344Z",
+      "response": "¡Vamos a por chollo de menú!\n\n- Bar La Ideal (Sol): ⭐️4.2\n• Menú 9–10€; a veces bebida incluida\n• 13:00–16:00\n• Tel: +34 915 22 84 64\n\n- Casa Labra (Sol): ⭐️4.2\n• Plato del día 8–12€\n• 13:00–15:30\n• Tel: +34 915 31 00 81\n\nPregunta hoy por “descuento estudiante”. ¿Zona exacta?",
+      "receivedAt": "2025-08-08T23:43:46.144Z",
+      "responseTime": 11800,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Estoy por Sol/Callao. ¿Cuál de esos hoy incluye bebida y acepta descuento de estudiante, y a qué hora conviene llegar para pillar sitio?",
+      "sentAt": "2025-08-08T23:43:48.081Z",
+      "response": "- Bar La Ideal (Sol)\n• Suele incluir bebida en menú 9–10€; descuento estudiante ocasional\n• Mejor llegar 13:00–13:30\n\n- Casa Labra (Sol)\n• Plato del día 8–12€; bebida a veces incluida; descuento no fijo\n• Llega antes de 13:15\n\nTe paso texto para llamar y confirmar si quieres.",
+      "receivedAt": "2025-08-08T23:43:57.546Z",
+      "responseTime": 9465,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 3,
+      "question": "Pásame el texto para llamar, porfa. ¿Alguna alternativa por Callao con menú 8–10€ y bebida incluida fijo?",
+      "sentAt": "2025-08-08T23:44:00.206Z",
+      "response": "• Texto para llamar:\n“Hola, ¿hoy el menú (8–12€) incluye bebida? ¿Hacéis descuento de estudiante al mediodía? ¿Horario y si hay que llegar antes para sitio? Gracias.”\n\n• Alternativa en Callao:\n- Cafetería Nebraska (Callao): ⭐️4.1\n• Menú 9–10€ con bebida (suele ser fijo)\n• https://goo.gl/maps/nebraskacallao",
+      "receivedAt": "2025-08-08T23:44:10.037Z",
+      "responseTime": 9831,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 4,
+      "question": "¿Nebraska tiene algún combo 2x1 o descuento de estudiante al mediodía, y a qué hora hay menos cola?",
+      "sentAt": "2025-08-08T23:44:12.759Z",
+      "response": "- Nebraska (Callao)\n• Promos: 2x1 puntuales; descuento estudiante no fijo (pregunta hoy).\n• Menos cola: 13:00–13:20 o después de 15:30.\n¿Te paso texto corto para preguntar por 2x1/estudiante y mesa rápida?",
+      "receivedAt": "2025-08-08T23:44:21.261Z",
+      "responseTime": 8502,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 5,
+      "question": "Sí, pásame el texto corto, porfa. ¿Y alguna otra opción cerca con menú 9–10€ y bebida segura?",
+      "sentAt": "2025-08-08T23:44:24.412Z",
+      "response": "• Texto para Nebraska:\n“Hola, ¿hoy tenéis 2x1 al mediodía o descuento estudiante? ¿El menú (9–10€) incluye bebida? ¿A qué hora hay menos cola? Gracias.”\n\nAlternativas con bebida incluida (confírmalo hoy):\n- Bar La Ideal (Sol): ⭐️4.2 • 9–10€ • 13:00–16:00 • +34 915 22 84 64\n- Cafetería Miau (Las Letras): ⭐️4.1 • 9–10€ • 13:00–16:00 • +34 914 29 67 03",
+      "receivedAt": "2025-08-08T23:44:34.607Z",
+      "responseTime": 10195,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 6,
+      "question": "¿Entre La Ideal y Miau, cuál suele dar ración más generosa por 9–10€ y confirmas si hoy incluyen bebida y algún descuento estudiante?",
+      "sentAt": "2025-08-08T23:44:37.786Z",
+      "response": "- La Ideal: raciones más generosas por 9–10€. Suele incluir bebida algunos días.\n- Miau: porción correcta; bebida a veces incluida.\n\nNo puedo confirmarlo en tiempo real. Texto para llamar:\n“¿Hoy menú 9–10€ incluye bebida? ¿Descuento estudiante al mediodía?”",
+      "receivedAt": "2025-08-08T23:44:47.556Z",
+      "responseTime": 9770,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 7,
+      "question": "Genial, entonces voy a La Ideal: ¿algún truco de qué pedir del primero/segundo para llenar más por 9–10€ y llegar sobre 13:00 vale?",
+      "sentAt": "2025-08-08T23:44:50.592Z",
+      "response": "- Llega 13:00 para sitio y menú completo.\n- Elige legumbre o paella de primero (sacia mucho).\n- De segundo, pollo a la plancha o estofado con patatas/arroces.\n- Pide pan y cambia postre por café si prefieres.\n- Pregunta si la bebida está incluida hoy.",
+      "receivedAt": "2025-08-08T23:45:00.700Z",
+      "responseTime": 10108,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 8,
+      "question": "¿Y si La Ideal está a tope, cuál es tu plan B más cerca de Sol/Callao con menú 9–10€ y bebida incluida hoy?",
+      "sentAt": "2025-08-08T23:45:03.916Z",
+      "response": "- Plan B cerca de Sol/Callao:\n• Cafetería Nebraska (Callao): ⭐️4.1 • Menú 9–10€ con bebida (suele ser fijo) • https://goo.gl/maps/nebraskacallao\n• Casa Labra (Sol): ⭐️4.2 • Plato del día 8–12€; bebida a veces • https://goo.gl/maps/casalabra\n\n- Texto para confirmar: “¿Hoy menú 9–10€ con bebida incluida?”",
+      "receivedAt": "2025-08-08T23:45:13.830Z",
+      "responseTime": 9914,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 9,
+      "question": "De lujo; entre Nebraska y Casa Labra, ¿cuál suele llenar más por 9–10€ hoy y a qué hora exacta me recomiendas caer para evitar cola?",
+      "sentAt": "2025-08-08T23:45:17.521Z",
+      "response": "- Nebraska: su menú por 9–10€ suele ser más completo y saciante (bebida incluida). Ve 13:00–13:15 para evitar cola.\n- Casa Labra: raciones ricas pero más irregulares a ese precio. Llega antes de 13:15. \n¿Te paso texto para confirmar bebida incluida hoy?",
+      "receivedAt": "2025-08-08T23:45:26.446Z",
+      "responseTime": 8925,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 10,
+      "question": "Sí, pásame el texto y, si falla Nebraska, ¿algún sitio cerca con happy hour o 2x1 en bebidas para acompañar el menú barato?",
+      "sentAt": "2025-08-08T23:45:29.298Z",
+      "response": "- Texto para llamar: “Hola, ¿hoy el menú 9–10€ incluye bebida? ¿Horario exacto y hay cola sobre 13:00–13:15? Gracias.”\n\nPlan C con promos cerca:\n- Museo del Jamón (Gran Vía): caña ≤2€ y tapa básica\n- 100 Montaditos (Gran Vía): Euromanía (mié/jue) cañas ~1–1,5€",
+      "receivedAt": "2025-08-08T23:45:39.498Z",
+      "responseTime": 10200,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 11,
+      "question": "Perfecto, ¿algún buffet libre barato por Gran Vía/Sol (máx 10–12€) donde pueda hincharme y con bebida incluida o refill?",
+      "sentAt": "2025-08-08T23:45:43.891Z",
+      "response": "¡A tope por Gran Vía/Sol! Buffets ≤12€ (confírmalo hoy) con bebida/refill:\n\n- Wok Garden (Callao): ⭐️4.0\n• Buffet asiático; mediodía laborable 9,9–12€; a veces incluye agua/refill\n• 13:00–16:00\n• https://goo.gl/maps/4wokgarden\n\n- Museo del Jamón (Gran Vía) – autoservicio\n• 8–12€; suele incluir agua/caña\n• 12:30–16:00\n• https://goo.gl/maps/museojamon\n\n¿Te paso texto para confirmar bebida y refill antes de ir?",
+      "receivedAt": "2025-08-08T23:45:54.577Z",
+      "responseTime": 10686,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 12,
+      "question": "Sí, pásame el texto, porfa. ¿Entre Wok Garden y Museo del Jamón, cuál llena más por 10–12€ y suele incluir bebida/refill seguro al mediodía?",
+      "sentAt": "2025-08-08T23:45:58.191Z",
+      "response": "• Texto para preguntar:\n“Hola, ¿hoy buffet al mediodía por 10–12€ con bebida o refill incluido? ¿Horario exacto y si aplica en terraza? Gracias.”\n\n• Para saciar más: Wok Garden suele llenar más por variedad caliente; bebida/refill no siempre incluido. Museo del Jamón incluye bebida más a menudo.",
+      "receivedAt": "2025-08-08T23:46:07.306Z",
+      "responseTime": 9115,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 13,
+      "question": "Guay, entonces ¿me recomiendas caer primero al Wok Garden a las 13:00 y si no hay bebida incluida tirar luego al Museo del Jamón, o al revés para maximizar bebida por el precio?",
+      "sentAt": "2025-08-08T23:46:11.405Z",
+      "response": "- Si priorizas bebida incluida: ve primero a Museo del Jamón (12:30–13:15 suele incluir caña/agua).  \n- Si priorizas cantidad/variedad: entra primero en Wok Garden a las 13:00; si hoy no incluyen bebida/refill, cambia a Museo del Jamón.  \n¿Te paso texto para llamar?",
+      "receivedAt": "2025-08-08T23:46:21.221Z",
+      "responseTime": 9816,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 14,
+      "question": "Sí, pásame el texto para llamar, porfa. ¿Algún truco dentro de Wok Garden para llenar más por el mismo precio (platos que cundan, horas con menos cola)?",
+      "sentAt": "2025-08-08T23:46:24.325Z",
+      "response": "• Texto: “Hola, ¿hoy el buffet es 10–12€ con bebida/refill incluido? ¿Horario exacto y si aplica en terraza? ¿Hay mucha cola a las 13:00? Gracias.”\n\nTrucos Wok Garden:\n• Ve 13:00 o 15:00 (menos cola)\n• Prioriza plancha: pollo/tofu+verduras+arroz\n• Evita fritos/panes\n• Pide agua del grifo si no hay bebida incluida",
+      "receivedAt": "2025-08-08T23:46:34.593Z",
+      "responseTime": 10268,
+      "analysis": {},
+      "isAIGenerated": true
+    },
+    {
+      "questionNumber": 15,
+      "question": "Perfecto, última: ¿algún sitio por Sol/Callao con tapas baratas tipo 1–2€ la caña con tapa o combo caña+pincho por ≤3€ hoy?",
+      "sentAt": "2025-08-08T23:46:37.469Z",
+      "response": "¡Plan low-cost por Sol/Callao hoy!\n\n- Museo del Jamón (Gran Vía): ⭐️4.1\n• Caña 1,5–2€ con tapa básica\n• https://goo.gl/maps/museojamon\n\n- El Tigre Montera: ⭐️4.0\n• Caña ~2–2,5€ con tapón generoso; combos ≤3€ a veces\n• https://goo.gl/maps/eltigremontera\n\n- La Ideal (Sol): ⭐️4.2\n• Caña ~2€ con tapa simple\n• +34 915 22 84 64\n\nTexto para confirmar: “¿Hoy caña 1–2€ con tapa o combo caña+pincho ≤3€? ¿Horario y si aplica en terraza?” ¿Te anoto gustos para afinar tu perfil?",
+      "receivedAt": "2025-08-08T23:46:52.727Z",
+      "responseTime": 15258,
+      "analysis": {},
+      "isAIGenerated": true
+    }
+  ],
+  "summary": {},
+  "conversationType": "AI_GENERATED",
+  "endTime": "2025-08-08T23:46:52.727Z",
+  "duration": 200202
+}
