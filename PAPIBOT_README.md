@@ -94,65 +94,72 @@ RESTART_DELAY=30000
 LOG_LEVEL=info
 ```
 
-### 3. Get WhatsApp Group ID
+### 3. Get WhatsApp Group ID (AUTO-CAPTURE STRATEGY)
 
-**Method 1: Browser Developer Tools (Recommended)**
+**🚀 RECOMMENDED: Automatic Capture (Zero Manual Work!)**
 
-1. Open WhatsApp Web (`web.whatsapp.com`)
-2. Select "COMERCIANTE VERIFICADO P2P🇨🇷" group
-3. Press `F12` → Console tab
-4. Paste and run this script:
+Papibot will automatically capture the GROUP_ID from the first P2P message it receives:
 
-```javascript
-(function() {
-    const groupName = "COMERCIANTE VERIFICADO P2P🇨🇷";
-    const allChats = window.Store.Chat.models;
-    const targetGroup = allChats.find(chat => 
-        chat.isGroup && chat.name.includes(groupName)
-    );
-    
-    if (targetGroup) {
-        console.log("Group ID:", targetGroup.id._serialized);
-        navigator.clipboard.writeText(targetGroup.id._serialized);
-        alert("Group ID copied: " + targetGroup.id._serialized);
-    } else {
-        console.log("Group not found");
-    }
-})();
+```bash
+# Option A: Dedicated auto-capture (safest)
+npm run capture-group
+
+# Option B: Direct run with auto-capture
+npm run papibot
 ```
 
-5. Copy the Group ID to your `.env` file
+**How Auto-Capture Works:**
+1. ✅ Connect to WhatsApp (scan QR once)
+2. ✅ Listen for messages from ANY group
+3. ✅ Identify P2P group by name/content patterns
+4. ✅ Auto-capture GROUP_ID from `message.key.remoteJid`
+5. ✅ Save to `.env` file automatically
+6. ✅ Start monitoring immediately
+
+**What triggers auto-capture:**
+- Group name contains: "COMERCIANTE", "P2P", "🇨🇷"
+- Message content matches crypto patterns: "vendo USDT", "liquido BTC", etc.
+
+**💡 Manual Fallback (if needed):**
+If auto-capture doesn't work, use browser method in `npm run modern-extract`
 
 ### 4. Run Papibot
 
+**🚀 ULTRA-SIMPLE START:**
+
 ```bash
-# Start Papibot
+# All-in-one: Auto-capture + Start monitoring
 npm run papibot
+```
 
-# Development mode with verbose logging
-npm run papibot-dev
+**When starting for the first time:**
+1. 📱 Scan QR code with your WhatsApp
+2. ✅ Wait for "Connected to WhatsApp successfully"
+3. 💡 Send ANY message in the P2P group (or wait for someone else to)
+4. 🎯 Papibot auto-captures GROUP_ID and starts monitoring
+5. 💰 Ready to respond to sell offers!
 
-# Test the system first
+**🧪 Test first (optional):**
+```bash
 npm test
 ```
 
-### 5. Authentication
-
-When starting for the first time:
-
-1. Scan the QR code with your WhatsApp
-2. Wait for "✅ Connected to WhatsApp successfully"
-3. Monitor the console for activity
+**🔧 Development mode:**
+```bash
+npm run papibot-dev
+```
 
 ## 📊 Commands
 
 | Command | Description |
 |---------|-------------|
-| `npm run papibot` | Start Papibot production mode |
-| `npm run papibot-dev` | Start with development logging |
+| `npm run papibot` | Start Papibot with auto-capture |
+| `npm run capture-group` | Dedicated GROUP_ID auto-capture only |
+| `npm run papibot-dev` | Development mode with verbose logging |
 | `npm test` | Run unit tests |
 | `npm run test:coverage` | Run tests with coverage report |
 | `npm run clear-papibot-session` | Clear WhatsApp session data |
+| `npm run modern-extract` | Manual GROUP_ID extraction guide |
 
 ## 🔍 Detection Examples
 

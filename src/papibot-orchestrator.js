@@ -34,17 +34,17 @@ class PapibotOrchestrator {
    * Validates required configuration
    */
   validateConfiguration() {
-    const required = ['GROUP_ID'];
-    const missing = required.filter(key => !process.env[key]);
+    // GROUP_ID is now optional - will be auto-captured if not provided
     
-    if (missing.length > 0) {
-      throw new Error(`Missing required environment variables: ${missing.join(', ')}`);
-    }
-
     console.log('✅ Configuration validated');
-    console.log(`🎯 Target Group: ${this.config.groupId}`);
+    console.log(`🎯 Target Group: ${this.config.groupId || 'Will auto-capture from P2P messages'}`);
     console.log(`📁 Auth State: ${this.config.authState}`);
     console.log(`🔄 Auto Restart: ${this.config.autoRestart ? 'Enabled' : 'Disabled'}`);
+    
+    if (!this.config.groupId) {
+      console.log('📡 Auto-Capture Mode: Enabled');
+      console.log('💡 GROUP_ID will be captured from first P2P message received');
+    }
   }
 
   /**

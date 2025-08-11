@@ -68,6 +68,26 @@ const AMOUNT_RESPONSES = [
   'Mae, {amount} suena bien para papibot'
 ];
 
+// Costa Rican colones-specific responses
+const COLONES_RESPONSES = [
+  'Mae, esos colones los compro',
+  'Papibot agarra esos colones al toque',
+  '¡Diay! Los colones para papibot',
+  'Aquí papibot comprando colones',
+  'Mae, ¿a cuánto los colones? Papibot interesado',
+  'Tuanis, papibot compra esos colones',
+  'Colones para el papibot, ¡los jalo!'
+];
+
+// USDT rate responses
+const RATE_RESPONSES = [
+  'Mae, ¿a {rate}? Papibot dice que sí',
+  'Papibot acepta a {rate}',
+  '¡Diay! A {rate} los agarro',
+  'Tuanis, {rate} suena bien',
+  'Mae, a {rate} papibot los compra'
+];
+
 /**
  * Rate limiting tracking to avoid spam detection
  */
@@ -119,7 +139,7 @@ export function buildReply(options = {}) {
 
   // Add intensifiers occasionally
   if (addIntensifier && Math.random() > 0.4) {
-    response = addIntensifier(response);
+    response = addIntensifierToResponse(response);
   }
 
   // Track response for rate limiting
@@ -173,6 +193,19 @@ function getTimeBasedResponse() {
  * @returns {string} - Amount-specific response
  */
 function getAmountSpecificResponse(amountData) {
+  // Handle Costa Rican colones specifically
+  if (amountData.type === 'selling_colones_for_usdt') {
+    const template = COLONES_RESPONSES[Math.floor(Math.random() * COLONES_RESPONSES.length)];
+    return template;
+  }
+  
+  // Handle USDT rate responses
+  if (amountData.type === 'usdt_rate_in_colones') {
+    const template = RATE_RESPONSES[Math.floor(Math.random() * RATE_RESPONSES.length)];
+    return template.replace('{rate}', amountData.amount);
+  }
+  
+  // Standard crypto responses
   const template = AMOUNT_RESPONSES[Math.floor(Math.random() * AMOUNT_RESPONSES.length)];
   return template.replace('{amount}', `${amountData.amount} ${amountData.currency}`);
 }
@@ -198,7 +231,7 @@ function addCostaRicanExpression(response) {
  * @param {string} response - Base response
  * @returns {string} - Response with intensifier
  */
-function addIntensifier(response) {
+function addIntensifierToResponse(response) {
   const intensifier = INTENSIFIERS[Math.floor(Math.random() * INTENSIFIERS.length)];
   
   if (intensifier.length === 1) {

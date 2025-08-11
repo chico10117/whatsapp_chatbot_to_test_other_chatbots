@@ -1,9 +1,11 @@
-import makeWASocket, { 
+import baileys, { 
   DisconnectReason, 
   useMultiFileAuthState, 
   fetchLatestBaileysVersion,
   delay
 } from '@whiskeysockets/baileys';
+
+const makeWASocket = baileys.default;
 import pLimit from 'p-limit';
 import qrcode from 'qrcode-terminal';
 import { isSellOffer, analyzeSellOffer, extractAmount } from './sell-offer-detector.js';
@@ -23,9 +25,19 @@ export default class P2PListener {
     this.messageCount = 0;
     this.responseCount = 0;
     this.startTime = Date.now();
+    this.groupIdCaptured = false;
     
     // Rate limiting: maximum 1 send operation at a time
     this.sendLimiter = pLimit(1);
+    
+    // Target group identification
+    this.targetGroupNames = [
+      'COMERCIANTE VERIFICADO P2P🇨🇷',
+      'COMERCIANTE VERIFICADO P2P',
+      'P2P COMERCIANTE VERIFICADO',
+      'COMERCIANTE P2P',
+      'P2P 🇨🇷'
+    ];
     
     // Statistics tracking
     this.stats = {
@@ -43,10 +55,12 @@ export default class P2PListener {
    */
   async startPapibot() {
     console.log('🤖 Initializing Papibot P2P Listener...');
-    console.log(`🎯 Target Group: ${this.groupId || 'Not configured'}`);
+    console.log(`🎯 Target Group: ${this.groupId || 'Will auto-capture'}`);
     
+    // Auto-capture strategy: If no GROUP_ID, we'll capture it from first P2P message
     if (!this.groupId) {
-      throw new Error('GROUP_ID environment variable is required');
+      console.log('📡 GROUP_ID not configured - using auto-capture strategy');
+      console.log('💡 Papibot will identify P2P group from first relevant message');
     }
 
     try {
@@ -55,7 +69,13 @@ export default class P2PListener {
       
       console.log('🚀 Papibot P2P Listener started successfully!');
       console.log('📱 Monitoring for sell offers in Costa Rican pachuco style...');
-      console.log(`💰 Target group: ${this.groupId}`);
+      
+      if (this.groupId) {
+        console.log(`💰 Target group: ${this.groupId}`);
+      } else {
+        console.log('💰 Will auto-detect P2P group from incoming messages');
+        console.log('📝 Send a message in the P2P group to activate auto-capture');
+      }
       
       return this.socket;
     } catch (error) {
@@ -175,11 +195,23 @@ export default class P2PListener {
     // Skip if no message content
     if (!message.message) return;
 
-    // Skip if not from target group
-    if (message.key.remoteJid !== this.groupId) return;
-
     // Skip our own messages
     if (message.key.fromMe) return;
+
+    // Only process group messages
+    if (!message.key.remoteJid.endsWith('@g.us')) return;
+
+    // Auto-capture GROUP_ID if not set
+    if (!this.groupId && !this.groupIdCaptured) {
+      const messageText = this.extractMessageText(message);
+      if (await this.isTargetP2PGroup(message, messageText)) {
+        await this.captureGroupId(message.key.remoteJid);
+        return; // Return after capture, will process normally next time
+      }
+    }
+
+    // Skip if not from target group (after potential auto-capture)
+    if (this.groupId && message.key.remoteJid !== this.groupId) return;
 
     // Extract text content from different message types
     const messageText = this.extractMessageText(message);
@@ -263,7 +295,7 @@ export default class P2PListener {
 
     try {
       // Generate response using papibot responder
-      const response = buildReply({
+      let response = buildReply({
         originalMessage: messageText,
         amountData,
         addIntensifier: analysis.confidence > 0.8 // More excited for high-confidence offers
@@ -371,5 +403,131 @@ export default class P2PListener {
     
     this.isConnected = false;
     console.log('✅ Papibot stopped successfully');
+  }
+
+  /**
+   * Auto-capture GROUP_ID from P2P group message
+   */
+  async isTargetP2PGroup(message, messageText) {
+    try {
+      // Get group metadata to check the group name
+      const groupMetadata = await this.socket.groupMetadata(message.key.remoteJid);
+      const groupName = groupMetadata.subject;
+      
+      console.log(`📱 [Auto-Capture] Checking group: "${groupName}"`);
+      
+      // Check if group name matches any of our target names
+      const nameMatches = this.targetGroupNames.some(targetName => 
+        groupName.includes(targetName) || 
+        groupName.includes('COMERCIANTE') ||
+        groupName.includes('P2P') ||
+        groupName.includes('🇨🇷')
+      );
+
+      if (nameMatches) {
+        console.log(`✅ [Auto-Capture] Group name matches P2P criteria: "${groupName}"`);
+        return true;
+      }
+
+      // Check if the message content looks like P2P crypto content
+      const messageMatches = this.isP2PContent(messageText);
+      
+      if (messageMatches) {
+        console.log(`✅ [Auto-Capture] Message content looks like P2P crypto: "${messageText.substring(0, 50)}..."`);
+        console.log(`📋 [Auto-Capture] In group: "${groupName}"`);
+        return true;
+      }
+
+      return false;
+      
+    } catch (error) {
+      console.log(`⚠️  [Auto-Capture] Could not get group metadata: ${error.message}`);
+      
+      // Fallback: check message content only
+      return this.isP2PContent(messageText);
+    }
+  }
+
+  /**
+   * Check if message content looks like P2P crypto trading
+   */
+  isP2PContent(text) {
+    if (!text) return false;
+
+    const lowerText = text.toLowerCase();
+    
+    // P2P crypto indicators
+    const cryptoTerms = ['usdt', 'btc', 'eth', 'bitcoin', 'tether', 'cripto', 'crypto'];
+    const sellTerms = ['vendo', 'venta', 'liquido', 'oferta', 'dispongo', 'cambio'];
+    const amounts = /\d{1,3}(\.\d{3})*(,\d+)?\s*(usd|usdt|eur|€|\$|₡)/i;
+    
+    const hasCrypto = cryptoTerms.some(term => lowerText.includes(term));
+    const hasSell = sellTerms.some(term => lowerText.includes(term));
+    const hasAmount = amounts.test(text);
+    
+    return (hasCrypto && hasSell) || (hasCrypto && hasAmount);
+  }
+
+  /**
+   * Capture and persist GROUP_ID
+   */
+  async captureGroupId(groupId) {
+    this.groupId = groupId;
+    this.groupIdCaptured = true;
+    
+    console.log('🎉 [Auto-Capture] SUCCESS! GROUP_ID CAPTURED!');
+    console.log('==============================================');
+    console.log(`📝 Group ID: ${groupId}`);
+    console.log('');
+    
+    // Update .env file
+    await this.updateEnvFile(groupId);
+    
+    console.log('✅ [Auto-Capture] GROUP_ID saved to .env file!');
+    console.log('🚀 [Auto-Capture] Papibot now monitoring this group for sell offers');
+    console.log('');
+  }
+
+  /**
+   * Update .env file with captured GROUP_ID
+   */
+  async updateEnvFile(groupId) {
+    try {
+      const fs = await import('fs/promises');
+      
+      // Read current .env file
+      let envContent = '';
+      try {
+        envContent = await fs.readFile('.env', 'utf-8');
+      } catch (error) {
+        // .env doesn't exist, create new content
+        envContent = `# WhatsApp Group Configuration
+# Auto-captured by Papibot
+
+`;
+      }
+
+      // Check if GROUP_ID already exists
+      if (envContent.includes('GROUP_ID=')) {
+        // Replace existing GROUP_ID
+        envContent = envContent.replace(/GROUP_ID=.*$/m, `GROUP_ID=${groupId}`);
+        console.log('📝 [Auto-Capture] Updated existing GROUP_ID in .env file');
+      } else {
+        // Add GROUP_ID
+        envContent += `
+# Auto-captured Papibot P2P Group Configuration
+GROUP_ID=${groupId}
+`;
+        console.log('📝 [Auto-Capture] Added GROUP_ID to .env file');
+      }
+
+      // Write updated .env file
+      await fs.writeFile('.env', envContent);
+      
+    } catch (error) {
+      console.warn('⚠️  [Auto-Capture] Could not update .env file automatically:', error.message);
+      console.log('📝 Please manually add this line to your .env file:');
+      console.log(`GROUP_ID=${groupId}`);
+    }
   }
 }

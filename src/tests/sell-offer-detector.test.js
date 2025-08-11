@@ -65,7 +65,7 @@ describe('Sell Offer Detector', () => {
       });
 
       test('should handle messages with accents', () => {
-        expect(isSellOffer('Vendó 5000 USDT')).toBe(false); // Missing crypto + amount combo
+        expect(isSellOffer('Vendó 5000 USDT')).toBe(true); // Has sell + crypto + amount = valid
         expect(isSellOffer('Vendo 5000 USDT transferéncia')).toBe(true);
       });
 

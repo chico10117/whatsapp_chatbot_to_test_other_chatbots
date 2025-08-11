@@ -130,7 +130,7 @@ describe('Papibot Responder', () => {
       const validResponses = [
         'Aquí papibot, los compro',
         'Mae, papibot interesado',
-        'Papibot presente, ¡los jalo!',
+        'Papibot presente, ¡los compro won!',
         'Diay, papibot los agarro al toque'
       ];
 

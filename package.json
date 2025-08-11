@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "jest",
+    "test": "NODE_OPTIONS=\"--experimental-vm-modules\" jest",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",
     "test:papibot": "jest src/tests/",
@@ -19,7 +19,12 @@
     "clear-papibot-session": "rm -rf papibot_auth_state/",
     "analyze-logs": "node scripts/analyze-logs.js",
     "papibot": "node src/papibot-orchestrator.js",
-    "papibot-dev": "NODE_ENV=development LOG_LEVEL=debug node src/papibot-orchestrator.js"
+    "papibot-dev": "NODE_ENV=development LOG_LEVEL=debug node src/papibot-orchestrator.js",
+    "extract-group-id": "node extract-group-id.js",
+    "get-group-id": "node extract-group-id-web.js",
+    "find-groups": "node enhanced-group-finder.js",
+    "modern-extract": "node modern-group-extractor.js",
+    "capture-group": "node src/auto-group-capture.js"
   },
   "keywords": [
     "whatsapp",
@@ -64,6 +69,9 @@
       "src/**/*.js",
       "!src/tests/**",
       "!src/**/*.test.js"
-    ]
+    ],
+    "moduleNameMapper": {
+      "^(\\.{1,2}/.*)\\.js$": "$1"
+    }
   }
 }
